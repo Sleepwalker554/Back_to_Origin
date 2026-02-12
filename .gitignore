@@ -1,5 +1,7 @@
 data/*
-.pth
-.pt
+*.pth
+*.pt
+*.ckpt
 
+checkpoints/*
 *.wav
