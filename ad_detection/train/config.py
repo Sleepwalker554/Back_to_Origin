@@ -24,10 +24,6 @@ XLSR_DROPOUT = 0.2                  # XLSR Dropout ratio
 EGEMAPS_DROPOUT = 0.3               # eGeMaps Dropout ratio
 RANDOM_SEEDS = [21, 42, 84, 168, 336]
 
-# ====== DANN (Domain Adversarial) parameters ======
-DANN_LAMBDA_CLASS = 1.0             # Classification loss weight
-DANN_LAMBDA_DOMAIN = 0.1            # Domain adversarial loss weight (reduced to prevent over-alignment)
-
 # ====== eGeMAPS features extraction parameters ======
 FEAT_SEQ_LEN = 10      # Number of audio segments when extracting eGeMaps
 
