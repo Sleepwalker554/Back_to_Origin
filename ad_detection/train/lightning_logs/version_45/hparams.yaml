@@ -1,0 +1,5 @@
+config: !!python/object:config.ModelConfig
+  dim_hidden: 12
+  dim_input: 25
+  do_ad: true
+  dropout: 0.2
