@@ -1,7 +1,9 @@
-data/*
+ad_detection/data/*
 *.pth
 *.pt
 *.ckpt
 
 checkpoints/*
 *.wav
+*.csv
+*.mp3
