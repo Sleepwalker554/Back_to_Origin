@@ -5,5 +5,17 @@ ad_detection/data/*
 
 checkpoints/*
 *.wav
-*.csv
 *.mp3
+
+ad_detection/train/lightning_logs/*
+ad_detection/train/checkpoints/*
+ad_detection/train/logs/*
+ad_detection/train/models/*
+ad_detection/train/results/*
+ad_detection/train/wandb/*
+ad_detection/train/wandb/*
+
+ad_detection/models/*
+
+*.onnx
+*.txt
