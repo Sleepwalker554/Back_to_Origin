@@ -3,7 +3,7 @@ ad_detection/data/*
 *.pt
 *.ckpt
 
-checkpoints/*
+**/checkpoints/*
 *.wav
 *.mp3
 
@@ -16,6 +16,8 @@ ad_detection/train/wandb/*
 ad_detection/train/wandb/*
 
 ad_detection/models/*
+**/lightning_logs/*
+**/__pycache__/*
 
 *.onnx
 *.txt
