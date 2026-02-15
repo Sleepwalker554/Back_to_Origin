@@ -2,8 +2,8 @@ import torch
 import torch.nn.functional as F
 from pathlib import Path
 from tqdm import tqdm
-from config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, EGEMAPS_DIM_HIDDEN, XLSR_DROPOUT, EGEMAPS_DROPOUT, EGEMAPS_DIM_INPUT, XLSR_DIM_INPUT
-from model import AD_XLSR_Model, AD_EGE_Model
+from config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, XLSR_DROPOUT, XLSR_DIM_INPUT
+from model import AD_XLSR_Model
 
 def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_weights=None):
     """Train for one epoch"""
@@ -17,7 +17,7 @@ def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_we
     pbar = tqdm(train_loader, desc=desc, leave=False)
     
     for batch_data in pbar:
-        # Handle both formats: with mask (XLSR) and without mask (eGeMAPS)
+        # Handle both formats: with mask (XLSR)
         if len(batch_data) == 3:
             features, labels, masks = batch_data
             features = features.to(device)
@@ -77,7 +77,7 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
 
     with torch.no_grad():
         for batch_data in pbar:
-            # Handle both formats: with mask (XLSR) and without mask (eGeMAPS)
+            # Handle both formats: with mask (XLSR)
             if len(batch_data) == 3:
                 features, labels, masks = batch_data
                 features = features.to(device)
@@ -147,7 +147,7 @@ def train(seed, train_loader, val_loader, output_dir, device, xlsr=True, class_w
         val_loader: Validation data loader
         output_dir: Directory to save models
         device: Device to train on (cpu/cuda/mps)
-        xlsr: Whether using XLSR features (True) or eGeMAPS features (False)
+        xlsr: Whether using XLSR features (True)
         class_weight_control: Weight for Control class (0) in loss function
         class_weight_dementia: Weight for Dementia class (1) in loss function
 
@@ -169,13 +169,8 @@ def train(seed, train_loader, val_loader, output_dir, device, xlsr=True, class_w
     seed_dir = Path(output_dir) / f"seed_{seed}"
     seed_dir.mkdir(parents=True, exist_ok=True)
 
-    # Create model for xlsr or egemaps features
-    if xlsr:
-        model = AD_XLSR_Model(dropout=XLSR_DROPOUT).to(device)
-    else:
-        model = AD_EGE_Model(dim_input=25,
-                             dim_hidden=14,
-                             dropout=0.2).to(device) 
+    # Create model for xlsr
+    model = AD_XLSR_Model(dropout=XLSR_DROPOUT).to(device)
 
     # Create optimizer
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)

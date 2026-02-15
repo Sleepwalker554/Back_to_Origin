@@ -20,7 +20,7 @@ def create_pitt_best_dataset(
     
     参数:
         csv_path: audio_quality_evaluation.csv 文件路径
-        output_dir: 输出目录路径，默认为 ad_detection/data/denoised/Pitt-best
+        output_dir: 输出目录路径，默认为 ad_detection/data/denoised/Pitt-Best
     """
     
     # 读取CSV文件
@@ -28,7 +28,7 @@ def create_pitt_best_dataset(
     
     # 设置默认输出路径
     if output_dir is None:
-        output_dir = "ad_detection/data/denoised/Pitt-best"
+        output_dir = "../ad_detection/data/denoised/Pitt-Best"
     
     # 创建输出目录
     os.makedirs(output_dir, exist_ok=True)
@@ -52,7 +52,7 @@ def create_pitt_best_dataset(
     # 定义数据集映射（使用相对路径，从 Noise_Remove 文件夹）
     dataset_mapping = {
         'raw': '../ad_detection/data/raw/Pitt',
-        'mossformer': '../ad_detection/data/denoised/Pitt-mossformer',
+        'mossformer': '../ad_detection/data/denoised/Pitt-MossFormer',
         'frcrn_se': '../ad_detection/data/denoised/Pitt-FRCRN_SE',
         'demucs': '../ad_detection/data/denoised/Pitt-Demucs'
     }
@@ -143,8 +143,8 @@ def create_pitt_best_dataset(
 
 def main():
     
-    csv_path = "../Evaluate_Sound/audio_quality_evaluation.csv"
-    output_dir = "../ad_detection/data/denoised/Pitt-best"
+    csv_path = "audio_quality_evaluation.csv"
+    output_dir = "../ad_detection/data/denoised/Pitt-Best"
     
     print("Pitt-best Construction")
     print("="*60)

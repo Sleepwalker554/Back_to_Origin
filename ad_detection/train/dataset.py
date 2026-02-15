@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 import torch
 from torch.utils.data import Dataset, DataLoader
-from config import FEAT_SEQ_LEN, PROJECT_ROOT, BATCH_SIZE, NUM_WORKERS, XLSR_MAX_TIME_STEPS, XLSR_DIM_INPUT
+from config import PROJECT_ROOT, BATCH_SIZE, NUM_WORKERS, XLSR_MAX_TIME_STEPS
 
 class FeatureDataset(Dataset):
     """
@@ -16,7 +16,6 @@ class FeatureDataset(Dataset):
         """
         Args:
             csv_path: CSV file path
-            xlsr: True to use XLSR features, False to use eGeMAPS features
         """
         super().__init__()
 
@@ -27,10 +26,6 @@ class FeatureDataset(Dataset):
             self.feature_path_key = 'xlsr_path'
             self.feature_name = 'XLSR'
             # self.expected_shape = (XLSR_SEGMENT_LEN, XLSR_DIM_INPUT)
-        else:
-            self.feature_path_key = 'egemaps_path'
-            self.feature_name = 'eGeMAPS'
-            self.expected_shape = (FEAT_SEQ_LEN, 25)
 
         # Store data
         self.features = []  # features
@@ -107,7 +102,7 @@ class FeatureDataset(Dataset):
             index: sample index
 
         Returns:
-            features: eGeMAPS features (FEAT_SEQ_LEN, 25) or XLSR features (XLSR_SEGMENT_LEN, XLSR_FEATURE_DIM)
+            features: XLSR features (XLSR_SEGMENT_LEN, XLSR_FEATURE_DIM)
             label: 0 (Control) or 1 (Dementia)
         """
         features = self.features[index]
@@ -161,12 +156,12 @@ def create_dataloaders(
         data_csv: Dataset set CSV path
         batch_size: Batch size
         num_workers: Number of worker processes
-        xlsr: True to use XLSR features, False to use eGeMAPS features
+        xlsr: True to use XLSR features
 
     Returns:
         data_loader: DataLoader
     """
-    feature_name = "XLSR" if xlsr else "eGeMAPS"
+    feature_name = "XLSR"
 
     # Create Dataset
     try:

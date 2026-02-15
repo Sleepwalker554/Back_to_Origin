@@ -1,0 +1,86 @@
+# ============================================
+# Audio Denoising Requirements for Python 3.9
+# ============================================
+# 项目：Few-Shot AD Detection with Denoising
+# 功能：音频降噪、质量评估、数据处理
+# ============================================
+
+# ----------------
+# 深度学习框架
+# ----------------
+torch>=2.0.0,<3.0.0
+torchaudio>=2.0.0,<3.0.0
+
+# ----------------
+# 音频处理库
+# ----------------
+soundfile>=0.12.1
+librosa>=0.10.0
+scipy>=1.9.0,<2.0.0
+
+# ----------------
+# 降噪模型
+# ----------------
+# ClearVoice: 支持 FRCRN_SE 和 MossFormer 模型
+clearvoice>=0.1.0
+
+# Demucs: 音频源分离模型
+demucs>=4.0.0
+
+# ----------------
+# 模型推理
+# ----------------
+# ONNX Runtime: 用于 DNSMOS 音频质量评估
+onnxruntime>=1.15.0
+
+# ----------------
+# 数据处理
+# ----------------
+numpy>=1.21.0,<2.0.0
+pandas>=1.5.0,<3.0.0
+
+# ----------------
+# 工具库
+# ----------------
+# 进度条
+tqdm>=4.65.0
+
+# HTTP 请求（用于下载模型）
+requests>=2.28.0
+
+# ----------------
+# 可选依赖
+# ----------------
+# 如果需要使用 CUDA 加速，请安装对应版本的 PyTorch
+# 参考：https://pytorch.org/get-started/locally/
+
+# 如果在 Apple Silicon (M1/M2/M3) 上运行
+# PyTorch 会自动支持 MPS (Metal Performance Shaders)
+
+# ============================================
+# 安装说明
+# ============================================
+# 1. 创建虚拟环境：
+#    conda create -n denoise-py39 python=3.9
+#    conda activate denoise-py39
+#
+# 2. 安装依赖：
+#    pip install -r requirements-denoise-py39.txt
+#
+# 3. 验证安装：
+#    python -c "import torch; print(f'PyTorch: {torch.__version__}')"
+#    python -c "import clearvoice; print('ClearVoice installed')"
+#    python -c "import demucs; print('Demucs installed')"
+#
+# ============================================
+# 注意事项
+# ============================================
+# - 如果遇到 soundfile 读取错误，可能需要安装 libsndfile:
+#   macOS: brew install libsndfile
+#   Ubuntu: sudo apt-get install libsndfile1
+#
+# - 如果需要 GPU 加速（NVIDIA）：
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#
+# - Apple Silicon (M1/M2/M3) 用户无需额外配置，PyTorch 会自动使用 MPS
+# ============================================

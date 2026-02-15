@@ -1,7 +1,7 @@
 import csv
 from pathlib import Path
 from random import Random
-from typing import Tuple, List, Dict, Optional
+from typing import Tuple, Optional
 from config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
 
 def create_train_val_split(
@@ -28,7 +28,6 @@ def create_train_val_split(
         random_seed: Random seed (default: 42)
         dataset_name: Dataset name for printing information (optional)
         xlsr: Whether to use XLSR feature mode 
-              (True: xlsr_path/.xlsr.pt, False: egemaps_path/.egemaps.pt, default: True)
     
     Returns:
         Tuple[Path, Path]: (Training CSV path, Validation CSV path)
@@ -107,9 +106,6 @@ def create_train_val_split(
     if xlsr:
         feature_col = 'xlsr_path'
         feature_ext = '.xlsr.pt'
-    else:
-        feature_col = 'egemaps_path'
-        feature_ext = '.egemaps.pt'
     
     # Generate training CSV
     with open(train_csv_path, 'w', newline='', encoding='utf-8') as f:

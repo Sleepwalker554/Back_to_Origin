@@ -140,7 +140,7 @@ class PoolAttFF(nn.Module):
 
 
 ############################################################
-# Model classes for XLSR and eGeMAPS features
+# Model classes for XLSR features
 ############################################################
 
 class AD_XLSR_Model(nn.Module):
@@ -233,58 +233,4 @@ class AD_XLSR_Model(nn.Module):
         # Output mapping layer
         out = self.output_layer(x_pooled)
 
-        return out
-
-
-class AD_EGE_Model(nn.Module):
-    """
-    AD detection model specifically for eGeMAPS features (25-dim)
-
-    Input:
-        - x: (batch_size, 10, 25) - eGeMAPS features
-
-    Output:
-        - logits: (batch_size, 2) - Control and Dementia logits
-    """
-
-    def __init__(self, dim_input=25, dim_hidden=14, dropout=0.3):
-        super().__init__()
-        self.dim_input = dim_input
-        self.dim_hidden = dim_hidden
-        self.dropout = nn.Dropout(dropout)
-        
-        self.linear_layer1 = nn.Linear(25,64)
-        self.norm1 = nn.BatchNorm1d(64)
-        
-        self.linear_layer2 = nn.Linear(64, 32)
-        self.norm2 = nn.BatchNorm1d(32)
-
-        # Attention pooling (aggregate time dimension)
-        self.pool_ad = PoolAttFF(dim_hidden=32, dropout=dropout)
-
-        # Output mapping layer (64 → 2)
-        self.output_layer = nn.Linear(32, 2)  # Binary classification
-    
-    def forward(self, x: Tensor, mask: Tensor = None) -> Tensor:
-        """
-        Args:
-            x: (batch_size, seq_len, 25) - eGeMAPS features
-            mask: Not used for eGeMAPS (no padding needed)
-
-        Returns:
-            out: (batch_size, 2) - AD classification logits
-        """
-        x = self.linear_layer1(x)
-        x = self.norm1(x.permute(0, 2, 1)).permute(0, 2, 1)
-        x = F.relu(x)
-        x = self.dropout(x)
-
-        x = self.linear_layer2(x)
-        x = self.norm2(x.permute(0, 2, 1)).permute(0, 2, 1)
-        x = F.relu(x)
-        x = self.dropout(x)
-        
-        x_pooled = self.pool_ad(x, mask)
-
-        out = self.output_layer(x_pooled)
         return out

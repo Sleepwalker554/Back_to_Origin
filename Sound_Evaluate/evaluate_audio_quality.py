@@ -316,7 +316,7 @@ def process_dataset(
 if __name__ == "__main__":
     # 设置路径
     raw_directory = "../ad_detection/data/raw/Pitt"
-    mossformer_directory = "../ad_detection/data/denoised/Pitt-mossformer"
+    mossformer_directory = "../ad_detection/data/denoised/Pitt-MossFormer"
     frcrn_se_directory = "../ad_detection/data/denoised/Pitt-FRCRN_SE"
     demucs_directory = "../ad_detection/data/denoised/Pitt-Demucs"
     output_csv_file = "audio_quality_evaluation.csv"

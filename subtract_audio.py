@@ -86,15 +86,8 @@ def process_dataset(raw_dir, denoised_dir, output_dir):
 if __name__ == "__main__":
     # 设置路径
     raw_directory = "ad_detection/data/raw/Pitt"
-    denoised_directory = "ad_detection/data/denoised/Pitt-mossformer"
-    output_directory = "ad_detection/data/residual/Pitt-residual-mossformer"
+    denoised_directory = "ad_detection/data/denoised/Pitt-Best"
+    output_directory = "ad_detection/data/residual/Pitt-residual"
     
     # 执行处理
-    # process_dataset(raw_directory, denoised_directory, output_directory)
-
-    raw_directory1 = "ad_detection/data/raw/Pitt"
-    denoised_directory1 = "ad_detection/data/denoised/Pitt-FRCRN_SE"
-    output_directory1 = "ad_detection/data/residual/Pitt-residual-FRCRN_SE"
-
-    # 执行处理
-    process_dataset(raw_directory1, denoised_directory1, output_directory1)
+    process_dataset(raw_directory, denoised_directory, output_directory)
