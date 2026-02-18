@@ -1,8 +1,3 @@
-"""
-音频相减工具
-功能：从 raw/Pitt 音频文件中减去 Pitt-mossformer 音频文件，生成残差音频
-"""
-
 import os
 import soundfile as sf
 from pathlib import Path
@@ -11,14 +6,6 @@ from scipy import signal
 
 
 def subtract_audio_files(raw_path, denoised_path, output_path):
-    """
-    从原始音频中减去降噪后的音频，得到噪声/残差部分
-    
-    参数:
-        raw_path (str): 原始音频文件路径
-        denoised_path (str): 降噪后音频文件路径
-        output_path (str): 输出音频文件路径
-    """
     # 读取两个音频文件
     raw_audio, raw_sr = sf.read(raw_path)
     denoised_audio, denoised_sr = sf.read(denoised_path)
@@ -45,14 +32,6 @@ def subtract_audio_files(raw_path, denoised_path, output_path):
 
 
 def process_dataset(raw_dir, denoised_dir, output_dir):
-    """
-    批量处理整个数据集，保持文件夹结构
-    
-    参数:
-        raw_dir (str): 原始音频根目录
-        denoised_dir (str): 降噪后音频根目录
-        output_dir (str): 输出目录
-    """
     raw_dir = Path(raw_dir)
     denoised_dir = Path(denoised_dir)
     output_dir = Path(output_dir)
@@ -81,13 +60,3 @@ def process_dataset(raw_dir, denoised_dir, output_dir):
             
             # 执行音频相减
             subtract_audio_files(str(raw_file), str(denoised_file), str(output_file))
-
-
-if __name__ == "__main__":
-    # 设置路径
-    raw_directory = "ad_detection/data/raw/Pitt"
-    denoised_directory = "ad_detection/data/denoised/Pitt-Best"
-    output_directory = "ad_detection/data/residual/Pitt-residual"
-    
-    # 执行处理
-    process_dataset(raw_directory, denoised_directory, output_directory)

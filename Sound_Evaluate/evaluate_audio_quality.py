@@ -1,9 +1,3 @@
-"""
-音频质量评估工具
-功能：使用 DNSMOS 评估原始音频、MossFormer、FRCRN_SE 和 Demucs 降噪后的音频质量
-生成横向对比的 CSV 表格
-"""
-
 import os
 import csv
 import numpy as np
@@ -17,11 +11,9 @@ from typing import Dict, Tuple, Optional
 
 
 class DNSMOSEvaluator:
-    """DNSMOS P.835 音频质量评估器"""
-    
     MODEL_URL = "https://github.com/microsoft/DNS-Challenge/raw/master/DNSMOS/DNSMOS/sig_bak_ovr.onnx"
     MODEL_PATH = "dnsmos_model.onnx"
-    TARGET_SR = 16000  # DNSMOS 模型要求的采样率
+    TARGET_SR = 16000
     INPUT_LENGTH = 9.01  # 模型要求的音频长度（秒）
     
     def __init__(self):
@@ -32,37 +24,29 @@ class DNSMOSEvaluator:
     
     def _download_model(self):
         if os.path.exists(self.MODEL_PATH):
-            print(f"DNSMOS 模型已存在: {self.MODEL_PATH}")
             return
         
-        print(f"正在下载 DNSMOS 模型...")
+        print(f"Downloading DNSMOS...")
         try:
             response = requests.get(self.MODEL_URL, timeout=30)
             response.raise_for_status()
             with open(self.MODEL_PATH, 'wb') as f:
                 f.write(response.content)
-            print(f"DNSMOS 模型下载成功: {self.MODEL_PATH}")
+            print(f"DNSMOS Downloaded and saved to: {self.MODEL_PATH}")
         except Exception as e:
-            raise RuntimeError(f"下载 DNSMOS 模型失败: {e}")
+            raise RuntimeError(f"Failed to download DNSMOS: {e}")
     
     def load_audio(self, audio_path: str) -> np.ndarray:
         """
-        加载并预处理音频文件
-        
-        参数:
-            audio_path (str): 音频文件路径
-            
-        返回:
-            np.ndarray: 预处理后的音频数据 (单声道, 16kHz)
+        Load and Process audio file
         """
-        # 读取音频文件
         audio, sr = sf.read(audio_path)
         
-        # 如果是立体声，转换为单声道
+        # Convert to mono if necessary
         if len(audio.shape) > 1:
             audio = np.mean(audio, axis=1)
         
-        # 重采样到 16kHz（如果需要）
+        # Resampling
         if sr != self.TARGET_SR:
             audio = librosa.resample(audio, orig_sr=sr, target_sr=self.TARGET_SR)
         
@@ -161,7 +145,6 @@ class DNSMOSEvaluator:
 
 
 def process_audio_file(
-    evaluator: DNSMOSEvaluator,
     file_name: str,
     category: str,
     raw_path: str,
@@ -173,7 +156,6 @@ def process_audio_file(
     处理单个音频文件的四个版本并评估质量
     
     参数:
-        evaluator: DNSMOS 评估器实例
         file_name: 文件名
         category: 分类 (Control 或 Dementia)
         raw_path: 原始音频路径
@@ -184,23 +166,8 @@ def process_audio_file(
     返回:
         Dict: 包含所有分数的字典，如果任何文件不存在或评估失败则返回 None
     """
-    # 检查文件是否存在
-    if not os.path.exists(raw_path):
-        print(f"警告: 原始文件不存在 - {raw_path}")
-        return None
-    
-    if not os.path.exists(mossformer_path):
-        print(f"警告: MossFormer 文件不存在 - {mossformer_path}")
-        return None
-    
-    if not os.path.exists(frcrn_se_path):
-        print(f"警告: FRCRN_SE 文件不存在 - {frcrn_se_path}")
-        return None
-    
-    if not os.path.exists(demucs_path):
-        print(f"警告: Demucs 文件不存在 - {demucs_path}")
-        return None
-    
+    evaluator = DNSMOSEvaluator()
+
     # 评估四个版本
     raw_scores = evaluator.evaluate(raw_path)
     mossformer_scores = evaluator.evaluate(mossformer_path)
@@ -236,8 +203,7 @@ def process_dataset(
     raw_dir: str,
     mossformer_dir: str,
     frcrn_se_dir: str,
-    demucs_dir: str,
-    output_csv: str
+    demucs_dir: str
 ):
     """
     批量处理整个数据集，生成 CSV 报告
@@ -253,6 +219,7 @@ def process_dataset(
     mossformer_dir = Path(mossformer_dir)
     frcrn_se_dir = Path(frcrn_se_dir)
     demucs_dir = Path(demucs_dir)
+    output_csv = Path("audio_quality_evaluation.csv")
     
     # 初始化评估器
     evaluator = DNSMOSEvaluator()
@@ -286,7 +253,7 @@ def process_dataset(
             
             # 处理音频文件
             result = process_audio_file(
-                evaluator,
+                # evaluator,
                 file_name,
                 subdir,
                 str(raw_file),
@@ -312,20 +279,3 @@ def process_dataset(
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(all_results)
-
-if __name__ == "__main__":
-    # 设置路径
-    raw_directory = "../ad_detection/data/raw/Pitt"
-    mossformer_directory = "../ad_detection/data/denoised/Pitt-MossFormer"
-    frcrn_se_directory = "../ad_detection/data/denoised/Pitt-FRCRN_SE"
-    demucs_directory = "../ad_detection/data/denoised/Pitt-Demucs"
-    output_csv_file = "audio_quality_evaluation.csv"
-    
-    # 执行处理
-    process_dataset(
-        raw_directory,
-        mossformer_directory,
-        frcrn_se_directory,
-        demucs_directory,
-        output_csv_file
-    )
