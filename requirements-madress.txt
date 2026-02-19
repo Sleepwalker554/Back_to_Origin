@@ -4,12 +4,13 @@
 # NOTE: numpy must stay < 1.24 for fairseq compatibility (np.float alias)
 # NOTE: pandas/scipy/scikit-learn/matplotlib must be compatible with numpy 1.23.x
 # NOTE: torchaudio version must match torch version
+# FIXED: Updated torchvision to match torch 2.8.0
 
 # Core
 numpy==1.23.5
 torch==2.8.0
 torchaudio==2.8.0
-torchvision==0.14.1
+torchvision==0.23.0
 
 # Data & ML
 pandas==2.0.3
@@ -21,7 +22,7 @@ opensmile==2.6.0
 librosa==0.11.0
 soundfile==0.13.1
 audiofile==1.5.1
-fairseq==1.0.0a0
+# fairseq will be installed separately from source
 
 # Training
 pytorch-lightning==2.5.6

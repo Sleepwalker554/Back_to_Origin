@@ -1,7 +1,7 @@
 import torch
 from torch import Tensor, nn
 import torch.nn.functional as F
-from config import XLSR_DIM_INPUT
+from config import XLSR_DIM_INPUT, PROJECT_ROOT
 import fairseq
 
 ########################XLSR-53-300m####################################
@@ -18,7 +18,7 @@ class SSLModel(nn.Module):
 
         # Always load original XLSR first to get the model structure
         print("XLSR: Loading base model structure")
-        cp_path = '/Users/sleepwalker/Library/Mobile Documents/com~apple~CloudDocs/Code-In-iCloud/Adaptation_is_all_you_need/ad_detection/models/xlsr2_300m.pt'
+        cp_path = str(PROJECT_ROOT / "models/xlsr2_300m.pt")
         
         model, cfg, task = fairseq.checkpoint_utils.load_model_ensemble_and_task([cp_path])
         self.model = model[0].to(device)
