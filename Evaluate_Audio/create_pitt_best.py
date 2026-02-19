@@ -6,7 +6,8 @@ from pathlib import Path
 
 
 def create_pitt_best_dataset(
-    csv_path: str
+    csv_path: str,
+    output_dir: str = "../ad_detection/data/denoised/Pitt-Best-2"
 ):
     """
     Parameters:
@@ -15,8 +16,6 @@ def create_pitt_best_dataset(
     """
     
     df = pd.read_csv(csv_path)
-    
-    output_dir = "../ad_detection/data/denoised/Pitt-Best"
     
     os.makedirs(output_dir, exist_ok=True)
     
@@ -29,7 +28,7 @@ def create_pitt_best_dataset(
     # 统计信息
     stats = {
         'raw': 0,
-        'mossformer': 0,
+        # 'mossformer': 0,
         'frcrn_se': 0,
         'demucs': 0,
         'total': 0,
@@ -39,7 +38,7 @@ def create_pitt_best_dataset(
     # 定义数据集映射（使用相对路径，从 Noise_Remove 文件夹）
     dataset_mapping = {
         'raw': '../ad_detection/data/raw/Pitt',
-        'mossformer': '../ad_detection/data/denoised/Pitt-MossFormer',
+        # 'mossformer': '../ad_detection/data/denoised/Pitt-MossFormer',
         'frcrn_se': '../ad_detection/data/denoised/Pitt-FRCRN_SE',
         'demucs': '../ad_detection/data/denoised/Pitt-Demucs'
     }
@@ -51,7 +50,7 @@ def create_pitt_best_dataset(
         category = row['category']  # 'Control' or 'Dementia'
         
         # Ovrl score for each dataset
-        mossformer_ovrl = row['mossformer_ovrl']
+        # mossformer_ovrl = row['mossformer_ovrl']
         frcrn_se_ovrl = row['frcrn_se_ovrl']
         demucs_ovrl = row['demucs_ovrl']
         raw_ovrl = row['raw_ovrl']
@@ -59,7 +58,7 @@ def create_pitt_best_dataset(
         # 找到最高分数和对应的数据集
         scores = {
             'raw': raw_ovrl,
-            'mossformer': mossformer_ovrl,
+            # 'mossformer': mossformer_ovrl,
             'frcrn_se': frcrn_se_ovrl,
             'demucs': demucs_ovrl
         }
@@ -94,7 +93,7 @@ def create_pitt_best_dataset(
                 'selected_dataset': best_dataset,
                 'ovrl_score': best_score,
                 'raw_ovrl': raw_ovrl,
-                'mossformer_ovrl': mossformer_ovrl,
+                # 'mossformer_ovrl': mossformer_ovrl,
                 'frcrn_se_ovrl': frcrn_se_ovrl,
                 'demucs_ovrl': demucs_ovrl
             })
@@ -104,7 +103,7 @@ def create_pitt_best_dataset(
     
     print(f"Totally Process: {stats['total']}")
     print(f"From raw: {stats['raw']} ({stats['raw']/stats['total']*100:.1f}%)")
-    print(f"From MossFormer: {stats['mossformer']} ({stats['mossformer']/stats['total']*100:.1f}%)")
+    # print(f"From MossFormer: {stats['mossformer']} ({stats['mossformer']/stats['total']*100:.1f}%)")
     print(f"From frcrn_se: {stats['frcrn_se']} ({stats['frcrn_se']/stats['total']*100:.1f}%)")
     print(f"From demucs: {stats['demucs']} ({stats['demucs']/stats['total']*100:.1f}%)")
     print(f"Missing files: {stats['missing']}")
@@ -114,7 +113,8 @@ def create_pitt_best_dataset(
     with open(report_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
         fieldnames = [
             'file_name', 'category', 'selected_dataset', 'ovrl_score',
-            'raw_ovrl', 'mossformer_ovrl', 'frcrn_se_ovrl', 'demucs_ovrl'
+            'raw_ovrl', 'frcrn_se_ovrl', 'demucs_ovrl'
+            # 'raw_ovrl', 'mossformer_ovrl', 'frcrn_se_ovrl', 'demucs_ovrl'
         ]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()

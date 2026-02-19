@@ -148,7 +148,7 @@ def process_audio_file(
     file_name: str,
     category: str,
     raw_path: str,
-    mossformer_path: str,
+    # mossformer_path: str,
     frcrn_se_path: str,
     demucs_path: str
 ) -> Optional[Dict]:
@@ -170,12 +170,13 @@ def process_audio_file(
 
     # 评估四个版本
     raw_scores = evaluator.evaluate(raw_path)
-    mossformer_scores = evaluator.evaluate(mossformer_path)
+    # mossformer_scores = evaluator.evaluate(mossformer_path)
     frcrn_se_scores = evaluator.evaluate(frcrn_se_path)
     demucs_scores = evaluator.evaluate(demucs_path)
     
     # 检查是否有评估失败
-    if raw_scores is None or mossformer_scores is None or frcrn_se_scores is None or demucs_scores is None:
+    # if raw_scores is None or mossformer_scores is None or frcrn_se_scores is None or demucs_scores is None:
+    if raw_scores is None or frcrn_se_scores is None or demucs_scores is None:
         return None
     
     # 返回所有分数（不计算gain）
@@ -185,9 +186,9 @@ def process_audio_file(
         'raw_ovrl': raw_scores['ovrl'],
         'raw_sig': raw_scores['sig'],
         'raw_bak': raw_scores['bak'],
-        'mossformer_ovrl': mossformer_scores['ovrl'],
-        'mossformer_sig': mossformer_scores['sig'],
-        'mossformer_bak': mossformer_scores['bak'],
+        # 'mossformer_ovrl': mossformer_scores['ovrl'],
+        # 'mossformer_sig': mossformer_scores['sig'],
+        # 'mossformer_bak': mossformer_scores['bak'],
         'frcrn_se_ovrl': frcrn_se_scores['ovrl'],
         'frcrn_se_sig': frcrn_se_scores['sig'],
         'frcrn_se_bak': frcrn_se_scores['bak'],
@@ -201,7 +202,7 @@ def process_audio_file(
 
 def process_dataset(
     raw_dir: str,
-    mossformer_dir: str,
+    # mossformer_dir: str,
     frcrn_se_dir: str,
     demucs_dir: str
 ):
@@ -216,7 +217,7 @@ def process_dataset(
         output_csv: 输出 CSV 文件路径
     """
     raw_dir = Path(raw_dir)
-    mossformer_dir = Path(mossformer_dir)
+    # mossformer_dir = Path(mossformer_dir)
     frcrn_se_dir = Path(frcrn_se_dir)
     demucs_dir = Path(demucs_dir)
     output_csv = Path("audio_quality_evaluation.csv")
@@ -233,7 +234,7 @@ def process_dataset(
     # 遍历每个子文件夹
     for subdir in subdirs:
         raw_subdir = raw_dir / subdir
-        mossformer_subdir = mossformer_dir / subdir
+        # mossformer_subdir = mossformer_dir / subdir
         frcrn_se_subdir = frcrn_se_dir / subdir
         demucs_subdir = demucs_dir / subdir
         
@@ -247,7 +248,7 @@ def process_dataset(
             file_name = raw_file.name
             
             # 构建对应的文件路径
-            mossformer_file = mossformer_subdir / file_name
+            # mossformer_file = mossformer_subdir / file_name
             frcrn_se_file = frcrn_se_subdir / file_name
             demucs_file = demucs_subdir / file_name
             
@@ -257,7 +258,7 @@ def process_dataset(
                 file_name,
                 subdir,
                 str(raw_file),
-                str(mossformer_file),
+                # str(mossformer_file),
                 str(frcrn_se_file),
                 str(demucs_file)
             )
@@ -270,7 +271,7 @@ def process_dataset(
     fieldnames = [
         'file_name', 'category',
         'raw_ovrl', 'raw_sig', 'raw_bak',
-        'mossformer_ovrl', 'mossformer_sig', 'mossformer_bak',
+        # 'mossformer_ovrl', 'mossformer_sig', 'mossformer_bak',
         'frcrn_se_ovrl', 'frcrn_se_sig', 'frcrn_se_bak',
         'demucs_ovrl', 'demucs_sig', 'demucs_bak'
     ]
