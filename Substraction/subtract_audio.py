@@ -39,6 +39,8 @@ def process_dataset(raw_dir, denoised_dir, output_dir):
     # 需要处理的子文件夹
     subdirs = ['Control', 'Dementia']
     
+    skipped_files = []
+    
     # 遍历每个子文件夹（Control 和 Dementia）
     for subdir in subdirs:
         raw_subdir = raw_dir / subdir
@@ -56,7 +58,27 @@ def process_dataset(raw_dir, denoised_dir, output_dir):
             
             # 检查降噪文件是否存在
             if not denoised_file.exists():
+                skipped_files.append((raw_file.name, "降噪文件不存在"))
+                continue
+            
+            # 检查文件是否为空
+            if denoised_file.stat().st_size == 0:
+                skipped_files.append((raw_file.name, "降噪文件为空"))
                 continue
             
             # 执行音频相减
-            subtract_audio_files(str(raw_file), str(denoised_file), str(output_file))
+            try:
+                subtract_audio_files(str(raw_file), str(denoised_file), str(output_file))
+            except Exception as e:
+                skipped_files.append((raw_file.name, f"处理失败: {str(e)}"))
+                continue
+    
+    # 输出跳过文件的统计信息
+    if skipped_files:
+        print(f"\n跳过了 {len(skipped_files)} 个文件:")
+        for filename, reason in skipped_files[:10]:
+            print(f"  - {filename}: {reason}")
+        if len(skipped_files) > 10:
+            print(f"  ... 还有 {len(skipped_files) - 10} 个文件")
+    
+    return skipped_files
