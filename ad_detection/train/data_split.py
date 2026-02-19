@@ -6,12 +6,10 @@ from config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
 
 def create_train_val_split(
     raw_audio_dir: Path,
-    train_csv_path: Path,
-    val_csv_path: Path,
+    dataset_name: str,
     feature_dir_name: str,
     train_set_ratio: float = TRAIN_SET_RATTIO,
     random_seed: int = RANDOM_SEED,
-    dataset_name: Optional[str] = "Unknown Dataset",
     xlsr: bool = False,
 ) -> Tuple[Path, Path]:
     """
@@ -20,20 +18,21 @@ def create_train_val_split(
     Args:
         raw_audio_dir: Directory containing raw audio files 
                        (with subfolders Control and Dementia)
-        train_csv_path: Output path for the training CSV
-        val_csv_path: Output path for the validation CSV
-        feature_dir_name: Feature directory name (can be Path or str)
-                          (e.g., Path("data/processed/Address_xlsr_features") or "Address_xlsr_features")
-        train_ratio: Ratio of training samples (default: 0.8)
+        dataset_name: Dataset name (used to construct CSV paths)
+        feature_dir_name: Feature directory name
+        train_set_ratio: Ratio of training samples (default: 0.8)
         random_seed: Random seed (default: 42)
-        dataset_name: Dataset name for printing information (optional)
         xlsr: Whether to use XLSR feature mode 
     
     Returns:
-        Tuple[Path, Path]: (Training CSV path, Validation CSV path)
+        Tuple[Path, Path]: (train_csv_path, val_csv_path)
     """
     
     feature_dir_name = str(feature_dir_name)
+    
+    # Build CSV paths
+    train_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-train.csv"
+    val_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-val.csv"
     
     # Ensure output directories exist
     train_csv_path.parent.mkdir(parents=True, exist_ok=True)
@@ -133,3 +132,58 @@ def create_train_val_split(
     print(f"Validation set: {len(val_samples)} samples (Control: {len(control_val)}, Dementia: {len(dementia_val)})")
 
     return train_csv_path, val_csv_path
+
+
+def create_test_csv(
+    raw_audio_dir: Path,
+    dataset_name: str,
+    feature_dir_name: str,
+    xlsr: bool = False,
+) -> Path:
+    """
+    Create test CSV file containing all audio files
+    
+    Args:
+        raw_audio_dir: Directory containing raw audio files 
+                       (with subfolders Control and Dementia)
+        dataset_name: Dataset name (used to construct CSV path)
+        feature_dir_name: Feature directory name
+        xlsr: Whether to use XLSR feature mode 
+    
+    Returns:
+        Path: Test CSV path
+    """
+    
+    feature_dir_name = str(feature_dir_name)
+    
+    # Build CSV path
+    test_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-test.csv"
+    test_csv_path.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Collect all audio files
+    all_samples = []
+    control_dir = raw_audio_dir / "Control"
+    dementia_dir = raw_audio_dir / "Dementia"
+    
+    # Process Control group
+    for audio_file in sorted(list(control_dir.glob("*.wav")) + list(control_dir.glob("*.mp3"))):
+        all_samples.append({'session_id': audio_file.stem, 'ad': 0})
+    
+    # Process Dementia group
+    for audio_file in sorted(list(dementia_dir.glob("*.wav")) + list(dementia_dir.glob("*.mp3"))):
+        all_samples.append({'session_id': audio_file.stem, 'ad': 1})
+    
+    # Set column names and file extension
+    feature_col = 'xlsr_path' if xlsr else 'feature_path'
+    feature_ext = '.xlsr.pt' if xlsr else '.pt'
+    
+    # Generate test CSV
+    with open(test_csv_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerow(['session_id', feature_col, 'ad'])
+        for sample in all_samples:
+            session_id = sample['session_id']
+            feature_path = f"{feature_dir_name}/{session_id}{feature_ext}"
+            writer.writerow([session_id, feature_path, sample['ad']])
+
+    return test_csv_path
