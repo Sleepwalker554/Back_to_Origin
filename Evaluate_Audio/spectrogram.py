@@ -8,7 +8,7 @@ def show_difference_spectrograms(audio_id, category='Control', spec_type='mel'):
     """
     audio_id: 音频文件名，例如 '002-0.wav'
     category: 'Control' 或 'Dementia'
-    spec_type: 'mel', 'log_mel', 或 'stft'
+    spec_type: 'mel' 或 'stft'
     """
     raw_path = Path('../ad_detection/data/raw/Pitt') / category / audio_id
     
@@ -35,7 +35,7 @@ def show_difference_spectrograms(audio_id, category='Control', spec_type='mel'):
         if spec_type == 'mel':
             spec = librosa.feature.melspectrogram(y=y_diff, sr=sr_raw)
             spec_db = librosa.power_to_db(spec, ref=np.max)
-            librosa.display.specshow(spec_db, sr=sr_raw, x_axis='time', y_axis='mel', ax=axes[idx], cmap='viridis')
+            librosa.display.specshow(spec_db, sr=sr_raw, x_axis='time', y_axis='mel', ax=axes[idx])
             axes[idx].set_ylabel('Frequency (Hz)')
         else:  # stft
             D = librosa.stft(y_diff)
@@ -46,12 +46,7 @@ def show_difference_spectrograms(audio_id, category='Control', spec_type='mel'):
         axes[idx].set_title(name, fontsize=12, fontweight='bold')
         axes[idx].set_xlabel('Time (s)')
     
-    if spec_type == 'log_mel':
-        spec_name = 'Log-Mel'
-    elif spec_type == 'mel':
-        spec_name = 'Mel'
-    else:
-        spec_name = 'STFT'
+    spec_name = 'Mel' if spec_type == 'mel' else 'STFT'
     plt.suptitle(f'Difference {spec_name} Spectrograms: {audio_id} ({category})', 
                  fontsize=14, fontweight='bold', y=1.02)
     plt.tight_layout()
@@ -78,7 +73,7 @@ def show_mel_spectrograms(audio_id, category='Control', base_path='../ad_detecti
             
             mel_spec = librosa.feature.melspectrogram(y=y, sr=sr)
             mel_spec_db = librosa.power_to_db(mel_spec, ref=np.max)
-
+            
             librosa.display.specshow(mel_spec_db, sr=sr, x_axis='time', y_axis='mel', ax=axes[idx])
             axes[idx].set_title(name, fontsize=12, fontweight='bold')
             axes[idx].set_xlabel('Time (s)')
