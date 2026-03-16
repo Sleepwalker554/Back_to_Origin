@@ -24,3 +24,5 @@ ad_detection/models/*
 
 **/evaluation_log.txt
 **/.DS_Store
+.claude/
+.vscode/
