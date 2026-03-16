@@ -66,7 +66,9 @@ def process_dataset(raw_dir, denoised_dir, output_dir):
                 skipped_files.append((raw_file.name, "降噪文件为空"))
                 continue
             
-            # 执行音频相减
+            if output_file.exists():
+                continue
+
             try:
                 subtract_audio_files(str(raw_file), str(denoised_file), str(output_file))
             except Exception as e:
