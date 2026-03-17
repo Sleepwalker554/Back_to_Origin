@@ -146,6 +146,7 @@ class PoolAttFF(nn.Module):
 class AD_XLSR_Model(nn.Module):
     """
     AD detection model specifically for XLSR features (1024-dim)
+    CNN + Linear classification head to reduce parameters and capture temporal patterns.
 
     Input:
         - x: (batch_size, seq_len, 1024) - XLSR features
@@ -155,28 +156,19 @@ class AD_XLSR_Model(nn.Module):
         - logits: (batch_size, 2) - Control and Dementia logits
     """
 
-    def __init__(self, dropout=0.2):
+    def __init__(self, dropout=0.4):
         super().__init__()
-        self.dropout = dropout
 
         # BatchNorm normalization
         self.norm = nn.BatchNorm1d(1024)
 
-        # 1024 → 512 → 256 → 128 → 64 → 32
-        self.linear_layer1 = nn.Linear(1024, 512)
-        self.bn1 = nn.BatchNorm1d(512)
+        # Conv1d: 1024 → 64 (kernel_size=3, padding=1 preserves seq_len)
+        self.conv1 = nn.Conv1d(1024, 64, kernel_size=3, padding=1)
+        self.bn_conv = nn.BatchNorm1d(64)
 
-        self.linear_layer2 = nn.Linear(512, 256)
-        self.bn2 = nn.BatchNorm1d(256)
-
-        self.linear_layer3 = nn.Linear(256, 128)
-        self.bn3 = nn.BatchNorm1d(128)
-
-        self.linear_layer4 = nn.Linear(128, 64)
-        self.bn4 = nn.BatchNorm1d(64)
-
-        self.linear_layer5 = nn.Linear(64, 32)
-        self.bn5 = nn.BatchNorm1d(32)
+        # Linear: 64 → 32
+        self.fc1 = nn.Linear(64, 32)
+        self.bn_fc = nn.BatchNorm1d(32)
 
         self.dropout = nn.Dropout(dropout)
 
@@ -187,7 +179,7 @@ class AD_XLSR_Model(nn.Module):
 
         # Output mapping layer (32 → 2)
         self.output_layer = nn.Linear(32, 2)
-    
+
     def forward(self, x: Tensor, mask: Tensor = None) -> Tensor:
         """
         Args:
@@ -197,33 +189,21 @@ class AD_XLSR_Model(nn.Module):
         Returns:
             out: (batch_size, 2) - AD classification logits
         """
-        # BatchNorm: (B, L, 1024) -> (B, 1024, L) -> normalize -> (B, L, 1024)
-        x = self.norm(x.permute(0, 2, 1)).permute(0, 2, 1)
+        # BatchNorm: (B, L, 1024) -> (B, 1024, L) -> normalize -> (B, 1024, L)
+        x = self.norm(x.permute(0, 2, 1))
 
-        # Layer 1: 1024 → 512
-        x = self.linear_layer1(x)
-        x = self.bn1(x.permute(0, 2, 1)).permute(0, 2, 1)
-        x = F.relu(x)
-
-        # Layer 2: 512 → 256
-        x = self.linear_layer2(x)
-        x = self.bn2(x.permute(0, 2, 1)).permute(0, 2, 1)
-        x = F.relu(x)
-
-        # Layer 3: 256 → 128
-        x = self.linear_layer3(x)
-        x = self.bn3(x.permute(0, 2, 1)).permute(0, 2, 1)
-        x = F.relu(x)
-
-        # Layer 4: 128 → 64
-        x = self.linear_layer4(x)
-        x = self.bn4(x.permute(0, 2, 1)).permute(0, 2, 1)
+        # Conv1d: (B, 1024, L) -> (B, 64, L)
+        x = self.conv1(x)
+        x = self.bn_conv(x)
         x = F.relu(x)
         x = self.dropout(x)
 
-        # Layer 5: 64 → 32
-        x = self.linear_layer5(x)
-        x = self.bn5(x.permute(0, 2, 1)).permute(0, 2, 1)
+        # (B, 64, L) -> (B, L, 64) for Linear
+        x = x.permute(0, 2, 1)
+
+        # Linear: (B, L, 64) -> (B, L, 32)
+        x = self.fc1(x)
+        x = self.bn_fc(x.permute(0, 2, 1)).permute(0, 2, 1)
         x = F.relu(x)
         x = self.dropout(x)
 

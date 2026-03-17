@@ -18,7 +18,7 @@ TRAIN_SET_RATTIO = 0.8
 # XLSR_DIM_HIDDEN = 32 perform well
 XLSR_DIM_INPUT = 1024               # XLSR feature dimension (output from XLSR-53 model)
 XLSR_DIM_HIDDEN = 26                # XLSR Network Hidden dimension
-XLSR_DROPOUT = 0.2                  # XLSR Dropout ratio\
+XLSR_DROPOUT = 0.4                  # XLSR Dropout ratio
 RANDOM_SEEDS = [21, 42, 84, 168, 336]
 
 # ====== XLSR features extraction parameters ======
