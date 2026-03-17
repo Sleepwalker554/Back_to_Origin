@@ -12,6 +12,7 @@ BATCH_SIZE = 32
 LEARNING_RATE = 3e-3         #Best learning rate is 3e-3
 WARMUP_STEPS = 100
 WEIGHT_DECAY = 1e-2  # Reduced for simpler model
+ETA_MIN = 1e-6       # Minimum learning rate for CosineAnnealingLR
 TRAIN_SET_RATTIO = 0.8
 
 # ====== Model parameters ======
