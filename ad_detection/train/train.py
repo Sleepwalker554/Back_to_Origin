@@ -2,7 +2,7 @@ import torch
 import torch.nn.functional as F
 from pathlib import Path
 from tqdm import tqdm
-from config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, XLSR_DROPOUT, XLSR_DIM_INPUT, ETA_MIN
+from config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, XLSR_DROPOUT, XLSR_DIM_INPUT
 from model import AD_XLSR_Model
 
 def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_weights=None):
@@ -174,7 +174,6 @@ def train(seed, train_loader, val_loader, output_dir, device, xlsr=True, class_w
 
     # Create optimizer
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
-    scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=ETA_MIN)
 
     # Training history
     train_losses = []
@@ -203,9 +202,6 @@ def train(seed, train_loader, val_loader, output_dir, device, xlsr=True, class_w
         val_losses.append(val_loss)
         val_accs.append(val_acc)
         epochs_list.append(epoch)
-
-        # Step the learning rate scheduler
-        scheduler.step()
 
         # Save best model
         if val_acc > best_val_acc:
