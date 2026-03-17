@@ -164,28 +164,30 @@ def create_split(dataset_name: str) -> Tuple[Path, Path]:
     return train_csv, val_csv
 
 
-def create_subpitt_split(
+def create_sub_split(
+    source_dataset_name: str,
     dataset_name: str,
     feature_dir_name: str,
 ) -> Tuple[Path, Path]:
     """
-    Create train/val CSVs for a Pitt variant by remapping feature paths
-    from the base Pitt split. Ensures all Pitt variants share the same
-    train/val partition.
+    Create train/val CSVs for a dataset variant by remapping feature paths
+    from the base dataset's split. Ensures all variants share the same
+    train/val partition as the source dataset.
 
     Args:
-        dataset_name: Variant name (e.g. "Pitt-Demucs")
+        source_dataset_name: Base dataset name (e.g. "Pitt", "Lu")
+        dataset_name: Variant name (e.g. "Pitt-Demucs", "Lu-Demucs")
         feature_dir_name: Feature directory name (e.g. "Pitt-Demucs_xlsr_features")
 
     Returns:
         Tuple[Path, Path]: (train_csv_path, val_csv_path)
     """
-    pitt_train_csv, pitt_val_csv = create_split("Pitt")
+    source_train_csv, source_val_csv = create_split(source_dataset_name)
 
     train_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-train.csv"
     val_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-val.csv"
 
-    for src_csv, dst_csv in [(pitt_train_csv, train_csv), (pitt_val_csv, val_csv)]:
+    for src_csv, dst_csv in [(source_train_csv, train_csv), (source_val_csv, val_csv)]:
         with open(src_csv, 'r') as f_in, open(dst_csv, 'w', newline='') as f_out:
             reader = csv.DictReader(f_in)
             writer = csv.writer(f_out)
@@ -195,7 +197,7 @@ def create_subpitt_split(
                 feature_path = f"{feature_dir_name}/{session_id}.xlsr.pt"
                 writer.writerow([session_id, feature_path, row['ad']])
 
-    print(f"Created {train_csv.name} and {val_csv.name} from Pitt raw split")
+    print(f"Created {train_csv.name} and {val_csv.name} from {source_dataset_name} raw split")
     return train_csv, val_csv
 
 

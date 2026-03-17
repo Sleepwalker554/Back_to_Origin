@@ -37,10 +37,9 @@ def extract_features_from_csv(
     xlsr_features_dir.mkdir(parents=True, exist_ok=True)
 
     if ssl_model is None:
-        print(f"Using device: {device}")
         ssl_model = SSLModel(device, freeze_xlsr=freeze_xlsr)
 
-    print(f"\n============= Extracting XLSR features for {split_name} =============")
+    print(f"\n=== Extracting XLSR features for {split_name} ===")
 
     extracted = 0
     skipped = 0
@@ -49,8 +48,6 @@ def extract_features_from_csv(
     with open(csv_path, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         rows = list(reader)
-
-    print(f"{len(rows)} Audio Files")
 
     for row in tqdm(rows, desc=f"Extracting {split_name}"):
         session_id = row['session_id']
@@ -121,9 +118,38 @@ def extract_features_from_csv(
             errors += 1
             continue
 
-    print(f"Successfully extracted: {extracted}")
-    print(f"Already exists (skipped): {skipped}")
-    print(f"Errors: {errors}")
-    print(f"Total: {len(rows)}")
+    print(f"Done: {extracted} extracted, {skipped} skipped, {errors} errors (total {len(rows)})")
 
     return extracted, skipped, len(rows)
+
+
+def extract_feature(
+    train_csv: Union[str, Path],
+    val_csv: Union[str, Path],
+    raw_audio_dir: Union[str, Path],
+    xlsr_features_dir: Union[str, Path],
+    device: str = "cpu",
+    freeze_xlsr: bool = True,
+):
+    """Create SSLModel and extract XLSR features for train/val splits."""
+    ssl_model = SSLModel(device, freeze_xlsr=freeze_xlsr)
+
+    extract_features_from_csv(
+        csv_path=train_csv,
+        split_name="Train Set",
+        raw_audio_dir=raw_audio_dir,
+        xlsr_features_dir=xlsr_features_dir,
+        device=device,
+        ssl_model=ssl_model,
+    )
+
+    extract_features_from_csv(
+        csv_path=val_csv,
+        split_name="Val Set",
+        raw_audio_dir=raw_audio_dir,
+        xlsr_features_dir=xlsr_features_dir,
+        device=device,
+        ssl_model=ssl_model,
+    )
+
+    return ssl_model
