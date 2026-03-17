@@ -134,6 +134,71 @@ def create_train_val_split(
     return train_csv_path, val_csv_path
 
 
+def create_split(dataset_name: str) -> Tuple[Path, Path]:
+    """
+    Ensure train/val CSVs for the given dataset exist and have data.
+    If missing or empty, regenerate from raw audio files.
+
+    Args:
+        dataset_name: Dataset name (e.g. "Pitt", "Lu")
+
+    Returns:
+        Tuple[Path, Path]: (train_csv, val_csv)
+    """
+    raw_dir = PROJECT_ROOT / f"data/raw/{dataset_name}"
+    train_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-train.csv"
+    val_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-val.csv"
+    feature_dir_name = f"{dataset_name}_xlsr_features"
+
+    def csv_has_data(path):
+        return path.exists() and path.stat().st_size > 30
+
+    if not csv_has_data(train_csv) or not csv_has_data(val_csv):
+        create_train_val_split(
+            raw_audio_dir=raw_dir,
+            dataset_name=dataset_name,
+            feature_dir_name=feature_dir_name,
+            xlsr=True
+        )
+
+    return train_csv, val_csv
+
+
+def create_subpitt_split(
+    dataset_name: str,
+    feature_dir_name: str,
+) -> Tuple[Path, Path]:
+    """
+    Create train/val CSVs for a Pitt variant by remapping feature paths
+    from the base Pitt split. Ensures all Pitt variants share the same
+    train/val partition.
+
+    Args:
+        dataset_name: Variant name (e.g. "Pitt-Demucs")
+        feature_dir_name: Feature directory name (e.g. "Pitt-Demucs_xlsr_features")
+
+    Returns:
+        Tuple[Path, Path]: (train_csv_path, val_csv_path)
+    """
+    pitt_train_csv, pitt_val_csv = create_split("Pitt")
+
+    train_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-train.csv"
+    val_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-val.csv"
+
+    for src_csv, dst_csv in [(pitt_train_csv, train_csv), (pitt_val_csv, val_csv)]:
+        with open(src_csv, 'r') as f_in, open(dst_csv, 'w', newline='') as f_out:
+            reader = csv.DictReader(f_in)
+            writer = csv.writer(f_out)
+            writer.writerow(['session_id', 'xlsr_path', 'ad'])
+            for row in reader:
+                session_id = row['session_id']
+                feature_path = f"{feature_dir_name}/{session_id}.xlsr.pt"
+                writer.writerow([session_id, feature_path, row['ad']])
+
+    print(f"Created {train_csv.name} and {val_csv.name} from Pitt raw split")
+    return train_csv, val_csv
+
+
 def create_test_csv(
     raw_audio_dir: Path,
     dataset_name: str,
