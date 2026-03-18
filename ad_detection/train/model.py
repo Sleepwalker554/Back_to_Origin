@@ -163,12 +163,12 @@ class AD_XLSR_Model(nn.Module):
         self.norm = nn.BatchNorm1d(1024)
 
         # Conv1d: 1024 → 64 (kernel_size=3, padding=1 preserves seq_len)
-        self.conv1 = nn.Conv1d(1024, 64, kernel_size=3, padding=1)
-        self.bn_conv = nn.BatchNorm1d(64)
+        self.conv1 = nn.Conv1d(1024, 32, kernel_size=3, padding=1)
+        self.bn_conv = nn.BatchNorm1d(32)
 
         # Linear: 64 → 32
-        self.fc1 = nn.Linear(64, 32)
-        self.bn_fc = nn.BatchNorm1d(32)
+        # self.fc1 = nn.Linear(64, 32)
+        # self.bn_fc = nn.BatchNorm1d(32)
 
         self.dropout = nn.Dropout(dropout)
 
@@ -202,8 +202,8 @@ class AD_XLSR_Model(nn.Module):
         x = x.permute(0, 2, 1)
 
         # Linear: (B, L, 64) -> (B, L, 32)
-        x = self.fc1(x)
-        x = self.bn_fc(x.permute(0, 2, 1)).permute(0, 2, 1)
+        # x = self.fc1(x)
+        # x = self.bn_fc(x.permute(0, 2, 1)).permute(0, 2, 1)
         x = F.relu(x)
         x = self.dropout(x)
 
