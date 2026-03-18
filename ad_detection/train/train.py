@@ -1,5 +1,6 @@
 import torch
 import torch.nn.functional as F
+from torch.optim.lr_scheduler import CosineAnnealingLR
 from pathlib import Path
 from tqdm import tqdm
 from config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, XLSR_DROPOUT, XLSR_DIM_INPUT
@@ -175,6 +176,9 @@ def train(seed, train_loader, val_loader, output_dir, device, xlsr=True, class_w
     # Create optimizer
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
 
+    # Cosine annealing learning rate scheduler
+    scheduler = CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=1e-6)
+
     # Training history
     train_losses = []
     train_accs = []
@@ -196,6 +200,9 @@ def train(seed, train_loader, val_loader, output_dir, device, xlsr=True, class_w
         train_loss, train_acc = train_one_epoch(model, train_loader, optimizer, device, epoch=epoch+1, class_weights=class_weights)
         train_losses.append(train_loss)
         train_accs.append(train_acc)
+
+        # Step learning rate scheduler
+        scheduler.step()
 
         # Validate
         val_loss, val_acc, control_acc, dementia_acc, f1 = validate(model, val_loader, device, epoch=epoch+1, class_weights=class_weights)

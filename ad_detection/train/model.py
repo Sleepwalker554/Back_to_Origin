@@ -162,13 +162,9 @@ class AD_XLSR_Model(nn.Module):
         # BatchNorm normalization
         self.norm = nn.BatchNorm1d(1024)
 
-        # Conv1d: 1024 → 64 (kernel_size=3, padding=1 preserves seq_len)
+        # Conv1d: 1024 → 32 (kernel_size=3, padding=1 preserves seq_len)
         self.conv1 = nn.Conv1d(1024, 32, kernel_size=3, padding=1)
         self.bn_conv = nn.BatchNorm1d(32)
-
-        # Linear: 64 → 32
-        # self.fc1 = nn.Linear(64, 32)
-        # self.bn_fc = nn.BatchNorm1d(32)
 
         self.dropout = nn.Dropout(dropout)
 
@@ -192,20 +188,14 @@ class AD_XLSR_Model(nn.Module):
         # BatchNorm: (B, L, 1024) -> (B, 1024, L) -> normalize -> (B, 1024, L)
         x = self.norm(x.permute(0, 2, 1))
 
-        # Conv1d: (B, 1024, L) -> (B, 64, L)
+        # Conv1d: (B, 1024, L) -> (B, 32, L)
         x = self.conv1(x)
         x = self.bn_conv(x)
         x = F.relu(x)
         x = self.dropout(x)
 
-        # (B, 64, L) -> (B, L, 64) for Linear
+        # (B, 32, L) -> (B, L, 32) for attention pooling
         x = x.permute(0, 2, 1)
-
-        # Linear: (B, L, 64) -> (B, L, 32)
-        # x = self.fc1(x)
-        # x = self.bn_fc(x.permute(0, 2, 1)).permute(0, 2, 1)
-        x = F.relu(x)
-        x = self.dropout(x)
 
         # Attention pooling
         x_pooled = self.pool_ad(x, mask)
