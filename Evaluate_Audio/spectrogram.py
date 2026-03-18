@@ -14,7 +14,7 @@ def show_difference_mel_spectrograms(audio_id, category='Control'):
     
     denoised_datasets = {
         'Diff: Raw - Demucs': Path('../ad_detection/data/denoised/Pitt-Demucs') / category / audio_id,
-        'Diff: Raw - FRCRN_SE': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE') / category / audio_id,
+        'Diff: Raw - FRCRN_SE_SE_PLACEHOLDER': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE_SE_PLACEHOLDER') / category / audio_id,
         'Diff: Raw - MossFormer': Path('../ad_detection/data/denoised/Pitt-MossFormer') / category / audio_id,
     }
     fig, axes = plt.subplots(1, 3, figsize=(16, 4))
@@ -54,7 +54,7 @@ def show_mel_spectrograms(audio_id, category='Control', base_path='../ad_detecti
     datasets = {
         'Pitt': Path('../ad_detection/data/raw/Pitt') / category / audio_id,
         'Pitt-Demucs': Path('../ad_detection/data/denoised/Pitt-Demucs') / category / audio_id,
-        'Pitt-FRCRN_SE': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE') / category / audio_id,
+        'Pitt-FRCRN_SE_SE_PLACEHOLDER': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE_SE_PLACEHOLDER') / category / audio_id,
         'Pitt-MossFormer': Path('../ad_detection/data/denoised/Pitt-MossFormer') / category / audio_id,
     }
     
@@ -89,7 +89,7 @@ def show_log_mel_spectrograms(audio_id, category='Control'):
     datasets = {
         'Pitt': Path('../ad_detection/data/raw/Pitt') / category / audio_id,
         'Pitt-Demucs': Path('../ad_detection/data/denoised/Pitt-Demucs') / category / audio_id,
-        'Pitt-FRCRN_SE': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE') / category / audio_id,
+        'Pitt-FRCRN_SE_SE_PLACEHOLDER': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE_SE_PLACEHOLDER') / category / audio_id,
         'Pitt-MossFormer': Path('../ad_detection/data/denoised/Pitt-MossFormer') / category / audio_id,
     }
     
@@ -125,7 +125,7 @@ def show_difference_log_mel_spectrograms(audio_id, category='Control'):
     
     denoised_datasets = {
         'Diff: Raw - Demucs': Path('../ad_detection/data/denoised/Pitt-Demucs') / category / audio_id,
-        'Diff: Raw - FRCRN_SE': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE') / category / audio_id,
+        'Diff: Raw - FRCRN_SE_SE_PLACEHOLDER': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE_SE_PLACEHOLDER') / category / audio_id,
         'Diff: Raw - MossFormer': Path('../ad_detection/data/denoised/Pitt-MossFormer') / category / audio_id,
     }
     
@@ -166,7 +166,7 @@ def show_waveform_comparison(audio_id, category='Control'):
     
     denoised_datasets = {
         'Raw vs Demucs': Path('../ad_detection/data/denoised/Pitt-Demucs') / category / audio_id,
-        'Raw vs FRCRN_SE': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE') / category / audio_id,
+        'Raw vs FRCRN_SE_SE_PLACEHOLDER': Path('../ad_detection/data/denoised/Pitt-FRCRN_SE_SE_PLACEHOLDER') / category / audio_id,
         'Raw vs MossFormer': Path('../ad_detection/data/denoised/Pitt-MossFormer') / category / audio_id,
     }
     
