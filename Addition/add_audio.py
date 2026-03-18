@@ -5,24 +5,24 @@ from tqdm import tqdm
 from scipy import signal
 
 
-def subtract_audio_files(raw_path, denoised_path, output_path):
+def add_audio_files(raw_path, denoised_path, output_path, raw_weight=1.0):
     # 读取两个音频文件
     raw_audio, raw_sr = sf.read(raw_path)
     denoised_audio, denoised_sr = sf.read(denoised_path)
-    
+
     # 如果采样率不同，将原始音频重采样到降噪后的采样率
     if raw_sr != denoised_sr:
         num_samples = int(len(raw_audio) * denoised_sr / raw_sr)
         raw_audio = signal.resample(raw_audio, num_samples)
         raw_sr = denoised_sr
-    
+
     # 对齐长度（处理可能的微小差异）
     min_len = min(len(raw_audio), len(denoised_audio))
     raw_audio = raw_audio[:min_len]
     denoised_audio = denoised_audio[:min_len]
-    
-    # 音频相减：原始音频 - 降噪后的音频 = 噪声部分
-    residual_audio = raw_audio - denoised_audio
+
+    # 音频相加：原始音频 * 系数 + 降噪后的音频
+    residual_audio = raw_audio * raw_weight + denoised_audio
     
     # 创建输出目录
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -31,7 +31,7 @@ def subtract_audio_files(raw_path, denoised_path, output_path):
     sf.write(output_path, residual_audio, raw_sr)
 
 
-def process_dataset(raw_dir, denoised_dir, output_dir):
+def process_dataset(raw_dir, denoised_dir, output_dir, raw_weight=1.0):
     raw_dir = Path(raw_dir)
     denoised_dir = Path(denoised_dir)
     output_dir = Path(output_dir)
@@ -70,7 +70,7 @@ def process_dataset(raw_dir, denoised_dir, output_dir):
                 continue
 
             try:
-                subtract_audio_files(str(raw_file), str(denoised_file), str(output_file))
+                add_audio_files(str(raw_file), str(denoised_file), str(output_file), raw_weight)
             except Exception as e:
                 skipped_files.append((raw_file.name, f"处理失败: {str(e)}"))
                 continue
