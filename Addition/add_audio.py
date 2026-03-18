@@ -48,12 +48,12 @@ def process_dataset(raw_dir, denoised_dir, output_dir, raw_weight=1.0):
         output_subdir = output_dir / subdir
         
         # 获取所有音频文件
-        raw_files = list(raw_subdir.glob('*.wav'))
+        raw_files = list(raw_subdir.glob('*.wav')) + list(raw_subdir.glob('*.mp3'))
         
         # 使用进度条显示处理进度
         for raw_file in tqdm(raw_files, desc=f"处理 {subdir}"):
             # 构建对应的降噪文件路径和输出文件路径
-            denoised_file = denoised_subdir / raw_file.name
+            denoised_file = denoised_subdir / (raw_file.stem + '.wav')
             output_file = output_subdir / raw_file.name
             
             # 检查降噪文件是否存在
