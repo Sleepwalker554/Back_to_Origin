@@ -163,7 +163,7 @@ class AD_XLSR_Model(nn.Module):
         self.norm = nn.BatchNorm1d(1024)
 
         # Conv1d: 1024 → 32 (kernel_size=3, padding=1 preserves seq_len)
-        self.conv1 = nn.Conv1d(1024, 32, kernel_size=3, padding=1)
+        self.conv1 = nn.Conv1d(1024, 32, kernel_size=5, padding=2)
         self.bn_conv = nn.BatchNorm1d(32)
 
         self.dropout = nn.Dropout(dropout)
