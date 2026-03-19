@@ -1,0 +1,57 @@
+# Core ML frameworks
+torch>=2.8.0
+torchvision>=0.23.0
+torchaudio>=2.8.0
+
+# Hugging Face ecosystem
+transformers>=4.57.0
+datasets>=4.5.0
+evaluate>=0.4.6
+accelerate>=1.10.0
+tokenizers>=0.22.0
+huggingface-hub>=0.34.0
+safetensors>=0.6.0
+timm>=1.0.0
+
+# Training & experiment tracking
+pytorch-lightning>=2.1.0
+wandb>=0.25.0
+tensorboardX>=2.6.0
+
+# Data science & visualization
+numpy>=1.26.0
+pandas>=2.3.0
+scipy>=1.13.0
+scikit-learn>=1.6.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+plotly>=6.3.0
+
+# NLP tools
+tiktoken>=0.12.0
+sacremoses>=0.1.1
+sacrebleu>=2.5.0
+jiwer>=4.0.0
+gensim>=4.3.0
+
+# Audio & speech
+librosa>=0.11.0
+soundfile>=0.13.0
+openai-whisper>=20250625
+
+# Image processing
+pillow>=11.0.0
+scikit-image>=0.24.0
+
+# Jupyter
+jupyterlab>=4.4.0
+ipywidgets>=8.1.0
+jupytext>=1.17.0
+
+# Utilities
+tqdm>=4.67.0
+pyyaml>=6.0.0
+python-dotenv>=1.2.0
+requests>=2.32.0
+beautifulsoup4>=4.13.0
+lxml>=6.0.0
