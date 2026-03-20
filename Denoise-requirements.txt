@@ -1,0 +1,71 @@
+# Denoise environment (Python 3.9)
+# Used for: Noise_Remove/ (Denoiser, Demucs, FRCRN_SE, MossFormer)
+
+# PyTorch
+torch==2.8.0
+torchaudio==2.8.0
+torchvision==0.23.0
+triton==3.4.0
+
+# Denoising models
+denoiser==0.1.5
+demucs==4.0.1
+clearvoice==0.1.2
+openunmix==1.3.0
+
+# Audio
+librosa==0.10.2.post1
+soundfile==0.12.1
+sounddevice==0.5.5
+soxr==1.0.0
+audioread==3.1.0
+lameenc==1.8.1
+pydub==0.25.1
+pystoi==0.4.1
+python_speech_features==0.6
+numba==0.60.0
+llvmlite==0.43.0
+
+# Data & ML
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.6.1
+scipy==1.13.1
+
+# ONNX (for DNSMOS evaluation)
+onnxruntime==1.19.2
+
+# Model management
+huggingface_hub==1.4.1
+einops==0.8.2
+rotary-embedding-torch==0.8.3
+
+# Hydra config
+hydra-core==0.11.3
+hydra-colorlog==0.1.4
+omegaconf==1.4.1
+
+# Utilities
+tqdm==4.67.3
+PyYAML==6.0.3
+Jinja2==3.1.6
+filelock==3.19.1
+requests==2.32.5
+colorlog==6.10.1
+coloredlogs==15.0.1
+rich==14.3.2
+beautifulsoup4==4.14.3
+protobuf==6.33.5
+
+# Demucs dependencies
+julius==0.2.7
+dora_search==0.1.12
+treetable==0.2.6
+submitit==1.5.4
+
+# OpenCV
+opencv-python==4.10.0.84
+
+# Jupyter
+ipykernel==6.30.1
+ipython==8.18.1
