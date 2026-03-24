@@ -7,11 +7,11 @@ torchvision==0.25.0+cu128
 triton==3.6.0
 
 # Audio Flamingo 3 (requires transformers >= 5.0.0)
-transformers>=5.0.0
+transformers==5.3.0
 accelerate==1.13.0
 
 # Hugging Face
-huggingface_hub==0.36.2
+huggingface_hub==1.7.2
 tokenizers==0.22.2
 safetensors==0.7.0
 hf-xet==1.4.2
