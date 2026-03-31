@@ -29,7 +29,7 @@ ETA_MIN = 1e-6                   # CosineAnnealing最小学习率
 
 # ====== Loss ======
 # denoise loss ~0.003, classify loss ~0.67, 放大 ALPHA 让两个 loss 同量级
-ALPHA = 200.0                    # L_denoise 权重 (0.003 * 200 ≈ 0.6)
+ALPHA = 50.0                    # L_denoise 权重 (0.003 * 50 ≈ 0.15)
 BETA = 1.0                       # L_classify 权重
 
 # ====== Early stopping ======
