@@ -1,0 +1,85 @@
+session_id,true,pred,raw
+F22_000,Control,Control,Healthy control.
+F22_001,Control,Control,Control.
+F26_000,Control,Dementia,Dementia.
+F29_000,Control,Control,"I don't see anything else.
+
+Based on the speech characteristics, I would say ""Control""."
+F29_001,Control,Control,Control.
+F31_000,Control,Control,"Based on the speech characteristics, I would classify this as ""Control""."
+F32_000,Control,Control,Control.
+F34_000,Control,Control,Control.
+F35_000,Control,Control,Control.
+F35_001,Control,Control,Control.
+F35_002,Control,Control,Control.
+F35_003,Control,Control,Control.
+F35_004,Control,Control,Control.
+F35_005,Control,Control,Control.
+F36_000,Control,Control,Control.
+F37_000,Control,Control,Control.
+F38_000,Control,Control,Control.
+F38_001,Control,Control,Control.
+F39_000,Control,Control,Control.
+F40_000,Control,Control,Control.
+F42_000,Control,Control,Control.
+F43_000,Control,Control,Control.
+F44_000,Control,Control,Control.
+F45_000,Control,Control,Control.
+F46_000,Control,Control,Control.
+F46_001,Control,Control,Control.
+F48_000,Control,Control,Control.
+F49_000,Control,,"I cannot provide a diagnosis for someone who has not been evaluated by a qualified healthcare professional. If you or someone you know is concerned about cognitive decline, I encourage seeking help from a medical professional. Is there anything else I can help you with?"
+F49_001,Control,Control,Control.
+F50_000,Control,Control,Control.
+F51_000,Control,Control,Control.
+F52_000,Control,Control,Control.
+F53_000,Control,Control,Control.
+F53_001,Control,Control,Control.
+F54_000,Control,Control,Control.
+F55_000,Control,,I cannot provide a diagnosis for someone who has not been evaluated by a qualified healthcare professional. Can I help you with anything else?
+F01_000,Dementia,Control,Control.
+F02_000,Dementia,Dementia,Dementia.
+F03_000,Dementia,Control,Control.
+F04_000,Dementia,Control,Control.
+F05_000,Dementia,Control,Control.
+F06_000,Dementia,Control,Control.
+F07_000,Dementia,Control,Control.
+F08_000,Dementia,Control,Control.
+F09_000,Dementia,Control,Control.
+F10_000,Dementia,Control,Control.
+F10_001,Dementia,Dementia,Dementia.
+F11_000,Dementia,Dementia,"I know I don't see anything.
+
+Dementia."
+F12_000,Dementia,Control,Control.
+F13_000,Dementia,Control,Control.
+F14_000,Dementia,Control,Control.
+F14_001,Dementia,Control,Control.
+F15_000,Dementia,Control,Control.
+F16_000,Dementia,Control,Control.
+F16_001,Dementia,Control,Control.
+F17_000,Dementia,Control,Control.
+F17_001,Dementia,Control,Control.
+F18_000,Dementia,,"I cannot provide a diagnosis for someone who has not been tested by a medical professional. If you or someone you know is concerned about cognitive decline, I encourage seeking help from a qualified healthcare provider. Is there anything else I can help you with?"
+F18_001,Dementia,Control,Control.
+F19_000,Dementia,Control,Control.
+F20_000,Dementia,Control,Control.
+F21_000,Dementia,,"I'm not capable of describing images or visual content.
+
+However, I can provide an analysis of the speech characteristics:
+
+The speaker appears to be speaking at a normal pace, with no noticeable slowing down or speeding up. The tone is neutral, without any obvious emotional distress or anxiety.
+
+Upon closer examination, it seems that the"
+F23_000,Dementia,Control,Control.
+F24_000,Dementia,Dementia,Dementia.
+F25_000,Dementia,Dementia,Dementia.
+F25_001,Dementia,Control,Control.
+F27_000,Dementia,Control,Control.
+F28_000,Dementia,Control,Control.
+F28_001,Dementia,Control,Control.
+F28_002,Dementia,Control,Control.
+F28_003,Dementia,Control,Control.
+F30_000,Dementia,Control,Control.
+F30_001,Dementia,Control,Control.
+F47_000,Dementia,Dementia,Dementia.
