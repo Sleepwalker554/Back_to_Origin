@@ -5,7 +5,7 @@ from pathlib import Path
 from tqdm import tqdm
 from joint_config import (
     MAX_EPOCHS, WEIGHT_DECAY, ETA_MIN, ALPHA, BETA,
-    FRCRN_LR, XLSR_LR, AD_LR, PHASE1_GRAD_ACCUM, PHASE2_GRAD_ACCUM,
+    FRCRN_LR, XLSR_LR, AD_LR, GRADIENT_ACCUMULATION_STEPS,
     USE_AMP, XLSR_FINETUNE_LAST_N, USE_GRADIENT_CHECKPOINT,
     XLSR_MAX_TIME_STEPS, PATIENCE, WARMUP_EPOCHS, AD_DROPOUT,
 )
@@ -271,16 +271,15 @@ def validate(joint_model, val_loader, device, epoch=None, class_weights=None):
     }
 
 
-def train(seed, phase1_train_loader, phase1_val_loader,
-          phase2_train_loader, phase2_val_loader,
+def train(seed, train_loader, val_loader,
           output_dir, device,
           frcrn_pretrained_path=None,
           class_weight_control=1.0, class_weight_dementia=1.0):
     """
     Two-phase joint training pipeline
 
-    Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (WARMUP_EPOCHS, batch=32)
-    Phase 2: 解冻 FRCRN unet2, 联合训练 (MAX_EPOCHS - WARMUP_EPOCHS, batch=2)
+    Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (WARMUP_EPOCHS)
+    Phase 2: 解冻 FRCRN unet2, 联合训练 (MAX_EPOCHS - WARMUP_EPOCHS)
 
     Returns:
         seed, best_metrics, training_history
@@ -325,9 +324,9 @@ def train(seed, phase1_train_loader, phase1_val_loader,
 
     for epoch in range(WARMUP_EPOCHS):
         train_metrics = train_one_epoch(
-            joint_model, phase1_train_loader, optimizer1, device,
+            joint_model, train_loader, optimizer1, device,
             epoch=epoch + 1, class_weights=class_weights,
-            phase=1, grad_accum=PHASE1_GRAD_ACCUM,
+            phase=1, grad_accum=GRADIENT_ACCUMULATION_STEPS,
         )
         train_losses.append(train_metrics['loss'])
         train_accs.append(train_metrics['accuracy'])
@@ -335,7 +334,7 @@ def train(seed, phase1_train_loader, phase1_val_loader,
         scheduler1.step()
 
         val_metrics = validate(
-            joint_model, phase1_val_loader, device,
+            joint_model, val_loader, device,
             epoch=epoch + 1, class_weights=class_weights,
         )
         val_losses.append(val_metrics['loss'])
@@ -382,9 +381,9 @@ def train(seed, phase1_train_loader, phase1_val_loader,
 
     for epoch in range(WARMUP_EPOCHS, MAX_EPOCHS):
         train_metrics = train_one_epoch(
-            joint_model, phase2_train_loader, optimizer2, device,
+            joint_model, train_loader, optimizer2, device,
             epoch=epoch + 1, class_weights=class_weights,
-            phase=2, grad_accum=PHASE2_GRAD_ACCUM,
+            phase=2, grad_accum=GRADIENT_ACCUMULATION_STEPS,
         )
         train_losses.append(train_metrics['loss'])
         train_accs.append(train_metrics['accuracy'])
@@ -392,7 +391,7 @@ def train(seed, phase1_train_loader, phase1_val_loader,
         scheduler2.step()
 
         val_metrics = validate(
-            joint_model, phase2_val_loader, device,
+            joint_model, val_loader, device,
             epoch=epoch + 1, class_weights=class_weights,
         )
         val_losses.append(val_metrics['loss'])

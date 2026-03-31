@@ -5,7 +5,7 @@ import numpy as np
 from pathlib import Path
 from torch.utils.data import Dataset, DataLoader
 from joint_config import (
-    PROJECT_ROOT, PHASE1_BATCH_SIZE, PHASE2_BATCH_SIZE, NUM_WORKERS,
+    PROJECT_ROOT, BATCH_SIZE, NUM_WORKERS,
     SAMPLING_RATE, JOINT_SECOND_LENGTH
 )
 
@@ -112,17 +112,13 @@ def create_joint_dataloaders(
     val_csv: Path,
     raw_audio_dir: Path,
     clean_audio_dir: Path,
+    batch_size: int = BATCH_SIZE,
     num_workers: int = NUM_WORKERS,
 ):
     train_dataset = JointTrainingDataset(train_csv, raw_audio_dir, clean_audio_dir)
     val_dataset = JointTrainingDataset(val_csv, raw_audio_dir, clean_audio_dir)
 
-    # Phase 1: 大 batch (无梯度穿 XLSR)
-    phase1_train = _make_loader(train_dataset, PHASE1_BATCH_SIZE, shuffle=True, num_workers=num_workers)
-    phase1_val = _make_loader(val_dataset, PHASE1_BATCH_SIZE, shuffle=False, num_workers=num_workers)
+    train_loader = _make_loader(train_dataset, batch_size, shuffle=True, num_workers=num_workers)
+    val_loader = _make_loader(val_dataset, batch_size, shuffle=False, num_workers=num_workers)
 
-    # Phase 2: 小 batch (端到端反向传播)
-    phase2_train = _make_loader(train_dataset, PHASE2_BATCH_SIZE, shuffle=True, num_workers=num_workers)
-    phase2_val = _make_loader(val_dataset, PHASE2_BATCH_SIZE, shuffle=False, num_workers=num_workers)
-
-    return phase1_train, phase1_val, phase2_train, phase2_val
+    return train_loader, val_loader

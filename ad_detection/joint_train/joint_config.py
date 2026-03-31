@@ -11,12 +11,9 @@ JOINT_SECOND_LENGTH = 60        # 60秒音频
 XLSR_MAX_TIME_STEPS = 50 * JOINT_SECOND_LENGTH  # ~3000 steps
 
 # ====== Hardware (RTX 5090 32GB) ======
-# Phase 1: 无反向传播穿 FRCRN/XLSR, 显存低, 和 baseline 一样 batch=32
-PHASE1_BATCH_SIZE = 32
-PHASE1_GRAD_ACCUM = 1            # Phase 1 不需要 gradient accumulation
-# Phase 2: 端到端反向传播, 显存高
-PHASE2_BATCH_SIZE = 2
-PHASE2_GRAD_ACCUM = 16           # Phase 2 有效batch = 2 * 16 = 32
+# 两个 Phase 统一 batch size，Phase 2 端到端反向传播是瓶颈
+BATCH_SIZE = 4
+GRADIENT_ACCUMULATION_STEPS = 8  # 有效batch = 4 * 8 = 32
 USE_AMP = True
 
 # ====== Model freezing ======
