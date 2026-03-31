@@ -20,7 +20,7 @@ XLSR_FINETUNE_LAST_N = 0         # XLSR 全冻结，梯度穿过回传到 FRCRN
 USE_GRADIENT_CHECKPOINT = True    # 对frozen XLSR层用gradient checkpointing
 
 # ====== Training ======
-MAX_EPOCHS = 50
+MAX_EPOCHS = 200
 FRCRN_LR = 1e-5                  # FRCRN unet2
 XLSR_LR = 1e-5                   # XLSR (当前未使用，XLSR全冻结)
 AD_LR = 3e-3                     # AD分类器
@@ -33,7 +33,7 @@ ALPHA = 50.0                    # L_denoise 权重 (0.003 * 50 ≈ 0.15)
 BETA = 1.0                       # L_classify 权重
 
 # ====== Early stopping ======
-PATIENCE = 10
+PATIENCE = 30
 
 # ====== Seeds ======
 RANDOM_SEEDS = [21, 42, 84, 168, 336]
