@@ -19,21 +19,26 @@ USE_AMP = True
 XLSR_FINETUNE_LAST_N = 0         # XLSR 全冻结，梯度穿过回传到 FRCRN
 USE_GRADIENT_CHECKPOINT = True    # 对frozen XLSR层用gradient checkpointing
 
-# ====== Training ======
-MAX_EPOCHS = 200
-FRCRN_LR = 1e-5                  # FRCRN unet2
+# ====== Two-phase training ======
+# Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (让分类器在稳定特征上先学会)
+# Phase 2: 解冻 FRCRN unet2, 联合训练 (分类器已收敛, 给 FRCRN 有意义的梯度)
+WARMUP_EPOCHS = 20               # Phase 1 epoch 数
+MAX_EPOCHS = 200                 # 总 epoch 数 (Phase 1 + Phase 2)
+
+FRCRN_LR = 1e-5                  # Phase 2: FRCRN unet2
 XLSR_LR = 1e-5                   # XLSR (当前未使用，XLSR全冻结)
 AD_LR = 3e-3                     # AD分类器
 WEIGHT_DECAY = 1e-2
 ETA_MIN = 1e-6                   # CosineAnnealing最小学习率
 
 # ====== Loss ======
-# denoise loss ~0.003, classify loss ~0.67, 放大 ALPHA 让两个 loss 同量级
-ALPHA = 50.0                    # L_denoise 权重 (0.003 * 50 ≈ 0.15)
+# Phase 1: 只有 classify loss (ALPHA=0, FRCRN冻结)
+# Phase 2: denoise loss ~0.003, classify loss ~0.67
+ALPHA = 50.0                     # L_denoise 权重 (Phase 2 才生效)
 BETA = 1.0                       # L_classify 权重
 
 # ====== Early stopping ======
-PATIENCE = 30
+PATIENCE = 30                    # Phase 2 的 early stopping
 
 # ====== Seeds ======
 RANDOM_SEEDS = [21, 42, 84, 168, 336]

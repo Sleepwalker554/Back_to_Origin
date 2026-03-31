@@ -7,7 +7,7 @@ from joint_config import (
     MAX_EPOCHS, WEIGHT_DECAY, ETA_MIN, ALPHA, BETA,
     FRCRN_LR, XLSR_LR, AD_LR, GRADIENT_ACCUMULATION_STEPS,
     USE_AMP, XLSR_FINETUNE_LAST_N, USE_GRADIENT_CHECKPOINT,
-    XLSR_MAX_TIME_STEPS, PATIENCE,
+    XLSR_MAX_TIME_STEPS, PATIENCE, WARMUP_EPOCHS,
 )
 from joint_model import JointDenoiseADModel, JointFRCRN, JointSSLModel, AD_XLSR_Model
 
@@ -30,8 +30,26 @@ def build_joint_model(device, frcrn_pretrained_path=None):
     return joint_model
 
 
-def build_optimizer(joint_model):
-    """为有可训练参数的组件分别设置学习率"""
+def build_phase1_optimizer(joint_model):
+    """Phase 1: 只训练 AD 分类器"""
+    param_groups = [{
+        'params': joint_model.ad_model.parameters(),
+        'lr': AD_LR,
+        'name': 'ad_classifier',
+    }]
+
+    for pg in param_groups:
+        n = sum(p.numel() for p in pg['params'])
+        print(f"  Phase 1 - Optimizer group '{pg['name']}': {n:,} params, lr={pg['lr']}")
+
+    optimizer = torch.optim.AdamW(param_groups, weight_decay=WEIGHT_DECAY)
+    scheduler = CosineAnnealingLR(optimizer, T_max=WARMUP_EPOCHS, eta_min=ETA_MIN)
+
+    return optimizer, scheduler
+
+
+def build_phase2_optimizer(joint_model):
+    """Phase 2: AD 分类器 + FRCRN unet2 (+ 可选 XLSR finetune)"""
     param_groups = []
 
     frcrn_params = [p for p in joint_model.frcrn_model.parameters() if p.requires_grad]
@@ -52,26 +70,32 @@ def build_optimizer(joint_model):
 
     param_groups.append({
         'params': joint_model.ad_model.parameters(),
-        'lr': AD_LR,
+        'lr': AD_LR * 0.1,  # Phase 2 分类器用更小的 lr，避免破坏已学到的东西
         'name': 'ad_classifier',
     })
 
-    # 打印各组参数量
     for pg in param_groups:
         n = sum(p.numel() for p in pg['params'])
-        print(f"  Optimizer group '{pg['name']}': {n:,} params, lr={pg['lr']}")
+        print(f"  Phase 2 - Optimizer group '{pg['name']}': {n:,} params, lr={pg['lr']}")
 
+    phase2_epochs = MAX_EPOCHS - WARMUP_EPOCHS
     optimizer = torch.optim.AdamW(param_groups, weight_decay=WEIGHT_DECAY)
-    scheduler = CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=ETA_MIN)
+    scheduler = CosineAnnealingLR(optimizer, T_max=phase2_epochs, eta_min=ETA_MIN)
 
     return optimizer, scheduler
 
 
 def train_one_epoch(joint_model, train_loader, optimizer, device,
-                    epoch=None, class_weights=None):
-    joint_model.frcrn_model.train()
+                    epoch=None, class_weights=None, phase=1):
+    """
+    phase=1: FRCRN 冻结, 只有 classify loss
+    phase=2: FRCRN 解冻, denoise + classify loss
+    """
     joint_model.ad_model.train()
-    # XLSR 保持 eval (BatchNorm/Dropout 行为)，但后3层仍然接收梯度
+    if phase == 2:
+        joint_model.frcrn_model.train()
+    else:
+        joint_model.frcrn_model.eval()
 
     total_loss = 0
     total_denoise_loss = 0
@@ -81,7 +105,7 @@ def train_one_epoch(joint_model, train_loader, optimizer, device,
 
     optimizer.zero_grad()
 
-    desc = f"Epoch {epoch} - Training" if epoch is not None else "Training"
+    desc = f"Epoch {epoch} [Phase {phase}] - Training" if epoch is not None else "Training"
     pbar = tqdm(train_loader, desc=desc, leave=False)
 
     for i, (raw, clean, labels) in enumerate(pbar):
@@ -89,15 +113,47 @@ def train_one_epoch(joint_model, train_loader, optimizer, device,
         clean = clean.to(device)
         labels = labels.to(device)
 
-        with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
-            denoised, logits = joint_model(raw)
+        if phase == 1:
+            # Phase 1: FRCRN 不需要梯度, 省显存省时间
+            with torch.no_grad():
+                with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
+                    denoised, _ = joint_model.frcrn_model(raw)
+                    xlsr_feat = joint_model.xlsr_model.extract_feat(denoised)
+                    # pad/truncate + mask
+                    seq_len = xlsr_feat.shape[1]
+                    if seq_len > joint_model.xlsr_max_time_steps:
+                        xlsr_feat = xlsr_feat[:, :joint_model.xlsr_max_time_steps, :]
+                        mask = torch.ones(xlsr_feat.shape[0], joint_model.xlsr_max_time_steps,
+                                          device=xlsr_feat.device)
+                    elif seq_len < joint_model.xlsr_max_time_steps:
+                        pad_len = joint_model.xlsr_max_time_steps - seq_len
+                        xlsr_feat = F.pad(xlsr_feat, (0, 0, 0, pad_len))
+                        mask = torch.ones(xlsr_feat.shape[0], joint_model.xlsr_max_time_steps,
+                                          device=xlsr_feat.device)
+                        mask[:, seq_len:] = 0
+                    else:
+                        mask = torch.ones(xlsr_feat.shape[0], seq_len, device=xlsr_feat.device)
 
-            loss_denoise = F.l1_loss(denoised, clean)
-            loss_classify = F.cross_entropy(logits, labels, weight=class_weights)
-            loss_total = ALPHA * loss_denoise + BETA * loss_classify
+            # 只有分类 loss, 只有 AD 分类器有梯度
+            with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
+                logits = joint_model.ad_model(xlsr_feat, mask)
+                loss_classify = F.cross_entropy(logits, labels, weight=class_weights)
+                loss_total = BETA * loss_classify
+                loss_denoise = F.l1_loss(denoised, clean)  # 仅监控, 不参与反向传播
+
             loss_scaled = loss_total / GRADIENT_ACCUMULATION_STEPS
+            loss_scaled.backward()
 
-        loss_scaled.backward()
+        else:
+            # Phase 2: 端到端, FRCRN + AD 都有梯度
+            with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
+                denoised, logits = joint_model(raw)
+                loss_denoise = F.l1_loss(denoised, clean)
+                loss_classify = F.cross_entropy(logits, labels, weight=class_weights)
+                loss_total = ALPHA * loss_denoise + BETA * loss_classify
+
+            loss_scaled = loss_total / GRADIENT_ACCUMULATION_STEPS
+            loss_scaled.backward()
 
         if (i + 1) % GRADIENT_ACCUMULATION_STEPS == 0:
             torch.nn.utils.clip_grad_norm_(
@@ -219,7 +275,10 @@ def train(seed, train_loader, val_loader, output_dir, device,
           frcrn_pretrained_path=None,
           class_weight_control=1.0, class_weight_dementia=1.0):
     """
-    Joint training pipeline
+    Two-phase joint training pipeline
+
+    Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (WARMUP_EPOCHS)
+    Phase 2: 解冻 FRCRN unet2, 联合训练 (MAX_EPOCHS - WARMUP_EPOCHS)
 
     Returns:
         seed, best_metrics, training_history
@@ -238,29 +297,39 @@ def train(seed, train_loader, val_loader, output_dir, device,
 
     # 构建模型
     joint_model = build_joint_model(device, frcrn_pretrained_path)
-    optimizer, scheduler = build_optimizer(joint_model)
 
     # 训练历史
     train_losses, train_accs = [], []
     val_losses, val_accs = [], []
     epochs_list = []
 
-    # Early stopping
+    # Early stopping (只在 Phase 2 生效)
     best_val_acc = 0
     best_metrics = {}
     patience_counter = 0
     best_epoch = 0
     stopped_epoch = 0
 
-    for epoch in range(MAX_EPOCHS):
+    # ============ Phase 1: 只训练 AD 分类器 ============
+    print(f"\n{'='*60}")
+    print(f"Phase 1: Training AD classifier only ({WARMUP_EPOCHS} epochs)")
+    print(f"{'='*60}")
+
+    # Phase 1 冻结 FRCRN unet2
+    for p in joint_model.frcrn_model.parameters():
+        p.requires_grad = False
+
+    optimizer1, scheduler1 = build_phase1_optimizer(joint_model)
+
+    for epoch in range(WARMUP_EPOCHS):
         train_metrics = train_one_epoch(
-            joint_model, train_loader, optimizer, device,
-            epoch=epoch + 1, class_weights=class_weights,
+            joint_model, train_loader, optimizer1, device,
+            epoch=epoch + 1, class_weights=class_weights, phase=1,
         )
         train_losses.append(train_metrics['loss'])
         train_accs.append(train_metrics['accuracy'])
 
-        scheduler.step()
+        scheduler1.step()
 
         val_metrics = validate(
             joint_model, val_loader, device,
@@ -270,7 +339,63 @@ def train(seed, train_loader, val_loader, output_dir, device,
         val_accs.append(val_metrics['accuracy'])
         epochs_list.append(epoch)
 
-        print(f"Epoch {epoch + 1}: "
+        print(f"Epoch {epoch + 1} [Phase 1]: "
+              f"train_loss={train_metrics['loss']:.4f} "
+              f"train_acc={train_metrics['accuracy']:.4f} | "
+              f"val_acc={val_metrics['accuracy']:.4f} "
+              f"val_f1={val_metrics['f1_score']:.4f} "
+              f"denoise={val_metrics['denoise_loss']:.4f}")
+
+        # Phase 1 也记录最佳模型
+        if val_metrics['accuracy'] > best_val_acc:
+            best_val_acc = val_metrics['accuracy']
+            best_epoch = epoch + 1
+            best_metrics = val_metrics.copy()
+            torch.save(joint_model.frcrn_model.state_dict(), save_dir / 'frcrn_best.pth')
+            torch.save(joint_model.xlsr_model.state_dict(), save_dir / 'xlsr_best.pth')
+            torch.save(joint_model.ad_model.state_dict(), save_dir / 'ad_model_best.pth')
+            torch.save({
+                'epoch': epoch + 1,
+                'phase': 1,
+                'best_val_acc': best_val_acc,
+                'best_metrics': best_metrics,
+            }, save_dir / 'meta.pth')
+
+    print(f"\nPhase 1 done: best val_acc={best_val_acc*100:.2f}% at epoch {best_epoch}")
+
+    # ============ Phase 2: 联合训练 ============
+    print(f"\n{'='*60}")
+    print(f"Phase 2: Joint training FRCRN + AD ({MAX_EPOCHS - WARMUP_EPOCHS} epochs)")
+    print(f"{'='*60}")
+
+    # 解冻 FRCRN unet2
+    for p in joint_model.frcrn_model.frcrn.unet2.parameters():
+        p.requires_grad = True
+
+    optimizer2, scheduler2 = build_phase2_optimizer(joint_model)
+
+    # Phase 2 early stopping 从 Phase 1 最佳 val_acc 开始
+    patience_counter = 0
+
+    for epoch in range(WARMUP_EPOCHS, MAX_EPOCHS):
+        train_metrics = train_one_epoch(
+            joint_model, train_loader, optimizer2, device,
+            epoch=epoch + 1, class_weights=class_weights, phase=2,
+        )
+        train_losses.append(train_metrics['loss'])
+        train_accs.append(train_metrics['accuracy'])
+
+        scheduler2.step()
+
+        val_metrics = validate(
+            joint_model, val_loader, device,
+            epoch=epoch + 1, class_weights=class_weights,
+        )
+        val_losses.append(val_metrics['loss'])
+        val_accs.append(val_metrics['accuracy'])
+        epochs_list.append(epoch)
+
+        print(f"Epoch {epoch + 1} [Phase 2]: "
               f"train_loss={train_metrics['loss']:.4f} "
               f"train_acc={train_metrics['accuracy']:.4f} | "
               f"val_acc={val_metrics['accuracy']:.4f} "
@@ -282,13 +407,12 @@ def train(seed, train_loader, val_loader, output_dir, device,
             best_epoch = epoch + 1
             best_metrics = val_metrics.copy()
             patience_counter = 0
-            # 分别保存三个模型
             torch.save(joint_model.frcrn_model.state_dict(), save_dir / 'frcrn_best.pth')
             torch.save(joint_model.xlsr_model.state_dict(), save_dir / 'xlsr_best.pth')
             torch.save(joint_model.ad_model.state_dict(), save_dir / 'ad_model_best.pth')
-            # 保存训练元信息
             torch.save({
                 'epoch': epoch + 1,
+                'phase': 2,
                 'best_val_acc': best_val_acc,
                 'best_metrics': best_metrics,
             }, save_dir / 'meta.pth')
@@ -306,8 +430,8 @@ def train(seed, train_loader, val_loader, output_dir, device,
           f"Control Acc={best_metrics['control_acc'] * 100:.2f}%, "
           f"Dementia Acc={best_metrics['dementia_acc'] * 100:.2f}%\n"
           f"Denoise Loss={best_metrics['denoise_loss']:.4f}\n"
-          f"Early stop at: epoch {stopped_epoch if stopped_epoch > 0 else MAX_EPOCHS} "
-          f"(best epoch: {best_epoch})")
+          f"Best epoch: {best_epoch} | "
+          f"Early stop at: epoch {stopped_epoch if stopped_epoch > 0 else MAX_EPOCHS}")
 
     training_history = {
         'epochs': epochs_list,
