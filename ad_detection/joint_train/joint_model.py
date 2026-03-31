@@ -79,21 +79,16 @@ class JointSSLModel(nn.Module):
         x = x.transpose(0, 1)
 
         # ====== Transformer layers ======
-        layer_results = []
-
         for i, layer in enumerate(self.model.encoder.layers):
             if i < self.frozen_layers and self.use_checkpoint:
-                # Frozen 层: gradient checkpointing
-                # 需要 use_reentrant=False 因为 frozen 参数
-                x, (z, lr) = checkpoint(
+                # Frozen 层: gradient checkpointing, 只返回 x
+                x = checkpoint(
                     self._run_layer, layer, x, None,
                     use_reentrant=False,
                 )
             else:
-                # Trainable 层 或 不用 checkpointing: 正常 forward
-                x, (z, lr) = layer(x, self_attn_padding_mask=None, need_weights=False)
-
-            layer_results.append((x, z, lr))
+                # Trainable 层: 正常 forward
+                x, _ = layer(x, self_attn_padding_mask=None, need_weights=False)
 
         # Final layer norm
         x = self.model.encoder.layer_norm(x)
@@ -101,12 +96,13 @@ class JointSSLModel(nn.Module):
         # T x B x C -> B x T x C
         x = x.transpose(0, 1)
 
-        return x, layer_results
+        return x
 
     @staticmethod
     def _run_layer(layer, x, padding_mask):
-        """Wrapper for gradient checkpointing"""
-        return layer(x, self_attn_padding_mask=padding_mask, need_weights=False)
+        """Wrapper for gradient checkpointing, 只返回 x"""
+        x, _ = layer(x, self_attn_padding_mask=padding_mask, need_weights=False)
+        return x
 
 
 class JointFRCRN(nn.Module):
@@ -233,7 +229,7 @@ class JointDenoiseADModel(nn.Module):
         denoised, _ = self.frcrn_model(raw_audio)  # (B, T)
 
         # 2. XLSR 特征提取
-        xlsr_feat, _ = self.xlsr_model.extract_feat(denoised)  # (B, T/320, 1024)
+        xlsr_feat = self.xlsr_model.extract_feat(denoised)  # (B, T/320, 1024)
 
         # 3. Pad/truncate + mask
         seq_len = xlsr_feat.shape[1]
