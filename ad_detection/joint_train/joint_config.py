@@ -11,13 +11,20 @@ JOINT_SECOND_LENGTH = 60        # 60秒音频
 XLSR_MAX_TIME_STEPS = 50 * JOINT_SECOND_LENGTH  # ~3000 steps
 
 # ====== Hardware (RTX 5090 32GB) ======
-JOINT_BATCH_SIZE = 1
-GRADIENT_ACCUMULATION_STEPS = 32  # 有效batch = 32
+# Phase 1: 无反向传播穿 FRCRN/XLSR, 显存低, 和 baseline 一样 batch=32
+PHASE1_BATCH_SIZE = 32
+PHASE1_GRAD_ACCUM = 1            # Phase 1 不需要 gradient accumulation
+# Phase 2: 端到端反向传播, 显存高
+PHASE2_BATCH_SIZE = 2
+PHASE2_GRAD_ACCUM = 16           # Phase 2 有效batch = 2 * 16 = 32
 USE_AMP = True
 
 # ====== Model freezing ======
 XLSR_FINETUNE_LAST_N = 0         # XLSR 全冻结，梯度穿过回传到 FRCRN
 USE_GRADIENT_CHECKPOINT = True    # 对frozen XLSR层用gradient checkpointing
+
+# ====== AD classifier (和 baseline train/config.py 一致) ======
+AD_DROPOUT = 0.2                 # baseline 用 0.2
 
 # ====== Two-phase training ======
 # Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (让分类器在稳定特征上先学会)

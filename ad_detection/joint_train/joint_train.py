@@ -5,9 +5,9 @@ from pathlib import Path
 from tqdm import tqdm
 from joint_config import (
     MAX_EPOCHS, WEIGHT_DECAY, ETA_MIN, ALPHA, BETA,
-    FRCRN_LR, XLSR_LR, AD_LR, GRADIENT_ACCUMULATION_STEPS,
+    FRCRN_LR, XLSR_LR, AD_LR, PHASE1_GRAD_ACCUM, PHASE2_GRAD_ACCUM,
     USE_AMP, XLSR_FINETUNE_LAST_N, USE_GRADIENT_CHECKPOINT,
-    XLSR_MAX_TIME_STEPS, PATIENCE, WARMUP_EPOCHS,
+    XLSR_MAX_TIME_STEPS, PATIENCE, WARMUP_EPOCHS, AD_DROPOUT,
 )
 from joint_model import JointDenoiseADModel, JointFRCRN, JointSSLModel, AD_XLSR_Model
 
@@ -20,7 +20,7 @@ def build_joint_model(device, frcrn_pretrained_path=None):
         finetune_last_n=XLSR_FINETUNE_LAST_N,
         use_checkpoint=USE_GRADIENT_CHECKPOINT,
     )
-    ad_model = AD_XLSR_Model(dropout=0.4).to(device)
+    ad_model = AD_XLSR_Model(dropout=AD_DROPOUT).to(device)
 
     joint_model = JointDenoiseADModel(
         frcrn_model, xlsr_model, ad_model,
@@ -86,7 +86,7 @@ def build_phase2_optimizer(joint_model):
 
 
 def train_one_epoch(joint_model, train_loader, optimizer, device,
-                    epoch=None, class_weights=None, phase=1):
+                    epoch=None, class_weights=None, phase=1, grad_accum=16):
     """
     phase=1: FRCRN 冻结, 只有 classify loss
     phase=2: FRCRN 解冻, denoise + classify loss
@@ -114,7 +114,7 @@ def train_one_epoch(joint_model, train_loader, optimizer, device,
         labels = labels.to(device)
 
         if phase == 1:
-            # Phase 1: FRCRN 不需要梯度, 省显存省时间
+            # Phase 1: FRCRN+XLSR 不需要梯度, 省显存省时间
             with torch.no_grad():
                 with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
                     denoised, _ = joint_model.frcrn_model(raw)
@@ -139,9 +139,9 @@ def train_one_epoch(joint_model, train_loader, optimizer, device,
                 logits = joint_model.ad_model(xlsr_feat, mask)
                 loss_classify = F.cross_entropy(logits, labels, weight=class_weights)
                 loss_total = BETA * loss_classify
-                loss_denoise = F.l1_loss(denoised, clean)  # 仅监控, 不参与反向传播
+                loss_denoise = F.l1_loss(denoised, clean)  # 仅监控
 
-            loss_scaled = loss_total / GRADIENT_ACCUMULATION_STEPS
+            loss_scaled = loss_total / grad_accum
             loss_scaled.backward()
 
         else:
@@ -152,10 +152,10 @@ def train_one_epoch(joint_model, train_loader, optimizer, device,
                 loss_classify = F.cross_entropy(logits, labels, weight=class_weights)
                 loss_total = ALPHA * loss_denoise + BETA * loss_classify
 
-            loss_scaled = loss_total / GRADIENT_ACCUMULATION_STEPS
+            loss_scaled = loss_total / grad_accum
             loss_scaled.backward()
 
-        if (i + 1) % GRADIENT_ACCUMULATION_STEPS == 0:
+        if (i + 1) % grad_accum == 0:
             torch.nn.utils.clip_grad_norm_(
                 [p for p in joint_model.parameters() if p.requires_grad], max_norm=1.0)
             optimizer.step()
@@ -176,8 +176,8 @@ def train_one_epoch(joint_model, train_loader, optimizer, device,
             'acc': f'{correct / total:.4f}',
         })
 
-    # 处理尾部不足 accumulation steps 的梯度
-    if (i + 1) % GRADIENT_ACCUMULATION_STEPS != 0:
+    # 处理尾部不足 grad_accum 的梯度
+    if (i + 1) % grad_accum != 0:
         torch.nn.utils.clip_grad_norm_(
             [p for p in joint_model.parameters() if p.requires_grad], max_norm=1.0)
         optimizer.step()
@@ -271,14 +271,16 @@ def validate(joint_model, val_loader, device, epoch=None, class_weights=None):
     }
 
 
-def train(seed, train_loader, val_loader, output_dir, device,
+def train(seed, phase1_train_loader, phase1_val_loader,
+          phase2_train_loader, phase2_val_loader,
+          output_dir, device,
           frcrn_pretrained_path=None,
           class_weight_control=1.0, class_weight_dementia=1.0):
     """
     Two-phase joint training pipeline
 
-    Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (WARMUP_EPOCHS)
-    Phase 2: 解冻 FRCRN unet2, 联合训练 (MAX_EPOCHS - WARMUP_EPOCHS)
+    Phase 1: 冻结 FRCRN, 只训练 AD 分类器 (WARMUP_EPOCHS, batch=32)
+    Phase 2: 解冻 FRCRN unet2, 联合训练 (MAX_EPOCHS - WARMUP_EPOCHS, batch=2)
 
     Returns:
         seed, best_metrics, training_history
@@ -323,8 +325,9 @@ def train(seed, train_loader, val_loader, output_dir, device,
 
     for epoch in range(WARMUP_EPOCHS):
         train_metrics = train_one_epoch(
-            joint_model, train_loader, optimizer1, device,
-            epoch=epoch + 1, class_weights=class_weights, phase=1,
+            joint_model, phase1_train_loader, optimizer1, device,
+            epoch=epoch + 1, class_weights=class_weights,
+            phase=1, grad_accum=PHASE1_GRAD_ACCUM,
         )
         train_losses.append(train_metrics['loss'])
         train_accs.append(train_metrics['accuracy'])
@@ -332,7 +335,7 @@ def train(seed, train_loader, val_loader, output_dir, device,
         scheduler1.step()
 
         val_metrics = validate(
-            joint_model, val_loader, device,
+            joint_model, phase1_val_loader, device,
             epoch=epoch + 1, class_weights=class_weights,
         )
         val_losses.append(val_metrics['loss'])
@@ -379,8 +382,9 @@ def train(seed, train_loader, val_loader, output_dir, device,
 
     for epoch in range(WARMUP_EPOCHS, MAX_EPOCHS):
         train_metrics = train_one_epoch(
-            joint_model, train_loader, optimizer2, device,
-            epoch=epoch + 1, class_weights=class_weights, phase=2,
+            joint_model, phase2_train_loader, optimizer2, device,
+            epoch=epoch + 1, class_weights=class_weights,
+            phase=2, grad_accum=PHASE2_GRAD_ACCUM,
         )
         train_losses.append(train_metrics['loss'])
         train_accs.append(train_metrics['accuracy'])
@@ -388,7 +392,7 @@ def train(seed, train_loader, val_loader, output_dir, device,
         scheduler2.step()
 
         val_metrics = validate(
-            joint_model, val_loader, device,
+            joint_model, phase2_val_loader, device,
             epoch=epoch + 1, class_weights=class_weights,
         )
         val_losses.append(val_metrics['loss'])
