@@ -31,24 +31,35 @@ def build_joint_model(device, frcrn_pretrained_path=None):
 
 
 def build_optimizer(joint_model):
-    """三组参数，三个学习率"""
-    param_groups = [
-        {
-            'params': [p for p in joint_model.frcrn_model.parameters() if p.requires_grad],
+    """为有可训练参数的组件分别设置学习率"""
+    param_groups = []
+
+    frcrn_params = [p for p in joint_model.frcrn_model.parameters() if p.requires_grad]
+    if frcrn_params:
+        param_groups.append({
+            'params': frcrn_params,
             'lr': FRCRN_LR,
             'name': 'frcrn_unet2',
-        },
-        {
-            'params': [p for p in joint_model.xlsr_model.parameters() if p.requires_grad],
+        })
+
+    xlsr_params = [p for p in joint_model.xlsr_model.parameters() if p.requires_grad]
+    if xlsr_params:
+        param_groups.append({
+            'params': xlsr_params,
             'lr': XLSR_LR,
-            'name': 'xlsr_last3',
-        },
-        {
-            'params': joint_model.ad_model.parameters(),
-            'lr': AD_LR,
-            'name': 'ad_classifier',
-        },
-    ]
+            'name': 'xlsr_finetune',
+        })
+
+    param_groups.append({
+        'params': joint_model.ad_model.parameters(),
+        'lr': AD_LR,
+        'name': 'ad_classifier',
+    })
+
+    # 打印各组参数量
+    for pg in param_groups:
+        n = sum(p.numel() for p in pg['params'])
+        print(f"  Optimizer group '{pg['name']}': {n:,} params, lr={pg['lr']}")
 
     optimizer = torch.optim.AdamW(param_groups, weight_decay=WEIGHT_DECAY)
     scheduler = CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=ETA_MIN)
