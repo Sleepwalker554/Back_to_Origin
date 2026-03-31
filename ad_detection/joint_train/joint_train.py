@@ -56,7 +56,7 @@ def build_optimizer(joint_model):
     return optimizer, scheduler
 
 
-def train_one_epoch(joint_model, train_loader, optimizer, scaler, device,
+def train_one_epoch(joint_model, train_loader, optimizer, device,
                     epoch=None, class_weights=None):
     joint_model.frcrn_model.train()
     joint_model.ad_model.train()
@@ -78,7 +78,7 @@ def train_one_epoch(joint_model, train_loader, optimizer, scaler, device,
         clean = clean.to(device)
         labels = labels.to(device)
 
-        with torch.cuda.amp.autocast(enabled=USE_AMP):
+        with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
             denoised, logits = joint_model(raw)
 
             loss_denoise = F.l1_loss(denoised, clean)
@@ -86,11 +86,12 @@ def train_one_epoch(joint_model, train_loader, optimizer, scaler, device,
             loss_total = ALPHA * loss_denoise + BETA * loss_classify
             loss_scaled = loss_total / GRADIENT_ACCUMULATION_STEPS
 
-        scaler.scale(loss_scaled).backward()
+        loss_scaled.backward()
 
         if (i + 1) % GRADIENT_ACCUMULATION_STEPS == 0:
-            scaler.step(optimizer)
-            scaler.update()
+            torch.nn.utils.clip_grad_norm_(
+                [p for p in joint_model.parameters() if p.requires_grad], max_norm=1.0)
+            optimizer.step()
             optimizer.zero_grad()
 
         # 统计
@@ -110,8 +111,9 @@ def train_one_epoch(joint_model, train_loader, optimizer, scaler, device,
 
     # 处理尾部不足 accumulation steps 的梯度
     if (i + 1) % GRADIENT_ACCUMULATION_STEPS != 0:
-        scaler.step(optimizer)
-        scaler.update()
+        torch.nn.utils.clip_grad_norm_(
+            [p for p in joint_model.parameters() if p.requires_grad], max_norm=1.0)
+        optimizer.step()
         optimizer.zero_grad()
 
     n_batches = len(train_loader)
@@ -148,7 +150,7 @@ def validate(joint_model, val_loader, device, epoch=None, class_weights=None):
             clean = clean.to(device)
             labels = labels.to(device)
 
-            with torch.cuda.amp.autocast(enabled=USE_AMP):
+            with torch.amp.autocast('cuda', dtype=torch.bfloat16, enabled=USE_AMP):
                 denoised, logits = joint_model(raw)
                 loss_denoise = F.l1_loss(denoised, clean)
                 loss_classify = F.cross_entropy(logits, labels, weight=class_weights)
@@ -226,7 +228,6 @@ def train(seed, train_loader, val_loader, output_dir, device,
     # 构建模型
     joint_model = build_joint_model(device, frcrn_pretrained_path)
     optimizer, scheduler = build_optimizer(joint_model)
-    scaler = torch.cuda.amp.GradScaler(enabled=USE_AMP)
 
     # 训练历史
     train_losses, train_accs = [], []
@@ -242,7 +243,7 @@ def train(seed, train_loader, val_loader, output_dir, device,
 
     for epoch in range(MAX_EPOCHS):
         train_metrics = train_one_epoch(
-            joint_model, train_loader, optimizer, scaler, device,
+            joint_model, train_loader, optimizer, device,
             epoch=epoch + 1, class_weights=class_weights,
         )
         train_losses.append(train_metrics['loss'])
