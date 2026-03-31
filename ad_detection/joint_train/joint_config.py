@@ -11,8 +11,8 @@ JOINT_SECOND_LENGTH = 60        # 60秒音频
 XLSR_MAX_TIME_STEPS = 50 * JOINT_SECOND_LENGTH  # ~3000 steps
 
 # ====== Hardware (RTX 5090 32GB) ======
-JOINT_BATCH_SIZE = 2
-GRADIENT_ACCUMULATION_STEPS = 16  # 有效batch = 32
+JOINT_BATCH_SIZE = 1
+GRADIENT_ACCUMULATION_STEPS = 32  # 有效batch = 32
 USE_AMP = True
 
 # ====== Model freezing ======
