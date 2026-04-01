@@ -10,10 +10,11 @@ SAMPLING_RATE = 16000
 JOINT_SECOND_LENGTH = 60        # 60秒音频
 XLSR_MAX_TIME_STEPS = 50 * JOINT_SECOND_LENGTH  # ~3000 steps
 
-# ====== Hardware (RTX 5090 32GB) ======
-# 两个 Phase 统一 batch size，Phase 2 端到端反向传播是瓶颈
-BATCH_SIZE = 4
-GRADIENT_ACCUMULATION_STEPS = 8  # 有效batch = 4 * 8 = 32
+# ====== Hardware (48GB) ======
+PHASE1_BATCH_SIZE = 32           # Phase 1: no_grad, 显存低
+PHASE1_GRAD_ACCUM = 1            # 有效batch = 32 * 1 = 32
+PHASE2_BATCH_SIZE = 4            # Phase 2: 端到端反向传播
+PHASE2_GRAD_ACCUM = 8            # 有效batch = 4 * 8 = 32
 USE_AMP = True
 
 # ====== Model freezing ======
