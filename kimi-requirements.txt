@@ -1,5 +1,5 @@
 # Kimi environment (Python 3.10)
-# Used for: LLM/kimi_audio_ad_detection.ipynb, LLM/quicktour.ipynb
+# Used for: LLM/kimi_audio_ad_detection.ipynb, LLM/kimi_audio_asr_few_shot_ad_detection.ipynb
 
 # PyTorch
 torch==2.10.0+cu128
@@ -40,6 +40,9 @@ matplotlib==3.10.8
 pytorch-lightning==2.6.1
 lightning-utilities==0.15.3
 torchmetrics==1.9.0
+
+# Qwen3-ASR
+qwen-asr
 
 # Utilities
 tqdm==4.67.3
