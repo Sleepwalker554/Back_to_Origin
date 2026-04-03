@@ -154,13 +154,21 @@ def process_dataset(
 
     for subdir in subdirs:
         raw_subdir = dirs['raw'] / subdir
-        raw_files = sorted(list(raw_subdir.glob('*.wav')))
+        raw_files = sorted([f for f in raw_subdir.iterdir() if f.suffix.lower() in ('.wav', '.mp3', '.flac', '.ogg')])
         print(f"\n处理 {subdir} 类别，共 {len(raw_files)} 个文件")
 
         for raw_file in tqdm(raw_files, desc=f"评估 {subdir}"):
             file_name = raw_file.name
+            stem = raw_file.stem
 
-            paths = {method: str(dirs[method] / subdir / file_name) for method in METHOD_NAMES}
+            paths = {'raw': str(raw_file)}
+            for method in METHOD_NAMES[1:]:
+                denoised_dir = dirs[method] / subdir
+                candidates = list(denoised_dir.glob(f'{stem}.*'))
+                if candidates:
+                    paths[method] = str(candidates[0])
+                else:
+                    paths[method] = str(denoised_dir / f'{stem}.wav')
 
             result = process_audio_file(evaluator, file_name, subdir, paths)
             if result is not None:
