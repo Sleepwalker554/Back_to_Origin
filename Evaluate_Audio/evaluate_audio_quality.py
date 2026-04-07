@@ -1,23 +1,24 @@
 import os
-import csv
 import numpy as np
 import soundfile as sf
 import librosa
+import pandas as pd
 from pathlib import Path
 from tqdm import tqdm
 import onnxruntime as ort
 import requests
-from typing import Dict, Optional
+from typing import Dict, Optional, List
+
+SUPPORTED_EXTENSIONS = {'.wav', '.mp3'}
 
 
 class DNSMOSEvaluator:
     MODEL_URL = "https://github.com/microsoft/DNS-Challenge/raw/master/DNSMOS/DNSMOS/sig_bak_ovr.onnx"
     MODEL_PATH = "dnsmos_model.onnx"
     TARGET_SR = 16000
-    INPUT_LENGTH = 9.01  # 模型要求的音频长度（秒）
+    INPUT_LENGTH = 9.01
 
     def __init__(self):
-        """初始化评估器，下载并加载 ONNX 模型"""
         self._download_model()
         self.session = ort.InferenceSession(self.MODEL_PATH)
         self.input_name = self.session.get_inputs()[0].name
@@ -37,6 +38,11 @@ class DNSMOSEvaluator:
             raise RuntimeError(f"Failed to download DNSMOS: {e}")
 
     def load_audio(self, audio_path: str) -> np.ndarray:
+        ext = Path(audio_path).suffix.lower()
+        if ext == '.mp3':
+            audio, sr = librosa.load(audio_path, sr=self.TARGET_SR, mono=True)
+            return np.clip(audio.astype(np.float32), -1.0, 1.0)
+
         audio, sr = sf.read(audio_path)
 
         if len(audio.shape) > 1:
@@ -101,88 +107,62 @@ class DNSMOSEvaluator:
             return None
 
 
-# 所有降噪方法名称
-METHOD_NAMES = ['raw', 'mossformer', 'frcrn_se', 'demucs', 'denoiser', 'resemble']
+def _collect_audio_files(directory: Path) -> List[Path]:
+    """递归收集目录下所有支持格式的音频文件"""
+    files = []
+    for ext in SUPPORTED_EXTENSIONS:
+        files.extend(directory.rglob(f"*{ext}"))
+    return sorted(files)
 
 
-def process_audio_file(
-    evaluator: DNSMOSEvaluator,
-    file_name: str,
-    category: str,
-    paths: Dict[str, str]
-) -> Optional[Dict]:
+def evaluate_directory(audio_dir: str) -> pd.DataFrame:
     """
-    处理单个音频文件的所有版本并评估质量
+    评估单个目录下所有音频文件的 DNSMOS 分数。
+    支持 wav 和 mp3 格式，会递归搜索子目录。
     """
-    result = {'file_name': file_name, 'category': category}
+    audio_path = Path(audio_dir)
+    if not audio_path.exists():
+        raise FileNotFoundError(f"目录不存在: {audio_dir}")
 
-    for method in METHOD_NAMES:
-        scores = evaluator.evaluate(paths[method])
-        if scores is None:
-            return None
-        result[f'{method}_ovrl'] = scores['ovrl']
-        result[f'{method}_sig'] = scores['sig']
-        result[f'{method}_bak'] = scores['bak']
+    audio_files = _collect_audio_files(audio_path)
+    if not audio_files:
+        raise FileNotFoundError(
+            f"目录中没有找到支持的音频文件 ({', '.join(SUPPORTED_EXTENSIONS)}): {audio_dir}"
+        )
 
-    return result
-
-
-def process_dataset(
-    raw_dir: str,
-    mossformer_dir: str,
-    frcrn_se_dir: str,
-    demucs_dir: str,
-    denoiser_dir: str,
-    resemble_dir: str
-):
-    """
-    批量处理整个数据集，生成 CSV 报告
-    """
-    dirs = {
-        'raw': Path(raw_dir),
-        'mossformer': Path(mossformer_dir),
-        'frcrn_se': Path(frcrn_se_dir),
-        'demucs': Path(demucs_dir),
-        'denoiser': Path(denoiser_dir),
-        'resemble': Path(resemble_dir),
-    }
-    output_csv = Path("audio_quality_evaluation.csv")
+    print(f"目录: {audio_dir}")
+    print(f"找到 {len(audio_files)} 个音频文件\n")
 
     evaluator = DNSMOSEvaluator()
-    subdirs = ['Control', 'Dementia']
-    all_results = []
+    results = []
 
-    for subdir in subdirs:
-        raw_subdir = dirs['raw'] / subdir
-        raw_files = sorted([f for f in raw_subdir.iterdir() if f.suffix.lower() in ('.wav', '.mp3', '.flac', '.ogg')])
-        print(f"\n处理 {subdir} 类别，共 {len(raw_files)} 个文件")
+    for fpath in tqdm(audio_files, desc="评估中"):
+        scores = evaluator.evaluate(str(fpath))
+        if scores is not None:
+            rel = fpath.relative_to(audio_path)
+            results.append({
+                'file': str(rel),
+                'OVRL': round(scores['ovrl'], 4),
+                'SIG': round(scores['sig'], 4),
+                'BAK': round(scores['bak'], 4),
+            })
 
-        for raw_file in tqdm(raw_files, desc=f"评估 {subdir}"):
-            file_name = raw_file.name
-            stem = raw_file.stem
+    df = pd.DataFrame(results)
 
-            paths = {'raw': str(raw_file)}
-            for method in METHOD_NAMES[1:]:
-                denoised_dir = dirs[method] / subdir
-                candidates = list(denoised_dir.glob(f'{stem}.*'))
-                if candidates:
-                    paths[method] = str(candidates[0])
-                else:
-                    paths[method] = str(denoised_dir / f'{stem}.wav')
+    if df.empty:
+        print("没有成功评估的文件")
+        return df
 
-            result = process_audio_file(evaluator, file_name, subdir, paths)
-            if result is not None:
-                all_results.append(result)
+    avg = {
+        'OVRL': round(df['OVRL'].mean(), 4),
+        'SIG': round(df['SIG'].mean(), 4),
+        'BAK': round(df['BAK'].mean(), 4),
+    }
 
-    # 写入 CSV 文件
-    print(f"\n写入结果到 {output_csv}...")
-    fieldnames = ['file_name', 'category']
-    for method in METHOD_NAMES:
-        fieldnames.extend([f'{method}_ovrl', f'{method}_sig', f'{method}_bak'])
+    print(f"\n=== DNSMOS 平均分 ({audio_dir}) ===")
+    print(f"  OVRL (Overall):    {avg['OVRL']}")
+    print(f"  SIG  (Signal):     {avg['SIG']}")
+    print(f"  BAK  (Background): {avg['BAK']}")
+    print(f"  共评估 {len(df)} 个文件")
 
-    with open(output_csv, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writeheader()
-        writer.writerows(all_results)
-
-    return all_results
+    return avg

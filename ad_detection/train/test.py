@@ -186,7 +186,16 @@ def test_on_dataset_with_val_csv(
         if len(missing_samples) <= 10:
             print(f"  Missing IDs: {', '.join(missing_samples)}")
     print()
-    
+
+    if len(existing_samples) == 0:
+        raise ValueError(
+            "No audio files matched the reference validation CSV under the target raw_audio_dir. "
+            "session_id values in the reference CSV must exist as "
+            "{session_id}.wav or {session_id}.mp3 under Control/ or Dementia/. "
+            "Use a reference VAL CSV from the same corpus as the audio (e.g. ADReSS-xlsr-val.csv "
+            "only with ADReSS audio paths, not Pitt)."
+        )
+
     # Create target VAL_CSV with only existing samples
     print(f"Creating target VAL_CSV: {target_val_csv}")
     with open(target_val_csv, 'w', newline='', encoding='utf-8') as f:

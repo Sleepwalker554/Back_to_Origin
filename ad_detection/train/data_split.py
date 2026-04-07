@@ -102,9 +102,8 @@ def create_train_val_split(
     rdm.shuffle(val_samples)
     
     # Set column names and file extension based on feature type
-    if xlsr:
-        feature_col = 'xlsr_path'
-        feature_ext = '.xlsr.pt'
+    feature_col = 'xlsr_path' if xlsr else 'feature_path'
+    feature_ext = '.xlsr.pt' if xlsr else '.pt'
     
     # Generate training CSV
     with open(train_csv_path, 'w', newline='', encoding='utf-8') as f:
