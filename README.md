@@ -23,4 +23,4 @@ Alzheimer's / dementia detection from spontaneous speech. Compares performance o
 | ADReSSo     | DementiaBank — ADReSSo challenge (2021)  |
 | ADReSS-M    | DementiaBank — ADReSS-M challenge (2023) |
 
-Download the datasets from [DementiaBank](https://dementia.talkbank.org/) and place them as below.
+Download the datasets from [DementiaBank](https://dementia.talkbank.org/).
