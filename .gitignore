@@ -1,4 +1,5 @@
 ad_detection/data/*
+!ad_detection/data/README.md
 *.pth
 *.pt
 *.ckpt

@@ -1,20 +1,26 @@
 # Few-Shot is All You Need
 
-Alzheimer's / dementia detection from spontaneous speech, comparing audio LLMs (zero-shot and few-shot) against a fine-tuned XLSR baseline, with optional speech-enhancement preprocessing.
+Alzheimer's / dementia detection from spontaneous speech. Compares performance on raw vs. denoised audio across different audio-LLM settings (zero-shot / few-shot) and an XLSR-based model.
 
 ## Layout
 
-- `LLM/` — audio-LLM evaluation notebooks (Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio-Flamingo3, Ultravox), zero-shot and few-shot variants. Outputs go to `LLM/results/<model>/` (gitignored).
+- `LLM/` — audio-LLM evaluation notebooks (Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio-Flamingo3, Ultravox), zero-shot and few-shot variants.
 - `ad_detection/` — XLSR fine-tuning baseline (`train/`), data splits (`data/`), checkpoints (`models/`).
 - `Noise_Remove/` — speech-enhancement preprocessing (Demucs, Denoiser, FRCRN, MossFormer, Resemble).
 - `Evaluate_Audio/` — audio quality metrics (DNSMOS) and spectrogram visualization.
-- `dataset_analysis/` — duration / distribution stats over the corpora.
-- `requirements/` — per-model dependency files; each LLM uses its own conda env.
+- `dataset_analysis/` — duration / distribution stats over the datasets.
+- `requirements/` — each LLM uses its own conda env.
+
 
 ## Datasets
 
-Pitt, Pitt-origin, Lu, ADReSS, ADReSSo, ADReSS-M. Raw audio under `ad_detection/data/raw/<dataset>/{Control,Dementia}/` (gitignored).
+| Name        | Source                                   |
+|-------------|------------------------------------------|
+| Pitt        | DementiaBank — Pitt corpus               |
+| Pitt-origin | DementiaBank — Pitt corpus (raw audio)   |
+| Lu          | DementiaBank — Mandarin Lu corpus        |
+| ADReSS      | DementiaBank — ADReSS challenge (2020)   |
+| ADReSSo     | DementiaBank — ADReSSo challenge (2021)  |
+| ADReSS-M    | DementiaBank — ADReSS-M challenge (2023) |
 
-## Usage
-
-Pick the matching env from `requirements/` per model, then run the notebook. Results are written to `LLM/results/<model>/<dataset>-<denoising>.csv`.
+Download the datasets from [DementiaBank](https://dementia.talkbank.org/) and place them as below.
