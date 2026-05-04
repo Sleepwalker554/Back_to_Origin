@@ -1,4 +1,5 @@
 ﻿Dataset,File Count,Dementia Count,Control Count,Min Duration (s),Max Duration (s),Mean Duration (s),Median Duration(s),Total Duration (min)
-Pitt,551,309,242,18.00,268.48,70.06,63.29,643.39
+Pitt-origin,552,309,243,17.89,268.49,69.97,63.20,643.72
 ADReSS,156,78,78,26.06,268.48,75.30,70.05,195.78
-Lu,53,28,25,25.73,350.76,68.73,56.77,60.71
+ADReSSo,237,122,115,22.35,268.49,76.89,70.47,303.72
+ADReSS-M,237,122,115,22.29,268.49,76.89,70.48,303.72
