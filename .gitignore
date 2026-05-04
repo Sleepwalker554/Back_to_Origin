@@ -27,3 +27,5 @@ ad_detection/models/*
 **/.ipynb_checkpoints/
 .claude/
 .vscode/
+
+Addition/*
