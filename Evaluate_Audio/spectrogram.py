@@ -6,9 +6,9 @@ from pathlib import Path
 
 def show_difference_mel_spectrograms(audio_id, category='Control'):
     """
-    audio_id: 音频文件名，例如 '002-0.wav'
-    category: 'Control' 或 'Dementia'
-    spec_type: 'mel' 或 'stft'
+    audio_id: audio file name, e.g. '002-0.wav'
+    category: 'Control' or 'Dementia'
+    spec_type: 'mel' or 'stft'
     """
     raw_path = Path('../ad_detection/data/raw/Pitt') / category / audio_id
     
@@ -48,8 +48,8 @@ def show_difference_mel_spectrograms(audio_id, category='Control'):
 
 def show_mel_spectrograms(audio_id, category='Control', base_path='../ad_detection/data'):
     """
-    audio_id: 音频文件名，例如 '002-0.wav'
-    category: 'Control' 或 'Dementia'
+    audio_id: audio file name, e.g. '002-0.wav'
+    category: 'Control' or 'Dementia'
     """
     datasets = {
         'Pitt': Path('../ad_detection/data/raw/Pitt') / category / audio_id,
@@ -83,8 +83,8 @@ def show_mel_spectrograms(audio_id, category='Control', base_path='../ad_detecti
 
 def show_log_mel_spectrograms(audio_id, category='Control'):
     """
-    audio_id: 音频文件名，例如 '002-0.wav'
-    category: 'Control' 或 'Dementia'
+    audio_id: audio file name, e.g. '002-0.wav'
+    category: 'Control' or 'Dementia'
     """
     datasets = {
         'Pitt': Path('../ad_detection/data/raw/Pitt') / category / audio_id,
@@ -118,8 +118,8 @@ def show_log_mel_spectrograms(audio_id, category='Control'):
 
 def show_difference_log_mel_spectrograms(audio_id, category='Control'):
     """
-    audio_id: 音频文件名，例如 '002-0.wav'
-    category: 'Control' 或 'Dementia'
+    audio_id: audio file name, e.g. '002-0.wav'
+    category: 'Control' or 'Dementia'
     """
     raw_path = Path('../ad_detection/data/raw/Pitt') / category / audio_id
     
@@ -159,8 +159,8 @@ def show_difference_log_mel_spectrograms(audio_id, category='Control'):
 
 def show_waveform_comparison(audio_id, category='Control'):
     """
-    audio_id: 音频文件名，例如 '002-0.wav'
-    category: 'Control' 或 'Dementia'
+    audio_id: audio file name, e.g. '002-0.wav'
+    category: 'Control' or 'Dementia'
     """
     raw_path = Path('../ad_detection/data/raw/Pitt') / category / audio_id
     

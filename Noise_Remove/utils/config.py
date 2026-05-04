@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # ====== Paths ======
-DATA_DIR     = Path("/root/autodl-tmp/Few-Shot_is_all_you_need/ad_detection/data")
+DATA_DIR     = Path(__file__).resolve().parents[2] / "ad_detection" / "data"
 RAW_DIR      = DATA_DIR / "raw"
 DENOISED_DIR = DATA_DIR / "denoised"
 

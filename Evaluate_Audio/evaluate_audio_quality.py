@@ -103,12 +103,12 @@ class DNSMOSEvaluator:
                 'bak': np.mean(all_scores['bak'])
             }
         except Exception as e:
-            print(f"评估 {audio_path} 时出错: {e}")
+            print(f"Error evaluating {audio_path}: {e}")
             return None
 
 
 def _collect_audio_files(directory: Path) -> List[Path]:
-    """递归收集目录下所有支持格式的音频文件"""
+    """Recursively collect all supported audio files in the directory."""
     files = []
     for ext in SUPPORTED_EXTENSIONS:
         files.extend(directory.rglob(f"*{ext}"))
@@ -117,26 +117,26 @@ def _collect_audio_files(directory: Path) -> List[Path]:
 
 def evaluate_directory(audio_dir: str) -> pd.DataFrame:
     """
-    评估单个目录下所有音频文件的 DNSMOS 分数。
-    支持 wav 和 mp3 格式，会递归搜索子目录。
+    Evaluate DNSMOS scores for all audio files in a single directory.
+    Supports wav and mp3 formats, recursively searching subdirectories.
     """
     audio_path = Path(audio_dir)
     if not audio_path.exists():
-        raise FileNotFoundError(f"目录不存在: {audio_dir}")
+        raise FileNotFoundError(f"Directory does not exist: {audio_dir}")
 
     audio_files = _collect_audio_files(audio_path)
     if not audio_files:
         raise FileNotFoundError(
-            f"目录中没有找到支持的音频文件 ({', '.join(SUPPORTED_EXTENSIONS)}): {audio_dir}"
+            f"No supported audio files found in directory ({', '.join(SUPPORTED_EXTENSIONS)}): {audio_dir}"
         )
 
-    print(f"目录: {audio_dir}")
-    print(f"找到 {len(audio_files)} 个音频文件\n")
+    print(f"Directory: {audio_dir}")
+    print(f"Found {len(audio_files)} audio files\n")
 
     evaluator = DNSMOSEvaluator()
     results = []
 
-    for fpath in tqdm(audio_files, desc="评估中"):
+    for fpath in tqdm(audio_files, desc="Evaluating"):
         scores = evaluator.evaluate(str(fpath))
         if scores is not None:
             rel = fpath.relative_to(audio_path)
@@ -150,7 +150,7 @@ def evaluate_directory(audio_dir: str) -> pd.DataFrame:
     df = pd.DataFrame(results)
 
     if df.empty:
-        print("没有成功评估的文件")
+        print("No files were successfully evaluated")
         return df
 
     avg = {
@@ -159,10 +159,10 @@ def evaluate_directory(audio_dir: str) -> pd.DataFrame:
         'BAK': round(df['BAK'].mean(), 4),
     }
 
-    print(f"\n=== DNSMOS 平均分 ({audio_dir}) ===")
+    print(f"\n=== DNSMOS Average Scores ({audio_dir}) ===")
     print(f"  OVRL (Overall):    {avg['OVRL']}")
     print(f"  SIG  (Signal):     {avg['SIG']}")
     print(f"  BAK  (Background): {avg['BAK']}")
-    print(f"  共评估 {len(df)} 个文件")
+    print(f"  Total files evaluated: {len(df)}")
 
     return avg
