@@ -2,9 +2,9 @@
 
 | Name        | Source                                   |
 |-------------|------------------------------------------|
-| Pitt        | DementiaBank — Pitt corpus               |
-| Pitt-origin | DementiaBank — Pitt corpus (raw audio)   |
-| Lu          | DementiaBank — Mandarin Lu corpus        |
+| Pitt        | DementiaBank — Pitt                      |
+| Pitt-origin | DementiaBank — Pitt-origin               |
+| Lu          | DementiaBank — Lu                        |
 | ADReSS      | DementiaBank — ADReSS challenge (2020)   |
 | ADReSSo     | DementiaBank — ADReSSo challenge (2021)  |
 | ADReSS-M    | DementiaBank — ADReSS-M challenge (2023) |
