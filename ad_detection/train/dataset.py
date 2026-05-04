@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 import torch
 from torch.utils.data import Dataset, DataLoader
-from config import PROJECT_ROOT, BATCH_SIZE, NUM_WORKERS, XLSR_MAX_TIME_STEPS
+from utils.config import PROJECT_ROOT, BATCH_SIZE, NUM_WORKERS, XLSR_MAX_TIME_STEPS
 
 class FeatureDataset(Dataset):
     """

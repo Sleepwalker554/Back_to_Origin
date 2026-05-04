@@ -5,7 +5,7 @@ import torch.nn.functional as F
 from pathlib import Path
 from sklearn.metrics import accuracy_score, f1_score
 from tqdm.auto import tqdm
-from config import PROJECT_ROOT
+from utils.config import PROJECT_ROOT
 from dataset import create_dataloaders
 from extract_XLSR_feature import extract_features_from_csv
 from data_split import create_test_csv

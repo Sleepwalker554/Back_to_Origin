@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 from random import Random
 from typing import Tuple, Optional
-from config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
+from utils.config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
 
 def create_train_val_split(
     raw_audio_dir: Path,

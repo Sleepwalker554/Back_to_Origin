@@ -1,19 +1,16 @@
-# Qwen environment (Python 3.12)
-# Used for: LLM/qwen3_omni_ad_detection.ipynb
+# Audio Flamingo 3 environment (Python 3.12)
 
 # PyTorch (CUDA 12.8)
 torch==2.10.0+cu128
 torchvision==0.25.0+cu128
 triton==3.6.0
 
-# Qwen3-Omni
-transformers==4.57.3
-qwen-omni-utils==0.0.9
+# Audio Flamingo 3 (requires transformers >= 5.0.0)
+transformers==5.3.0
 accelerate==1.13.0
-einops==0.8.2
 
 # Hugging Face
-huggingface_hub==0.36.2
+huggingface_hub==1.7.2
 tokenizers==0.22.2
 safetensors==0.7.0
 hf-xet==1.4.2
@@ -25,16 +22,12 @@ soxr==1.0.0
 audioread==3.1.0
 numba==0.64.0
 llvmlite==0.46.0
-av==17.0.0
 
 # Data & ML
 numpy==2.4.3
 pandas==3.0.1
 scikit-learn==1.8.0
 scipy==1.17.1
-
-# Flash Attention
-flash_attn==2.8.3+cu128torch2.10
 
 # Utilities
 tqdm==4.67.3
@@ -43,7 +36,6 @@ PyYAML==6.0.3
 Jinja2==3.1.6
 filelock==3.25.2
 requests==2.32.5
-pillow==12.1.1
 
 # Jupyter
 ipykernel==7.2.0

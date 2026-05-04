@@ -1,5 +1,4 @@
 # Ultravox environment (Python 3.12)
-# Used for: LLM/ultravox_ad_detection.ipynb
 
 # PyTorch (CUDA 12.8)
 torch==2.10.0+cu128

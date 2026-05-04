@@ -9,7 +9,7 @@
 | ADReSSo     | DementiaBank — ADReSSo challenge (2021)  |
 | ADReSS-M    | DementiaBank — ADReSS-M challenge (2023) |
 
-Download the datasets from [DementiaBank](https://dementia.talkbank.org/) and place them as below.
+Download all the datasets from [DementiaBank](https://dementia.talkbank.org/) and place them as below.
 
 ## Expected layout
 

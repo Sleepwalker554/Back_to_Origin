@@ -1,5 +1,4 @@
 # Kimi environment (Python 3.10)
-# Used for: LLM/kimi_audio_ad_detection.ipynb, LLM/kimi_audio_asr_few_shot_ad_detection.ipynb
 
 # PyTorch
 torch==2.10.0+cu128

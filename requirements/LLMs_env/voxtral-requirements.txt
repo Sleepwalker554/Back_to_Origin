@@ -1,17 +1,17 @@
-# Audio Flamingo 3 environment (Python 3.12)
-# Used for: LLM/audio_flamingo3_ad_detection.ipynb
+# Voxtral environment (Python 3.12)
 
 # PyTorch (CUDA 12.8)
 torch==2.10.0+cu128
 torchvision==0.25.0+cu128
 triton==3.6.0
 
-# Audio Flamingo 3 (requires transformers >= 5.0.0)
-transformers==5.3.0
+# Voxtral (transformers >= 4.54.0 required for VoxtralForConditionalGeneration)
+transformers==4.57.3
 accelerate==1.13.0
+mistral-common[audio]>=1.8.1
 
 # Hugging Face
-huggingface_hub==1.7.2
+huggingface_hub==0.36.2
 tokenizers==0.22.2
 safetensors==0.7.0
 hf-xet==1.4.2

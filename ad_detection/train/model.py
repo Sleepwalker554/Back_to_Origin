@@ -1,7 +1,7 @@
 import torch
 from torch import Tensor, nn
 import torch.nn.functional as F
-from config import XLSR_DIM_INPUT, PROJECT_ROOT
+from utils.config import XLSR_DIM_INPUT, PROJECT_ROOT
 import fairseq
 
 ########################XLSR-53-300m####################################

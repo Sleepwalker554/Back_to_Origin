@@ -6,7 +6,7 @@ from pathlib import Path
 from tqdm.auto import tqdm
 from typing import Union, Optional
 from model import SSLModel
-from config import SECOND_LENGTH, SAMPLING_RATE
+from utils.config import SECOND_LENGTH, SAMPLING_RATE
 
 
 def extract_features_from_csv(

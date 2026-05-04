@@ -3,7 +3,7 @@ import torch.nn.functional as F
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from pathlib import Path
 from tqdm import tqdm
-from config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, XLSR_DROPOUT, XLSR_DIM_INPUT, ETA_MIN
+from utils.config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DIM_HIDDEN, XLSR_DROPOUT, XLSR_DIM_INPUT, ETA_MIN
 from model import AD_XLSR_Model
 
 def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_weights=None):
