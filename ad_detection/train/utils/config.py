@@ -8,8 +8,8 @@ PROJECT_ROOT = CONFIG_FILE.parent.parent.parent
 
 # ====== Training parameters ======
 MAX_EPOCHS = 60
-BATCH_SIZE = 32
-LEARNING_RATE = 3e-3         # Best learning rate is 3e-3
+BATCH_SIZE = 16 # XLSR: 32, eGeMAPS: 16
+LEARNING_RATE = 3e-3
 ETA_MIN = 1e-6               # Cosine annealing minimum learning rate
 WEIGHT_DECAY = 1e-2
 TRAIN_SET_RATTIO = 0.8
