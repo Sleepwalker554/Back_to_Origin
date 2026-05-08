@@ -3,8 +3,8 @@ import torch.nn.functional as F
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from pathlib import Path
 from tqdm import tqdm
-from utils.config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DROPOUT, ETA_MIN
-from .model import AD_XLSR_Model
+from utils.config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, EGEMAPS_DROPOUT, ETA_MIN
+from .model import AD_EGE_Model
 
 def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_weights=None):
     """Train for one epoch"""
@@ -16,11 +16,10 @@ def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_we
     desc = f"Epoch {epoch} - Training" if epoch is not None else "Training"
     pbar = tqdm(train_loader, desc=desc, leave=False)
 
-    for features, labels, masks in pbar:
+    for features, labels in pbar:
         features = features.to(device)
         labels = labels.to(device)
-        masks = masks.to(device)
-        logits = model(features, masks)
+        logits = model(features)
 
         loss = F.cross_entropy(logits, labels, weight=class_weights)
 
@@ -64,11 +63,10 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
     pbar = tqdm(val_loader, desc=desc, leave=False)
 
     with torch.no_grad():
-        for features, labels, masks in pbar:
+        for features, labels in pbar:
             features = features.to(device)
             labels = labels.to(device)
-            masks = masks.to(device)
-            logits = model(features, masks)
+            logits = model(features)
 
             loss = F.cross_entropy(logits, labels, weight=class_weights)
             predictions = torch.argmax(logits, dim=1)
@@ -115,7 +113,7 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
 
 def train(seed, train_loader, val_loader, output_dir, device, class_weight_control=1.0, class_weight_dementia=1.0):
     """
-    Training pipeline for XLSR features.
+    Training pipeline for eGeMAPS features.
 
     Args:
         seed: Random seed
@@ -141,7 +139,7 @@ def train(seed, train_loader, val_loader, output_dir, device, class_weight_contr
     seed_dir = Path(output_dir) / f"seed_{seed}"
     seed_dir.mkdir(parents=True, exist_ok=True)
 
-    model = AD_XLSR_Model(dropout=XLSR_DROPOUT).to(device)
+    model = AD_EGE_Model(dropout=EGEMAPS_DROPOUT).to(device)
 
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
     scheduler = CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=ETA_MIN)

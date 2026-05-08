@@ -1,8 +1,8 @@
 import csv
 from pathlib import Path
 from random import Random
-from typing import Tuple, Optional
-from utils.config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
+from typing import Tuple
+from .config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
 
 def create_train_val_split(
     raw_audio_dir: Path,
@@ -29,11 +29,12 @@ def create_train_val_split(
     """
     
     feature_dir_name = str(feature_dir_name)
-    
+
     # Build CSV paths
-    train_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-train.csv"
-    val_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-val.csv"
-    
+    feature_tag = 'xlsr' if xlsr else 'egemaps'
+    train_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_tag}-train.csv"
+    val_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_tag}-val.csv"
+
     # Ensure output directories exist
     train_csv_path.parent.mkdir(parents=True, exist_ok=True)
     val_csv_path.parent.mkdir(parents=True, exist_ok=True)
@@ -163,43 +164,6 @@ def create_split(dataset_name: str) -> Tuple[Path, Path]:
     return train_csv, val_csv
 
 
-def create_sub_split(
-    source_dataset_name: str,
-    dataset_name: str,
-    feature_dir_name: str,
-) -> Tuple[Path, Path]:
-    """
-    Create train/val CSVs for a dataset variant by remapping feature paths
-    from the base dataset's split. Ensures all variants share the same
-    train/val partition as the source dataset.
-
-    Args:
-        source_dataset_name: Base dataset name (e.g. "Pitt", "Lu")
-        dataset_name: Variant name (e.g. "Pitt-Demucs", "Lu-Demucs")
-        feature_dir_name: Feature directory name (e.g. "Pitt-Demucs_xlsr_features")
-
-    Returns:
-        Tuple[Path, Path]: (train_csv_path, val_csv_path)
-    """
-    source_train_csv, source_val_csv = create_split(source_dataset_name)
-
-    train_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-train.csv"
-    val_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-val.csv"
-
-    for src_csv, dst_csv in [(source_train_csv, train_csv), (source_val_csv, val_csv)]:
-        with open(src_csv, 'r') as f_in, open(dst_csv, 'w', newline='') as f_out:
-            reader = csv.DictReader(f_in)
-            writer = csv.writer(f_out)
-            writer.writerow(['session_id', 'xlsr_path', 'ad'])
-            for row in reader:
-                session_id = row['session_id']
-                feature_path = f"{feature_dir_name}/{session_id}.xlsr.pt"
-                writer.writerow([session_id, feature_path, row['ad']])
-
-    print(f"Created {train_csv.name} and {val_csv.name} from {source_dataset_name} raw split")
-    return train_csv, val_csv
-
-
 def create_test_csv(
     raw_audio_dir: Path,
     dataset_name: str,
@@ -221,9 +185,10 @@ def create_test_csv(
     """
     
     feature_dir_name = str(feature_dir_name)
-    
+
     # Build CSV path
-    test_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-xlsr-test.csv"
+    feature_tag = 'xlsr' if xlsr else 'egemaps'
+    test_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_tag}-test.csv"
     test_csv_path.parent.mkdir(parents=True, exist_ok=True)
     
     # Collect all audio files

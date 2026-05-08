@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 import torch
 from torch.utils.data import Dataset, DataLoader
-from utils.config import PROJECT_ROOT, BATCH_SIZE, NUM_WORKERS, XLSR_MAX_TIME_STEPS
+from .config import BATCH_SIZE, NUM_WORKERS, XLSR_MAX_TIME_STEPS
 
 class FeatureDataset(Dataset):
     """
@@ -26,6 +26,9 @@ class FeatureDataset(Dataset):
             self.feature_path_key = 'xlsr_path'
             self.feature_name = 'XLSR'
             # self.expected_shape = (XLSR_SEGMENT_LEN, XLSR_DIM_INPUT)
+        else:
+            self.feature_path_key = 'feature_path'
+            self.feature_name = 'eGeMAPS'
 
         # Store data
         self.features = []  # features
@@ -47,12 +50,9 @@ class FeatureDataset(Dataset):
                 feature_path = row[self.feature_path_key]
                 ad = int(row['ad'])
 
-                # Determine the path based on the feature type
-                if self.xlsr:
-                    csv_dir = Path(self.csv_path).parent
-                    feature_path_abs = (csv_dir / feature_path).resolve()
-                else:
-                    feature_path_abs = PROJECT_ROOT / feature_path
+                # Feature paths are stored relative to the CSV's directory
+                csv_dir = Path(self.csv_path).parent
+                feature_path_abs = (csv_dir / feature_path).resolve()
 
                 # Check if file exists
                 if not feature_path_abs.exists():

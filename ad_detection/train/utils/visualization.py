@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
-from typing import List, Optional, Tuple
-from pathlib import Path
+from typing import List, Optional
 plt.rcParams['font.sans-serif'] = ['DejaVu Sans']
 import matplotlib
 matplotlib.set_loglevel("warning")
@@ -12,7 +11,6 @@ def plot_training_curves(
     train_acc: List[float],
     val_acc: List[float],
     title_prefix: Optional[str] = None,
-    save_path: Optional[Path] = None
 ):
     """
     Plot training and validation loss and accuracy curves
@@ -22,7 +20,6 @@ def plot_training_curves(
         train_loss, val_loss: Training/validation loss
         train_acc, val_acc: Training/validation accuracy (0-1)
         title_prefix: Title prefix (e.g. "Seed 42")
-        save_path: Save path (optional)
     """
     # Define colors inside the function
     train_color = '#2E86AB'
@@ -54,9 +51,4 @@ def plot_training_curves(
     ax2.grid(True, alpha=0.3)
     
     plt.tight_layout()
-    
-    if save_path:
-        Path(save_path).parent.mkdir(parents=True, exist_ok=True)
-        plt.savefig(save_path, dpi=300, bbox_inches='tight')
-    
     plt.show()

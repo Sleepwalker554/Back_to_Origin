@@ -1,7 +1,7 @@
 import torch
 from torch import Tensor, nn
 import torch.nn.functional as F
-from utils.config import XLSR_DIM_INPUT, PROJECT_ROOT
+from utils.config import PROJECT_ROOT
 import fairseq
 
 ########################XLSR-53-300m####################################
@@ -13,40 +13,23 @@ class SSLModel(nn.Module):
             - True: Freeze all parameters, only extract features (no XLSR update)
             - False: Unfreeze parameters, allow fine-tuning (will update XLSR)
     """
-    def __init__(self, device, freeze_xlsr=True, finetuned_model_path=None):
+    def __init__(self, device, freeze_xlsr=True):
         super(SSLModel, self).__init__()
 
-        # Always load original XLSR first to get the model structure
-        print("XLSR: Loading base model structure")
+        print("XLSR: Loading pretrained model")
         cp_path = str(PROJECT_ROOT / "models/xlsr2_300m.pt")
-        
+
         model, cfg, task = fairseq.checkpoint_utils.load_model_ensemble_and_task([cp_path])
         self.model = model[0].to(device)
         self.device = device
-        self.out_dim = 1024 #XLSR_DIM_INPUT
+        self.out_dim = 1024
         self.freeze_xlsr = freeze_xlsr
-
-        # Load finetuned weights if path provided
-        if finetuned_model_path is not None:
-            print(f"XLSR: Loading finetuned weights from {finetuned_model_path}")
-            checkpoint = torch.load(finetuned_model_path, map_location=device, weights_only=False)
-
-            # Load only the XLSR model weights (not the whole SSLModel wrapper)
-            if 'ssl_model_state_dict' in checkpoint:
-                self.load_state_dict(checkpoint['ssl_model_state_dict'])
-                print(f"XLSR: ✓ Loaded finetuned model from epoch {checkpoint.get('epoch', 'N/A')}")
-                if 'best_val_acc' in checkpoint:
-                    print(f"XLSR: ✓ Best validation accuracy: {checkpoint['best_val_acc']*100:.2f}%")
-            else:
-                raise KeyError("Checkpoint must contain 'ssl_model_state_dict' key")
-        else:
-            print("XLSR: Using original pretrained model")
 
         # Set to eval mode and freeze parameters
         self.model.eval()
         for param in self.model.parameters():
             param.requires_grad = False
-        
+
 
     def extract_feat(self, input_data):
         """
