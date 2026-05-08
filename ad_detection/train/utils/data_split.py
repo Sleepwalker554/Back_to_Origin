@@ -28,8 +28,6 @@ def create_train_val_split(
         Tuple[Path, Path]: (train_csv_path, val_csv_path)
     """
     
-    feature_dir_name = str(feature_dir_name)
-
     # Build CSV paths
     feature_tag = 'xlsr' if xlsr else 'egemaps'
     train_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_tag}-train.csv"
@@ -77,7 +75,7 @@ def create_train_val_split(
             'ad': 1
         })
     if len(dementia_samples) == 0:
-        raise ValueError(f"Error: No control audio files found in {raw_audio_dir}")
+        raise ValueError(f"Error: No dementia audio files found in {raw_audio_dir}")
 
     # Shuffle
     rdm = Random(random_seed) 
@@ -184,8 +182,6 @@ def create_test_csv(
         Path: Test CSV path
     """
     
-    feature_dir_name = str(feature_dir_name)
-
     # Build CSV path
     feature_tag = 'xlsr' if xlsr else 'egemaps'
     test_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_tag}-test.csv"

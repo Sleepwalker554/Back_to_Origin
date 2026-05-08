@@ -13,6 +13,7 @@ LEARNING_RATE = 3e-3         # Best learning rate is 3e-3
 ETA_MIN = 1e-6               # Cosine annealing minimum learning rate
 WEIGHT_DECAY = 1e-2
 TRAIN_SET_RATTIO = 0.8
+PATIENCE = 10                # Early stopping patience (epochs without val_acc improvement)
 
 # ====== XLSR model parameters ======
 XLSR_DROPOUT = 0.2

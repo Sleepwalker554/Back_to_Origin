@@ -3,7 +3,7 @@ import torch.nn.functional as F
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from pathlib import Path
 from tqdm import tqdm
-from utils.config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DROPOUT, ETA_MIN
+from utils.config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, XLSR_DROPOUT, ETA_MIN, PATIENCE
 from .model import AD_XLSR_Model
 
 def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_weights=None):
@@ -154,7 +154,6 @@ def train(seed, train_loader, val_loader, output_dir, device, class_weight_contr
 
     best_val_acc = 0
     best_metrics = {}
-    patience = 10
     patience_counter = 0
     best_epoch = 0
     stopped_epoch = 0
@@ -186,7 +185,7 @@ def train(seed, train_loader, val_loader, output_dir, device, class_weight_contr
         else:
             patience_counter += 1
 
-        if patience_counter >= patience:
+        if patience_counter >= PATIENCE:
             stopped_epoch = epoch + 1
             break
 

@@ -25,7 +25,6 @@ class FeatureDataset(Dataset):
         if xlsr:
             self.feature_path_key = 'xlsr_path'
             self.feature_name = 'XLSR'
-            # self.expected_shape = (XLSR_SEGMENT_LEN, XLSR_DIM_INPUT)
         else:
             self.feature_path_key = 'feature_path'
             self.feature_name = 'eGeMAPS'
@@ -67,11 +66,6 @@ class FeatureDataset(Dataset):
                     if torch.isnan(features).any() or torch.isinf(features).any():
                         print(f"Error: Features contain NaN/Inf, skipping: {session_id}")
                         continue
-                     
-                    # Verify shape
-                    # if features.shape != self.expected_shape:
-                    #     print(f"Error: Feature shape error {session_id}: {features.shape}, expected {self.expected_shape}")
-                    #     continue
 
                     # Store data
                     self.features.append(features)
@@ -161,8 +155,6 @@ def create_dataloaders(
     Returns:
         data_loader: DataLoader
     """
-    feature_name = "XLSR"
-
     # Create Dataset
     try:
         dataset = FeatureDataset(data_csv, xlsr=xlsr)

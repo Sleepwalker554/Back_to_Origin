@@ -54,7 +54,6 @@ def test_on_dataset(dataset_name, model, device, ssl_model, raw_audio_dir):
     # Create test data loader
     test_loader = create_dataloaders(
         data_csv=csv_path,
-        batch_size=32,
         num_workers=0,
         xlsr=True
     )
@@ -221,7 +220,6 @@ def test_on_dataset_with_val_csv(
     # Create test data loader
     test_loader = create_dataloaders(
         data_csv=target_val_csv,
-        batch_size=32,
         num_workers=0,
         xlsr=True
     )
