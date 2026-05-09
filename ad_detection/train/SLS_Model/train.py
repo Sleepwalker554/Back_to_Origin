@@ -4,7 +4,8 @@ from torch.optim.lr_scheduler import CosineAnnealingLR
 from pathlib import Path
 from tqdm import tqdm
 from .config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, DROPOUT, ETA_MIN, PATIENCE
-from .model import AD_XLSR_Model
+from .model import AD_SLS_Model
+
 
 def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_weights=None):
     """Train for one epoch"""
@@ -49,13 +50,11 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
     correct = 0
     total = 0
 
-    # For per-class metrics (0: Control, 1: Dementia)
     control_correct = 0
     control_total = 0
     dementia_correct = 0
     dementia_total = 0
 
-    # For F1 score
     true_positives = 0
     false_positives = 0
     false_negatives = 0
@@ -77,18 +76,16 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
             correct += (predictions == labels).sum().item()
             total += labels.size(0)
 
-            # Per-class accuracy
             for pred, label in zip(predictions, labels):
-                if label == 0:  # Control
+                if label == 0:
                     control_total += 1
                     if pred == label:
                         control_correct += 1
-                else:  # Dementia
+                else:
                     dementia_total += 1
                     if pred == label:
                         dementia_correct += 1
 
-                # F1 score components (Dementia as positive class)
                 if pred == 1 and label == 1:
                     true_positives += 1
                 elif pred == 1 and label == 0:
@@ -115,11 +112,12 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
 
 def train(seed, train_loader, val_loader, output_dir, device, class_weight_control=1.0, class_weight_dementia=1.0):
     """
-    Training pipeline for XLSR features.
+    Training pipeline for SLS features.
 
     Args:
         seed: Random seed
-        train_loader: Training data loader
+        train_loader: Training data loader (yields (features, labels, masks))
+                      with features shape (B, L, T, 1024)
         val_loader: Validation data loader
         output_dir: Directory to save models
         device: Device to train on (cpu/cuda/mps)
@@ -128,8 +126,8 @@ def train(seed, train_loader, val_loader, output_dir, device, class_weight_contr
 
     Returns:
         seed: The seed used
-        best_metrics: Dictionary of best validation metrics
-        training_history: Dictionary of training history (epochs, losses, accuracies)
+        best_metrics: Dict of best validation metrics
+        training_history: Dict of training history
     """
     torch.manual_seed(seed)
     if torch.cuda.is_available():
@@ -141,7 +139,7 @@ def train(seed, train_loader, val_loader, output_dir, device, class_weight_contr
     seed_dir = Path(output_dir) / f"seed_{seed}"
     seed_dir.mkdir(parents=True, exist_ok=True)
 
-    model = AD_XLSR_Model(dropout=DROPOUT).to(device)
+    model = AD_SLS_Model(dropout=DROPOUT).to(device)
 
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
     scheduler = CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=ETA_MIN)

@@ -9,7 +9,8 @@ from opensmile.core.smile import Smile
 from opensmile.core.define import FeatureSet, FeatureLevel
 from torch.utils.data import Dataset, DataLoader
 from tqdm.auto import tqdm
-from utils.config import FEAT_SEQ_LEN, SAMPLING_RATE
+from .config import FEAT_SEQ_LEN
+from utils.config import SAMPLING_RATE
 
 def load_audio(file_path: str) -> np.ndarray:
     """
