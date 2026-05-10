@@ -5,7 +5,7 @@ FEAT_SEQ_LEN = 10                 # number of audio segments per session
 DROPOUT = 0.3
 
 # ====== Training ======
-BATCH_SIZE = 16
+BATCH_SIZE = 32
 LEARNING_RATE = 3e-3
 ETA_MIN = 1e-6
 WEIGHT_DECAY = 1e-2

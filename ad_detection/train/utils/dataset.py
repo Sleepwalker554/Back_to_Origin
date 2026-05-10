@@ -174,7 +174,7 @@ def sls_pad_mask(batch):
     masks = []
 
     for features in features_list:
-        # Keep dtype as-is (fp16 on disk); cast to fp32 happens on GPU in train loop.
+        features = features.float()  # fp16 on disk -> fp32 for training math
         L, seq_len, D = features.shape
 
         mask = torch.ones(SLS_MAX_TIME_STEPS)
@@ -182,7 +182,7 @@ def sls_pad_mask(batch):
         if seq_len > SLS_MAX_TIME_STEPS:
             features = features[:, :SLS_MAX_TIME_STEPS, :]
         elif seq_len < SLS_MAX_TIME_STEPS:
-            padding = torch.zeros(L, SLS_MAX_TIME_STEPS - seq_len, D, dtype=features.dtype)
+            padding = torch.zeros(L, SLS_MAX_TIME_STEPS - seq_len, D)
             features = torch.cat([features, padding], dim=1)
             mask[seq_len:] = 0
 
@@ -238,7 +238,8 @@ def create_dataloaders(
     if len(dataset) == 0:
         raise ValueError(f"\nError: Dataset is empty!")
 
-    loader_kwargs = dict(
+    data_loader = DataLoader(
+        dataset,
         batch_size=batch_size,
         shuffle=True,
         num_workers=num_workers,
@@ -246,13 +247,5 @@ def create_dataloaders(
         pin_memory=torch.cuda.is_available(),
         collate_fn=_COLLATE_BY_TYPE[feature_type],
     )
-    # SLS features are ~24x larger than XLSR; reduce worker prefetch to fit
-    # 32GB CPU RAM. Other feature types keep PyTorch defaults.
-    if feature_type == 'sls':
-        loader_kwargs['num_workers'] = min(num_workers, 2)
-        loader_kwargs['prefetch_factor'] = 1 if loader_kwargs['num_workers'] > 0 else None
-        loader_kwargs['persistent_workers'] = False
-
-    data_loader = DataLoader(dataset, **loader_kwargs)
 
     return data_loader
