@@ -3,7 +3,7 @@ import torch.nn.functional as F
 from torch.optim.lr_scheduler import CosineAnnealingLR
 from pathlib import Path
 from tqdm import tqdm
-from .config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, DROPOUT, ETA_MIN, PATIENCE
+from .config import LEARNING_RATE, MAX_EPOCHS, WEIGHT_DECAY, DROPOUT, ETA_MIN, PATIENCE, PRE_POOL_KERNEL
 from .model import AD_SLS_Model
 
 
@@ -139,7 +139,7 @@ def train(seed, train_loader, val_loader, output_dir, device, class_weight_contr
     seed_dir = Path(output_dir) / f"seed_{seed}"
     seed_dir.mkdir(parents=True, exist_ok=True)
 
-    model = AD_SLS_Model(dropout=DROPOUT).to(device)
+    model = AD_SLS_Model(dropout=DROPOUT, pre_pool_kernel=PRE_POOL_KERNEL).to(device)
 
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
     scheduler = CosineAnnealingLR(optimizer, T_max=MAX_EPOCHS, eta_min=ETA_MIN)
