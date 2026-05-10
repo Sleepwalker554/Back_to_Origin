@@ -148,7 +148,11 @@ def create_train_val_split(
     return train_csv_path, val_csv_path
 
 
-def create_split(dataset_name: str, feature_type: str = 'xlsr') -> Tuple[Path, Path]:
+def create_split(
+    dataset_name: str,
+    feature_type: str = 'xlsr',
+    raw_audio_dir: Optional[Path] = None,
+) -> Tuple[Path, Path]:
     """
     Ensure train/val CSVs for the given dataset exist and have data.
     If missing or empty, regenerate from raw audio files.
@@ -156,6 +160,10 @@ def create_split(dataset_name: str, feature_type: str = 'xlsr') -> Tuple[Path, P
     Args:
         dataset_name: Dataset name (e.g. "Pitt", "Lu")
         feature_type: 'xlsr' (default, backward-compatible) or 'sls'
+        raw_audio_dir: Optional override for the raw audio directory.
+                       Defaults to PROJECT_ROOT/data/raw/{dataset_name}.
+                       Use this for denoised variants stored under
+                       data/denoised/{dataset_name}.
 
     Returns:
         Tuple[Path, Path]: (train_csv, val_csv)
@@ -163,7 +171,8 @@ def create_split(dataset_name: str, feature_type: str = 'xlsr') -> Tuple[Path, P
     if feature_type not in TAG_TO_EXT:
         raise ValueError(f"Unknown feature_type: {feature_type}")
 
-    raw_dir = PROJECT_ROOT / f"data/raw/{dataset_name}"
+    raw_dir = raw_audio_dir if raw_audio_dir is not None \
+              else PROJECT_ROOT / f"data/raw/{dataset_name}"
     train_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_type}-train.csv"
     val_csv = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_type}-val.csv"
     feature_dir_name = f"{dataset_name}_{feature_type}_features"
