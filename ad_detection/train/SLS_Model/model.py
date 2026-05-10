@@ -3,6 +3,7 @@ from torch import Tensor, nn
 import torch.nn.functional as F
 
 from XLSR_model.model import PoolAttFF
+from .config import DROPOUT, PRE_POOL_KERNEL
 
 
 class AD_SLS_Model(nn.Module):
@@ -31,7 +32,7 @@ class AD_SLS_Model(nn.Module):
     overfit to.
     """
 
-    def __init__(self, dropout: float = 0.2, pre_pool_kernel: int = 4):
+    def __init__(self, dropout: float = DROPOUT, pre_pool_kernel: int = PRE_POOL_KERNEL):
         super().__init__()
         # Layer attention (SLS-specific, ~1K params)
         self.fc0 = nn.Linear(1024, 1)
