@@ -18,7 +18,7 @@ def train_one_epoch(model, train_loader, optimizer, device, epoch=None, class_we
     pbar = tqdm(train_loader, desc=desc, leave=False)
 
     for features, labels, masks in pbar:
-        features = features.to(device)
+        features = features.to(device).float()
         labels = labels.to(device)
         masks = masks.to(device)
         logits = model(features, masks)
@@ -64,7 +64,7 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
 
     with torch.no_grad():
         for features, labels, masks in pbar:
-            features = features.to(device)
+            features = features.to(device).float()
             labels = labels.to(device)
             masks = masks.to(device)
             logits = model(features, masks)

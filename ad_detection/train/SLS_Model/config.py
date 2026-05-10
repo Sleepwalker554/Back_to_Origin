@@ -6,7 +6,7 @@ MAX_TIME_STEPS = 50 * SECOND_LENGTH  # 3000
 DROPOUT = 0.2
 # AvgPool1d kernel/stride before Conv1d. T=3000 -> T // PRE_POOL_KERNEL.
 # 4 = 80ms/frame (recommended), 2 = 40ms (less smoothing), 8 = 160ms (more).
-PRE_POOL_KERNEL = 4
+PRE_POOL_KERNEL = 16
 
 # ====== Training ======
 # SLS cached features are (L=24, T, 1024) — ~24x larger per sample than XLSR.
