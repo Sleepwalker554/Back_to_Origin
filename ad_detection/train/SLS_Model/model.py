@@ -2,72 +2,67 @@ import torch
 from torch import Tensor, nn
 import torch.nn.functional as F
 
+from XLSR_model.model import PoolAttFF
+
 
 class AD_SLS_Model(nn.Module):
     """
     AD-detection head for SLS-style cached features.
 
     Input:
-        x: (batch_size, L, T, 1024) — pre-extracted XLS-R layer features
-            where L = number of transformer layers (24 or 25 depending
-            on fairseq version), T = time steps after 320x downsampling.
-        mask: (batch_size, T) — 1 for real frames, 0 for padding (optional).
+        x:    (B, L, T, 1024)  — pre-extracted XLS-R layer features
+        mask: (B, T)            — 1 for real frames, 0 for padding (optional)
 
-    Pipeline (parallels SLS getAttenF + classifier):
-        1. Mask-aware mean over T per layer    -> (B, L, 1024)
-        2. Linear(1024, 1) + sigmoid           -> (B, L, 1) layer weights
-        3. Weighted sum over layers            -> (B, T, 1024)
-        4. BatchNorm2d + SELU + AdaptiveMaxPool2d((67, 341)) -> (B, 1, 67, 341)
-        5. Flatten -> Linear(22847, 1024) -> SELU -> Dropout -> Linear(1024, 2)
+    Pipeline:
+        1. Mask-aware mean over T per layer       -> (B, L, 1024)
+        2. Linear(1024, 1) + sigmoid              -> (B, L, 1) layer weights
+        3. Per-frame weighted sum over layers     -> (B, T, 1024)
+        4. Reused XLSR head:
+              BatchNorm1d(1024) -> Conv1d(1024,32,k=5) -> BN1d(32)
+              -> ReLU -> Dropout -> PoolAttFF(32) -> Linear(32, 2)
+        5. -> (B, 2) raw logits  (use nn.CrossEntropyLoss directly)
 
-    Returns raw logits of shape (B, 2). Use nn.CrossEntropyLoss directly
-    (no LogSoftmax — the original SLS used LogSoftmax + CrossEntropyLoss
-    which double-applies softmax).
-
-    The fixed AdaptiveMaxPool2d output shape (67, 341) keeps the
-    Linear(22847, 1024) weight unchanged from the original SLS at
-    T=201; at T=3000 the temporal pool window is ~45 frames instead
-    of the original 3 (more aggressive smoothing, but fc1 stays small).
+    The only architectural difference vs AD_XLSR_Model is the
+    layer-attention preamble (~1025 params). After step 3 the tensor
+    shape (B, T, 1024) matches XLSR's cached feature shape exactly,
+    so the same head applies unchanged.
     """
 
     def __init__(self, dropout: float = 0.2):
         super().__init__()
-        self.first_bn = nn.BatchNorm2d(num_features=1)
-        self.selu = nn.SELU(inplace=True)
+        # Layer attention (SLS-specific, ~1K params)
         self.fc0 = nn.Linear(1024, 1)
-        self.fc1 = nn.Linear(22847, 1024)
+
+        # XLSR-style head — mirrors AD_XLSR_Model
+        self.norm = nn.BatchNorm1d(1024)
+        self.conv1 = nn.Conv1d(1024, 32, kernel_size=5, padding=2)
+        self.bn_conv = nn.BatchNorm1d(32)
         self.dropout = nn.Dropout(dropout)
-        self.fc3 = nn.Linear(1024, 2)
+        self.pool_ad = PoolAttFF(dim_hidden=32, dropout=dropout)
+        self.output_layer = nn.Linear(32, 2)
 
     def forward(self, x: Tensor, mask: Tensor = None) -> Tensor:
-        # x: (B, L, T, 1024)
-
-        # 1. Mask-aware mean over time per layer -> (B, L, 1024)
+        # 1. Mask-aware mean over T per layer -> (B, L, 1024)
         if mask is not None:
-            mask_t = mask[:, None, :, None]                  # (B, 1, T, 1)
-            denom = mask.sum(dim=1).clamp(min=1)[:, None, None]  # (B, 1, 1)
-            layer_pooled = (x * mask_t).sum(dim=2) / denom   # (B, L, 1024)
+            mask_t = mask[:, None, :, None]                       # (B, 1, T, 1)
+            denom = mask.sum(dim=1).clamp(min=1)[:, None, None]   # (B, 1, 1)
+            layer_pooled = (x * mask_t).sum(dim=2) / denom        # (B, L, 1024)
         else:
-            layer_pooled = x.mean(dim=2)                     # (B, L, 1024)
+            layer_pooled = x.mean(dim=2)                          # (B, L, 1024)
 
-        # 2. Per-layer attention weights -> (B, L, 1) -> (B, L, 1, 1)
-        y0 = torch.sigmoid(self.fc0(layer_pooled))           # (B, L, 1)
-        y0 = y0.unsqueeze(-1)                                # (B, L, 1, 1)
+        # 2. Per-layer attention weights -> (B, L, 1)
+        y0 = torch.sigmoid(self.fc0(layer_pooled))                # (B, L, 1)
 
-        # 3. Weighted sum over layers -> (B, T, 1024)
-        weighted = x * y0                                    # (B, L, T, 1024)
-        summed = weighted.sum(dim=1)                         # (B, T, 1024)
+        # 3. Per-frame weighted sum over layers -> (B, T, 1024)
+        weighted = (x * y0.unsqueeze(-1)).sum(dim=1)              # (B, T, 1024)
 
-        # 4. 2-D pooling head
-        h = summed.unsqueeze(1)                              # (B, 1, T, 1024)
-        h = self.first_bn(h)
-        h = self.selu(h)
-        h = F.adaptive_max_pool2d(h, (67, 341))              # (B, 1, 67, 341)
-
-        # 5. Classifier head
-        h = torch.flatten(h, 1)                              # (B, 22847)
-        h = self.fc1(h)
-        h = self.selu(h)
+        # 4. XLSR-style head
+        h = self.norm(weighted.permute(0, 2, 1))                  # (B, 1024, T)
+        h = self.conv1(h)                                         # (B, 32, T)
+        h = self.bn_conv(h)
+        h = F.relu(h)
         h = self.dropout(h)
-        logits = self.fc3(h)                                 # (B, 2)
+        h = h.permute(0, 2, 1)                                    # (B, T, 32)
+        h_pooled = self.pool_ad(h, mask)                          # (B, 32)
+        logits = self.output_layer(h_pooled)                      # (B, 2)
         return logits
