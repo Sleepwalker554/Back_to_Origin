@@ -58,6 +58,17 @@ The ADReSS / ADReSSo / ADReSS-M datasets were each released as part of a corresp
 - [ADReSSo Challenge](https://luzs.gitlab.io/adresso-2021/) — Interspeech 2021.
 - [ADReSS-M Challenge](https://luzs.gitlab.io/madress-2023/) — ICASSP 2023.
 
+## Speech Enhancement Methods
+
+We applied the following five speech enhancement methods to Pitt-origin and Lu, respectively. For each dataset, we constructed five denoised versions.
+
+- [Denoiser](https://github.com/facebookresearch/denoiser) — Facebook Research.
+- [MossFormer](https://github.com/modelscope/ClearerVoice-Studio) — ClearerVoice Studio.
+- [FRCRN_SE](https://github.com/modelscope/ClearerVoice-Studio) — ClearerVoice Studio.
+- [Resemble](https://github.com/resemble-ai/resemble-enhance) — Resemble AI.
+- [Demucs](https://github.com/facebookresearch/demucs) — Facebook Research.
+
+
 ## Model Architectures and Results
 
 ![Model Architectures](images/EMNLP_Model_Arc.png)
@@ -113,6 +124,7 @@ This project builds on the following open-source repositories. We thank the auth
    1. Denoiser: https://github.com/facebookresearch/denoiser
    2. ClearerVoice-Studio (MossFormer, FRCRN_SE): https://github.com/modelscope/ClearerVoice-Studio
    3. Resemble: https://github.com/resemble-ai/resemble-enhance
+   4. Demucs: https://github.com/facebookresearch/demucs
 3. Large audio-language models:
    1. Kimi-Audio: https://github.com/MoonshotAI/Kimi-Audio
    2. Qwen2-Audio: https://github.com/QwenLM/Qwen2-Audio
