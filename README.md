@@ -15,7 +15,7 @@ Systematic study of how speech enhancement and dataset filtering affect Alzheime
     - `LLM/` — Zero-shot / two-shot audio-only evaluation of Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio Flamingo 3, Ultravox.  Audio-only and audio+transcript evaluation for Limi-Audio
   - `data/` — dataset layout (raw / denoised / processed / transcripts). See `ad_detection/data/README.md`.
   - `models/` — checkpoints. See `ad_detection/models/Readme.md`.
-- `requirements/` — `model_env/deep-requirements.txt` for the three deep models (the only env that needs fairseq); `LLMs_env/` has a separate env per audio-LLM.
+- `requirements/` — `model_env/deep-requirements.txt` for the three deep models; `LLMs_env/` has a separate env per LLM.
 
 ## Datasets
 
@@ -30,7 +30,27 @@ Systematic study of how speech enhancement and dataset filtering affect Alzheime
 
 All datasets from [DementiaBank](https://dementia.talkbank.org/). All five Pitt variants use the "Cookie Theft" picture description task.
 
-## Alzheimer's Disease detection from Speech Challenges
+| Dataset     | Total | AD  | Control |
+|-------------|:-----:|:---:|:-------:|
+| Pitt-origin |  552  | 309 |   243   |
+| Pitt        |  551  | 309 |   242   |
+| ADReSS      |  156  |  78 |    78   |
+| ADReSSo     |  237  | 122 |   115   |
+| ADReSS-M    |  237  | 122 |   115   |
+
+*Sample numbers of datasets.*
+
+| Dataset     | Min(s) | Max(s) | Mean(s) | Median(s) | Total(min) |
+|-------------|:------:|:------:|:-------:|:---------:|:----------:|
+| Pitt Corpus | 18.00  | 268.48 |  70.06  |   63.29   |   643.39   |
+| Pitt-origin | 17.89  | 268.49 |  69.97  |   63.20   |   643.72   |
+| ADReSS      | 26.06  | 268.49 |  75.30  |   70.05   |   195.78   |
+| ADReSSo     | 22.35  | 268.49 |  76.89  |   70.47   |   303.72   |
+| ADReSS-M    | 22.35  | 268.49 |  76.89  |   70.48   |   303.72   |
+
+*Audio duration statistics per dataset.*
+
+## Alzheimer's Dementia Recognition through Spontaneous Speech Challenges
 
 The ADReSS / ADReSSo / ADReSS-M datasets were each released as part of a corresponding challenge:
 
@@ -42,15 +62,15 @@ The ADReSS / ADReSSo / ADReSS-M datasets were each released as part of a corresp
 
 ![Model Architectures](images/EMNLP_Model_Arc.png)
 
-1. **SLS-based Model.** 
+### **SLS-based Model.** 
 
 The model uses `Sensitive Layer Selection (SLS)` on cached multi-layer `XLS-R` representations. Given frame-level representations from all transformer layers, the model first applies mask-aware mean pooling over time for each layer and predicts layer-wise weights through a linear layer followed by a sigmoid function. The original frame-level features are then aggregated across layers using the learned weights to obtain a weighted speech representation. This representation is passed through an classification head, including batch normalization, temporal average pooling, a one-dimensional convolutional layer, and attention pooling. Finally, a linear classification layer outputs the binary prediction.
 
-2. **XLSR-based Model.**
+### **XLSR-based Model.**
 
 The audio input is first fed into a pre-trained `XLS-R` model with frozen parameters to extract frame-level speech embeddings. The extracted features are then passed through a classification head similar to that of the SLS-based model, including batch normalization, a one-dimensional convolutional layer, and attention pooling, but without temporal average pooling. During attention pooling, a padding mask is applied to prevent padded frames from interfering with the results. Finally, a linear classification layer outputs the binary prediction.
 
-1. s**eGeMAPS-based Model.**
+### **eGeMAPS-based Model.**
 
 The model takes 25-dimensional `eGeMAPS` acoustic features extracted using the `OpenSMILE toolkit` as input. The features are first processed by two linear layers with batch normalization, ReLU activation, and dropout to remap the feature dimensions from 25 to 64 and then to 32. An attention pooling layer is then applied along the temporal dimension to aggregate frame-level representations into a fixed-dimensional vector. Finally, a linear classification layer outputs the AD prediction.
 
@@ -59,9 +79,9 @@ The model takes 25-dimensional `eGeMAPS` acoustic features extracted using the `
 
 XLS-R-53 (300M), used as a frozen feature extractor in the SLS-based and XLSR-based models. 
 
-Download `xlsr2_300m.pt` From: <https://huggingface.co/facebook/wav2vec2-xls-r-300m>.
+Download `xlsr2_300m.pt` From: <https://huggingface.co/facebook/wav2vec2-xls-r-300m> and place it under `ad_detection/models/`.
 
-XLS-R requires `fairseq` (only in the `deep` env). After installing `deep-requirements.txt`, install fairseq in the `deep` env:
+XLS-R requires `fairseq` (only in the `deep` env). After installing `deep-requirements.txt`, install `fairseq` in the `deep` env:
 
 ```bash
 pip install -e ad_detection/train/fairseq-a54021305d6b3c4c5959ac9395135f63202db8f1
@@ -76,5 +96,3 @@ Create one conda env per requirements file. All three deep learning-base models 
 - `requirements/LLMs_env/qwen-requirements.txt` — env for Qwen2-Audio and Qwen3-Omni.
 - `requirements/LLMs_env/audio-flamingo3-requirements.txt` — env for Audio Flamingo 3.
 - `requirements/LLMs_env/ultravox-requirements.txt` — env for Ultravox.
-
-
