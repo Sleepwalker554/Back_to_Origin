@@ -36,3 +36,4 @@ Visualization/
 Noise_Remove/
 dataset_analysis/
 Evaluate_Audio/
+requirements/denoise_env/

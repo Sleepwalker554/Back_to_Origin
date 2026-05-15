@@ -1,7 +1,4 @@
-# Madress environment (Python 3.9)
-# Used for: ad_detection/train/ (frozen-XLSR training & ADReSS evaluation)
-
-# PyTorch
+# Python 3.9
 torch==2.8.0
 torchaudio==2.8.0
 torchvision==0.23.0

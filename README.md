@@ -1,6 +1,6 @@
 # Back to the Original Pitt Corpus: The Hidden Cost of Denoising Speech Datasets for Alzheimer’s Detection
 
-Alzheimer's / dementia detection from spontaneous speech. Compares performance on raw vs. denoised audio across different audio-LLM settings (zero-shot / few-shot) and an XLSR-based model.
+Alzheimer's / dementia detection from spontaneous speech. Compares performance on raw vs. denoised audio across different audio-LLM settings (zero-shot / few-shot) and three deep learning-based models.
 
 ## Layout
 
