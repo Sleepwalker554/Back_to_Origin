@@ -1,7 +1,7 @@
 
 ## Model Architectures and Results
 
-![Model Architectures](images/EMNLP_Model_Arc.png)
+![Model Architectures](../../images/EMNLP_Model_Arc.png)
 
 ### **SLS-based Model**
 
