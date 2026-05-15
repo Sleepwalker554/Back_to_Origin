@@ -101,11 +101,12 @@ Create one conda env per requirements file. All three deep learning-base models 
 
 This project builds on the following open-source repositories. We thank the authors for releasing their code and models.
 
-- [fairseq](https://github.com/facebookresearch/fairseq) — XLS-R / wav2vec 2.0 frozen backbone for the SLS- and XLSR-based models.
-- [OpenSMILE](https://github.com/audeering/opensmile) — eGeMAPS acoustic feature extraction.
-- SLS (Sensitive Layer Selection) — *original repository link TBD*.
-- [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
-- [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio)
-- [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni)
-- [Audio Flamingo 3](https://github.com/NVIDIA/audio-flamingo)
-- [Ultravox](https://github.com/fixie-ai/ultravox)
+1. OpenSMILE: https://github.com/audeering/opensmile
+2. SLS: https://github.com/QiShanZhang/SLSforASVspoof-2021-DF
+3. Denoiser: https://github.com/facebookresearch/denoiser
+4. ClearerVoice-Studio (MossFormer, FRCRN_SE): https://github.com/modelscope/ClearerVoice-Studio
+5. Kimi-Audio: https://github.com/MoonshotAI/Kimi-Audio
+6. Qwen2-Audio: https://github.com/QwenLM/Qwen2-Audio
+7. Qwen3-Omni: https://github.com/QwenLM/Qwen3-Omni
+8. Audio Flamingo 3: https://github.com/NVIDIA/audio-flamingo
+9. Ultravox: https://github.com/fixie-ai/ultravox
