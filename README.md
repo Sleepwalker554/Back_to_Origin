@@ -4,7 +4,7 @@ Alzheimer's / dementia detection from spontaneous speech. Compares performance o
 
 ## Layout
 
-- `LLM/` — audio-LLM evaluation notebooks (Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio-Flamingo3, Ultravox), zero-shot and few-shot variants.
+- `ad_detection/train_notebook/LLM/` — audio-LLM evaluation notebooks (Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio-Flamingo3, Ultravox), zero-shot and few-shot variants.
 - `ad_detection/` — XLSR fine-tuning baseline (`train/`), data splits (`data/`), checkpoints (`models/`).
 - `Noise_Remove/` — speech-enhancement preprocessing (Demucs, Denoiser, FRCRN, MossFormer, Resemble).
 - `Evaluate_Audio/` — audio quality metrics (DNSMOS) and spectrogram visualization.
