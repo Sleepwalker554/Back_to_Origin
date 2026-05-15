@@ -28,7 +28,7 @@ Systematic study of how speech enhancement and dataset filtering affect Alzheime
 | ADReSS-M    | Derived from Pitt-origin (filtered, not enhanced) | [DementiaBank — ADReSS-M (2023)](https://luzs.gitlab.io/madress-2023/) |
 | Lu          | Raw data (distinct from Pitt-origin)              | [DementiaBank — Lu](https://talkbank.org/dementia/access/English/Lu.html)             |
 
-All datasets from [DementiaBank](https://dementia.talkbank.org/). All five Pitt variants use the "Cookie Theft" picture description task.
+All datasets from [DementiaBank](https://dementia.talkbank.org/). All the datasets use the "Cookie Theft" picture description task.
 
 | Dataset     | Total | AD  | Control |
 |-------------|:-----:|:---:|:-------:|
@@ -96,3 +96,16 @@ Create one conda env per requirements file. All three deep learning-base models 
 - `requirements/LLMs_env/qwen-requirements.txt` — env for Qwen2-Audio and Qwen3-Omni.
 - `requirements/LLMs_env/audio-flamingo3-requirements.txt` — env for Audio Flamingo 3.
 - `requirements/LLMs_env/ultravox-requirements.txt` — env for Ultravox.
+
+## Acknowledgements
+
+This project builds on the following open-source repositories. We thank the authors for releasing their code and models.
+
+- [fairseq](https://github.com/facebookresearch/fairseq) — XLS-R / wav2vec 2.0 frozen backbone for the SLS- and XLSR-based models.
+- [OpenSMILE](https://github.com/audeering/opensmile) — eGeMAPS acoustic feature extraction.
+- SLS (Sensitive Layer Selection) — *original repository link TBD*.
+- [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)
+- [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio)
+- [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni)
+- [Audio Flamingo 3](https://github.com/NVIDIA/audio-flamingo)
+- [Ultravox](https://github.com/fixie-ai/ultravox)
