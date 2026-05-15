@@ -21,7 +21,6 @@ ad_detection/models/*
 **/lightning_logs/*
 **/__pycache__/*
 
-
 **/evaluation_log.txt
 **/.DS_Store
 **/.ipynb_checkpoints/
