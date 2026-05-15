@@ -58,23 +58,23 @@ The ADReSS / ADReSSo / ADReSS-M datasets were each released as part of a corresp
 - [ADReSSo Challenge](https://luzs.gitlab.io/adresso-2021/) — Interspeech 2021.
 - [ADReSS-M Challenge](https://luzs.gitlab.io/madress-2023/) — ICASSP 2023.
 
-## Model Architectures
+## Model Architectures and Results
 
 ![Model Architectures](images/EMNLP_Model_Arc.png)
 
-### **SLS-based Model.** 
+### **SLS-based Model**
 
 The model uses `Sensitive Layer Selection (SLS)` on cached multi-layer `XLS-R` representations. Given frame-level representations from all transformer layers, the model first applies mask-aware mean pooling over time for each layer and predicts layer-wise weights through a linear layer followed by a sigmoid function. The original frame-level features are then aggregated across layers using the learned weights to obtain a weighted speech representation. This representation is passed through an classification head, including batch normalization, temporal average pooling, a one-dimensional convolutional layer, and attention pooling. Finally, a linear classification layer outputs the binary prediction.
 
 ![SLS-based Model Results](images/SLS_results.png)
 
-### **XLSR-based Model.**
+### **XLSR-based Model**
 
 The audio input is first fed into a pre-trained `XLS-R` model with frozen parameters to extract frame-level speech embeddings. The extracted features are then passed through a classification head similar to that of the SLS-based model, including batch normalization, a one-dimensional convolutional layer, and attention pooling, but without temporal average pooling. During attention pooling, a padding mask is applied to prevent padded frames from interfering with the results. Finally, a linear classification layer outputs the binary prediction.
 
 ![XLSR-based Model Results](images/XLSR_results.png)
 
-### **eGeMAPS-based Model.**
+### **eGeMAPS-based Model**
 
 The model takes 25-dimensional `eGeMAPS` acoustic features extracted using the `OpenSMILE toolkit` as input. The features are first processed by two linear layers with batch normalization, ReLU activation, and dropout to remap the feature dimensions from 25 to 64 and then to 32. An attention pooling layer is then applied along the temporal dimension to aggregate frame-level representations into a fixed-dimensional vector. Finally, a linear classification layer outputs the AD prediction.
 
