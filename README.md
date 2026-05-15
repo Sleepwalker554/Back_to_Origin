@@ -4,11 +4,11 @@ Alzheimer's / dementia detection from spontaneous speech. Compares performance o
 
 ## Layout
 
-- `ad_detection/train_notebook/LLM/` — audio-LLM evaluation notebooks (Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio-Flamingo3, Ultravox), zero-shot and few-shot variants.
-- `ad_detection/` — XLSR fine-tuning baseline (`train/`), data splits (`data/`), checkpoints (`models/`).
-- `Noise_Remove/` — speech-enhancement preprocessing (Demucs, Denoiser, FRCRN, MossFormer, Resemble).
-- `Evaluate_Audio/` — audio quality metrics (DNSMOS) and spectrogram visualization.
-- `dataset_analysis/` — duration / distribution stats over the datasets.
+- `ad_detection/` — XLSR baseline + audio-LLM evaluation.
+  - `train/` — XLSR fine-tuning.
+  - `train_notebook/` — training notebooks. `LLM/` holds audio-LLM evaluation notebooks (Kimi-Audio, Qwen2-Audio, Qwen3-Omni, Audio-Flamingo3, Ultravox), zero-shot and few-shot variants.
+  - `data/` — data splits.
+  - `models/` — checkpoints.
 - `requirements/` — each LLM uses its own conda env.
 
 ## Datasets
@@ -23,3 +23,18 @@ Alzheimer's / dementia detection from spontaneous speech. Compares performance o
 | ADReSS-M    | DementiaBank — ADReSS-M challenge (2023) |
 
 Download all the datasets from [DementiaBank](https://dementia.talkbank.org/).
+
+## Frozen pretrained backbone
+
+- `xlsr2_300m.pt` — XLS-R-53 (300M params) wav2vec 2.0 checkpoint from
+  fairseq. Used in `ad_detection/train/XLSR_model/model.py:SSLModel` as a frozen feature
+  extractor (`freeze_xlsr=True`).
+  Model page: <https://huggingface.co/facebook/wav2vec2-xls-r-300m>
+
+## Setup
+
+Install the vendored fairseq (pinned at commit `a54021305d`):
+
+```bash
+pip install -e ad_detection/train/fairseq-a54021305d6b3c4c5959ac9395135f63202db8f1
+```
