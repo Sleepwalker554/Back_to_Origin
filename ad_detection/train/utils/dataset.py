@@ -5,8 +5,6 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from .config import NUM_WORKERS
 from .data_split import TAG_TO_COL
-# Per-model pad lengths live in each model's config to keep cross-cutting
-# constants out of utils/config.py.
 from XLSR_model.config import MAX_TIME_STEPS as XLSR_MAX_TIME_STEPS
 from SLS_Model.config import MAX_TIME_STEPS as SLS_MAX_TIME_STEPS
 

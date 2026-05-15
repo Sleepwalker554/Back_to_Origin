@@ -5,8 +5,7 @@ import numpy as np
 from pathlib import Path
 from tqdm.auto import tqdm
 from typing import Union, Optional
-
-from XLSR_model.model import SSLModel  # frozen XLS-R extractor, reused as-is
+from XLSR_model.model import SSLModel
 from .config import SECOND_LENGTH
 from utils.config import SAMPLING_RATE
 

@@ -6,8 +6,8 @@ CONFIG_FILE = Path(__file__).resolve()
 PROJECT_ROOT = CONFIG_FILE.parent.parent.parent
 
 # ====== Cross-model constants ======
-SAMPLING_RATE = 16000             # all models load audio at 16 kHz
-NUM_WORKERS = 4                   # default DataLoader workers
+SAMPLING_RATE = 16000
+NUM_WORKERS = 4
 
 # ====== Data split ======
 RANDOM_SEED = 42
