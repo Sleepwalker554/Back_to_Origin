@@ -6,10 +6,6 @@ import torch.nn.functional as F
 class PoolAttFF(nn.Module):
     """
     Attention pooling module
-
-    Args:
-        dim_hidden: Hidden dimension of input features
-        dropout: Dropout rate for attention network
     """
 
     def __init__(self, dim_hidden, dropout):

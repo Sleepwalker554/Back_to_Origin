@@ -14,12 +14,6 @@ def plot_training_curves(
 ):
     """
     Plot training and validation loss and accuracy curves
-
-    Args:
-        epochs: epoch list
-        train_loss, val_loss: Training/validation loss
-        train_acc, val_acc: Training/validation accuracy (0-1)
-        title_prefix: Title prefix (e.g. "Seed 42")
     """
     # Define colors inside the function
     train_color = '#2E86AB'

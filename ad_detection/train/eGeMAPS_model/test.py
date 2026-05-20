@@ -13,15 +13,6 @@ from utils.data_split import create_test_csv
 def test_on_dataset(dataset_name, model, device, raw_audio_dir):
     """
     Test eGeMAPS model on a given dataset.
-
-    Args:
-        dataset_name: Name of the dataset
-        model: Model to test
-        device: Device to run on
-        raw_audio_dir: Path to raw audio directory (relative to PROJECT_ROOT)
-
-    Returns:
-        dict: Dictionary containing test results
     """
     print(f"\n{'='*60}")
     print(f"Testing on {dataset_name} Dataset")
@@ -103,16 +94,6 @@ def test_on_dataset_with_val_csv(
 ):
     """
     Test eGeMAPS model on a dataset using the same validation set split as reference CSV.
-
-    Args:
-        reference_val_csv: Path to reference validation CSV
-        dataset_name: Name of the target dataset to test on
-        model: Model to test
-        device: Device to run on
-        raw_audio_dir: Path to raw audio directory (relative to PROJECT_ROOT)
-
-    Returns:
-        dict: Dictionary containing test results
     """
     print(f"\n{'='*60}")
     print(f"Testing on {dataset_name} Dataset (using reference VAL_CSV)")

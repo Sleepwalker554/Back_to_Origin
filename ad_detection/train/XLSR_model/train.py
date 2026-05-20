@@ -116,20 +116,6 @@ def validate(model, val_loader, device, epoch=None, class_weights=None):
 def train(seed, train_loader, val_loader, output_dir, device, class_weight_control=1.0, class_weight_dementia=1.0):
     """
     Training pipeline for XLSR features.
-
-    Args:
-        seed: Random seed
-        train_loader: Training data loader
-        val_loader: Validation data loader
-        output_dir: Directory to save models
-        device: Device to train on (cpu/cuda/mps)
-        class_weight_control: Weight for Control class (0) in loss function
-        class_weight_dementia: Weight for Dementia class (1) in loss function
-
-    Returns:
-        seed: The seed used
-        best_metrics: Dictionary of best validation metrics
-        training_history: Dictionary of training history (epochs, losses, accuracies)
     """
     torch.manual_seed(seed)
     if torch.cuda.is_available():

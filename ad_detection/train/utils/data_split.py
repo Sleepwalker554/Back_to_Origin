@@ -4,7 +4,6 @@ from random import Random
 from typing import Optional, Tuple
 from .config import PROJECT_ROOT, RANDOM_SEED, TRAIN_SET_RATTIO
 
-# Single source of truth for feature_type-dependent file naming.
 # Allowed values: 'egemaps', 'xlsr', 'sls'.
 TAG_TO_EXT = {'egemaps': '.pt',          'xlsr': '.xlsr.pt',  'sls': '.sls.pt'}
 TAG_TO_COL = {'egemaps': 'feature_path', 'xlsr': 'xlsr_path', 'sls': 'sls_path'}
@@ -28,19 +27,6 @@ def create_train_val_split(
 ) -> Tuple[Path, Path]:
     """
     Create training and validation CSV files
-
-    Args:
-        raw_audio_dir: Directory containing raw audio files
-                       (with subfolders Control and Dementia)
-        dataset_name: Dataset name (used to construct CSV paths)
-        feature_dir_name: Feature directory name
-        train_set_ratio: Ratio of training samples (default: 0.8)
-        random_seed: Random seed (default: 42)
-        feature_type: 'egemaps', 'xlsr', or 'sls' (default: 'egemaps')
-        xlsr: Deprecated. True -> 'xlsr', False -> 'egemaps'.
-
-    Returns:
-        Tuple[Path, Path]: (train_csv_path, val_csv_path)
     """
     feature_type = _resolve_feature_type(feature_type, xlsr)
     if feature_type not in TAG_TO_EXT:
@@ -50,9 +36,8 @@ def create_train_val_split(
     train_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_type}-train.csv"
     val_csv_path = PROJECT_ROOT / f"data/processed/{dataset_name}-{feature_type}-val.csv"
 
-    # Ensure output directories exist
+    # Ensure output directory exists (train and val share the same parent)
     train_csv_path.parent.mkdir(parents=True, exist_ok=True)
-    val_csv_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Check whether raw audio directory exists
     if not raw_audio_dir.exists():
@@ -141,7 +126,7 @@ def create_train_val_split(
             writer.writerow([session_id, feature_path, ad])
 
     # Print statistics
-    print(f"============= {dataset_name} Train({TRAIN_SET_RATTIO*100}%) and Val({int((1-TRAIN_SET_RATTIO)*100 + 1)}%) Split Complete! =============")
+    print(f"============= {dataset_name} Train({TRAIN_SET_RATTIO*100}%) and Val({int((1-TRAIN_SET_RATTIO)*100)}%) Split Complete! =============")
     print(f"Training set: {len(train_samples)} samples (Control: {len(control_train)}, Dementia: {len(dementia_train)})")
     print(f"Validation set: {len(val_samples)} samples (Control: {len(control_val)}, Dementia: {len(dementia_val)})")
 
@@ -156,17 +141,6 @@ def create_split(
     """
     Ensure train/val CSVs for the given dataset exist and have data.
     If missing or empty, regenerate from raw audio files.
-
-    Args:
-        dataset_name: Dataset name (e.g. "Pitt", "Lu")
-        feature_type: 'xlsr' (default, backward-compatible) or 'sls'
-        raw_audio_dir: Optional override for the raw audio directory.
-                       Defaults to PROJECT_ROOT/data/raw/{dataset_name}.
-                       Use this for denoised variants stored under
-                       data/denoised/{dataset_name}.
-
-    Returns:
-        Tuple[Path, Path]: (train_csv, val_csv)
     """
     if feature_type not in TAG_TO_EXT:
         raise ValueError(f"Unknown feature_type: {feature_type}")
@@ -200,17 +174,6 @@ def create_test_csv(
 ) -> Path:
     """
     Create test CSV file containing all audio files
-
-    Args:
-        raw_audio_dir: Directory containing raw audio files
-                       (with subfolders Control and Dementia)
-        dataset_name: Dataset name (used to construct CSV path)
-        feature_dir_name: Feature directory name
-        feature_type: 'egemaps', 'xlsr', or 'sls' (default: 'egemaps')
-        xlsr: Deprecated. True -> 'xlsr', False -> 'egemaps'.
-
-    Returns:
-        Path: Test CSV path
     """
     feature_type = _resolve_feature_type(feature_type, xlsr)
     if feature_type not in TAG_TO_EXT:

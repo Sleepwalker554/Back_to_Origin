@@ -17,20 +17,6 @@ def _resolve_feature_type(feature_type: Optional[str], xlsr: Optional[bool]) -> 
 
 
 class FeatureDataset(Dataset):
-    """
-    Load data from CSV.
-
-    Supports three feature_type values:
-      - 'egemaps': 2-D tensor (T, 25)        — small, preloaded to RAM
-      - 'xlsr':   2-D tensor (T, 1024)       — ~12 MB / sample, preloaded
-      - 'sls':    3-D tensor (L, T, 1024)    — ~140 MB / sample (fp16),
-                                                lazy-loaded by default
-
-    `lazy=True` skips preload — paths are stored and `torch.load` runs
-    inside `__getitem__`. NaN/Inf validation is also deferred to load
-    time (a corrupted file will raise from `__getitem__` instead of
-    being silently skipped).
-    """
     FEATURE_NAME_MAP = {'egemaps': 'eGeMAPS', 'xlsr': 'XLSR', 'sls': 'SLS'}
 
     def __init__(
@@ -159,12 +145,6 @@ def xlsr_pad_mask(batch):
 
 
 def sls_pad_mask(batch):
-    """
-    Pad SLS features (L, T, 1024) along T (dim=1) to SLS_MAX_TIME_STEPS.
-
-    Cached features are stored as fp16; cast to fp32 here so the model
-    receives fp32 tensors regardless of disk dtype.
-    """
     features_list = [f for f, l in batch]
     labels_list = [l for f, l in batch]
 

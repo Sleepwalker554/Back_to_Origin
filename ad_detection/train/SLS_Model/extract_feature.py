@@ -30,16 +30,7 @@ def extract_features_from_csv(
     freeze_xlsr: bool = True,
 ):
     """
-    Extract all-layer SLS features for a CSV split, save as fp16 .sls.pt.
-
-    Args:
-        csv_path: CSV with session_id and ad columns.
-        split_name: For logging.
-        raw_audio_dir: Directory containing Control/Dementia subfolders.
-        sls_features_dir: Output directory for .sls.pt feature files.
-        device: "cpu" or "cuda" / "mps".
-        ssl_model: Optional preloaded SSLModel.
-        freeze_xlsr: Whether to freeze XLS-R when constructing a model.
+    Extract all-layer SLS features for a CSV split and save.
     """
     csv_path = Path(csv_path)
     raw_audio_dir = Path(raw_audio_dir)

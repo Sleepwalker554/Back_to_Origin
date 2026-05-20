@@ -6,13 +6,6 @@ import fairseq
 
 ########################XLSR-53-300m####################################
 class SSLModel(nn.Module):
-    """
-    Args:
-        device: Device (cuda/cpu)
-        freeze_xlsr: Whether to freeze XLSR parameters
-            - True: Freeze all parameters, only extract features (no XLSR update)
-            - False: Unfreeze parameters, allow fine-tuning (will update XLSR)
-    """
     def __init__(self, device, freeze_xlsr=True):
         super(SSLModel, self).__init__()
 
@@ -120,11 +113,6 @@ class PoolAttFF(nn.Module):
         x_pooled = torch.bmm(att, x).squeeze(1)
 
         return x_pooled
-
-
-############################################################
-# Model classes for XLSR features
-############################################################
 
 class AD_XLSR_Model(nn.Module):
     """

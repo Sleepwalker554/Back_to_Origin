@@ -12,16 +12,6 @@ from utils.data_split import create_test_csv
 def test_on_dataset(dataset_name, model, device, ssl_model, raw_audio_dir):
     """
     Test model on a given dataset
-    
-    Args:
-        dataset_name: Name of the dataset
-        model: Model to test
-        device: Device to run on
-        ssl_model: SSL model for feature extraction
-        raw_audio_dir: Path to raw audio directory (relative to PROJECT_ROOT)
-    
-    Returns:
-        dict: Dictionary containing test results
     """
     print(f"\n{'='*60}")
     print(f"Testing on {dataset_name} Dataset")
@@ -114,17 +104,6 @@ def test_on_dataset_with_val_csv(
 ):
     """
     Test model on a dataset using the same validation set split as reference CSV
-    
-    Args:
-        reference_val_csv: Path to reference validation CSV (e.g., Pitt-Best VAL_CSV)
-        dataset_name: Name of the target dataset to test on
-        model: Model to test
-        device: Device to run on
-        ssl_model: SSL model for feature extraction
-        raw_audio_dir: Path to raw audio directory (relative to PROJECT_ROOT)
-    
-    Returns:
-        dict: Dictionary containing test results
     """
     print(f"\n{'='*60}")
     print(f"Testing on {dataset_name} Dataset (using reference VAL_CSV)")
@@ -187,11 +166,7 @@ def test_on_dataset_with_val_csv(
 
     if len(existing_samples) == 0:
         raise ValueError(
-            "No audio files matched the reference validation CSV under the target raw_audio_dir. "
-            "session_id values in the reference CSV must exist as "
-            "{session_id}.wav or {session_id}.mp3 under Control/ or Dementia/. "
-            "Use a reference VAL CSV from the same corpus as the audio (e.g. ADReSS-xlsr-val.csv "
-            "only with ADReSS audio paths, not Pitt)."
+            f"No audio under {audio_dir} matched any session_id in {reference_val_csv}. "
         )
 
     # Create target VAL_CSV with only existing samples
