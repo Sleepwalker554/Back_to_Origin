@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/t-00002449-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|66;|male|MCI||Participant|28||
+@Media:	033-3, audio
+@G:	Cookie
+*PAR:	okay a child falling off a stool in the attempt to reach the cookie jar which it looks like he's &-uh knocked the lid off . [+ gram] 150_13210
+%mor:	intj|okay det|a-Ind-Art noun|child verb|fall-Ger-S adp|off det|a-Ind-Art noun|stool adp|in det|the-Def-Art noun|attempt part|to verb|reach-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc pron|which-Rel-S1 pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|knock-Part-Past-S det|the-Def-Art noun|lid-Acc adp|off .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|12|MARK 12|10|ACL 13|15|DET 14|15|COMPOUND 15|12|OBJ 16|18|OBJ 17|18|NSUBJ 18|15|ACL-RELCL 19|22|MARK 20|22|NSUBJ-PASS 21|22|AUX-PASS 22|18|ADVCL 23|24|DET 24|22|OBJ 25|22|COMPOUND-PRT 26|4|PUNCT
+*PAR:	and &-uh maybe he's gonna drop the [/] the cookie . 13450_17350
+%mor:	cconj|and adv|maybe pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|drop-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT
+*PAR:	and his girlfriend is standing there beckoning him or reaching for the cookie that he's sposta give her . 17374_23534
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|girlfriend aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there verb|beckon-Part-Pres-S pron|he-Prs-Acc-S3 cconj|or verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|sposta verb|give-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|ADVCL 8|7|OBJ 9|10|CC 10|7|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|18|OBJ 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|13|ACL-RELCL 19|18|IOBJ 20|5|PUNCT
+*PAR:	and the mother is not paying any attention to the kids . 23583_27213
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S det|any-Def-Ind noun|attention-Acc adp|to det|the-Def-Art noun|kid-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|6|PUNCT
+*PAR:	she's looking out the window and &-uh dryin(g) the dishes . 27339_31109
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window cconj|and verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CC 8|3|CONJ 9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	at the same time she has let the sink &-uh run over and the water is cascading &-uh down on the floor and onto her feet . 31463_40113
+%mor:	adp|at det|the-Def-Art adj|same-S1 noun|time pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|let-Part-Past-S-irr det|the-Def-Art noun|sink-Acc verb|run-Inf-S adp|over cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|cascade-Part-Pres-S adp|down adp|on det|the-Def-Art noun|floor cconj|and adp|onto pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|XCOMP 11|10|COMPOUND-PRT 12|16|CC 13|14|DET 14|16|NSUBJ 15|16|AUX 16|7|CONJ 17|16|COMPOUND-PRT 18|20|CASE 19|20|DET 20|16|OBL 21|24|CC 22|24|CASE 23|24|NMOD-POSS 24|20|CONJ 25|7|PUNCT
+*PAR:	the curtains are waving and the window is open . 41905_46705
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|wave-Part-Pres-S cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|9|CC 6|7|DET 7|9|NSUBJ 8|9|COP 9|4|CONJ 10|4|PUNCT
+*PAR:	and the yard looks like it's &-uh manicured . 49790_54380
+%mor:	cconj|and det|the-Def-Art noun|yard verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|manicure-Part-Past-S .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|8|MARK 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|4|ADVCL 9|4|PUNCT
+*PAR:	and &-uh other than the [/] the stool and the cabinets and the dishes that's all I can see . 54429_62189
+%mor:	cconj|and adj|other-S1 adp|than det|the-Def-Art noun|stool cconj|and det|the-Def-Art noun|cabinet-Plur cconj|and det|the-Def-Art noun|dish-Plur pron|that-Rel~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CC 7|8|DET 8|5|CONJ 9|11|CC 10|11|DET 11|8|CONJ 12|14|NSUBJ 13|14|COP 14|11|ACL-RELCL 15|17|NSUBJ 16|17|AUX 17|14|ACL-RELCL 18|2|PUNCT
+@End

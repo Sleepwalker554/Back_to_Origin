@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002532-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	178-1, audio
+@G:	Cookie
+*INV:	I want you to look at that picture and tell me everything that you see happening in the picture . 30_6720
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|2|CONJ 11|10|IOBJ 12|10|OBJ 13|16|OBJ 14|15|NSUBJ 15|12|ACL-RELCL 16|15|XCOMP 17|19|CASE 18|19|DET 19|16|OBL 20|2|PUNCT
+*INV:	what's happening there ? 7271_8241
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	(...) &-um &+t takin(g) some cookies . [+ gram] 34081_43081
+%mor:	verb|take-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and &+f fallin(g) over . [+ gram] 46288_48128
+%mor:	cconj|and verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|CC 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	and &-uh mother's dryin(g) dishes . 53518_58668
+%mor:	cconj|and noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and things fallin(g) &-uh &-um +... 60203_64772
+%mor:	cconj|and noun|thing-Plur verb|fall-Ger-S +...
+%gra:	1|2|CC 2|0|ROOT 3|2|ACL 4|2|PUNCT
+*PAR:	sink's runnin(g) over . [+ gram] 72740_73980
+%mor:	noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	and two cups and saucer <on the plate [: sink] [* s:r-ret]> [//] &-uh on the sink . [+ gram] 75329_83859
+%mor:	cconj|and num|two noun|cup-Plur cconj|and noun|saucer adp|on det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|NUMMOD 3|0|ROOT 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|3|NMOD 9|3|PUNCT
+*PAR:	and &-uh +... 86817_90897
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the girl's &-um &-um +... 113271_118121
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s +...
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|CASE 5|3|PUNCT
+*PAR:	<cookies [: curtains] [* per-ret] I_mean> [//] &-um (..) &-uh (..) windows [: curtains] [* s:r] on the curtains [: windows] [* s:r] . [+ gram] 134100_152090
+%mor:	noun|curtain-Plur adp|on det|the-Def-Art noun|window-Plur .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*INV:	okay is that everything ? 153482_166262
+%mor:	intj|okay aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|everything-Tot-S1 ?
+%gra:	1|4|DISCOURSE 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-um (...) the spigot's on the sink . 168860_187020
+%mor:	cconj|and det|the-Def-Art noun|spigot~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*INV:	mhm . 187088_188198
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &-uh +... [+ exc] 194059_209439
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 220899_221189
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well that's about it . [+ exc] 222645_223505
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|5|PUNCT
+@End

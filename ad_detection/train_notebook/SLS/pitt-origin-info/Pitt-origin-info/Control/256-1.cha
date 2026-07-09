@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/t-00002371-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	256-1, audio
+@G:	Cookie
+*INV:	going on , that you see happening . 1420_4820
+%mor:	verb|go-Part-Pres-S adp|on cm|cm sconj|that pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|6|PUNCT 4|6|MARK 5|6|NSUBJ 6|1|PARATAXIS 7|6|XCOMP 8|1|PUNCT
+*PAR:	okay . 5042_5482
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the sink's running over . 5500_6630
+%mor:	det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|running-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	the kid's on a stool and is falling over . 7496_9896
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|and aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|9|CC 8|9|AUX 9|6|CONJ 10|9|ADVMOD 11|6|PUNCT
+*PAR:	&-mm (.) she's standin(g) in the water . 9946_17816
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	&-um (.) I'd say that's about it . [+ exc] 21370_31540
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|say-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|3|PUNCT
+*PAR:	oh_no there's [/] there's somethin(g) +... [+ exc] 32241_33862
+%mor:	intj|ohno pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 +...
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+*PAR:	no [/] no ‡ <it ain't> [/] it ain't writing upside down here . [+ exc] 34126_36566
+%mor:	intj|no punct|‡ pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|write-Part-Pres-S adv|upside adp|down adv|here .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|ADVMOD 8|6|COMPOUND-PRT 9|6|ADVMOD 10|6|PUNCT
+*PAR:	it looks like it . [+ exc] 36582_37322
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*PAR:	&-uh no that's [/] that's all . [+ exc] 37481_39231
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 39998_40118
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

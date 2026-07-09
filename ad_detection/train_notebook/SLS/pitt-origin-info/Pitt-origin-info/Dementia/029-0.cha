@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002442-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|male|ProbableAD||Participant|21||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	029-0, audio
+@G:	Cookie
+*INV:	there it is . 880_1530
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	there's a little girl (..) reaching for the cookie jar an(d) she can't reach it apparently . 5681_15551
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl verb|reach-Ger-S adp|for det|the-Def-Art noun|cookie noun|jar cconj|and pron|she-Prs-Nom-S3 aux|can-Fin-S~part|not verb|reach-Inf-S pron|it-Prs-Acc-S3 adv|apparently .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|15|CC 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|2|CONJ 16|15|OBJ 17|15|ADVMOD 18|2|PUNCT
+*PAR:	and the [/] the young man is helping her . 15603_17703
+%mor:	cconj|and det|the-Def-Art adj|young-S1 noun|man aux|be-Fin-Ind-Pres-S3 verb|help-Part-Pres-S pron|her-Prs-Acc-S3 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	he's on a stool and he's reaching for the cookie jar . 17752_20632
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|0|ROOT 6|9|CC 7|9|NSUBJ 8|9|AUX 9|5|CONJ 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|OBL 14|5|PUNCT
+*PAR:	an(d) [/] &-uh (.) an(d) the lady is drying dishes . 25967_28337
+%mor:	cconj|and det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	an(d) the water is pouring outta [: out of] the sink for some reason . 29685_35085
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink adp|for det|some-Def-Ind noun|reason .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|5|PUNCT
+*PAR:	there's &-um some plates <on the> [/] on the counter . 38138_41678
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|plate-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	an(d) she's drying a dish . 43140_44770
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	I may (h)ave said that . [+ exc] 44823_46263
+%mor:	pron|I-Prs-Nom-S1 aux|may-Fin-S aux|have-Inf-S verb|say-Part-Past-S-irr pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	an(d) the young man is going to fall off the stool . 48366_52496
+%mor:	cconj|and det|the-Def-Art adj|young-S1 noun|man aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|6|PUNCT
+*PAR:	I guess maybe I said that too . [+ exc] 52550_53910
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|maybe pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|NSUBJ 5|2|CCOMP 6|5|OBJ 7|5|ADVMOD 8|2|PUNCT
+*PAR:	and they're reachin(g) for the cookie jar . 55688_57118
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	<and the> [/] &+s an(d) the sink is overflowing . 64263_65884
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	I guess I might (h)ave said that too . [+ exc] 65908_67298
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|might-Fin-S aux|have-Inf-S verb|say-Part-Past-S-irr pron|that-Dem adv|too .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|2|CCOMP 7|6|OBJ 8|6|ADVMOD 9|2|PUNCT
+*PAR:	an(d) I guess that's about &-uh all the salient things of it +/. [+ exc] 70431_73561
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot det|the-Def-Art adj|salient-S1 noun|thing-Plur adp|of pron|it-Prs-Acc-S3 +/.
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|10|NSUBJ 5|10|COP 6|10|CASE 7|10|DET-PREDET 8|10|DET 9|10|AMOD 10|3|CCOMP 11|12|CASE 12|10|NMOD 13|3|PUNCT
+*INV:	that's it . 73829_74159
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	+, I can see . [+ exc] 74424_75094
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 74599_75099
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you . 75530_76010
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002303-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	141-3, audio
+@G:	Cookie
+*INV:	I want you to look at that picture and tell me everything that you see happening in there . 30_3850
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|2|CONJ 11|10|IOBJ 12|10|OBJ 13|16|OBJ 14|15|NSUBJ 15|12|ACL-RELCL 16|15|XCOMP 17|18|CASE 18|16|OBL 19|2|PUNCT
+*INV:	everything that's going on . 4510_5530
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|1|PUNCT
+*PAR:	well ‡ the little girl is saying to be quiet to her brother . 6247_9917
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S part|to aux|be-Inf-S adj|quiet-S1 adp|to pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|10|MARK 9|10|COP 10|7|XCOMP 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|7|PUNCT
+*PAR:	and her brother's in the cookie jar . 9978_11538
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|brother~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|8|CC 2|3|NMOD-POSS 3|8|NMOD-POSS 4|3|CASE 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	and he's falling off the chair [: stool] [* s:r] . 11555_12885
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	the mother's oblivious to all . 13678_15328
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adj|oblivious-S1 adp|to det|all-Def-Tot .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	she's washing her dishes and the water's coming out_of her sink . 15350_18580
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S pron|her-Prs-Gen-S3 noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water~part|s verb|come-Ger-S adp|outof pron|her-Prs-Gen-S3 noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|10|CC 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|5|CONJ 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|3|PUNCT
+*PAR:	I don't know what she's thinking of . [+ exc] 18600_20220
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|think-Part-Pres-S adp|of .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|CASE 10|4|PUNCT
+*PAR:	&-um let's see what we have . [+ exc] 21067_25197
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|6|OBJ 5|6|NSUBJ 6|3|CCOMP 7|1|PUNCT
+*PAR:	anything outside ? [+ exc] 26794_28664
+%mor:	pron|anything-Ind-S1 adv|outside ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	(.) I guess those are bushes . 38628_39948
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|bush-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*PAR:	I don't know . [+ exc] 40000_40610
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	+< yeah . 40440_40500
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 40868_41538
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	nothing out there . [+ exc] 41650_42850
+%mor:	pron|nothing-Neg-S1 adv|out adv|there .
+%gra:	1|0|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+*INV:	+< hmhunh . 42200_42850
+%mor:	intj|hmhunh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	these are okay . [+ exc] 43330_44440
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	the dishes are okay . 46406_47846
+%mor:	det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3 adj|okay-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	let's see . [+ exc] 48080_48300
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	how are their shoes ? [+ exc] 48320_49450
+%mor:	adv|how aux|be-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|shoe-Plur ?
+%gra:	1|0|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*PAR:	their socks are alright . 49500_50600
+%mor:	pron|their-Prs-Gen-P3 noun|sock-Plur aux|be-Fin-Ind-Pres-P3 adj|alright-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't know . [+ exc] 51272_51962
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	+< okay . 51840_51940
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's fine . 52013_52653
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

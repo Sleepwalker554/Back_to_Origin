@@ -1,0 +1,23 @@
+@UTF8
+@PID:	11312/t-00002525-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	168-0, audio
+@Comment:	overlapping recording
+@G:	Cookie
+*INV:	action that you [/] &+sh you see in there . 180_2270
+%mor:	noun|action pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adp|in adv|there .
+%gra:	1|0|ROOT 2|4|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|6|CASE 6|4|OBL 7|1|PUNCT
+*PAR:	&-uh the &+b boy's &+f gonna fall off of the [/] &-um the stool . 2491_8461
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|10|CASE 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+*PAR:	&-uh the water is going on the floor . 11006_13756
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	<see a thing for that> [//] see anything else ? 31240_32479
+%mor:	verb|see-Fin-Imp-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|AMOD 4|1|PUNCT
+@End

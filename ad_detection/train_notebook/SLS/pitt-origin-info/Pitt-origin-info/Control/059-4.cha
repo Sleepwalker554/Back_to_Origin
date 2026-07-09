@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/t-00002226-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	059-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	oh there's a little boy on a &+s &+la &-um [//] stepstool about to fall . 500_7560
+%mor:	intj|oh pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy adp|on det|a-Ind-Art noun|stepstool adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|9|AMOD 11|12|MARK 12|10|XCOMP 13|3|PUNCT
+*PAR:	he's reachin(g) in the cookie jar . 7581_9491
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	and the little girl reaching for a cookie . 9511_11551
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*PAR:	and the mother washing dishes . 11572_12732
+%mor:	cconj|and det|the-Def-Art noun|mother noun|washing-Ger noun|dish-Plur .
+%gra:	1|5|CC 2|5|DET 3|5|COMPOUND 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	and the sink is overflowing . 12777_15197
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and the tap water's comin(g) in . 15214_17024
+%mor:	cconj|and det|the-Def-Art noun|tap noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|in .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*PAR:	and it looks like there might be a breeze blowing the curtains . 17042_19632
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|there-Int-S1 aux|might-Fin-S verb|be-Inf-S det|a-Ind-Art noun|breeze verb|blow-Ger-S det|the-Def-Art noun|curtain-Plur-Acc .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|7|MARK 5|7|EXPL 6|7|AUX 7|3|ADVCL 8|9|DET 9|7|NSUBJ 10|9|ACL 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	(be)cause the water's running on the floor . [+ gram] 20585_22075
+%mor:	sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and the door of the cupboard is ajar (.) where he has a cookie jar &-hm . 24763_28853
+%mor:	cconj|and det|the-Def-Art noun|door adp|of det|the-Def-Art noun|cupboard aux|be-Fin-Ind-Pres-S3 noun|ajar adv|where pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|COP 8|0|ROOT 9|11|ADVMOD 10|11|NSUBJ 11|8|ACL-RELCL 12|14|DET 13|14|COMPOUND 14|11|OBJ 15|8|PUNCT
+*INV:	(.) okay that's fine . 32640_33690
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

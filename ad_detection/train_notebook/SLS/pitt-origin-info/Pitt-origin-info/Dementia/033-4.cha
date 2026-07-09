@@ -1,0 +1,56 @@
+@UTF8
+@PID:	11312/t-00002450-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;00.|male|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	033-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	&=clears:throat let's just take a look at that picture . 30_2630
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 adv|just verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|XCOMP 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|1|PUNCT
+*INV:	and tell me everything that you see happening in that picture . 2679_5739
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*INV:	everything that's going on there . 5762_7822
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|1|PUNCT
+*PAR:	&=clears:throat (o)kay . [+ exc] 9665_10235
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=clears:throat there are three persons in the kitchen . 10251_13061
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|three noun|person-Plur adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	the little girl is instructing the little boy to take cookies out_of the cookie jar on the second &-uh shelf of the cupboard . 14896_25906
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|instruct-Part-Pres-S det|the-Def-Art adj|little-S1 noun|boy part|to verb|take-Inf-S noun|cookie-Plur-Acc verb|outaof-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc adp|on det|the-Def-Art adj|second-S1 noun|shelf adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|IOBJ 9|10|MARK 10|5|XCOMP 11|10|OBJ 12|10|XCOMP 13|15|DET 14|15|COMPOUND 15|12|OBJ 16|19|CASE 17|19|DET 18|19|AMOD 19|12|OBL 20|22|CASE 21|22|DET 22|19|NMOD 23|5|PUNCT
+*PAR:	and at the same time his &-uh stool that he's standing on is about to collapse . 25956_34036
+%mor:	cconj|and adp|at det|the-Def-Art adj|same-S1 noun|time pron|his-Prs-Gen-S3 noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|collapse-Inf-S .
+%gra:	1|14|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|14|OBL 6|7|NMOD-POSS 7|14|NSUBJ 8|11|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|8|CASE 13|14|COP 14|0|ROOT 15|16|MARK 16|14|XCOMP 17|14|PUNCT
+*PAR:	the mother apparently is &-uh doing dishes and &-uh looking out the windo(w) . 34969_41409
+%mor:	det|the-Def-Art noun|mother adv|apparently aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CC 8|5|CONJ 9|8|COMPOUND-PRT 10|11|DET 11|8|OBJ 12|5|PUNCT
+*PAR:	has the faucet &+ro &-uh on in the sink . [+ gram] 41482_45222
+%mor:	verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|faucet-Acc adp|on adp|in det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+*PAR:	and the [//] apparently the plug is in and the water is cascading over the kitchen floor . 45321_54801
+%mor:	cconj|and adv|apparently det|the-Def-Art noun|plug aux|be-Fin-Ind-Pres-S3 adp|in cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|cascade-Part-Pres-S adp|over det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|11|CC 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|CONJ 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|OBL 16|6|PUNCT
+*PAR:	and &-uh it must be a warm sunny day because the windo(w) is open . 54930_63950
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S det|a-Ind-Art adj|warm-S1 adj|sunny-S1 noun|day sconj|because det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|8|CC 2|8|NSUBJ 3|8|AUX 4|8|COP 5|8|DET 6|8|AMOD 7|8|AMOD 8|0|ROOT 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|COP 13|8|ADVCL 14|8|PUNCT
+*PAR:	and I can see the shrubbery and what appears to be the end of the house maybe a garage door . 64053_71983
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|shrubbery-Acc cconj|and pron|what-Int-S1 verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|the-Def-Art noun|end adp|of det|the-Def-Art noun|house adv|maybe det|a-Ind-Art noun|garage noun|door .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|8|ACL-RELCL 10|13|MARK 11|13|COP 12|13|DET 13|9|XCOMP 14|16|CASE 15|16|DET 16|13|NMOD 17|20|ADVMOD 18|20|DET 19|20|COMPOUND 20|13|APPOS 21|4|PUNCT
+*PAR:	and on the counter there are dishes that the mother has either washed or &+ha has dried and &-uh is still washing a plate . 72165_84825
+%mor:	cconj|and adp|on det|the-Def-Art noun|counter pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|dish-Plur pron|that-Rel det|the-Def-Art noun|mother aux|have-Fin-Ind-Pres-S3 cconj|either verb|wash-Part-Past-S cconj|or aux|have-Fin-Ind-Pres-S3 verb|dry-Part-Past-S cconj|and aux|be-Fin-Ind-Pres-S3 adv|still verb|wash-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|6|NSUBJ 8|13|OBJ 9|10|DET 10|13|NSUBJ 11|13|AUX 12|13|CC-PRECONJ 13|7|ACL-RELCL 14|16|CC 15|16|AUX 16|13|CONJ 17|20|CC 18|20|AUX 19|20|ADVMOD 20|13|CONJ 21|22|DET 22|20|OBJ 23|6|PUNCT
+*INV:	okay . 85381_86391
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thanks . 86440_88320
+%mor:	noun|thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

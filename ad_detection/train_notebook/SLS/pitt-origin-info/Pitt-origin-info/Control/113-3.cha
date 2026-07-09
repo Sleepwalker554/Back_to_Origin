@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002262-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|50;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	113-3, audio
+@G:	Cookie
+*INV:	okay and here's the picture . 1200_3120
+%mor:	intj|okay cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|CC 3|0|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*PAR:	little boy getting in the cookie jar . [+ gram] 8288_9898
+%mor:	adj|little-S1 noun|boy verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|ACL 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|2|PUNCT
+*PAR:	and the little girl holding out her hand for some cookies . 11044_15504
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|hold-Ger-S adp|out pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ACL 6|5|COMPOUND-PRT 7|8|NMOD-POSS 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|4|PUNCT
+*PAR:	and a stool the boy is on is about to tip over . 15555_19965
+%mor:	cconj|and det|a-Ind-Art noun|stool det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|tip-Inf-S adp|over .
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|5|DET 5|7|NSUBJ 6|7|COP 7|3|ACL-RELCL 8|9|COP 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|11|COMPOUND-PRT 13|9|PUNCT
+*PAR:	and a lady is drying a dish . 20607_24027
+%mor:	cconj|and det|a-Ind-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the water is running over overflowing from the sink . 24051_28421
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*PAR:	&-uh you said just the action ? [+ exc] 30432_31762
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr adv|just det|the-Def-Art noun|action-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+*INV:	mhm . 31808_32357
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< the lady is stepping in the water on the floor . 32470_36461
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*PAR:	&-hm I don't know what's goin(g) on outside the window . [+ exc] 38385_43915
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|outside det|the-Def-Art noun|window .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|4|PUNCT
+*INV:	okay ? 46860_47240
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's fine thank_you . 47839_49959
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 noun|thankyou .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+@End

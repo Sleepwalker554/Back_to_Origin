@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/t-00002592-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	269-1, audio
+@G:	Cookie
+*INV:	okay I just want you to tell me anything +/. 440_2040
+%mor:	intj|okay pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 +/.
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|7|OBJ 10|4|PUNCT
+*INV:	you could just tell me . 2097_3007
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S adv|just verb|tell-Inf-S pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|4|PUNCT
+*PAR:	oh I see . [+ exc] 3314_3804
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	+< anything you see going on . 3681_4401
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|1|PUNCT
+*PAR:	&-uh well ‡ the &-uh kitchen sink is &-uh that they'd [/] they'd <kept the> [//] kept it &+go going . [+ gram] 4850_11700
+%mor:	intj|well punct|‡ det|the-Def-Art noun|kitchen noun|sink aux|be-Fin-Ind-Pres-S3 sconj|that pron|they-Prs-Nom-P3~aux|would-Fin-Ind-Past-P3 verb|keep-Part-Past-S-irr pron|it-Prs-Acc-S3 verb|go-Ger-S .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|5|DET 4|5|COMPOUND 5|10|NSUBJ-OUTER 6|10|COP 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|XCOMP 13|10|PUNCT
+*PAR:	and [/] and &-uh it went <over on the> [//] &-um (.) &+o off [/] off the sink . [+ es] 12040_20070
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|off det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	<they didn't> [/] &*INV:okay they didn't &+s turn [/] turn it off quick enough . 20640_23550
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Past-P3-irr~part|not verb|turn-Inf-S pron|it-Prs-Acc-S3 adp|off adv|quick adv|enough .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|ADVMOD 9|4|PUNCT
+*PAR:	and then there's &-uh dishes and &-uh a stool that's going to be very &+f fast &-uh getting to be &-uh a whole bunch of (th)em frickin(g) cookies . [+ gram] 24802_40822
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur cconj|and det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adv|very adj|fast-S1 verb|get-Part-Pres-S part|to aux|be-Inf-S det|a-Ind-Art adj|whole-S1 noun|bunch adp|of pron|they-Prs-Acc-P3 verb|fricking-Ger-S noun|cookie-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|4|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|15|MARK 13|15|COP 14|15|ADVMOD 15|11|XCOMP 16|11|XCOMP 17|21|MARK 18|21|COP 19|21|DET 20|21|AMOD 21|16|XCOMP 22|23|CASE 23|21|NMOD 24|25|AMOD 25|21|NMOD 26|4|PUNCT
+*INV:	okay . 41907_42127
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<that's my> [//] that's about my &=laughs <my nephew> [//] my &-uh &=clears:throat grandson . [+ exc] 46890_51260
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|my-Prs-Gen-S1 pron|my-Prs-Gen-S1 noun|grandson .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|NMOD-POSS 5|6|NMOD-POSS 6|0|ROOT 7|6|PUNCT
+*INV:	okay is there anything else you see going on in there ? 51922_53822
+%mor:	intj|okay verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in adv|there ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|EXPL 4|2|NSUBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|2|PUNCT
+*PAR:	cookie jar . [+ gram] 59842_60052
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	and the [//] I suppose it's his sister . 61313_63133
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|suppose-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|NMOD-POSS 7|3|CCOMP 8|3|PUNCT
+*PAR:	it hasta be his sister „ doesn't it ? [+ exc] 63292_65182
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3~part|to aux|be-Inf-S pron|his-Prs-Gen-S3 noun|sister punct|„ aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|COP 5|6|NMOD-POSS 6|2|XCOMP 7|2|PUNCT 8|2|PARATAXIS 9|8|ADVMOD 10|8|NSUBJ 11|2|PUNCT
+*INV:	okay . 65743_66063
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	to &-uh &-uh up [/] up on that stool . [+ gram] 66437_70017
+%mor:	part|to adp|up adp|on det|that-Def-Dem-Sing noun|stool .
+%gra:	1|2|MARK 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	and she's making fun of him . 72107_73337
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S noun|fun-Acc adp|of pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|PUNCT
+*PAR:	and this water's coming down that splashing all over the place . 77562_82392
+%mor:	cconj|and det|this-Def-Dem-Sing noun|water~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|down pron|that-Dem noun|splashing-Acc-Ger adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|OBJ 8|5|OBJ 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|5|PUNCT
+*INV:	okay ‡ anything else ? 86181_86921
+%mor:	intj|okay punct|‡ pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|0|ROOT 4|3|AMOD 5|3|PUNCT
+*PAR:	&-um (.) I don't +... [+ exc] 89103_94203
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	it depends on how many cookies are in that cookie jar apparently . [+ gram] 95696_98436
+%mor:	pron|it-Prs-Nom-S3 verb|depend-Fin-Ind-Pres-S3 sconj|on adv|how adj|many-S1 noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|that-Def-Dem-Sing noun|cookie noun|jar adv|apparently .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|11|MARK 4|5|ADVMOD 5|6|AMOD 6|11|NSUBJ 7|11|COP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|2|ADVCL 12|11|ADVMOD 13|2|PUNCT
+@End

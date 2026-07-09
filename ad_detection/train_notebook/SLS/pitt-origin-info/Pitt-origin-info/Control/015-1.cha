@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/t-00002190-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	015-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 1360_1530
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	a little boy is stepping on a ladder [: stool] [* s:r] that's cockeyed . 3288_6038
+%mor:	det|a-Ind-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|cockeyed-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|5|PUNCT
+*PAR:	and <the ladder [: stool] [* s:r-ret] has> [//] <it's a tripodal> [//] it isn't a ladder it's a stool . 6550_10850
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not det|a-Ind-Art noun|ladder pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stool .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET 6|0|ROOT 7|10|NSUBJ 8|10|COP 9|10|DET 10|6|ACL-RELCL 11|6|PUNCT
+*PAR:	and it's a [/] &+tri a three legged stool . 11213_12643
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art num|three adj|legged-S1 noun|stool .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|NUMMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*PAR:	and he's getting cookies out_of a jar . 13100_15360
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|jar .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	and he's handing a cookie to the little girl who's saying “shh” to the mother . 15459_18629
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S intj|shh adp|to det|the-Def-Art noun|mother .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|4|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|OBJ 15|17|CASE 16|17|DET 17|13|OBL 18|4|PUNCT
+*PAR:	and the mother is &=laughs wiping dishes with water running all over the kitchen floor . 20569_26119
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc adp|with noun|water verb|run-Ger-S adv|all adp|over det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|8|ACL 10|14|ADVMOD 11|14|CASE 12|14|DET 13|14|COMPOUND 14|9|OBL 15|5|PUNCT
+*PAR:	and (.) oh god . [+ exc] 26963_29043
+%mor:	cconj|and intj|oh noun|god .
+%gra:	1|3|CC 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*PAR:	oh she's [//] she has an open window . 32040_34300
+%mor:	intj|oh pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|open-S1 noun|window-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&-uh and there are bushes in front of the &-uh window either in the house next door or some place else . 43072_43232
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|bush-Plur adp|in noun|front adp|of det|the-Def-Art noun|window cconj|either adp|in det|the-Def-Art noun|house adj|next-S1 noun|door cconj|or det|some-Def-Ind noun|place adv|else .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|DET 9|6|NMOD 10|13|CC-PRECONJ 11|13|CASE 12|13|DET 13|3|OBL 14|15|AMOD 15|13|NMOD-UNMARKED 16|18|CC 17|18|DET 18|13|CONJ 19|18|ADVMOD 20|3|PUNCT
+*PAR:	and then there's a tree that doesn't have a trunk . 43232_45402
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree pron|that-Rel aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|a-Ind-Art noun|trunk-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ACL-RELCL 11|12|DET 12|10|OBJ 13|4|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	and &=laughs &-um xxx . [+ exc] 51723_51953
+%mor:	cconj|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there are two cups and the handles are in opposite directions . 57999_60159
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|the-Def-Art noun|handle-Plur aux|be-Fin-Ind-Pres-P3 adp|in adj|opposite-S1 noun|direction-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|11|CC 6|7|DET 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|AMOD 11|2|CONJ 12|2|PUNCT
+*PAR:	and she's sort of dumb (be)cause she doesn't turn off the water . 60788_62738
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|sort adp|of adj|dumb-S1 sconj|because pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|turn-Inf-S adp|off det|the-Def-Art noun|water .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|4|FIXED 6|0|ROOT 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|6|PUNCT
+*PAR:	she's letting it run on her feet . 62808_64238
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S pron|it-Prs-Acc-S3 verb|run-Inf-S adp|on pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|3|PUNCT
+*PAR:	and half of the kitchen cupboard doors don't have handles . 67015_69025
+%mor:	cconj|and noun|half adp|of det|the-Def-Art noun|kitchen noun|cupboard noun|door-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S noun|handle-Plur-Acc .
+%gra:	1|10|CC 2|10|NSUBJ 3|7|CASE 4|7|DET 5|7|COMPOUND 6|7|COMPOUND 7|2|NMOD 8|10|AUX 9|10|ADVMOD 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+*PAR:	(.) I don't think xxx . [+ exc] 77336_77636
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and she's wiping the [/] the [/] the [/] the dish with two towels . 80689_83719
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc adp|with num|two noun|towel-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NUMMOD 9|4|OBL 10|4|PUNCT
+*PAR:	and she isn't watching her dear darling children fall off the stool . 88539_91499
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|watch-Part-Pres-S pron|her-Prs-Gen-S3 adj|dear-S1 noun|darling-Ger noun|child-Plur-Acc verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|NMOD-POSS 7|9|AMOD 8|9|COMPOUND 9|5|OBJ 10|5|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|5|PUNCT
+*PAR:	okay isn't that about enough ? [+ exc] 93998_95028
+%mor:	intj|okay aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem adp|about adj|enough-S1 ?
+%gra:	1|6|DISCOURSE 2|6|COP 3|6|ADVMOD 4|6|NSUBJ 5|6|CASE 6|0|ROOT 7|6|PUNCT
+*INV:	okay . 95601_95821
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

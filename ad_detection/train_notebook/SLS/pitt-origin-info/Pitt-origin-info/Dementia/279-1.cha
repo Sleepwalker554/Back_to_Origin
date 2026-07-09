@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/t-00002599-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|21||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	279-1, audio
+@G:	Cookie
+*PAR:	well ‡ he's into the cookie jar . 610_3120
+%mor:	intj|well punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	and the [/] the &-uh stool is falling down . 3165_6445
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|down .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	she's doin(g) dishes . 6523_8032
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and the sink's runnin(g) over and wettin(g) her feet . 8157_11547
+%mor:	cconj|and det|the-Def-Art noun|sink~part|s verb|run-Part-Pres-S adp|over cconj|and verb|wet-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|5|COMPOUND-PRT 7|8|CC 8|5|CONJ 9|10|NMOD-POSS 10|8|OBJ 11|5|PUNCT
+*PAR:	and she look [//] doesn't look too happy . 12803_13983
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|look-Inf-S adv|too adj|happy-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|ADVMOD 7|5|XCOMP 8|5|PUNCT
+*PAR:	anything else ? [+ exc] 16198_16498
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	she's drying the dishes . 16984_17554
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	right ? [+ exc] 18311_18361
+%mor:	adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the kid's in the cookie jars . 19357_20237
+%mor:	cconj|and det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar-Plur .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	how many things are sposta be wrong xxx ? [+ exc] 24456_26256
+%mor:	adv|how adj|many-S1 noun|thing-Plur aux|be-Fin-Ind-Pres-P3 adv|sposta aux|be-Inf-S adj|wrong-S1 ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|COP 7|0|ROOT 8|7|PUNCT
+*INV:	well ‡ I don't think she did know because she xxx . [+ jar] 28100_30210
+%mor:	intj|well punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr verb|know-Inf-S sconj|because pron|she-Prs-Nom-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|9|NSUBJ 8|9|AUX 9|6|CCOMP 10|11|MARK 11|9|ADVCL 12|6|PUNCT
+@End

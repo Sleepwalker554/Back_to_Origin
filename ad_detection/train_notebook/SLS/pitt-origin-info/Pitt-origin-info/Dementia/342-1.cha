@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002624-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|89;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	342-1, audio
+@G:	Cookie
+*PAR:	read &*INV:mhm it to you ? [+ exc] 300_1050
+%mor:	verb|read-Fin-Imp-S pron|it-Prs-Acc-S3 adp|to pron|you-Prs-Acc-S2 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*PAR:	well ‡ the action . [+ gram] [+ exc] 2435_4165
+%mor:	intj|well punct|‡ det|the-Def-Art noun|action .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	well ‡ &+th &+th the little boy has his hand in the cookie jar . 4572_7462
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|6|OBL 13|6|PUNCT
+*PAR:	and the little girl is begging for some of the cookies . 8100_11310
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|begg-Part-Pres-S adp|for det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|CASE 8|6|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|6|PUNCT
+*PAR:	and he's teetering on the &-uh stool where he climbed up . 11850_15470
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|teeter-Part-Pres-S adp|on det|the-Def-Art noun|stool adv|where pron|he-Prs-Nom-S3 verb|climb-Fin-Ind-Past-S3 adp|up .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|ADVMOD 9|10|NSUBJ 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	and mama is washing dishes , &+wi wiping (th)em . 16470_19570
+%mor:	cconj|and noun|mama aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cm|cm verb|wipe-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|PUNCT 7|4|ADVCL 8|7|OBJ 9|4|PUNCT
+*PAR:	and she is &-uh not watching what she is doing . 19910_23840
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 part|not verb|watch-Part-Pres-S pron|what-Rel-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|5|PUNCT
+*PAR:	and the water is overflowed on the floor . 23900_25940
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Past-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	because she's watching out the window at the &-uh +... 27009_29109
+%mor:	sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|watch-Part-Pres-S adp|out det|the-Def-Art noun|window adp|at det|the-Def-Art +...
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|4|OBL 10|4|PUNCT
+*PAR:	am I going too fast ? [+ exc] 29480_30150
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adv|too adj|fast-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*INV:	that's okay . 30610_31090
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	looking at the beautiful lawn . [+ gram] 32264_33624
+%mor:	verb|look-Part-Pres-S adp|at det|the-Def-Art adj|beautiful-S1 noun|lawn .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|1|PUNCT
+*PAR:	where there's a garage and some bushes and of_course grass and trees . [+ gram] 34741_42231
+%mor:	adv|where pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|garage cconj|and det|some-Def-Ind noun|bush-Plur cconj|and adj|ofcourse-S1 noun|grass cconj|and noun|tree-Plur .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CC 10|11|AMOD 11|5|CONJ 12|13|CC 13|11|CONJ 14|3|PUNCT
+*PAR:	and she's so &+i immersed in that she has &+a &+l allowed the water to overflow on the floor . 44317_52037
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so verb|immerse-Part-Past-S sconj|in sconj|that pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|allow-Part-Past-S det|the-Def-Art noun|water-Acc part|to verb|overflow-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|0|ROOT 6|10|MARK 7|6|FIXED 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|12|DET 12|10|OBJ 13|14|MARK 14|10|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|5|PUNCT
+*PAR:	and she still has a couple of cups and a plate to wash . 54192_58402
+%mor:	cconj|and pron|she-Prs-Nom-S3 adv|still verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|couple-Acc adp|of noun|cup-Plur cconj|and det|a-Ind-Art noun|plate part|to verb|wash-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|11|CC 10|11|DET 11|6|CONJ 12|13|MARK 13|11|ACL 14|4|PUNCT
+*PAR:	&=laughs &*INV:okay_good oh dear . [+ exc] 59542_60852
+%mor:	intj|oh adj|dear-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

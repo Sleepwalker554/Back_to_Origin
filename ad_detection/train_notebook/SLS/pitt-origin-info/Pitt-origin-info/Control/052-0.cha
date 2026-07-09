@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002217-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	052-0, audio
+@G:	Cookie
+*INV:	that's the picture . 1260_2200
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	a boy is taking &-uh cookies from the cookie jar giving one to his sister . 3690_8580
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar verb|give-Part-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|ADVCL 11|10|OBJ 12|14|CASE 13|14|NMOD-POSS 14|10|OBL 15|4|PUNCT
+*PAR:	he's also falling off the stool he is on . 8838_11388
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|4|PUNCT
+*PAR:	the mother is washing dishes . 12382_14012
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she's letting the sink overflow . 14404_16224
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|overflow-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*PAR:	it's getting all over the floor . 16395_18485
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	I see nothing further . [+ exc] 22129_23019
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|nothing-Neg-S1 adj|further-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|3|AMOD 5|2|PUNCT
+*PAR:	(...) the girl is saying be quiet <if that> [/] if that counts . 34805_37645
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S aux|be-Fin-S adj|quiet-S1 sconj|if pron|that-Dem verb|count-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|COP 6|4|XCOMP 7|9|MARK 8|9|NSUBJ 9|6|ADVCL 10|4|PUNCT
+*INV:	+< okay . 37029_37359
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 37896_38206
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's fine . 38805_39035
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	I don't know what the mother gets by standing in all the water . [+ exc] 43708_46348
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art noun|mother verb|get-Fin-Ind-Pres-S3 sconj|by verb|stand-Part-Pres-S adp|in det|all-Def-Tot det|the-Def-Art noun|water .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|DET 7|8|NSUBJ 8|5|ACL-RELCL 9|10|MARK 10|8|ADVCL 11|14|CASE 12|14|DET-PREDET 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	I don't think that's very important . [+ exc] 46400_48460
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|very adj|important-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|4|CCOMP 9|4|PUNCT
+*PAR:	that's all I see . [+ exc] 49936_50606
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*INV:	okay thank_you . 50655_51855
+%mor:	intj|okay propn|thankyou .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	+< <what have> [/] what have I missed ? [+ exc] 51609_53249
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|miss-Part-Past-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+@End

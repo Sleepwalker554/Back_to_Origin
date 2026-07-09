@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002492-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|female|ProbableAD||Participant|3||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	087-1, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 1120_2560
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	<in here> [//] look this [/] this &-uh way ? [+ exc] 3780_5490
+%mor:	verb|look-Fin-Imp-S det|this-Def-Dem-Sing noun|way-Acc ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	+< mhm , mhm . 5380_6150
+%mor:	intj|mhm cm|cm intj|mhm .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	well I really don't know (be)cause they haven't gotten things turned up (.) right . [+ jar] [+ exc] 7925_12105
+%mor:	intj|well pron|I-Prs-Nom-S1 adv|really aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|because pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3~part|not verb|get-Part-Past-S-irr noun|thing-Plur-Acc verb|turn-Part-Past-S adp|up adv|right .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|ADVMOD 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|ADVCL 12|11|OBJ 13|11|XCOMP 14|13|COMPOUND-PRT 15|11|ADVMOD 16|6|PUNCT
+*INV:	have a look at the picture see if you can tell me what's going on . 16167_18887
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|the-Def-Art noun|picture verb|see-Fin-Imp-S sconj|if pron|you-Prs-Nom-S2 aux|can-Fin-S verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|ADVCL 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|7|CCOMP 12|11|IOBJ 13|15|NSUBJ 14|15|AUX 15|11|CCOMP 16|15|COMPOUND-PRT 17|1|PUNCT
+*PAR:	not in this one . [+ exc] [+ es] 20821_25221
+%mor:	part|not adp|in det|this-Def-Dem-Sing noun|one .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	maybe under this right here . [+ exc] [+ es] 25239_28269
+%mor:	adv|maybe adp|under det|this-Def-Dem-Sing noun|right adv|here .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	what is it ? 28763_29453
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*PAR:	it's like a +... 29580_33500
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like det|a-Ind-Art +...
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT 5|3|PUNCT
+*PAR:	no it isn't . [+ exc] 33555_34985
+%mor:	intj|no pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	(..) (loo)ks like &+s this is a kind of thing that who [//] whoever xxx . [+ jar] 35035_49115
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kind adp|of noun|thing-Ger pron|that-Rel pron|whoever-Int-S1 .
+%gra:	1|0|ROOT 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|ADVCL 7|8|CASE 8|6|NMOD 9|10|NSUBJ 10|8|APPOS 11|1|PUNCT
+*INV:	what is it that's happening here ? 53078_54758
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|ADVMOD 8|1|PUNCT
+*PAR:	she's cleaning . 56077_56637
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|clean-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	(.) and what are they doing ? 63992_65141
+%mor:	cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|do-Part-Pres-S ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	looking to see what they have so they can get it ready for bed I guess . [+ gram] 67720_71840
+%mor:	verb|look-Part-Pres-S part|to verb|see-Inf-S pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 sconj|so pron|they-Prs-Nom-P3 aux|can-Fin-S verb|get-Inf-S pron|it-Prs-Acc-S3 adj|ready-S1 adp|for noun|bed pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|1|PARATAXIS 11|10|OBJ 12|10|XCOMP 13|14|CASE 14|12|OBL 15|16|NSUBJ 16|10|PARATAXIS 17|1|PUNCT
+*PAR:	I don't know . [+ exc] 71970_72480
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	his hair [* s:uk] is down . [+ jar] 74034_74774
+%mor:	pron|his-Prs-Gen-S3 noun|hair aux|be-Fin-Ind-Pres-S3 adv|down .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	it's fallen down a_lot . 74946_76146
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Past-S-irr adp|down noun|alot .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|3|COMPOUND-PRT 5|3|OBL-UNMARKED 6|3|PUNCT
+@End

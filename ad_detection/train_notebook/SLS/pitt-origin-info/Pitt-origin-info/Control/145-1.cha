@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/t-00002308-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	145-1, audio
+@G:	Cookie
+*INV:	here's the picture . 870_1270
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*PAR:	&-hm . [+ exc] 4233_4673
+*PAR:	touching lip . [+ gram] 5842_6782
+%mor:	verb|touch-Part-Pres-S noun|lip-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	raising arm . [+ gram] 7231_8141
+%mor:	verb|raise-Part-Pres-S noun|arm-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	is that what you mean ? [+ exc] 8186_9987
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 ?
+%gra:	1|3|COP 2|3|MARK 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*INV:	just , yeah , tell me +/. 10614_11634
+%mor:	adv|just cm|cm intj|yeah cm|cm verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 +/.
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|DISCOURSE 4|3|PUNCT 5|0|ROOT 6|5|IOBJ 7|5|PUNCT
+*PAR:	+< &+lea reaching for cookie . [+ gram] 11380_12890
+%mor:	verb|reach-Part-Pres-S adp|for noun|cookie .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*PAR:	handing cookie down . [+ gram] 13579_14969
+%mor:	verb|hand-Ger-S noun|cookie-Acc adp|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*PAR:	slipping from stool . [+ gram] 15892_18652
+%mor:	verb|slip-Part-Pres-S adp|from noun|stool .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*PAR:	stool falling over . [+ gram] 19229_20759
+%mor:	noun|stool verb|fall-Ger-S adv|over .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	&-um wiping dishes . [+ gram] 22026_24916
+%mor:	verb|wipe-Ger-S noun|dish-Plur-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	water running . [+ gram] 26006_26986
+%mor:	noun|water noun|running-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	water overflowing . [+ gram] 28306_29646
+%mor:	noun|water noun|overflow-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	&-um breeze . [+ gram] 31386_35086
+%mor:	noun|breeze .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I don't know if that's action . [+ exc] 35254_36424
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|COP 8|4|CCOMP 9|4|PUNCT
+*PAR:	&-um stepping out from water . [+ gram] 37794_41144
+%mor:	verb|step-Part-Pres-S adp|out adp|from noun|water .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|4|CASE 4|1|OBL 5|1|PUNCT
+*PAR:	I guess that's it . [+ exc] 47096_47756
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*INV:	okay . 48418_48808
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good . 51631_51901
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

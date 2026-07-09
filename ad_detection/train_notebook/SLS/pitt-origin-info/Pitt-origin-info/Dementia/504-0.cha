@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/t-00002669-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:59:18-04:00]
+@Media:	504-0, audio
+@G:	Cookie
+*PAR:	why they're stealing on the cookies . [+ gram] 2220_4790
+%mor:	adv|why pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S adp|on det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and the little girl is gonna &+t take him one too or he's gonna tell his mother . 5652_10802
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|take-Inf-S pron|he-Prs-Acc-S3 num|one adv|too cconj|or pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|tell-Inf-S pron|his-Prs-Gen-S3 noun|mother-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|8|OBJ 11|8|ADVMOD 12|15|CC 13|15|NSUBJ 14|15|AUX 15|6|CONJ 16|17|MARK 17|15|XCOMP 18|19|NMOD-POSS 19|17|OBJ 20|6|PUNCT
+*PAR:	and the mother is workin(g) over there doin(g) all that dirty over there . [+ gram] 11530_15220
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|work-Part-Pres-S adp|over adv|there verb|do-Part-Pres-S det|all-Def-Tot det|that-Def-Dem-Sing adj|dirty-S1 adp|over adv|there .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|ADVCL 9|11|DET-PREDET 10|11|DET 11|8|OBJ 12|13|CASE 13|8|OBL 14|5|PUNCT
+*PAR:	and the kids should be doin(g) the dishes . 15680_17860
+%mor:	cconj|and det|the-Def-Art noun|kid-Plur aux|should-Fin-S aux|be-Inf-S verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and that's dirty to have that on the floor when they're stealing . 18792_21882
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|dirty-S1 part|to verb|have-Inf-S pron|that-Dem adp|on det|the-Def-Art noun|floor adv|when pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|CSUBJ 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|14|ADVMOD 12|14|NSUBJ 13|14|AUX 14|6|ADVCL 15|4|PUNCT
+*PAR:	and he's gonna fall down and break them down on his back . 21900_24740
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|down cconj|and verb|break-Inf-S pron|they-Prs-Acc-P3 adp|down adp|on pron|his-Prs-Gen-S3 noun|back .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|9|CC 9|6|CONJ 10|9|OBJ 11|9|COMPOUND-PRT 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|4|PUNCT
+*INV:	okay . 25960_26150
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and I don't think that his mother would <be very> [//] be a nice to do that . [+ gram] 27202_34522
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S sconj|that pron|his-Prs-Gen-S3 noun|mother aux|would-Fin-S aux|be-Inf-S det|a-Ind-Art adj|nice-S1 part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|12|MARK 7|8|NMOD-POSS 8|12|NSUBJ 9|12|AUX 10|12|COP 11|12|DET 12|5|CCOMP 13|14|MARK 14|12|ADVCL 15|14|OBJ 16|5|PUNCT
+*PAR:	they would rather have all you want because the water's all over the floor now . [+ gram] 34701_39981
+%mor:	pron|they-Prs-Nom-P3 aux|would-Fin-S adv|rather verb|have-Inf-S det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|15|MARK 9|10|DET 10|15|NSUBJ 11|15|COP 12|15|ADVMOD 13|15|CASE 14|15|DET 15|4|ADVCL 16|15|ADVMOD 17|4|PUNCT
+*PAR:	look at that . [+ exc] 40000_40770
+%mor:	verb|look-Fin-Imp-S adp|at pron|that-Dem .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*PAR:	+" get there and get down . 41634_42964
+%mor:	verb|get-Fin-Imp-S adv|there cconj|and verb|get-Fin-Imp-S adv|down .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|CC 4|1|CONJ 5|4|ADVMOD 6|1|PUNCT
+*PAR:	+" oh bang@o you're down on your back ! 43379_46029
+%mor:	intj|oh on|bang pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|down adp|on pron|your-Prs-Gen-S2 noun|back !
+%gra:	1|5|DISCOURSE 2|5|DEP 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*INV:	alright . 46210_46930
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

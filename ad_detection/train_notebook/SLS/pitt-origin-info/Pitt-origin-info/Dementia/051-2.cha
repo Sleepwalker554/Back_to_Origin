@@ -1,0 +1,118 @@
+@UTF8
+@PID:	11312/t-00002464-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	051-2, audio
+@G:	Cookie
+*INV:	I want you to look at the picture and tell me everything that you see going on in that picture . 30_3960
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|2|CONJ 11|10|IOBJ 12|10|OBJ 13|16|OBJ 14|15|NSUBJ 15|12|ACL-RELCL 16|15|XCOMP 17|16|COMPOUND-PRT 18|20|CASE 19|20|DET 20|16|OBL 21|2|PUNCT
+*INV:	tell me everything that you see happening there . 4642_5802
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|ADVMOD 9|1|PUNCT
+*PAR:	look down to talk to you ? [+ exc] 7069_8089
+%mor:	verb|look-Fin-Imp-S adp|down part|to verb|talk-Inf-S adp|to pron|you-Prs-Acc-S2 ?
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|4|MARK 4|1|ADVCL 5|6|CASE 6|4|OBL 7|1|PUNCT
+*INV:	uhhuh . 10335_11375
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the little girl is saying “shh” while the little boy is getting the cookies out_o(f) the cookie jar . 10352_16181
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S intj|shh sconj|while det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|DISCOURSE 7|12|MARK 8|10|DET 9|10|AMOD 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|14|DET 14|12|OBJ 15|18|CASE 16|18|DET 17|18|COMPOUND 18|12|OBL 19|5|PUNCT
+*PAR:	he already has one . 17173_17933
+%mor:	pron|he-Prs-Nom-S3 adv|already verb|have-Fin-Ind-Pres-S3 num|one .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and he's just getting some more . 18277_19017
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|get-Part-Pres-S det|some-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	he's gonna fall off that [//] the [/] the &-um +... 19743_23133
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|3|PUNCT
+*PAR:	what do you call it ? [+ exc] 24732_25642
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I can't think what you call it . [+ exc] 25831_27021
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|call-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|OBJ 9|4|PUNCT
+*PAR:	the &-uh +... 28234_29454
+%mor:	det|the-Def-Art +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	ah ! [+ exc] 30048_30168
+%mor:	intj|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the stool . [+ gram] 32946_33326
+%mor:	det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	mother is letting the water run right out_o(f) the [/] the &+s sink . 34500_40610
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adv|right noun|outof det|the-Def-Art noun|sink-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|8|ADVMOD 8|6|OBL-UNMARKED 9|10|DET 10|6|OBJ 11|3|PUNCT
+*PAR:	she's [//] &-uh sink . [+ gram] 41942_42142
+%mor:	verb|sink-Fin-Imp-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh it's a summer day or a spring day (be)cause the window's open . 49545_52815
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|summer noun|day cconj|or det|a-Ind-Art noun|spring-Ger noun|day sconj|because det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|9|CC 7|9|DET 8|9|COMPOUND 9|5|CONJ 10|14|MARK 11|12|DET 12|14|NMOD-POSS 13|12|CASE 14|5|ADVCL 15|5|PUNCT
+*PAR:	what [/] what all am I sposta be doing ? [+ exc] 54557_55657
+%mor:	pron|what-Int-S1 det|all-Def-Tot aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|sposta aux|be-Inf-S verb|do-Part-Pres-S ?
+%gra:	1|7|OBJ 2|1|NSUBJ 3|7|AUX 4|7|NSUBJ 5|7|ADVMOD 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*INV:	+< everything that you see happening . 56777_57857
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+*INV:	all the action you see going &*PAR:mhm on . 57975_59245
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|ACL 7|6|COMPOUND-PRT 8|3|PUNCT
+*PAR:	yeah ‡ water and [/] and cookies . [+ gram] 61166_64646
+%mor:	intj|yeah punct|‡ noun|water cconj|and noun|cookie-Plur .
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|0|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+*PAR:	the girl's being quiet so mother can't hear (th)em . 65684_69434
+%mor:	det|the-Def-Art noun|girl~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S adj|quiet-S1 adv|so noun|mother aux|can-Fin-S~part|not verb|hear-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|COP 5|0|ROOT 6|10|ADVMOD 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|PARATAXIS 11|10|OBJ 12|5|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh should I say that <it's a> [/] it's a summer day ? [+ exc] 75676_77626
+%mor:	aux|should-Fin-S pron|I-Prs-Nom-S1 verb|say-Inf-S sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|summer noun|day ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|9|MARK 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|COMPOUND 9|3|CCOMP 10|3|PUNCT
+*PAR:	yeah ‡ I guess it's xxx everything's clean outside . 77766_79976
+%mor:	intj|yeah punct|‡ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1~aux|be-Fin-Ind-Pres-S3 adj|clean-S1 adv|outside .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|7|NSUBJ 6|9|COP 7|9|NSUBJ 8|9|COP 9|4|CCOMP 10|9|ADVMOD 11|4|PUNCT
+*PAR:	&*INV:okay the trees . [+ gram] 82919_83049
+%mor:	det|the-Def-Art noun|tree-Plur .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	&-uh there's a house next door . 85653_87383
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|house adj|next-S1 noun|door .
+%gra:	1|2|EXPL 2|0|ROOT 3|6|DET 4|6|COMPOUND 5|6|AMOD 6|2|NSUBJ 7|2|PUNCT
+*PAR:	or it [/] it &-uh either it's part of the house or it's another house coming right next door to it . 88899_96769
+%mor:	cconj|or pron|it-Prs-Nom-S3 cconj|either pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|part adp|of det|the-Def-Art noun|house cconj|or pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|house verb|come-Part-Pres-S adv|right adj|next-S1 noun|door adp|to pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|CC-PRECONJ 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|14|CC 11|14|EXPL 12|14|COP 13|14|DET 14|6|CONJ 15|14|ACL 16|18|ADVMOD 17|18|AMOD 18|15|OBL-UNMARKED 19|20|CASE 20|15|OBL 21|6|PUNCT
+*PAR:	&-uh there are no handles <on the [/] the &-uh under part of this side of the> [//] underneath the counter . [+ cir] 99926_109376
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|no-Def-Neg noun|handle-Plur adp|underneath det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	&-um he [//] he's standing on his own foot on this chair [* s:r] . 111129_119079
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on pron|his-Prs-Gen-S3 adj|own-S1 noun|foot adp|on det|this-Def-Dem-Sing noun|chair .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*PAR:	and as I say he was tipping over . 121748_123098
+%mor:	cconj|and sconj|as pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|tip-Part-Pres-S adp|over .
+%gra:	1|7|CC 2|4|MARK 3|4|NSUBJ 4|7|ADVCL 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+*PAR:	and the &+cook &+cook cookies xxx &=mumbles . 124786_125016
+%mor:	cconj|and det|the-Def-Art noun|cookie-Plur .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and let's see . [+ exc] 130305_130574
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	and as I say there aren't any knobs on the bottom to open these . 131020_133820
+%mor:	cconj|and sconj|as pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3~part|not det|any-Def-Ind noun|knob-Plur adp|on det|the-Def-Art noun|bottom part|to verb|open-Inf-S pron|this-Dem-P1 .
+%gra:	1|6|CC 2|4|MARK 3|4|NSUBJ 4|6|ADVCL 5|6|EXPL 6|0|ROOT 7|6|ADVMOD 8|9|DET 9|6|NSUBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|MARK 14|6|ADVCL 15|14|OBJ 16|6|PUNCT
+*INV:	okay &*PAR:xxx mhm . 134370_135770
+%mor:	intj|okay intj|mhm .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	okay good . 136058_136968
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

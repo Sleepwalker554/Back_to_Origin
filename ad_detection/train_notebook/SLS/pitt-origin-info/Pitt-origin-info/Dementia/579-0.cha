@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/t-00002690-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|85;|female|PossibleAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	579-0, audio
+@G:	Cookie
+*INV:	okay . 590_680
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	see going on in the picture ? 2181_3701
+%mor:	verb|see-Fin-Imp-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+*INV:	(.) tell me what you see going on in the picture ? 7773_9563
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	woman dish [//] doin(g) dishes . [+ gram] 9724_11474
+%mor:	noun|woman verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|0|ROOT 2|1|ACL 3|2|OBJ 4|1|PUNCT
+*PAR:	boy climbin(g) up to get some cookies . [+ gram] 13076_15506
+%mor:	intj|boy verb|climb-Part-Pres-S adp|up part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|COMPOUND-PRT 4|5|MARK 5|2|ADVCL 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	well ‡ girl waitin(g) to get some o(f) the cookies . [+ gram] 16698_19128
+%mor:	intj|well noun|‡ noun|girl verb|wait-Part-S part|to verb|get-Inf-S det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|ACL 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+*PAR:	bench [: stool] [* s:r] is fallin(g) over with the boy . [+ gram] 22653_24613
+%mor:	noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over adp|with det|the-Def-Art noun|boy .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	the water's drippin(g) out on the floor . 25866_28026
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|drip-Part-Pres-S adp|out adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	(..) I guess that's it . [+ exc] 43345_44425
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*INV:	okay . 45583_45733
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/t-00002581-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	247-0, audio
+@G:	Cookie
+*INV:	what's happening in that picture ? 50_1900
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	(.) what's happening there ? 1963_9003
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	(.) she's preparing a meal . 15620_16840
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|prepare-Part-Pres-S det|a-Ind-Art noun|meal-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	okay . 17716_18116
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(.) what else is going on ? 18678_28678
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	I'm going to hafta quit reading this because this [/] this is shining on this xxx +/. [+ exc] 29376_36176
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to part|hafta verb|quit-Inf-S verb|read-Ger-S pron|this-Dem-S1 sconj|because pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|shine-Part-Pres-S adp|on pron|this-Dem-S1 +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|MARK 5|3|XCOMP 6|3|XCOMP 7|6|XCOMP 8|7|OBJ 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|6|ADVCL 13|14|CASE 14|12|OBL 15|3|PUNCT
+*INV:	okay let me lift it up a little bit . 35562_36982
+%mor:	intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|lift-Inf-S pron|it-Prs-Acc-S3 adp|up det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|COMPOUND-PRT 7|9|DET 8|9|AMOD 9|4|OBL-UNMARKED 10|2|PUNCT
+*PAR:	getting my xxx . [+ exc] 36969_37539
+%mor:	verb|get-Part-Pres-S pron|my-Prs-Gen-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	mhm , does that help ? 37777_38797
+%mor:	intj|mhm cm|cm aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|help-Inf-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	xxx . [+ exc]
+*INV:	what's going on there ? 39221_45611
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*PAR:	xxx . [+ exc]
+*INV:	you don't hafta read it just look at the picture . 60390_62290
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not adv|hafta verb|read-Inf-S pron|it-Prs-Acc-S3 adv|just verb|look-Inf-S adp|at det|the-Def-Art noun|picture .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|8|ADVMOD 8|5|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|5|PUNCT
+*PAR:	this [/] this string is not on this is it ? [+ exc] 64223_67013
+%mor:	det|this-Def-Dem-Sing noun|string-Ger aux|be-Fin-Ind-Pres-S3 part|not adp|on pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|DET 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|CASE 6|8|NSUBJ 7|8|COP 8|0|ROOT 9|8|PUNCT
+*PAR:	yes . [+ exc] 67601_67691
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you see ? 68632_69112
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	what's going on here ? 69353_70663
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*PAR:	they're reaching up for a cookie in cookie jar . [+ gram] 73828_76598
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie adp|in noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|COMPOUND 10|7|NMOD 11|3|PUNCT
+*INV:	uhhuh . 77236_77406
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and they're cooking a turkey dinner „ I guess . 82406_84396
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|cook-Part-Pres-S det|a-Ind-Art noun|turkey noun|dinner-Acc punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|PUNCT 9|10|NSUBJ 10|4|PARATAXIS 11|4|PUNCT
+*INV:	pardon ? 85080_85380
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cooking a turkey dinner . [+ gram] 86140_87100
+%mor:	verb|cook-Part-Pres-S det|a-Ind-Art noun|turkey noun|dinner-Acc .
+%gra:	1|0|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+*INV:	okay . 87689_87839
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(.) anything else ? 102250_102890
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	what's happening over here ? 103576_104826
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	she's doing the dishes . 105587_106357
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	mhm ‡ what else is happening ? 106783_108183
+%mor:	intj|mhm punct|‡ pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|OBJ 4|3|ADVMOD 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	(.) this little boy might fall off of that stool he's on . 116585_120965
+%mor:	det|this-Def-Dem-Sing adj|little-S1 noun|boy aux|might-Fin-S verb|fall-Inf-S adp|off adp|of det|that-Def-Dem-Sing noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|12|NSUBJ 11|12|COP 12|5|PARATAXIS 13|5|PUNCT
+*INV:	okay . 121272_121672
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the water's splashing out all over the floor . 125011_126241
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|splash-Part-Pres-S adp|out adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|5|COMPOUND-PRT 7|10|ADVMOD 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	and she doesn't know it . 126789_127309
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	mhm . 128071_128621
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<and the boy might> [//] he's looking for the cookie jar . 133084_135674
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	and he might bang his head on the (.) thing by the door . [+ cir] 135928_141108
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|might-Fin-S verb|bang-Inf-S pron|his-Prs-Gen-S3 noun|head-Acc adp|on det|the-Def-Art noun|thing-Ger adp|by det|the-Def-Art noun|door .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|4|PUNCT
+*INV:	(.) okay very good . 154506_155486
+%mor:	intj|okay adv|very adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*INV:	thank_you . 157077_157127
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

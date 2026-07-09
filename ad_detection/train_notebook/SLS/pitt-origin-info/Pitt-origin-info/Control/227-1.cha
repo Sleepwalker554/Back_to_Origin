@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002352-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|Control||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	227-1, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture and I want you to tell me everything that's happening there . 30_4430
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CC 12|13|NSUBJ 13|2|CONJ 14|13|OBJ 15|16|MARK 16|13|XCOMP 17|16|IOBJ 18|16|OBJ 19|21|NSUBJ 20|21|AUX 21|18|ACL-RELCL 22|21|ADVMOD 23|2|PUNCT
+*INV:	everything that's going on in that picture . 4670_6590
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+*PAR:	okay is there a number of things ? [+ exc] 10645_11975
+%mor:	intj|okay verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|a-Ind-Art noun|number adp|of noun|thing-Plur ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|EXPL 4|5|DET 5|2|NSUBJ 6|7|CASE 7|5|NMOD 8|2|PUNCT
+*PAR:	I_mean &-eh &-eh do I hafta come up with a certain amount ? [+ exc] 11998_14218
+%mor:	propn|Imean aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 part|hafta verb|come-Inf-S adp|up adp|with det|a-Ind-Art adj|certain-S1 noun|amount ?
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|DET 9|10|AMOD 10|5|OBL 11|5|PUNCT
+*INV:	no . 14742_14982
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh okay [>] . [+ exc] 15040_15880
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	just [<] whatever you see happening there . 15250_17150
+%mor:	adv|just pron|whatever-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|ACL 6|5|ADVMOD 7|2|PUNCT
+*PAR:	okay [>] . [+ exc] 17460_17900
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	number one the boy is stealing some cookies and he's falling over from the chair [: stool] [* s:r] that's (.) not setting straight . 18377_26037
+%mor:	noun|number num|one det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over adp|from det|the-Def-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 part|not verb|set-Part-Pres-S adj|straight-S1 .
+%gra:	1|0|ROOT 2|1|NUMMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|PARATAXIS 7|8|DET 8|6|OBJ 9|12|CC 10|12|NSUBJ 11|12|AUX 12|6|CONJ 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|20|NSUBJ 18|20|AUX 19|20|ADVMOD 20|16|ACL-RELCL 21|20|XCOMP 22|1|PUNCT
+*PAR:	and the sink is overflowing . 26096_27466
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	you wanna know everything that's wrong with the picture or &-eh +..? [+ exc] 28250_30600
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|know-Inf-S pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 adp|with det|the-Def-Art noun|picture cconj|or +..?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|2|CONJ 13|2|PUNCT
+*INV:	everything that's happening xxx [>] . 30323_32173
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+*PAR:	everything [<] that's happening . [+ exc] 31448_32287
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+*INV:	mhm . 32311_32832
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 32561_32762
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	it looks like it's a nice summer day outside . 33102_35132
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|summer noun|day adv|outside .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|9|MARK 4|9|NSUBJ 5|9|COP 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|2|ADVCL 10|9|ADVMOD 11|2|PUNCT
+*PAR:	and the lady's dryin(g) the dishes . 36002_37982
+%mor:	cconj|and det|the-Def-Art noun|lady~part|s verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and &-uh everything that's happening . [+ exc] 39425_41545
+%mor:	cconj|and pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|2|CC 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|2|PUNCT
+*PAR:	and she's standing in the water . 44044_45374
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	better get out o(f) there &=laughs . [+ gram] 45778_46578
+%mor:	adv|well verb|get-Fin-Imp-S adp|out adp|of adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CASE 4|3|FIXED 5|2|OBL 6|2|PUNCT
+*PAR:	(..) the girl seems to be giggling . 49871_55061
+%mor:	det|the-Def-Art noun|girl verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|giggle-Part-Pres-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|AUX 6|3|XCOMP 7|3|PUNCT
+*PAR:	looks like &-uh the mother is a little p_o'd [: pissed off] . 56705_58765
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 verb|piss-Part-Past-S adp|off .
+%gra:	1|0|ROOT 2|8|MARK 3|4|DET 4|8|NSUBJ-PASS 5|8|AUX-PASS 6|7|DET 7|8|OBL-UNMARKED 8|1|ADVCL 9|8|COMPOUND-PRT 10|1|PUNCT
+*PAR:	and &-uh (.) that's about all I can see . [+ exc] 61739_68669
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+*INV:	okay fine . 69025_69895
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	that's good thank_you very much . 70175_71555
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 noun|thankyou adv|very adv|much .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+@End

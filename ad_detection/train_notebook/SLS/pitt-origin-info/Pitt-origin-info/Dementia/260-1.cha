@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002587-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|MCI||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	260-1, audio
+@G:	Cookie
+*INV:	let me show you a picture . 700_1390
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|IOBJ 5|6|DET 6|3|OBJ 7|1|PUNCT
+*INV:	and the picture has a_lot_of action going on in it . 2696_4946
+%mor:	cconj|and det|the-Def-Art noun|picture verb|have-Fin-Ind-Pres-S3 noun|alotof noun|action-Acc verb|go-Part-Pres-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|4|PUNCT
+*INV:	what I want you to do is look at the picture . 5466_6866
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|8|PUNCT
+*INV:	just tell me anything you see going on . 8058_9139
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|2|PUNCT
+*PAR:	well ‡ the boy's in the cookie jar . 14331_15851
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|9|NMOD-POSS 5|4|CASE 6|9|CASE 7|9|DET 8|9|COMPOUND 9|2|OBL 10|2|PUNCT
+*PAR:	his stool is gonna fall down . 19108_21718
+%mor:	pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adv|down .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|4|PUNCT
+*PAR:	it's on two legs . 22082_22992
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on num|two noun|leg-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|NUMMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	the sister wants him to hand her a cookie . 23497_27177
+%mor:	det|the-Def-Art noun|sister verb|want-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 part|to verb|hand-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|3|PUNCT
+*PAR:	the mother is drying a dish . 27487_30627
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the water is overflowing . 30917_33307
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) yeah ‡ I think that's the activity . [+ exc] 33357_43707
+%mor:	intj|yeah punct|‡ pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|activity .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|4|PUNCT
+*PAR:	isn't that right ? [+ exc] 43724_44094
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem adj|right-S1 ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 45121_45211
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

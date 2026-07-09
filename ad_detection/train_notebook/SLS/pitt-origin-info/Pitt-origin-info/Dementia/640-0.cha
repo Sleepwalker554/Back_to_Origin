@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/t-00002710-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|female|ProbableAD||Participant|10||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	640-0, audio
+@G:	Cookie
+*PAR:	the little boy's take [//] getting in the cookie jar . 0_6060
+%mor:	det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+*PAR:	his <mom's is> [//] mom is washing the dishes and dryin(g) them . 6631_10231
+%mor:	pron|his-Prs-Gen-S3 noun|mom aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|8|OBJ 10|4|PUNCT
+*PAR:	oh ‡ somebody let the water run over . 11292_13112
+%mor:	intj|oh punct|‡ pron|somebody-Ind-S1 verb|let-Fin-Ind-Past-S-irr det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|7|COMPOUND-PRT 9|4|PUNCT
+*PAR:	and the little boy is going to get killed if he doesn't get up off there &=laughs . 14670_19920
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|get-Inf-S verb|kill-Part-Past-S sconj|if pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|get-Inf-S adp|up adp|off adv|there .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|MARK 8|9|AUX-PASS 9|6|XCOMP 10|14|MARK 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|9|ADVCL 15|14|COMPOUND-PRT 16|17|CASE 17|14|OBL 18|6|PUNCT
+*PAR:	and then there's a little girl . 20980_22120
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|4|PUNCT
+*PAR:	+" I'll take the cookie jar . 24869_25889
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|take-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*INV:	&=laughs okay . 27968_28478
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002730-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|female|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	705-0, audio
+@G:	Cookie
+*INV:	picture okay ? 320_1100
+%mor:	noun|picture intj|okay ?
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	mhm . [+ exc] 1280_1750
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you tell me now ? 3180_4050
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR:	well ‡ this one is in the cookie jar . 4230_8980
+%mor:	intj|well punct|‡ det|this-Def-Dem-Sing noun|one aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|9|DISCOURSE 2|9|DISCOURSE 3|4|DET 4|9|NSUBJ 5|9|COP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|0|ROOT 10|9|PUNCT
+*INV:	mhm . 9420_10040
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and <this is> [//] she tried to climb the &-uh +... 10687_13757
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|try-Fin-Ind-Past-S3 part|to verb|climb-Inf-S det|the-Def-Art +...
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR:	oh ‡ no [/] no . [+ exc] 15440_16030
+%mor:	intj|oh intj|‡ intj|no .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*PAR:	this boy (.) <I think this is the same one huh> [//] (.) tried to get in the cookie jar . 16764_25704
+%mor:	det|this-Def-Dem-Sing noun|boy verb|try-Fin-Ind-Past-S3 part|to verb|get-Inf-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|3|PUNCT
+*PAR:	and she's watching . 26569_27639
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|watch-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and over here must be the mother . 32080_36100
+%mor:	cconj|and adv|over adv|here aux|must-Fin-S aux|be-Inf-S det|the-Def-Art noun|mother .
+%gra:	1|7|CC 2|3|ADVMOD 3|7|ADVMOD 4|7|AUX 5|7|COP 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	I don't know what the heck they're doin(g) here though . [+ exc] 37414_42554
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art noun|heck pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S adv|here adv|though .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|NSUBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|ADVMOD 12|10|ADVMOD 13|4|PUNCT
+*INV:	can you tell me something else that's going on over here ? 42930_45160
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|something-Ind-S1 adj|else-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|5|AMOD 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|9|COMPOUND-PRT 11|12|CASE 12|9|OBL 13|3|PUNCT
+*PAR:	what's goin(g) on ? [+ exc] 45445_46205
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|3|OBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*INV:	mhm . 46250_46780
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<the stool> [//] she [: he] [* s:r] was climbing and the stool tipped over . 46800_50890
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|climb-Part-Pres-S cconj|and det|the-Def-Art noun|stool verb|tip-Fin-Ind-Past-S3 adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CC 5|6|DET 6|7|NSUBJ 7|3|CONJ 8|7|COMPOUND-PRT 9|3|PUNCT
+*INV:	okay . 51421_52071
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	how_(a)bout over here ? 56139_56789
+%mor:	noun|howabout adp|over adv|here ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*INV:	is there something else going on over here ? 56813_58433
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|something-Ind-S1 adj|else-S1 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|3|ACL 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|1|PUNCT
+*PAR:	she was doin(g) the dishes „ I think . 62112_64402
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc punct|„ pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|PUNCT 7|8|NSUBJ 8|3|PARATAXIS 9|3|PUNCT
+*INV:	okay . 64747_65287
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she spilled something . 66494_67554
+%mor:	pron|she-Prs-Nom-S3 verb|spill-Fin-Ind-Past-S3 pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	okay that's fine . 74881_75681
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

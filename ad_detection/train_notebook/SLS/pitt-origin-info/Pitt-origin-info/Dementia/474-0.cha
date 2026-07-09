@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002660-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	474-0, audio
+@G:	Cookie
+*INV:	what I'm gonna do now is I'm gonna show you a picture . 50_4310
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|do-Inf-S adv|now aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|11|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|11|COP 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|13|MARK 13|11|XCOMP 14|13|IOBJ 15|16|DET 16|13|OBJ 17|11|PUNCT
+*INV:	and in the picture there are some things going on . 5364_7944
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|thing-Plur verb|go-Ger-S adp|on .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|9|COMPOUND-PRT 11|6|PUNCT
+*INV:	there's some action taking place . 9273_11193
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|action verb|take-Ger-S noun|place-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|5|OBJ 7|2|PUNCT
+*INV:	what I want you to do is look at the picture and just tell me anything you see happening any action . 12094_17304
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and adv|just verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S det|any-Def-Ind noun|action-Acc .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|14|CC 13|14|ADVMOD 14|8|CONJ 15|14|IOBJ 16|14|OBJ 17|18|NSUBJ 18|16|ACL-RELCL 19|18|XCOMP 20|21|DET 21|19|OBJ 22|8|PUNCT
+*PAR:	well ‡ your sink is being run over , the water . 20693_26083
+%mor:	intj|well punct|‡ pron|your-Prs-Gen-S2 noun|sink aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|run-Part-Past-S-irr adp|over cm|cm det|the-Def-Art noun|water .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|4|NMOD-POSS 4|7|NSUBJ-PASS 5|7|AUX 6|7|AUX-PASS 7|0|ROOT 8|7|COMPOUND-PRT 9|11|PUNCT 10|11|DET 11|7|PARATAXIS 12|7|PUNCT
+*PAR:	the stool the kid's standing on is falling . 27208_30498
+%mor:	det|the-Def-Art noun|stool det|the-Def-Art noun|kid~part|s noun|standing-Ger adp|on aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|9|NSUBJ 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|7|NSUBJ 7|2|ACL-RELCL 8|9|AUX 9|0|ROOT 10|9|PUNCT
+*PAR:	and he's getting cookies from a jar . 33646_36966
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|from det|a-Ind-Art noun|jar .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	the lady's washin(g) dishes . 42148_43278
+%mor:	det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 verb|washing-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the girl's reachin(g) for a cookie . 52403_53643
+%mor:	det|the-Def-Art noun|girl~part|s verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	could there be more ? [+ exc] 69824_70394
+%mor:	aux|could-Fin-S pron|there-Int-S1 verb|be-Inf-S adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|PUNCT
+*INV:	okay ‡ anything else ? 70440_72310
+%mor:	intj|okay punct|‡ pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|DISCOURSE 2|3|PUNCT 3|0|ROOT 4|3|AMOD 5|3|PUNCT
+*PAR:	I don't think so . [+ exc] 76238_76548
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S adv|so .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	okay . 77295_77365
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

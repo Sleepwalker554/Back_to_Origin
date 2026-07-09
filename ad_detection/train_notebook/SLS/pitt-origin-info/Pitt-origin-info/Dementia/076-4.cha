@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00002488-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	076-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	a picture . 30_450
+%mor:	det|a-Ind-Art noun|picture .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	okay . [+ exc] 820_1510
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well the little boy was looking at that cookie jar and he started to tip over . 4993_9353
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Past-S3-irr verb|look-Part-Pres-S adp|at det|that-Def-Dem-Sing noun|cookie noun|jar cconj|and pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|tip-Inf-S adp|over .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|13|CC 12|13|NSUBJ 13|6|CONJ 14|15|MARK 15|13|XCOMP 16|15|COMPOUND-PRT 17|6|PUNCT
+*PAR:	she was &-uh talking with him and [/] and wanting him to give her some cookies I guess . 9893_15173
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|talk-Part-Pres-S adp|with pron|he-Prs-Acc-S3 cconj|and verb|want-Part-Pres-S pron|he-Prs-Acc-S3 part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|some-Def-Ind noun|cookie-Plur-Acc pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|CC 7|3|CONJ 8|7|OBJ 9|10|MARK 10|7|XCOMP 11|10|IOBJ 12|13|DET 13|10|OBJ 14|15|NSUBJ 15|13|ACL-RELCL 16|3|PUNCT
+*PAR:	and <he turned> [//] it's turning [/] turning it over . [+ cir] 15669_19109
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S pron|it-Prs-Acc-S3 adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+*PAR:	I don't know whether he got hurt or not &=laughs . 19127_22707
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|he-Prs-Nom-S3 aux|get-Fin-Ind-Past-S3-irr verb|hurt-Part-Past-S-irr cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|4|CCOMP 9|10|CC 10|8|CONJ 11|4|PUNCT
+*PAR:	probably did &=laughs . [+ gram] 23678_24488
+%mor:	adv|probably aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	(be)cause his mom is right <beside him> [//] behind him and maybe she could have caught him . 25339_29469
+%mor:	sconj|because pron|his-Prs-Gen-S3 noun|mom aux|be-Fin-Ind-Pres-S3 adj|right-S1 adp|behind pron|he-Prs-Acc-S3 cconj|and adv|maybe pron|she-Prs-Nom-S3 aux|could-Fin-S aux|have-Inf-S verb|catch-Part-Past-S-irr pron|he-Prs-Acc-S3 .
+%gra:	1|5|MARK 2|3|NMOD-POSS 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|CASE 7|5|OBL 8|13|CC 9|13|ADVMOD 10|13|NSUBJ 11|13|AUX 12|13|AUX 13|5|CONJ 14|13|OBJ 15|5|PUNCT
+*PAR:	and the mother is washing the dishes but she let the water go so fast &=laughs and so full that <it's halfway down the> [//] &=laughs it's all the way down . 34276_46556
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|but pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|water-Acc verb|go-Inf-S adv|so adj|fast-S1 cconj|and adv|so adj|full-S1 sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|way adv|down .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CC 9|10|NSUBJ 10|5|CONJ 11|12|DET 12|10|OBJ 13|10|XCOMP 14|15|ADVMOD 15|13|ADVMOD 16|18|CC 17|18|ADVMOD 18|13|CONJ 19|24|MARK 20|24|NSUBJ 21|24|COP 22|24|DET-PREDET 23|24|DET 24|18|CCOMP 25|24|ADVMOD 26|5|PUNCT
+*PAR:	and she'll hafta clean it all up . 47353_48863
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|will-Fin-S part|hafta verb|clean-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot adp|up .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|8|DET 8|5|COMPOUND-PRT 9|5|PUNCT
+*PAR:	she'll hafta get the little kids out so she can &=laughs . 50182_52682
+%mor:	pron|she-Prs-Nom-S3~aux|will-Fin-S part|hafta verb|get-Inf-S det|the-Def-Art adj|little-S1 noun|kid-Plur-Acc adp|out adv|so pron|she-Prs-Nom-S3 aux|can-Fin-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|COMPOUND-PRT 9|11|ADVMOD 10|11|NSUBJ 11|4|PARATAXIS 12|4|PUNCT
+*INV:	okay . 52978_53898
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh yeah . [+ exc] 55218_55898
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay good . 56251_57221
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

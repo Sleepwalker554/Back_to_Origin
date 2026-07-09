@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002601-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	282-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 340_1410
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	the boy's getting &-uh &-uh into the cookie jar . 1736_6646
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	his stool is upsetting . 7980_9580
+%mor:	pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 adj|upsetting-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the sister is holding out her hand for the cookie . 10616_12856
+%mor:	det|the-Def-Art noun|sister aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adp|out pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|the-Def-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|NMOD-POSS 7|4|OBJ 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*PAR:	the mother is at the sink . 13931_15341
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	the dish &+w water is running out onto the floor . 15722_19492
+%mor:	det|the-Def-Art noun|dish noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|out adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	she's drying [//] washing and drying dishes . 20746_23636
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S cconj|and verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CC 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	&-um the little girl has her hand out for more cookies . 26924_31714
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|out adp|for adj|more-Cmp-S1 noun|cookie-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|AMOD 10|4|OBL 11|4|PUNCT
+*PAR:	the little boy is into the cookie jar again . 32546_34966
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|into det|the-Def-Art noun|cookie noun|jar adv|again .
+%gra:	1|3|DET 2|3|AMOD 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|ADVMOD 10|8|PUNCT
+*PAR:	the mother has the <dishwash> [//] &-uh the &-uh dishwater running out onto the floor . 37398_41948
+%mor:	det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 det|the-Def-Art det|the-Def-Art noun|dishwater-Acc verb|run-Ger-S adp|out adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|DET 6|3|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*PAR:	I think I told you that . [+ exc] 42000_42970
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|IOBJ 6|4|OBJ 7|2|PUNCT
+*PAR:	she's drying dishes . 44974_46204
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	putting them on the sink top . [+ gram] 47066_48376
+%mor:	verb|put-Part-Pres-S pron|they-Prs-Acc-P3 adp|on det|the-Def-Art noun|sink noun|top .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|COMPOUND 6|1|OBL 7|1|PUNCT
+*PAR:	the stool is upsetting with the boy . 50617_52187
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|upsetting-Part-Pres-S adp|with det|the-Def-Art noun|boy .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	okay good . 52669_53669
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

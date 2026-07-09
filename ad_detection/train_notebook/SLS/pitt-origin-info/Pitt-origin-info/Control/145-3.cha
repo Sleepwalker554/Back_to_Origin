@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/t-00002309-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	145-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	but I want you to take a look at that picture and tell me everything that you see happening in that picture . 290_4970
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|13|CC 13|3|CONJ 14|13|IOBJ 15|13|OBJ 16|19|OBJ 17|18|NSUBJ 18|15|ACL-RELCL 19|18|XCOMP 20|22|CASE 21|22|DET 22|19|OBL 23|3|PUNCT
+*INV:	everything that's going on . 5046_6466
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|1|PUNCT
+*PAR:	alright . [+ exc] 7380_8070
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	starting from left to right the little girl is reaching for a cookie while she's making some kind of a signal with her hand to her lip . 9326_17576
+%mor:	verb|start-Part-Pres-S adp|from noun|left adp|to noun|right det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S det|some-Def-Ind noun|kind-Acc adp|of det|a-Ind-Art noun|signal adp|with pron|her-Prs-Gen-S3 noun|hand adp|to pron|her-Prs-Gen-S3 noun|lip .
+%gra:	1|10|ADVCL 2|3|CASE 3|1|OBL 4|5|CASE 5|1|OBL 6|8|DET 7|8|AMOD 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|10|ADVCL 18|19|DET 19|17|OBJ 20|22|CASE 21|22|DET 22|19|NMOD 23|25|CASE 24|25|NMOD-POSS 25|22|NMOD 26|28|CASE 27|28|NMOD-POSS 28|25|NMOD 29|10|PUNCT
+*PAR:	it looks like <lip reading I_mean> [//] &-uh signing . 17600_20690
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like noun|signing-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*PAR:	the boy is reaching too far for the cookies and is tipping the stool and is about to have an accident . 21304_28204
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adv|too adv|far adp|for det|the-Def-Art noun|cookie-Plur cconj|and aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S det|the-Def-Art noun|stool-Acc cconj|and aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|have-Inf-S det|a-Ind-Art noun|accident-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|9|CASE 8|9|DET 9|4|OBL 10|12|CC 11|12|AUX 12|4|CONJ 13|14|DET 14|12|OBJ 15|17|CC 16|17|COP 17|12|CONJ 18|19|MARK 19|17|XCOMP 20|21|DET 21|19|OBJ 22|4|PUNCT
+*PAR:	<he's handing> [//] he's reaching for a cookie with his right hand and handing a cookie with his left hand to the little girl . 28955_35815
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie adp|with pron|his-Prs-Gen-S3 adj|right-S1 noun|hand cconj|and verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|with pron|his-Prs-Gen-S3 adj|left-S1 noun|hand adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|3|OBL 11|12|CC 12|3|CONJ 13|14|DET 14|12|OBJ 15|18|CASE 16|18|NMOD-POSS 17|18|AMOD 18|12|OBL 19|22|CASE 20|22|DET 21|22|AMOD 22|12|OBL 23|3|PUNCT
+*PAR:	&-uh proceeding to the right the woman obviously their mother is drying a dish while she's neglecting to notice that the sink is overflowing because the faucet is running and the stopper's in the sink . 37233_51053
+%mor:	verb|proceed-Part-Pres-S adp|to det|the-Def-Art noun|right det|the-Def-Art noun|woman adv|obviously pron|their-Prs-Gen-P3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|neglect-Part-Pres-S part|to verb|notice-Inf-S sconj|that det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S sconj|because det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S cconj|and det|the-Def-Art noun|stopper~part|s adp|in det|the-Def-Art noun|sink .
+%gra:	1|11|ADVCL 2|4|CASE 3|4|DET 4|1|OBL 5|6|DET 6|11|NSUBJ 7|11|ADVMOD 8|9|NMOD-POSS 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|13|DET 13|11|OBJ 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|11|ADVCL 18|19|MARK 19|17|XCOMP 20|24|MARK 21|22|DET 22|24|NSUBJ 23|24|AUX 24|19|CCOMP 25|29|MARK 26|27|DET 27|29|NSUBJ 28|29|AUX 29|24|ADVCL 30|36|CC 31|32|DET 32|36|NMOD-POSS 33|32|CASE 34|36|CASE 35|36|DET 36|29|CONJ 37|11|PUNCT
+*PAR:	it's making a mess on the floor and she's standing in the mess , the water . 52019_56549
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S det|a-Ind-Art noun|mess-Acc adp|on det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|mess cm|cm det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|3|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|18|PUNCT 17|18|DET 18|15|APPOS 19|3|PUNCT
+*PAR:	&-um there are plants growing . 58066_61006
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|plant-Plur verb|grow-Ger-S .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	there's grass growing . 61028_62288
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|grass noun|grow-Ger .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|COMPOUND 4|2|NSUBJ 5|2|PUNCT
+*PAR:	there's a tree with leaves . 62306_63906
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|with noun|leave-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*PAR:	&-uh you want action ? [+ exc] 65951_66951
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|action-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	mhm . 67005_67455
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well can [//] you wanna know that there are two cups on the counter and things like that ? [+ exc] 68930_74060
+%mor:	intj|well pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|know-Inf-S sconj|that pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur adp|on det|the-Def-Art noun|counter cconj|and noun|thing-Plur adp|like pron|that-Dem ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|MARK 7|8|EXPL 8|5|CCOMP 9|10|NUMMOD 10|8|NSUBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|15|CC 15|10|CONJ 16|17|CASE 17|15|NMOD 18|3|PUNCT
+*INV:	+< no . 74040_74360
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 74082_74302
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	alright . [+ exc] 75240_75560
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's about it . 75576_76286
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	+< that's about it huh +/. [+ exc] 76415_77095
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about pron|it-Prs-Nom-S3 intj|huh +/.
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|FLAT 6|4|PUNCT
+@End

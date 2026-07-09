@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002713-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|87;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	650-0, audio
+@G:	Cookie
+*PAR:	&-uh a boy is &-uh puttin(g) somethin(g) in the closet . 420_4620
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|something-Ind-S1 adp|in det|the-Def-Art noun|closet .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	<or he> [//] <and he could> [//] or <I it [/] it could be taking> [//] he could be taking a cookie jar out . 5536_15236
+%mor:	cconj|or pron|he-Prs-Nom-S3 aux|could-Fin-S aux|be-Inf-S verb|take-Part-Pres-S det|a-Ind-Art noun|cookie noun|jar-Acc adp|out .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|COMPOUND-PRT 10|5|PUNCT
+*PAR:	and he's &-uh the &+step &-uh stepstool is tilting . 15501_19621
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|stepstool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*PAR:	(..) and a young girl seems to whisper to him &+n about makin(g) noise . 25790_32960
+%mor:	cconj|and det|a-Ind-Art adj|young-S1 noun|girl verb|seem-Fin-Ind-Pres-S3 part|to verb|whisper-Inf-S adp|to pron|he-Prs-Acc-S3 sconj|about verb|make-Part-Pres-S noun|noise-Acc .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|11|MARK 11|7|ADVCL 12|11|OBJ 13|5|PUNCT
+*PAR:	doesn't it ? [+ exc] 33420_33820
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|PUNCT
+*PAR:	did you notice that ? [+ exc] 34096_34996
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|notice-Inf-S pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm &*PAR:yeah . 35017_35777
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh now &+d do I go over on the other side ? [+ exc] 39597_41317
+%mor:	adv|now aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|go-Inf-S adp|over adp|on det|the-Def-Art adj|other-S1 noun|side ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*INV:	mhm ‡ the whole picture . 41354_42964
+%mor:	intj|mhm punct|‡ det|the-Def-Art adj|whole-S1 noun|picture .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	+< whole picture . [+ exc] 43060_43560
+%mor:	adj|whole-S1 noun|picture .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	&-uh there's &-uh &-uh &-uh a older &+w woman . 44154_47874
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|old-Cmp-S1 noun|woman .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|2|PUNCT
+*PAR:	well ‡ young still . [+ gram] 47893_50283
+%mor:	intj|well punct|‡ adj|young-S1 adv|still .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	I mean to say that . [+ exc] 50530_51690
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 part|to verb|say-Inf-S pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	&-uh then the [/] the child over there . 52113_54393
+%mor:	adv|then det|the-Def-Art noun|child adp|over adv|there .
+%gra:	1|3|ADVMOD 2|3|DET 3|0|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+*PAR:	and &-uh she's dryin(g) dishes or washin(g) (th)em , washin(g) and <dry (th)em> [//] drying them . 54950_62150
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc cconj|or verb|wash-Part-Pres-S pron|they-Prs-Acc-P3 cm|cm verb|wash-Part-Pres-S cconj|and verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CC 7|4|CONJ 8|7|OBJ 9|10|PUNCT 10|7|CONJ 11|12|CC 12|10|CONJ 13|10|OBJ 14|4|PUNCT
+*PAR:	and &-uh (..) it looks as if she's spilling water on the floor from the sink . 64400_78970
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|as sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S noun|water-Acc adp|on det|the-Def-Art noun|floor adp|from det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|8|MARK 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|15|CASE 14|15|DET 15|8|OBL 16|3|PUNCT
+*PAR:	is there &-uh a woman's face at the window ? [+ exc] 86704_89734
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|a-Ind-Art noun|woman~part|s noun|face adp|at det|the-Def-Art noun|window ?
+%gra:	1|0|ROOT 2|1|EXPL 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|1|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|1|PUNCT
+*PAR:	<doesn't it like a> [//] &+d doesn't it look like there's a face there ? [+ exc] 91425_95705
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 verb|look-Inf-S sconj|like pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|face adv|there ?
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|7|MARK 6|7|EXPL 7|4|ADVCL 8|9|DET 9|7|NSUBJ 10|7|ADVMOD 11|4|PUNCT
+*INV:	oh ‡ no ‡ hunhunh . 95900_96960
+%mor:	intj|oh punct|‡ intj|no x|‡ intj|hunhunh .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|FLAT 5|4|FLAT 6|3|PUNCT
+*PAR:	+< ain't it then ? [+ exc] 97147_97477
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 adv|then ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	oh ‡ I thought it looked like a nose and a mouth &=laughs and eye there . [+ exc] 97699_100999
+%mor:	intj|oh punct|‡ pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|like det|a-Ind-Art noun|nose cconj|and det|a-Ind-Art noun|mouth cconj|and noun|eye adv|there .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|12|CC 11|12|DET 12|9|CONJ 13|14|CC 14|12|CONJ 15|12|ADVMOD 16|4|PUNCT
+*INV:	okay . 101068_102178
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002348-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	211-2, audio
+@G:	Cookie
+*PAR:	a little girl is reaching for her brother to give her a cookie . 2009_7060
+%mor:	det|a-Ind-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S sconj|for pron|her-Prs-Gen-S3 noun|brother part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|10|MARK 7|8|NMOD-POSS 8|10|NSUBJ 9|10|MARK 10|5|ADVCL 11|10|IOBJ 12|13|DET 13|10|OBJ 14|5|PUNCT
+*PAR:	the stool is falling over . 8485_10355
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the boy has taken the lid off the cookie jar , has a cookie in his &+l left hand , is reaching with his right hand for one . 10609_17799
+%mor:	det|the-Def-Art noun|boy aux|have-Fin-Ind-Pres-S3 verb|take-Part-Past-S-irr det|the-Def-Art noun|lid-Acc adp|off det|the-Def-Art noun|cookie noun|jar cm|cm verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand cm|cm aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|with pron|his-Prs-Gen-S3 adj|right-S1 noun|hand adp|for num|one .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|12|PUNCT 12|4|CONJ 13|14|DET 14|12|OBJ 15|18|CASE 16|18|NMOD-POSS 17|18|AMOD 18|12|OBL 19|21|PUNCT 20|21|AUX 21|4|PARATAXIS 22|25|CASE 23|25|NMOD-POSS 24|25|AMOD 25|21|OBL 26|27|CASE 27|21|OBL 28|4|PUNCT
+*PAR:	the mother is drying the dishes . 19259_21369
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the water is flowing [//] &+o running and flowing out_of the sink . 21481_25771
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S cconj|and verb|flow-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*PAR:	&-um (.) mother is frowning . 26743_31323
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|frown-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	(.) there's nothing going on outside there's just bushes [/] bushes [/] bushes . 35129_39849
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|nothing-Neg-S1 verb|go-Ger-S adp|on adv|outside pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 adv|just noun|bush-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|10|EXPL 8|10|COP 9|10|ADVMOD 10|2|PARATAXIS 11|2|PUNCT
+*PAR:	&-uh the door is open . 42902_44132
+%mor:	det|the-Def-Art noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) the girl has [//] looks like she's laughing . 52532_54432
+%mor:	det|the-Def-Art noun|girl verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|3|PUNCT
+*PAR:	(.) &+ma a lady's standing in the water . 63712_65382
+%mor:	det|a-Ind-Art noun|lady~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	(.) okay ? [+ exc] 72875_73325
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&*INV:okay think that's it . [+ exc] 73565_74205
+%mor:	verb|think-Fin-Imp-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+*INV:	that's fine . 74642_75302
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

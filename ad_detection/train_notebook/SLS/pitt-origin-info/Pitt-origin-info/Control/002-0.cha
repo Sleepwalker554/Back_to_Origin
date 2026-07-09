@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/t-00002178-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|58;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	002-0, audio
+@G:	Cookie
+*PAR:	the scene is <in the> [/] in the kitchen . 30_5640
+%mor:	det|the-Def-Art noun|scene aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	the mother is wiping dishes and the water is running on the floor . 5703_11843
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|4|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|4|PUNCT
+*PAR:	<a child is tryin(g) to get> [//] a boy is tryin(g) to get cookies outta [: out of] a jar and he's about to tip over on a stool . 11898_17928
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|out adp|of det|a-Ind-Art noun|jar cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|tip-Inf-S adp|over adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|11|CASE 9|11|CASE 10|11|DET 11|6|OBL 12|15|CC 13|15|NSUBJ 14|15|COP 15|4|CONJ 16|17|MARK 17|15|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|4|PUNCT
+*PAR:	&-uh the little girl is reacting to his falling . 18497_23097
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|react-Part-Pres-S adp|to pron|his-Prs-Gen-S3 noun|falling-Ger .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*PAR:	&-uh it seems to be summer out . 25240_26770
+%mor:	pron|it-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S noun|summer adp|out .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|COP 5|2|XCOMP 6|5|ADVMOD 7|2|PUNCT
+*PAR:	the window is open . 26856_28166
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the curtains are blowing . 28302_30632
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	it must be a gentle breeze . 30651_31801
+%mor:	pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S det|a-Ind-Art adj|gentle-S1 noun|breeze .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	there's grass outside in the garden . 31847_33787
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|grass adv|outside adp|in det|the-Def-Art noun|garden .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*PAR:	&-uh mother's finished certain of the [/] the dishes . 35151_37911
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S adj|certain-S1 adp|of det|the-Def-Art noun|dish-Plur .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*PAR:	kitchen's very tidy . [+ gram] 39125_40315
+%mor:	noun|kitchen~aux|be-Fin-Ind-Pres-S3 adv|very adj|tidy-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	the mother seems to have nothing in the house to eat except cookies in the cookie jar . 40360_44310
+%mor:	det|the-Def-Art noun|mother verb|seem-Fin-Ind-Pres-S3 part|to verb|have-Inf-S pron|nothing-Neg-S1 adp|in det|the-Def-Art noun|house part|to verb|eat-Inf-S adp|except noun|cookie-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|11|MARK 11|5|ADVCL 12|13|CASE 13|11|OBL 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|NMOD 18|3|PUNCT
+*PAR:	&-uh the children look to be almost about the same size . 44549_49419
+%mor:	det|the-Def-Art noun|child-Plur verb|look-Fin-Ind-Pres-P3 part|to aux|be-Inf-S adv|almost adv|about det|the-Def-Art adj|same-S1 noun|size .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|10|MARK 5|10|COP 6|10|ADVMOD 7|10|ADVMOD 8|10|DET 9|10|AMOD 10|3|XCOMP 11|3|PUNCT
+*PAR:	perhaps they're twins . 49989_51099
+%mor:	adv|perhaps pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|twin-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	they're dressed for summer warm weather . 51311_54051
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|dress-Part-Past-S adp|for noun|summer adj|warm-S1 noun|weather .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|7|CASE 5|7|COMPOUND 6|7|AMOD 7|3|OBL 8|3|PUNCT
+*PAR:	&-um you want more ? [+ exc] 55889_56479
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adj|more-Cmp-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	+< no that's fine . 56302_57272
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	+< the mother's in a short sleeve dress . 57221_59201
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art adj|short-S1 noun|sleeve noun|dress .
+%gra:	1|2|DET 2|8|NSUBJ 3|8|COP 4|8|CASE 5|8|DET 6|8|AMOD 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*INV:	+< that's great . 58650_59440
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|great-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	+< I'll hafta say it's warm . [+ exc] 59439_60329
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S part|hafta verb|say-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|warm-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|4|PUNCT
+*INV:	okay good . [+ exc] 60836_61486
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

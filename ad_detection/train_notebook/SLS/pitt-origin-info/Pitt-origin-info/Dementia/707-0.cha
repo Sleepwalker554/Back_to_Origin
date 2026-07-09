@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002731-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|female|PossibleAD||Participant|21||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	707-0, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at this picture . 250_3050
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*INV:	take a look at that picture and tell me everything you see going on there . 4155_7335
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|XCOMP 14|15|CASE 15|13|ADVMOD 16|1|PUNCT
+*PAR:	hm . [+ exc] 7552_7972
+%mor:	intj|hm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	everything that's happening . 8255_9335
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+*PAR:	the little boy is on the stool which is tipping . 9395_11605
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|7|PUNCT
+*PAR:	and he wants cookies to give to his sister . 11622_13952
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 noun|cookie-Plur-Acc part|to verb|give-Inf-S adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|3|PUNCT
+*PAR:	he has a handful of cookies in one hand already . 14140_16450
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|handful-Acc adp|of noun|cookie-Plur adp|in num|one noun|hand adv|already .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|9|CASE 8|9|NUMMOD 9|2|OBL 10|2|ADVMOD 11|2|PUNCT
+*PAR:	and the little girl is eating a cookie . 16468_18108
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	the mother is washin(g) dishes absent-mindedly . 18847_20467
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc adv|absent–mindedly .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*PAR:	she let the sink run over . 22206_23316
+%mor:	pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|sink-Acc verb|run-Inf-S adp|over .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|5|COMPOUND-PRT 7|2|PUNCT
+*PAR:	and it's all on the floor . 23338_24428
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all adp|on det|the-Def-Art noun|floor .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	there's a window with [//] you can see their driveway . [+ gram] 25563_28143
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S pron|their-Prs-Gen-P3 noun|driveway-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|NMOD-POSS 9|7|OBJ 10|2|PUNCT
+*PAR:	either bushes or trees and grass a big window . [+ gram] 29930_33860
+%mor:	cconj|either noun|bush-Plur cconj|or noun|tree-Plur cconj|and noun|grass det|a-Ind-Art adj|big-S1 noun|window .
+%gra:	1|2|CC-PRECONJ 2|0|ROOT 3|4|CC 4|2|CONJ 5|6|CC 6|2|CONJ 7|9|DET 8|9|AMOD 9|2|CONJ 10|2|PUNCT
+*PAR:	and a tree comin(g) up here . [+ gram] 38610_40580
+%mor:	cconj|and det|a-Ind-Art noun|tree verb|come-Ger-S adp|up adv|here .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|4|ADVMOD 7|3|PUNCT
+*PAR:	and the [//] &+roo part of the roof . [+ gram] 41080_42640
+%mor:	cconj|and noun|part adp|of det|the-Def-Art noun|roof .
+%gra:	1|2|CC 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*INV:	okay . 43209_43319
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the cookie says cookie jar . 43898_45318
+%mor:	cconj|and det|the-Def-Art noun|cookie verb|say-Fin-Ind-Pres-S3 noun|cookie noun|jar-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|PUNCT
+*INV:	okay thanks . 45396_46306
+%mor:	intj|okay noun|thanks .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

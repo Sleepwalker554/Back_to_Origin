@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002703-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	610-0, audio
+@G:	Cookie
+*INV:	I'd like for you to look at this picture and tell me what you see going on there . 690_6830
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|12|CC 12|7|CONJ 13|12|IOBJ 14|17|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|12|CCOMP 18|19|CASE 19|17|ADVMOD 20|3|PUNCT
+*INV:	what's happening in that picture ? 7005_8975
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	(.) they're baking . 11499_12189
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|bake-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	(.) what else is going on ? 12529_16099
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	making a mess out_of the place . [+ gram] 18480_20290
+%mor:	verb|make-Part-Pres-S det|a-Ind-Art noun|mess-Acc adp|outof det|the-Def-Art noun|place .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+*INV:	how ? 20887_22617
+%mor:	adv|how ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<by not putting> [//] by not [//] no neatness . [+ gram] [+ exc] 24237_26997
+%mor:	adp|by det|no-Def-Neg noun|neatness .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	(.) do you see anything else happening there ? 30690_32590
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|happen-Ger-S adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|ADVMOD 8|3|PUNCT
+*PAR:	yes ‡ there's a few accidents . 33911_35631
+%mor:	intj|yes punct|‡ pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|few-S1 noun|accident-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|4|PUNCT
+*PAR:	the little boy is &+sta standing on a chair [: stool] [* s:r] which is crooked . 36916_41116
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|crooked-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|5|PUNCT
+*PAR:	the lady has water running out_of her (.) sink and (.) towel in her hand which is dangerous . 42266_52646
+%mor:	det|the-Def-Art noun|lady verb|have-Fin-Ind-Pres-S3 noun|water-Acc verb|run-Ger-S adp|outof pron|her-Prs-Gen-S3 noun|sink cconj|and noun|towel adp|in pron|her-Prs-Gen-S3 noun|hand pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|dangerous-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|ACL 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|CC 10|8|CONJ 11|13|CASE 12|13|NMOD-POSS 13|5|OBL 14|16|NSUBJ 15|16|COP 16|13|ACL-RELCL 17|3|PUNCT
+*PAR:	<cookies are coming down> [//] the cookie jar is coming down . 55865_59355
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|down .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	and the place is very pretty . 61408_63118
+%mor:	cconj|and det|the-Def-Art noun|place aux|be-Fin-Ind-Pres-S3 adv|very adj|pretty-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*INV:	okay good . 64610_65580
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

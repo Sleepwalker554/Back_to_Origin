@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002357-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|Control||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	242-0, audio
+@G:	Cookie
+*INV:	there it is . 630_1190
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	well the stool is tilting as the kid is taking cookies to give to his sister . 3600_8010
+%mor:	intj|well det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S sconj|as det|the-Def-Art noun|kid aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc part|to verb|give-Inf-S adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|10|OBJ 12|13|MARK 13|10|ADVCL 14|16|CASE 15|16|NMOD-POSS 16|13|OBL 17|5|PUNCT
+*PAR:	(..) the water's runnin(g) over in the sink . 20091_21451
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	(..) the mother hasta be blind . 28825_31405
+%mor:	det|the-Def-Art noun|mother x|hasta aux|be-Inf-S adj|blind-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|2|APPOS 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	(..) &+w &+w &+w you_know she's dryin(g) the dishes . 31453_40843
+%mor:	intj|youknow pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	what else am I sposta find out ? [+ exc] 44393_45803
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|sposta verb|find-Inf-S adp|out ?
+%gra:	1|6|OBJ 2|1|ADVMOD 3|6|AUX 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*INV:	I beg your pardon ? 47961_48451
+%mor:	pron|I-Prs-Nom-S1 verb|beg-Fin-Ind-Pres-S1 pron|your-Prs-Gen-S2 noun|pardon-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*PAR:	what else am I sposta know ? [+ exc] 48558_49958
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|sposta verb|know-Inf-S ?
+%gra:	1|6|OBJ 2|1|ADVMOD 3|6|AUX 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*INV:	just anything that you see happening in the picture . 50350_52010
+%mor:	adv|just pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|6|OBJ 4|5|NSUBJ 5|2|ACL-RELCL 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+*PAR:	oh happening ? [+ exc] 52227_52707
+%mor:	intj|oh verb|happen-Part-Pres-S ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	the [//] like I say the water running <over the> [//] &-uh over onto the floor and &-uh the mother standing in it . [+ gram] 52729_59379
+%mor:	sconj|like pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 det|the-Def-Art noun|water-Acc verb|run-Ger-S adp|over adp|onto det|the-Def-Art noun|floor cconj|and det|the-Def-Art noun|mother verb|stand-Ger-S adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|14|CC 12|13|DET 13|14|NSUBJ 14|6|CONJ 15|16|CASE 16|14|OBL 17|3|PUNCT
+*INV:	+< mhm . 53620_53780
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she [//] she's washin(g) dishes and she'd hafta be blind not to know what's going on in that nuthouse . 59563_65663
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and pron|she-Prs-Nom-S3~aux|would-Fin-S part|hafta aux|be-Inf-S adj|blind-S1 part|not part|to verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|nuthouse .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|10|CC 6|10|NSUBJ 7|10|AUX 8|10|ADVMOD 9|10|COP 10|3|CONJ 11|13|ADVMOD 12|13|MARK 13|10|ADVCL 14|16|OBJ 15|16|AUX 16|13|CCOMP 17|16|COMPOUND-PRT 18|20|CASE 19|20|DET 20|16|OBL 21|3|PUNCT
+*INV:	mhm &=laughs okay . 66700_67300
+%mor:	intj|mhm intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

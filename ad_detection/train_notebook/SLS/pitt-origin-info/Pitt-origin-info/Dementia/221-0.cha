@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/t-00002564-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|male|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	221-0, audio
+@G:	Cookie
+*INV:	here's the picture . 940_1300
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*PAR:	you just want me to start talkin(g) ? [+ exc] 2340_3450
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|start-Inf-S verb|talk-Ger-S ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|XCOMP 8|3|PUNCT
+*INV:	all of the action . 4340_5020
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	well ‡ the little girl is &-uh asking her brother we'll say for a cookie . 5900_13050
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother pron|we-Prs-Nom-P1~aux|will-Fin-S verb|say-Inf-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|NMOD-POSS 9|7|IOBJ 10|12|NSUBJ 11|12|AUX 12|7|CCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|7|PUNCT
+*PAR:	now he's getting the cookie one for him and one for her . 13950_18040
+%mor:	adv|now pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|one-Acc adp|for pron|he-Prs-Acc-S3 cconj|and num|one adp|for pron|her-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|9|CASE 9|4|OBL 10|11|CC 11|9|CONJ 12|13|CASE 13|11|NMOD 14|4|PUNCT
+*PAR:	he &-uh unbalances <the step> [//] &+l [//] the [/] the little &-uh stool . 19224_24514
+%mor:	pron|he-Prs-Nom-S3 verb|unbalance-Fin-Ind-Pres-S3 det|the-Def-Art adj|little-S1 noun|stool-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*PAR:	and he's about to fall . 24567_26457
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	and &-uh the lid's off the cookie jar . 28085_29775
+%mor:	cconj|and det|the-Def-Art noun|lid~part|s adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|8|CC 2|3|DET 3|8|NMOD-POSS 4|3|CASE 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	and the mother is &-uh drying the dishes abstractedly [: distractedly] [* s:r] . 30280_35120
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adv|distractedly .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+*PAR:	so ‡ she's left the water running in the sink . 35262_37482
+%mor:	adv|so punct|‡ pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|leave-Part-Past-S-irr det|the-Def-Art noun|water-Acc verb|run-Ger-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|5|PUNCT
+*PAR:	and it is spilling onto the floor . 37607_42247
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and <there are two> [//] &-uh there's &-uh look like &+s two cups and a plate (.) on the sink and board . 42500_50430
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|like num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|sink cconj|and noun|board .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|XCOMP 5|7|CASE 6|7|NUMMOD 7|4|OBL 8|10|CC 9|10|DET 10|7|CONJ 11|13|CASE 12|13|DET 13|10|NMOD 14|15|CC 15|13|CONJ 16|3|PUNCT
+*PAR:	and that boy's wearing shorts . 50700_53040
+%mor:	cconj|and det|that-Def-Dem-Sing noun|boy~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S noun|short-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the little girl is in a short skirt . 53503_55523
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art adj|short-S1 noun|skirt .
+%gra:	1|9|CC 2|4|DET 3|4|AMOD 4|9|NSUBJ 5|9|COP 6|9|CASE 7|9|DET 8|9|AMOD 9|0|ROOT 10|9|PUNCT
+*PAR:	and &-uh the mother has an apron on . 56762_59782
+%mor:	cconj|and det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|OBL 8|4|PUNCT
+*PAR:	and she's &-uh standin(g) at the window . 61414_63124
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|at det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	the window's opened . 63200_64709
+%mor:	det|the-Def-Art noun|window~part|s verb|open-Part-Past-S .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	it must be summer or spring . 65839_67029
+%mor:	pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S noun|summer cconj|or noun|spring-Ger .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|0|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+*PAR:	and the curtains are pulled back . 68050_70110
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|pull-Part-Past-S adv|back .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	and they have a nice walk around their house . 71270_73800
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art adj|nice-S1 noun|walk-Acc adp|around pron|their-Prs-Gen-P3 noun|house .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|3|PUNCT
+*PAR:	and there's this nice shrubbery it appears and grass . 74960_78740
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing adj|nice-S1 noun|shrubbery pron|it-Prs-Nom-S3 verb|appear-Fin-Ind-Pres-S3 cconj|and noun|grass .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|CC 10|8|CONJ 11|3|PUNCT
+*PAR:	and there's a big picture window in the background that has the drapes pulled off . 85842_86882
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|picture noun|window adp|in det|the-Def-Art noun|background pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|drape-Plur-Acc verb|pull-Part-Past-S adp|off .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|7|DET 5|7|AMOD 6|7|COMPOUND 7|3|NSUBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|12|NSUBJ 12|7|ACL-RELCL 13|14|DET 14|12|OBJ 15|12|XCOMP 16|15|COMPOUND-PRT 17|3|PUNCT
+*PAR:	<there's a> [//] not pulled off but pulled aside . [+ gram] 86882_88822
+%mor:	part|not verb|pull-Part-Past-S adp|off cconj|but verb|pull-Fin-Ind-Past-S3 adv|aside .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|COMPOUND-PRT 4|5|CC 5|2|CONJ 6|5|ADVMOD 7|2|PUNCT
+*PAR:	and there's a tree in the background . 90577_90667
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|in det|the-Def-Art noun|background .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*PAR:	and <the house with> [//] &-uh the kitchen has a_lot_of cupboard space under the &-uh sink board and under the &-uh cabinet from which the cookie [//] you_know cookies are being removed .
+%mor:	cconj|and det|the-Def-Art noun|kitchen verb|have-Fin-Ind-Pres-S3 noun|alotof noun|cupboard noun|space-Acc adp|under det|the-Def-Art noun|sink noun|board cconj|and adp|under det|the-Def-Art noun|cabinet adp|from pron|which-Rel-S1 det|the-Def-Art noun|youknow noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 aux|be-Part-Pres-S verb|remove-Part-Past-S .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|COMPOUND 6|7|COMPOUND 7|4|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|15|CC 13|15|CASE 14|15|DET 15|7|CONJ 16|17|CASE 17|23|OBL 18|20|DET 19|20|COMPOUND 20|23|NSUBJ-PASS 21|23|AUX 22|23|AUX-PASS 23|15|ACL-RELCL 24|4|PUNCT
+*PAR:	and (.) is that enough ? [+ exc] 108307_109657
+%mor:	cconj|and aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|enough-S1 ?
+%gra:	1|4|CC 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	that's fine &=laughs . 110038_110968
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay good . 111558_112138
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

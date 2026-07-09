@@ -1,0 +1,93 @@
+@UTF8
+@PID:	11312/t-00002585-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:53:08-04:00]
+@Media:	257-0, audio
+@G:	Cookie
+*INV:	so we can hear you because I usually can't get it all written down . 1220_3980
+%mor:	adv|so pron|we-Prs-Nom-P1 aux|can-Fin-S verb|hear-Inf-S pron|you-Prs-Acc-S2 sconj|because pron|I-Prs-Nom-S1 adv|usually aux|can-Fin-S~part|not verb|get-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot verb|write-Part-Past-S-irr adp|down .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|11|MARK 7|11|NSUBJ 8|11|ADVMOD 9|11|AUX 10|11|ADVMOD 11|4|ADVCL 12|11|OBJ 13|12|DET 14|11|XCOMP 15|14|COMPOUND-PRT 16|4|PUNCT
+*PAR:	okay uhhuh . 4432_5502
+%mor:	intj|okay intj|uhhuh .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	+< so ‡ if you tell me what you see . 4533_5933
+%mor:	adv|so punct|‡ sconj|if pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|2|PUNCT
+*PAR:	well ‡ the boy's up on the ladder [: stool] [* s:r] . 6646_8716
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|the-Def-Art noun|stool .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	oh ‡ the stool gonna fall with the cookie jar . [+ gram] 8733_10483
+%mor:	intj|oh punct|‡ det|the-Def-Art noun|stool verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|with det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|5|PUNCT
+*PAR:	and the lid tɪpəld@u [: toppled] [* p:n] over . [+ gram] 10500_12400
+%mor:	cconj|and det|the-Def-Art noun|lid verb|topple-Fin-Ind-Past-S3 adp|over .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	and &-uh what about the young lady ? [+ exc] 13016_15776
+%mor:	cconj|and pron|what-Int-S1 adp|about det|the-Def-Art adj|young-S1 noun|lady ?
+%gra:	1|2|CC 2|0|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|NMOD 7|2|PUNCT
+*PAR:	the little lady she's helpin(g) him get the cookies „ I guess . 15800_19640
+%mor:	det|the-Def-Art adj|little-S1 noun|lady pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|help-Part-Pres-S pron|he-Prs-Acc-S3 verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|13|CCOMP 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBJ 8|6|XCOMP 9|10|DET 10|8|OBJ 11|6|PUNCT 12|13|NSUBJ 13|0|ROOT 14|13|PUNCT
+*PAR:	the momma she's doin(g) the dishes . 19656_22446
+%mor:	det|the-Def-Art noun|momma pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	and <let the> [//] &+s what did she let the &-uh spigot run &=laughs over for on the floor all over the place . 23091_27981
+%mor:	cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr pron|she-Prs-Nom-S3 verb|let-Inf-S det|the-Def-Art noun|spigot-Acc verb|run-Inf-S adp|over adp|for adp|on det|the-Def-Art noun|floor adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|XCOMP 9|8|COMPOUND-PRT 10|13|CASE 11|13|CASE 12|13|DET 13|8|OBL 14|17|ADVMOD 15|17|CASE 16|17|DET 17|8|OBL 18|5|PUNCT
+*PAR:	and [/] &-uh and there's dishes there , plates and cups and saucers . 29749_33399
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur adv|there cm|cm noun|plate-Plur cconj|and noun|cup-Plur cconj|and noun|saucer-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|ADVMOD 6|7|PUNCT 7|4|CONJ 8|9|CC 9|7|CONJ 10|11|CC 11|7|CONJ 12|3|PUNCT
+*PAR:	and what else ? [+ exc] 34951_35581
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	just what's there hon(ey) . [+ exc] 36260_37340
+%mor:	adv|just pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|there-Prs-Gen-S3 noun|honey .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|COP 4|5|NMOD-POSS 5|2|NSUBJ 6|2|PUNCT
+*PAR:	it's a nice yard out there and curtains in the window it looks like . 37511_40511
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|yard adv|out adv|there cconj|and noun|curtain-Plur adp|in det|the-Def-Art noun|window pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|7|ADVMOD 7|5|ADVMOD 8|9|CC 9|14|NSUBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|NSUBJ 14|5|CONJ 15|14|OBL 16|5|PUNCT
+*PAR:	three pieces of (.) to eat on . [+ gram] 42931_45161
+%mor:	num|three noun|piece-Plur adp|of part|to verb|eat-Inf-S adp|on .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|MARK 4|5|MARK 5|2|ACL 6|5|OBL 7|2|PUNCT
+*INV:	pardon me ? 47393_47813
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	I said three pieces of (.) &=laughs to eat on food platter and cups , saucer . [+ gram] [+ exc] 47906_54566
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr num|three noun|piece-Plur-Acc adp|of part|to verb|eat-Inf-S adp|on noun|food noun|platter cconj|and noun|cup-Plur cm|cm noun|saucer .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|MARK 6|7|MARK 7|4|ACL 8|10|CASE 9|10|COMPOUND 10|7|OBL 11|12|CC 12|10|CONJ 13|14|PUNCT 14|10|APPOS 15|2|PUNCT
+*PAR:	I guess that's for the under sink to put things . [+ cir] 55881_59191
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|for det|the-Def-Art adj|under-S1 noun|sink part|to verb|put-Inf-S noun|thing-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|AMOD 8|2|CCOMP 9|10|MARK 10|8|ACL 11|10|OBJ 12|2|PUNCT
+*PAR:	&-hm (.) not much interest <in the> [/] in the housekeeping &=laughs . [+ gram] 61340_66000
+%mor:	part|not adj|much-S1 noun|interest adp|in det|the-Def-Art noun|housekeeping-Ger .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	&=laughs it's about all . [+ exc] 66023_66973
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	that's the curtains . 67020_68520
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|curtain-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*INV:	+< see anything else ? 67965_68855
+%mor:	verb|see-Fin-Imp-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|AMOD 4|1|PUNCT
+*PAR:	the ones are nice , sunny . [+ es] 68902_70142
+%mor:	det|the-Def-Art noun|one-Plur aux|be-Fin-Ind-Pres-P3 adj|nice-S1 cm|cm adj|sunny-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|PUNCT 6|4|CONJ 7|4|PUNCT
+*PAR:	there's one spill the water in there . [+ gram] 71571_73261
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|one noun|spill det|the-Def-Art noun|water adp|in adv|there .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|6|DET 6|4|APPOS 7|8|CASE 8|2|OBL 9|2|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	guess [//] wonder if he <got the> [//] &+cook got a cookie &=laughs . [+ gram] 77166_80416
+%mor:	verb|wonder-Fin-Imp-S sconj|if pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|0|ROOT 2|4|MARK 3|4|NSUBJ 4|1|CCOMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*INV:	&=laughs is that it ? 81770_82170
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	uhhuh . [+ exc] 82189_82229
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

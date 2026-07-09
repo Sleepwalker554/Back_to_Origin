@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002553-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|85;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	212-2, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that you see going on in this picture . 30_4670
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|2|PUNCT
+*INV:	everything that you see happening there . 4903_6803
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+*PAR:	yeah , alright . [+ exc] 6962_7822
+%mor:	intj|yeah cm|cm intj|alright .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*PAR:	the girl is reaching up for a cookie . 9056_10976
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	the youngster's getting the cookie out_of the cupboard . 11876_15136
+%mor:	det|the-Def-Art noun|youngster~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cupboard-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|9|DET 9|4|OBJ 10|4|PUNCT
+*PAR:	the cookie is in the pan [: jar] [* s:r-rep] &-uh [/] pan [: jar] [* s:r] . 15784_18444
+%mor:	det|the-Def-Art noun|cookie aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|jar noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	<the &-uh bench [: stool] [* s:r-ret] or> [//] the stool that he's standin(g) on is falling . 18735_24315
+%mor:	det|the-Def-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|9|NSUBJ 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|3|CASE 8|9|COP 9|0|ROOT 10|9|PUNCT
+*PAR:	the door to the cookie cupboard is open . 25492_29012
+%mor:	det|the-Def-Art noun|door adp|to det|the-Def-Art noun|cookie noun|cupboard aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|8|NSUBJ 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|8|COP 8|0|ROOT 9|8|PUNCT
+*PAR:	the lady is washing dishes . 29033_31353
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she has a dish cloth in her hand . 31400_33910
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish noun|cloth-Acc adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|8|CASE 7|8|NMOD-POSS 8|2|OBL 9|2|PUNCT
+*PAR:	the &-uh sink is runnin(g) over . 34770_36580
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the spigot is &-um not shut off . 36600_39960
+%mor:	det|the-Def-Art noun|spigot aux|be-Fin-Ind-Pres-S3 part|not verb|shut-Part-Past-S-irr adp|off .
+%gra:	1|2|DET 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	there's two handles and neither one is shut off . 40171_43211
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|handle-Plur cconj|and det|neither-Def-Neg noun|one aux|be-Fin-Ind-Pres-S3 verb|shut-Part-Past-S-irr adp|off .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|9|CC 6|7|DET 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|2|CONJ 10|9|COMPOUND-PRT 11|2|PUNCT
+*PAR:	there's [//] &-um and it's fallin(g) on the floor . 43695_46485
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	the [//] there's two cups and a dish <on the table [: countertop] [* s:r-ret]> [//] on the &-uh top [: countertop] [* s:r-ret] [//] cabinettops [: countertops] [* s:r] . 47703_57183
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|countertop-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*PAR:	there's curtains . 60839_61799
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|curtain-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|PUNCT
+*PAR:	there's &-uh two windows . 62456_64635
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|window-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|2|PUNCT
+*PAR:	at least there's a window with two &-uh panes showing , partial the others . 65685_71175
+%mor:	adp|at adj|least-Sup-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window adp|with num|two noun|pane-Plur verb|show-Ger-S cm|cm adj|partial-S1 det|the-Def-Art noun|other-Plur .
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|NUMMOD 9|6|NMOD 10|9|ACL 11|12|PUNCT 12|10|CONJ 13|14|DET 14|12|NSUBJ 15|4|PUNCT
+*PAR:	and it looks like a scenery outside like a [/] a walk and some bushes and things . 71804_77774
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|scenery adv|outside adp|like det|a-Ind-Art noun|walk cconj|and det|some-Def-Ind noun|bush-Plur cconj|and noun|thing-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|NMOD 11|13|CC 12|13|DET 13|10|CONJ 14|15|CC 15|13|CONJ 16|3|PUNCT
+*PAR:	and some bushes in front of the [//] (.) some kind of a building . [+ gram] 78848_83448
+%mor:	cconj|and det|some-Def-Ind noun|bush-Plur adp|in noun|front adp|of det|some-Def-Ind noun|kind adp|of det|a-Ind-Art noun|building-Ger .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|CASE 5|3|NMOD 6|8|CASE 7|8|DET 8|5|NMOD 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR:	she has on an apron , (.) shoes . 85797_88927
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|apron cm|cm noun|shoe-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|PUNCT 7|5|APPOS 8|2|PUNCT
+*PAR:	and <the child> [//] the young girl has shoes and stockings on and the boy has stockings on and shoes . 89397_95247
+%mor:	cconj|and det|the-Def-Art adj|young-S1 noun|girl verb|have-Fin-Ind-Pres-S3 noun|shoe-Plur-Acc cconj|and noun|stocking-Plur adp|on cconj|and det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 noun|stocking-Plur-Acc adp|on cconj|and noun|shoe-Plur .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|CC 8|6|CONJ 9|5|ADVMOD 10|13|CC 11|12|DET 12|13|NSUBJ 13|5|CONJ 14|13|OBJ 15|13|ADVMOD 16|17|CC 17|15|CONJ 18|5|PUNCT
+*PAR:	and &-uh (.) the cabinet has two [/] two three four five doors to it . 96265_105755
+%mor:	cconj|and det|the-Def-Art noun|cabinet verb|have-Fin-Ind-Pres-S3 num|two num|three num|four num|five noun|door-Plur-Acc adp|to pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|9|NUMMOD 6|9|NUMMOD 7|9|NUMMOD 8|9|NUMMOD 9|4|OBJ 10|11|CASE 11|4|OBL 12|4|PUNCT
+*INV:	okay good . 105950_106850
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	thanks . 106873_107513
+%mor:	noun|thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

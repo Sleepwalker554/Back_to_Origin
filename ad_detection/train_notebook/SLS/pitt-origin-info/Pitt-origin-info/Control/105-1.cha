@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002252-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|Control||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	105-1, audio
+@G:	Cookie
+*INV:	take a look at this picture and tell me everything that you see going on in that picture . 400_5010
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|14|COMPOUND-PRT 16|18|CASE 17|18|DET 18|14|OBL 19|1|PUNCT
+*INV:	tell me everything that you see happening there . 5199_6839
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|ADVMOD 9|1|PUNCT
+*PAR:	okay . [+ exc] 10135_10245
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well the mother is drying the dishes . 10322_13622
+%mor:	intj|well det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	the sink is overflowing . 13948_17358
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um the little girl's reaching for a cookie . 19348_23248
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and her brother's taking cookies out_of the cookie jar . 24112_26802
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|brother~part|s verb|take-Ger-S noun|cookie-Plur verb|outaof-Fin-Ind-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|7|CC 2|3|NMOD-POSS 3|6|NMOD-POSS 4|3|CASE 5|6|AMOD 6|7|NSUBJ 7|0|ROOT 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|7|PUNCT
+*PAR:	and the stool is going to &+f knock him on the floor &=laughs . 27675_30895
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|knock-Inf-S pron|he-Prs-Acc-S3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|5|PUNCT
+*PAR:	he's going to fall on the floor because the stool's not &-uh what +/. 31453_36323
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|on det|the-Def-Art noun|floor sconj|because det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 part|not pron|what-Int-S1 +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|14|MARK 10|11|DET 11|14|NSUBJ 12|14|COP 13|14|ADVMOD 14|3|ADVCL 15|3|PUNCT
+*INV:	mhm . 36342_37162
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+, with gravity . [+ exc] 38042_38712
+%mor:	adp|with noun|gravity .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*PAR:	whatever . [+ exc] 39378_40378
+%mor:	pron|whatever-Int-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ? 41076_41836
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	&-uh the &-uh curtains are blowing „ I think . 42077_46917
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S punct|„ pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|4|PUNCT
+*INV:	and that's everything ? 52398_53478
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	that's all I can see . [+ exc] 53575_54075
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+@End

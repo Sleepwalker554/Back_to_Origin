@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002188-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;00.|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	013-4, audio
+@G:	Cookie
+*INV:	okay take a look at this picture here . 600_2780
+%mor:	intj|okay verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|ADVMOD 9|2|PUNCT
+*INV:	tell me everything that you see going on . 2885_4905
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|1|PUNCT
+*INV:	everything that you see happening in that picture . 4921_7621
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+*PAR:	the little girl's sayin(g) +"/. 8747_9727
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|saying-Part-Pres-S +"/.
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	+" don't tell my mother . 9870_10770
+%mor:	aux|do-Fin-Imp-S~part|not verb|tell-Fin-Imp-S pron|my-Prs-Gen-S1 noun|mother-Acc .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*PAR:	she's reaching for a cookie . 11037_12397
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the boy's getting cookies out o(f) the cookie jar . 12593_14943
+%mor:	det|the-Def-Art noun|boy~part|s verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|4|OBJ 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|4|PUNCT
+*PAR:	the lid fell off the cookie jar . 15431_17261
+%mor:	det|the-Def-Art noun|lid verb|fall-Fin-Ind-Past-S3-irr adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	the stool's ready to fall . 17734_19504
+%mor:	det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	it's slanted . 20540_21290
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|slant-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|AUX-PASS 3|0|ROOT 4|3|PUNCT
+*PAR:	the lady's drying dishes . 22661_24351
+%mor:	det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	water's running out_of the sink . 24446_25886
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 noun|running-Ger noun|outof det|the-Def-Art noun|sink .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|0|ROOT 5|6|DET 6|4|APPOS 7|4|PUNCT
+*PAR:	faucets are running . 26103_27323
+%mor:	noun|faucet-Plur aux|be-Fin-Ind-Pres-P3 verb|run-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	&-um dishes are sitting on the counter . 28306_30666
+%mor:	noun|dish-Plur aux|be-Fin-Ind-Pres-P3 verb|sit-Part-Pres-S adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the window's open . 31708_32868
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	water's goin(g) on the floor . 34812_36212
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the lady has her back to the kids . 39490_41240
+%mor:	det|the-Def-Art noun|lady verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art noun|kid-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR:	looks like the drapes are blowin(g) in the wind . 44692_46492
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|drape-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S adp|in det|the-Def-Art noun|wind .
+%gra:	1|0|ROOT 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+*PAR:	that's about all there is isn't it ? 46537_52597
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|there-Dem-S1 verb|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|6|NSUBJ-OUTER 2|6|COP 3|6|ADVMOD 4|6|ADVMOD 5|6|EXPL 6|0|ROOT 7|6|COP 8|6|ADVMOD 9|6|NSUBJ 10|6|PUNCT
+@End

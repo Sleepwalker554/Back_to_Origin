@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002378-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|54;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	274-0, audio
+@G:	Cookie
+*INV:	okay I just want you to tell me what you see going on in that picture ? 285_3755
+%mor:	intj|okay pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|11|XCOMP 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|4|PUNCT
+*PAR:	well the water's running over . 3918_5278
+%mor:	intj|well det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	<the stool is> [//] and the boy's gonna fall off the stool . 5915_8995
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*PAR:	the girl is saying +"/. 10292_11032
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S +"/.
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	+" give me one or I will tell . 11150_12590
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 num|one cconj|or pron|I-Prs-Nom-S1 aux|will-Fin-S verb|tell-Inf-S .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|CC 5|7|NSUBJ 6|7|AUX 7|1|CONJ 8|1|PUNCT
+*PAR:	and the boy is taking the second one out_of the cookie jar . 12982_15632
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|the-Def-Art adj|second-S1 noun|one-Acc adv|outof det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|ADVMOD 10|12|DET 11|12|COMPOUND 12|5|OBJ 13|5|PUNCT
+*PAR:	the lid's gonna fall off . 15677_16757
+%mor:	det|the-Def-Art noun|lid~part|s verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+*PAR:	the mother's drying the dishes . 16811_19271
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	(.) the &-um window is open . 20922_24312
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	(..) she's standing in the water . 27265_28415
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	she's drying the dishes . 30788_32348
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	(...) anything else ? 45181_45691
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	wait &+w you want what's in the picture or what's going on ? [+ exc] 45932_47832
+%mor:	verb|wait-Fin-Imp-S pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|picture cconj|or pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|OBJ 5|8|COP 6|8|CASE 7|8|DET 8|4|ACL-RELCL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|8|CONJ 13|12|COMPOUND-PRT 14|1|PUNCT
+*PAR:	I thought you said what's going on ? [+ exc] 47877_48907
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|COMPOUND-PRT 9|2|PUNCT
+*INV:	just what was going on . 49150_50280
+%mor:	adv|just pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|on .
+%gra:	1|2|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	+< okay ‡ actio(n) [//] so ‡ it's got to be action . [+ exc] 49900_51490
+%mor:	intj|okay punct|‡ adv|so punct|‡ pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr part|to aux|be-Inf-S noun|action .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|DISCOURSE 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|10|MARK 9|10|COP 10|7|XCOMP 11|7|PUNCT
+*PAR:	&-um that's all . [+ exc] 52680_54870
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 55110_55680
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/t-00002566-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;00.|male|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	221-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	little girl is reaching up for some cookies . 370_3290
+%mor:	adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|some-Def-Ind noun|cookie-Plur .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	and it appears that she may be telling her brother to be quiet . 3786_8996
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|appear-Fin-Ind-Pres-S3 sconj|that pron|she-Prs-Nom-S3 aux|may-Fin-S aux|be-Inf-S verb|tell-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|AUX 7|8|AUX 8|3|CSUBJ 9|10|NMOD-POSS 10|8|IOBJ 11|13|MARK 12|13|COP 13|8|XCOMP 14|3|PUNCT
+*PAR:	they may be &-uh taking them while the mother is abstracted [: distracted] [* s:r] there at the window . 9204_15974
+%mor:	pron|they-Prs-Nom-P3 aux|may-Fin-S aux|be-Inf-S verb|take-Part-Pres-S pron|they-Prs-Acc-P3 sconj|while det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|distract-Part-Past-S adv|there adp|at det|the-Def-Art noun|window .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|MARK 7|8|DET 8|10|NSUBJ-PASS 9|10|AUX-PASS 10|4|ADVCL 11|10|ADVMOD 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	yeah ‡ she is abstracted [: distracted] [* s:r] . 16167_17517
+%mor:	intj|yeah punct|‡ pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|distract-Part-Past-S .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|PUNCT
+*PAR:	she doesn't even know the sink &+s is overflowing . 17538_20528
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not adv|even verb|know-Inf-S det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|9|NSUBJ 8|9|COP 9|5|CCOMP 10|5|PUNCT
+*PAR:	the boy getting the cookies from the cookie jar in his haste has (.) tipped over the lid of the cookie jar and also has caused the stool to slip over backwards so that he will very shortly be <on the ground> [//] on the floor rather . 21436_48446
+%mor:	det|the-Def-Art noun|boy verb|get-Ger-S det|the-Def-Art noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar adp|in pron|his-Prs-Gen-S3 noun|haste aux|have-Fin-Ind-Pres-S3 verb|tip-Part-Past-S adp|over det|the-Def-Art noun|lid adp|of det|the-Def-Art noun|cookie noun|jar cconj|and adv|also aux|have-Fin-Ind-Pres-S3 verb|cause-Part-Past-S det|the-Def-Art noun|stool-Acc part|to verb|slip-Inf-S adp|over adv|backwards sconj|so sconj|that pron|he-Prs-Nom-S3 aux|will-Fin-S adv|very adv|shortly aux|be-Inf-S adp|on det|the-Def-Art noun|floor adv|rather .
+%gra:	1|2|DET 2|14|NSUBJ 3|2|ACL 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|14|AUX 14|0|ROOT 15|17|CASE 16|17|DET 17|14|OBL 18|21|CASE 19|21|DET 20|21|COMPOUND 21|17|NMOD 22|25|CC 23|25|ADVMOD 24|25|AUX 25|14|CONJ 26|27|DET 27|25|OBJ 28|29|MARK 29|25|XCOMP 30|29|COMPOUND-PRT 31|29|ADVMOD 32|41|MARK 33|32|FIXED 34|41|NSUBJ 35|41|AUX 36|41|ADVMOD 37|41|ADVMOD 38|41|COP 39|41|CASE 40|41|DET 41|29|ADVCL 42|41|ADVMOD 43|14|PUNCT
+*PAR:	and &-uh the mother's still daydreaming . 49844_52674
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adv|still verb|daydream-Part-Pres-S .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	and the sink's still overflowing . 52696_54556
+%mor:	cconj|and det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 adv|still verb|overflow-Part-Pres-S .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	and she's looking out at the garden and a tree . 54579_58979
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out adp|at det|the-Def-Art noun|garden cconj|and det|a-Ind-Art noun|tree .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|11|CC 10|11|DET 11|8|CONJ 12|4|PUNCT
+*PAR:	and she has a towel in her hand . 58999_62509
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|towel-Acc adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*PAR:	and <she still has a &+s no> [//] she's probably dried a few dishes . 62528_69748
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably verb|dry-Part-Past-S det|a-Ind-Art adj|few-S1 noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+*PAR:	well that's about it for me +/. [+ exc] 71504_72914
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 +/.
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*INV:	+< okay good . 72756_73286
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

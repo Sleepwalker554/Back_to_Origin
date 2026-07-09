@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/t-00002456-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	046-0, audio
+@G:	Cookie
+*INV:	there it is . 320_1410
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	go [/] &=clears throat go ? [+ exc] 2236_4426
+%mor:	noun|throat verb|go-Fin-Imp-S ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	go ? 5312_5572
+%mor:	verb|go-Fin-Imp-S ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 5709_6029
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mother is washin(g) dishes . 7202_8952
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the kids are lookin(g) for cookies . 9239_11119
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	the little girl's cryin(g) (be)cause he ain't givin(g) her no cookies . 11172_15612
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~part|s verb|cry-Part-Pres-S sconj|because pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|give-Part-Pres-S pron|her-Prs-Acc-S3 det|no-Def-Neg noun|cookie-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ADVCL 11|10|IOBJ 12|13|DET 13|10|OBJ 14|5|PUNCT
+*PAR:	and he gets the cookies down . 17137_20697
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 det|the-Def-Art noun|cookie-Plur-Acc adp|down .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*PAR:	and the mother's broke a plate . 21430_23820
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s verb|break-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|plate-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	fell down . [+ gram] 25170_25890
+%mor:	verb|fall-Fin-Ind-Past-S1-irr adp|down .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*PAR:	xxx just on this page ? [+ exc] 28415_29245
+%mor:	adv|just adp|on det|this-Def-Dem-Sing noun|page ?
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*INV:	<on the> [//] &+ha yes just that one page . 29798_31278
+%mor:	intj|yes adv|just det|that-Def-Dem-Sing num|one noun|page .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|DET 4|5|NUMMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	that's it . [+ exc] 32928_33368
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 37325_37675
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs . [+ exc]
+*INV:	what's happening here ? 38490_39250
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	she broke [/] broke a plate or somethin(g) . 41106_43106
+%mor:	pron|she-Prs-Nom-S3 verb|break-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|plate-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|4|CONJ 7|2|PUNCT
+*PAR:	went down the wrong way down there . [+ gram] 43650_45200
+%mor:	verb|go-Fin-Ind-Past-S1-irr adp|down det|the-Def-Art adj|wrong-S1 noun|way adp|down adv|there .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|DET 4|5|AMOD 5|1|OBL 6|7|CASE 7|1|OBL 8|1|PUNCT
+*INV:	okay . 45123_45343
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx just gettin(g) the water run over . 49050_50880
+%mor:	adv|just verb|get-Part-Pres-S det|the-Def-Art noun|water noun|run-Acc adp|over .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|COMPOUND-PRT 7|2|PUNCT
+*PAR:	she let the water run too fast . 53747_56517
+%mor:	pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|water-Acc verb|run-Inf-S adv|too adv|fast .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|7|ADVMOD 7|5|ADVMOD 8|2|PUNCT
+*PAR:	&=laughs . [+ exc]
+*INV:	+< okay . 60193_60443
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 60623_60973
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

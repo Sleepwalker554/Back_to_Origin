@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/t-00002521-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|85;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	157-2, audio
+@Comment:	previously transcribed as visit 2 but corresponds to audio visit 1 so media renamed to match transcript
+@Comment:	visit2 , 9/15/86
+@G:	Cookie
+*PAR:	kid tryin(g) to get into the cookie jar . [+ gram] 680_2590
+%mor:	noun|kid verb|try-Part-Pres-S part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|2|PUNCT
+*PAR:	and he missed the thing . [+ es] 2644_3724
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|miss-Fin-Ind-Past-S3 det|the-Def-Art noun|thing-Acc-Ger .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and he still isn't goin(g) out for (th)em . [+ es] 3740_5530
+%mor:	cconj|and pron|he-Prs-Nom-S3 adv|still aux|be-Fin-Ind-Pres-S3~part|not verb|go-Part-Pres-S adp|out adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|ADVMOD 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|6|PUNCT
+*PAR:	and his sister whoever it is has [/] has caught him at it . 5586_8656
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister pron|whoever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 aux|have-Fin-Ind-Pres-S3 verb|catch-Part-Past-S-irr pron|he-Prs-Acc-S3 adp|at pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NMOD-POSS 3|0|ROOT 4|8|OBJ 5|8|NSUBJ 6|8|AUX 7|8|AUX 8|3|ACL-RELCL 9|8|OBJ 10|11|CASE 11|8|OBL 12|3|PUNCT
+*PAR:	and he's gonna hafta do the dishes because his mother &-uh can't let him go scot-free . 8678_14318
+%mor:	cconj|and noun|he-Plur part|go part|hafta verb|do-Inf-S det|the-Def-Art noun|dish-Plur-Acc sconj|because pron|his-Prs-Gen-S3 noun|mother aux|cant-Fin-S verb|let-Inf-S pron|he-Prs-Acc-S3 verb|go-Inf-S adj|scot–free-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|10|NMOD-POSS 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|12|OBJ 14|12|XCOMP 15|14|XCOMP 16|5|PUNCT
+*PAR:	and of_course the water's (.) pouring out_of the sink onto the floor already . 14882_20952
+%mor:	cconj|and verb|ofcourse-Fin-Imp-S det|the-Def-Art noun|water~part|s verb|pour-Part-Pres-S noun|outof-Acc det|the-Def-Art noun|sink-Acc adp|onto det|the-Def-Art noun|floor adv|already .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|7|NMOD-POSS 5|4|CASE 6|7|AMOD 7|2|OBJ 8|9|DET 9|2|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|2|ADVMOD 14|2|PUNCT
+*PAR:	she didn't even take the plug out . 21000_22910
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not adv|even verb|take-Inf-S det|the-Def-Art noun|plug-Acc adp|out .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|5|PUNCT
+*INV:	okay anything else ? 24509_25669
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	well there's [/] &-uh there's other colors [* s:uk] here . [+ jar] 27125_29455
+%mor:	intj|well pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|other-S1 noun|color-Plur adv|here .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|AMOD 5|3|NSUBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	and , (i)t isn't the first time this man [: boy] [* s:r] has done this . 29509_32789
+%mor:	cconj|and cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not det|the-Def-Art adj|first-S1 noun|time det|this-Def-Dem-Sing noun|boy aux|have-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr pron|this-Dem-S1 .
+%gra:	1|8|CC 2|1|PUNCT 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|DET 7|8|AMOD 8|0|ROOT 9|10|DET 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|12|OBJ 14|8|PUNCT
+*PAR:	he been doin(g) it all his life but his mother didn't find out (un)til she [: he] [* s:r] was big enough to walk . 32866_38516
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S-irr verb|do-Part-Pres-S pron|it-Prs-Acc-S3 det|all-Def-Tot pron|his-Prs-Gen-S3 noun|life cconj|but pron|his-Prs-Gen-S3 noun|mother aux|do-Fin-Ind-Past-S3-irr~part|not verb|find-Inf-S adp|out sconj|until pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|big-S1 adv|enough part|to verb|walk-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|DET-PREDET 6|7|NMOD-POSS 7|3|OBL-UNMARKED 8|13|CC 9|10|NMOD-POSS 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|3|CONJ 14|13|COMPOUND-PRT 15|18|MARK 16|18|NSUBJ 17|18|COP 18|13|ADVCL 19|18|ADVMOD 20|21|MARK 21|18|ADVCL 22|3|PUNCT
+*INV:	okay . 38906_39566
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

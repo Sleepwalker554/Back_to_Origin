@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002621-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	339-0, audio
+@G:	Cookie
+*PAR:	well the kid is it fallin(g) off the stool &=laughs . 500_3440
+%mor:	intj|well det|the-Def-Art noun|kid aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|6|DISCOURSE 2|3|DET 3|6|NSUBJ-OUTER 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	and he's [/] he's +... 3912_6022
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and [/] and [/] and the mother's <washin(g) dishes> [//] &-uh dryin(g) dishes . 6630_9740
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the [/] &+s the sink is spillin(g) over . 9792_11692
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	(.) and &-uh what else ? [+ exc] 15226_18076
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	(..) and the floor's gettin(g) wet . 20594_23884
+%mor:	cconj|and det|the-Def-Art noun|floor~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|wet-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|5|PUNCT
+*PAR:	(..) what else is new ? [+ exc] 27677_28607
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 adj|new-S1 ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	anything else going on in the picture ? 29406_31276
+%mor:	pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+*PAR:	+< and the [/] the kid +... 30650_31270
+%mor:	cconj|and det|the-Def-Art noun|kid +...
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	well the [/] &+k &-uh the kid is stealin(g) the cookies . 32460_38010
+%mor:	intj|well det|the-Def-Art noun|kid aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and <he's fallin(g) off yeah> [//] he's fallin(g) off the stool . 39952_42332
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	what else ? [+ exc] 43181_43691
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	there isn't much else left . [+ exc] 47606_49116
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3~part|not adv|much adj|else-S1 verb|leave-Part-Past-S-irr .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|4|ADVMOD 6|2|ADVCL 7|2|PUNCT
+*INV:	okay . 49659_49849
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's fine . 49954_50994
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

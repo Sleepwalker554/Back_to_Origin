@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002664-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	492-0, audio
+@G:	Cookie
+*INV:	what I'm gonna do now is I'm gonna show you a picture . 0_3460
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|do-Inf-S adv|now aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|11|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|11|COP 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|13|MARK 13|11|XCOMP 14|13|IOBJ 15|16|DET 16|13|OBJ 17|11|PUNCT
+*INV:	now in the picture there are some things going on , there's some action taking place . 4545_8935
+%mor:	adv|now adp|in det|the-Def-Art noun|picture pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|thing-Plur verb|go-Ger-S adp|on cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|action verb|take-Ger-S noun|place-Acc .
+%gra:	1|6|ADVMOD 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|9|COMPOUND-PRT 11|13|PUNCT 12|13|EXPL 13|6|PARATAXIS 14|15|DET 15|13|NSUBJ 16|15|ACL 17|16|OBJ 18|6|PUNCT
+*INV:	what I want you to do is look at the picture and tell me anything at all that you see going on . 9309_14219
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 adp|at det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|8|CONJ 14|13|IOBJ 15|13|OBJ 16|17|CASE 17|15|NMOD 18|21|OBJ 19|20|NSUBJ 20|15|ACL-RELCL 21|20|XCOMP 22|21|COMPOUND-PRT 23|8|PUNCT
+*INV:	can you tell me anything that you see going on in the picture ? 24203_26543
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|9|OBJ 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|3|PUNCT
+*PAR:	oh yes quite a_lot . [+ exc] 26776_28126
+%mor:	intj|oh intj|yes adv|quite intj|alot .
+%gra:	1|2|DISCOURSE 2|4|DISCOURSE 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	okay go ahead . 28174_29144
+%mor:	intj|okay verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	the kid's tryin(g) to get the &-uh cookie jar down . 29612_32582
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc adp|down .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|COMPOUND-PRT 11|4|PUNCT
+*PAR:	and he's gonna fall down off the ladder or the stool whatever it is . 32604_37134
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adv|down adp|off det|the-Def-Art noun|ladder cconj|or det|the-Def-Art noun|stool pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|13|CC 12|13|DET 13|10|CONJ 14|13|ACL-RELCL 15|16|NSUBJ 16|14|ACL-RELCL 17|4|PUNCT
+*PAR:	and she's tryin(g) to get it &+f &+o out_of his hand . 38285_41305
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S pron|it-Prs-Acc-S3 adp|outof pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|10|CASE 9|10|NMOD-POSS 10|6|OBL 11|4|PUNCT
+*PAR:	and she's got little &+so &+s &-uh socks on . 41923_43663
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adj|little-S1 noun|sock-Plur-Acc adp|on .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*PAR:	and the mother is drying the dishes . 46197_48867
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the water's sloppin(g) all over the floor . 48888_51698
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|slop-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|9|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	and there is a garden outside it looks like . 53284_56054
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|garden adp|outside pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|3|PARATAXIS 9|8|OBL 10|3|PUNCT
+*PAR:	and there's drapes <or &-uh not drapes> [//] whatever you call them that's &+o over the window . 57688_64227
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|drape-Plur pron|whatever-Rel-S1 pron|you-Prs-Nom-S2 verb|call-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adp|over det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|OBJ 9|13|NSUBJ 10|13|COP 11|13|CASE 12|13|DET 13|5|ACL-RELCL 14|3|PUNCT
+*PAR:	and there's dishes over here . 65781_68551
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur adp|over adv|here .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*PAR:	and this looks like cabinets where the water is flowing over . 71133_75573
+%mor:	cconj|and pron|this-Dem-S1 verb|look-Fin-Ind-Pres-S3 adp|like noun|cabinet-Plur adv|where det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adv|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|10|ADVMOD 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|ACL-RELCL 11|10|ADVMOD 12|3|PUNCT
+*PAR:	and somebody's gonna fall down off <that ladder [: stool] [* s:r-ret] or> [//] that &+su stool or whatever it is . 75592_83242
+%mor:	cconj|and pron|somebody-Ind-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adv|down adp|off det|that-Def-Dem-Sing noun|stool cconj|or pron|whatever-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|12|CC 12|6|CONJ 13|14|NSUBJ 14|12|ACL-RELCL 15|4|PUNCT
+*PAR:	and the little girl has little shoes and socks on . 84518_88478
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 adj|little-S1 noun|shoe-Plur-Acc cconj|and noun|sock-Plur adp|on .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|9|CC 9|7|CONJ 10|5|ADVMOD 11|5|PUNCT
+*INV:	okay good . 90909_91689
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

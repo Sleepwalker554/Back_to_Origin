@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00002441-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|52;|male|Memory||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:52-04:00]
+@Media:	024-2, audio
+@G:	Cookie
+*INV:	okay all of the action . 350_2300
+%mor:	intj|okay det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	okay . [+ exc] 5096_5646
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh we see a [/] &-uh a &+b little boy climbed up on a stool reaching for the cookie jar . 5740_13430
+%mor:	pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Pres-P1 det|a-Ind-Art adj|little-S1 noun|boy verb|climb-Fin-Ind-Past-S3 adp|up adp|on det|a-Ind-Art noun|stool verb|reach-Ger-S adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|2|CCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|10|ACL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|OBL 16|2|PUNCT
+*PAR:	and &-uh the stool <is about to or> [//] is falling . 15273_20083
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh he is trying to get a cookie for himself and also one for his sister . 22745_35815
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc adp|for pron|himself-Prs-Acc-reflx-S3 cconj|and adv|also num|one adp|for pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|12|CC 11|12|ADVMOD 12|7|CONJ 13|15|CASE 14|15|NMOD-POSS 15|12|NMOD 16|3|PUNCT
+*PAR:	&-uh his sister is telling him to be very quiet . 39936_42866
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adv|very adj|quiet-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|9|MARK 7|9|COP 8|9|ADVMOD 9|4|XCOMP 10|4|PUNCT
+*PAR:	she's goin(g) shh@o . 42885_44025
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S on|shh .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	can't write that down . [+ exc] 45858_46578
+%mor:	aux|can-Fin-S~part|not verb|write-Fin-Imp-S pron|that-Dem adp|down .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*PAR:	telling him to be quiet . [+ gram] 47057_47957
+%mor:	verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|MARK 4|5|COP 5|1|XCOMP 6|1|PUNCT
+*PAR:	and &-uh let's see . [+ exc] 48731_50481
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	in the meantime &-uh the mother is <washing the dishes or yes> [//] washing dishes and the sink has &-uh overflowed and &-uh is pouring water on the floor . 50500_66880
+%mor:	adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|sink aux|have-Fin-Ind-Pres-S3 verb|overflow-Part-Past-S cconj|and aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|7|CONJ 14|16|CC 15|16|AUX 16|13|CONJ 17|16|OBJ 18|20|CASE 19|20|DET 20|16|OBL 21|7|PUNCT
+*PAR:	(..) I don't think I see anything else . [+ exc] 78936_80446
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|OBJ 8|7|AMOD 9|4|PUNCT
+*INV:	+< well good , that's about all there is to see . 80119_82199
+%mor:	intj|well adj|good-S1 cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 part|to verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|7|PUNCT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|2|PARATAXIS 8|9|EXPL 9|7|ACL-RELCL 10|11|MARK 11|9|XCOMP 12|2|PUNCT
+*PAR:	okay . [+ exc] 83039_83129
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

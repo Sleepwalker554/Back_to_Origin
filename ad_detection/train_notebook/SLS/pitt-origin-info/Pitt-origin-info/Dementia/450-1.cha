@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/t-00002650-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	450-1, audio
+@G:	Cookie
+*INV:	look at this picture here . 360_1410
+%mor:	verb|look-Fin-Imp-S adp|at det|this-Def-Dem-Sing noun|picture adv|here .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|ADVMOD 6|1|PUNCT
+*INV:	I'd like you to look at this picture and tell me everything that you see happening in the picture . 2103_6353
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|11|CC 11|3|CONJ 12|11|IOBJ 13|11|OBJ 14|17|OBJ 15|16|NSUBJ 16|13|ACL-RELCL 17|16|XCOMP 18|20|CASE 19|20|DET 20|17|OBL 21|3|PUNCT
+*PAR:	&-hm . [+ exc] 6733_7063
+*INV:	everything that you see going on . 11152_12642
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+*PAR:	well ‡ a little boy is &-uh stealin(g) &-uh cookies out_of the cookie jar and givin(g) some to his sister . 13538_19768
+%mor:	intj|well punct|‡ det|a-Ind-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar cconj|and verb|give-Part-Pres-S det|some-Def-Ind adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|14|CC 14|7|CONJ 15|14|OBJ 16|18|CASE 17|18|NMOD-POSS 18|14|OBL 19|7|PUNCT
+*PAR:	and his stool was startin(g) to fall . 20419_22559
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Past-S3-irr verb|start-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR:	so ‡ he's gonna fall . 22579_23679
+%mor:	adv|so punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*INV:	mhm . 24816_25236
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the &+g lady's &-uh dryin(g) the dishes . 27023_29793
+%mor:	cconj|and det|the-Def-Art noun|lady~part|s verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and her sink's &-uh runnin(g) over . 30894_32564
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|sink~part|s verb|run-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	(su)spect it's runnin(g) and she didn't turn it off . 33421_35821
+%mor:	verb|suspect-Fin-Imp-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|turn-Inf-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|9|CC 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|1|CONJ 10|9|OBJ 11|9|COMPOUND-PRT 12|1|PUNCT
+*PAR:	and it's runnin(g) over on the floor . [+ gram] 35896_37486
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	&=laughs she's dryin(g) dishes (.) and watchin(g) out the window at the same time . 41690_49850
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|watch-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc adp|at det|the-Def-Art adj|same-S1 noun|time .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|13|CASE 11|13|DET 12|13|AMOD 13|6|OBL 14|3|PUNCT
+*INV:	(.) okay . 60835_61235
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

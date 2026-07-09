@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002312-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	150-1, audio
+@G:	Cookie
+*INV:	okay what action do you see going on in this picture ? 1670_4710
+%mor:	intj|okay det|what-Def-Int noun|action-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|6|DISCOURSE 2|3|DET 3|7|OBJ 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|6|PUNCT
+*PAR:	you mean starting from say left to right or whatever ? [+ exc] 5454_8064
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 verb|start-Ger-S adp|from verb|say-Inf-S adj|left-S1 adp|to adj|right-S1 cconj|or pron|whatever-Int-S1 ?
+%gra:	1|2|NSUBJ 2|3|PARATAXIS 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|10|CC 10|8|CONJ 11|3|PUNCT
+*INV:	how ever you like . 8186_8907
+%mor:	adv|how adv|ever pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&-uh the brother or the boy is reaching into the cookie jar . 9251_14471
+%mor:	det|the-Def-Art noun|brother cconj|or det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|0|ROOT 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|7|PUNCT
+*PAR:	and the sister could be laughing or cautioning him . 14489_19709
+%mor:	cconj|and det|the-Def-Art noun|sister aux|could-Fin-S aux|be-Inf-S verb|laugh-Part-Pres-S cconj|or verb|caution-Part-Pres-S pron|he-Prs-Acc-S3 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|8|CC 8|6|CONJ 9|8|OBJ 10|6|PUNCT
+*PAR:	and the stool is &-uh tipping over . 19759_22729
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	and &-uh old mom is &-uh standing in a puddle &-uh washing [//] drying dishes . 23617_29247
+%mor:	cconj|and adj|old-S1 noun|mom aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|5|CC 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|10|CASE 7|10|DET 8|9|COMPOUND 9|10|AMOD 10|5|OBL 11|5|PUNCT
+*PAR:	and the sink is overflowing . 29800_31410
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh the perspective was [//] means the &-uh path is coming right in the house . 32359_38139
+%mor:	cconj|and det|the-Def-Art noun|perspective verb|mean-Fin-Ind-Pres-S3 det|the-Def-Art noun|path aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adv|right adp|in det|the-Def-Art noun|house .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|4|PUNCT
+*PAR:	and &-uh what else do you want ? [+ exc] 38921_41321
+%mor:	cconj|and pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|6|CC 2|6|OBJ 3|2|ADVMOD 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|6|PUNCT
+*INV:	any action that you see . 43975_45305
+%mor:	det|any-Def-Ind noun|action pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|2|DET 2|0|ROOT 3|5|OBJ 4|5|NSUBJ 5|2|ACL-RELCL 6|2|PUNCT
+*PAR:	well the mom is drying the dishes . 46542_50222
+%mor:	intj|well det|the-Def-Art noun|mom aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	she's getting her feet wet . 50291_51391
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*PAR:	and the sister's reaching for the cookie that's in the brother's hand or the kid's hand . 52098_59038
+%mor:	cconj|and det|the-Def-Art noun|sister~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|brother~part|s noun|hand cconj|or det|the-Def-Art noun|kid~part|s noun|hand .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|15|NSUBJ 10|15|COP 11|15|CASE 12|13|DET 13|15|NMOD-POSS 14|13|CASE 15|8|ACL-RELCL 16|20|CC 17|18|DET 18|20|NMOD-POSS 19|18|CASE 20|15|CONJ 21|5|PUNCT
+*INV:	okay is that it ? 59679_61499
+%mor:	intj|okay aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|DISCOURSE 2|3|COP 3|0|ROOT 4|3|PUNCT 5|3|PUNCT
+*PAR:	yep . [+ exc] 61853_62093
+%mor:	intj|yep .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

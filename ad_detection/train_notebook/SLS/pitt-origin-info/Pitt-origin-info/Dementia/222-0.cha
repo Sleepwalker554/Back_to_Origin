@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002568-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|61;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	222-0, audio
+@G:	Cookie
+*INV:	what I want you to do is to tell me all of the action that you see going on in this picture . 260_4280
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|9|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|COP 8|9|MARK 9|0|ROOT 10|9|IOBJ 11|9|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|18|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|17|XCOMP 19|18|COMPOUND-PRT 20|22|CASE 21|22|DET 22|18|OBL 23|9|PUNCT
+*PAR:	well ‡ this &-uh (.) lady is <taking care of her> [//] &-um (.) washing a_lot of stuff . 7412_19252
+%mor:	intj|well punct|‡ det|this-Def-Dem-Sing noun|lady aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|alot-Acc adp|of noun|stuff .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|9|CASE 9|7|NMOD 10|6|PUNCT
+*PAR:	but the water is goin(g) down [/] down [/] &+s down here . 21059_25509
+%mor:	cconj|but det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|down adv|here .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|5|PUNCT
+*PAR:	&*INV:okay instead of it's goin(g) down in (th)ere it's comin(g) out . 25939_28259
+%mor:	adv|instead adp|of pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|down adp|in adv|there pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out .
+%gra:	1|5|MARK 2|1|FIXED 3|5|NSUBJ 4|5|AUX 5|11|ADVCL 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|11|COMPOUND-PRT 13|11|PUNCT
+*INV:	okay . 29243_29603
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &-uh <the little> [//] &+b the boy (.) is getting the cookies . 30249_37159
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the girl is wanting the cookies . 39839_42539
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|want-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the way he's puttin(g) it on there she [: he] [* s:r-ret] [//] he's gonna fall . 46595_50685
+%mor:	cconj|and det|the-Def-Art noun|way pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|it-Prs-Acc-S3 adp|on adv|there pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|12|CC 2|3|DET 3|12|OBL-UNMARKED 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|OBJ 8|9|CASE 9|6|OBL 10|12|NSUBJ 11|12|AUX 12|0|ROOT 13|14|MARK 14|12|XCOMP 15|12|PUNCT
+*PAR:	&*INV:okay yeah ‡ (be)cause that's crooked . [+ gram] 53205_53945
+%mor:	intj|yeah punct|‡ sconj|because pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|crooked-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|COP 6|2|ADVCL 7|2|PUNCT
+*INV:	uhhuh . 54699_54999
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) can you see anything else ? 55378_69358
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+*INV:	any more action going on in the picture ? 71450_73350
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 noun|action verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|3|PUNCT
+*PAR:	&-uh I see that all the water coming down through from outside . [+ gram] 73959_79569
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 sconj|that det|all-Def-Tot det|the-Def-Art noun|water-Acc verb|come-Ger-S adv|down adv|through adp|from adv|outside .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|6|DET-PREDET 5|6|DET 6|2|OBJ 7|6|ACL 8|7|ADVMOD 9|7|ADVMOD 10|11|CASE 11|7|OBL 12|2|PUNCT
+*PAR:	instead of it going down through there it's coming out (.) &*INV:mhm <all over the> [//] all over here . 80822_86192
+%mor:	adv|instead sconj|of pron|it-Prs-Acc-S3 verb|go-Part-Pres-S adv|down adp|through adv|there pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out det|all-Def-Tot adp|over adv|here .
+%gra:	1|4|MARK 2|1|FIXED 3|4|NSUBJ 4|10|ADVCL 5|4|ADVMOD 6|7|CASE 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|10|COMPOUND-PRT 12|14|ADVMOD 13|14|CASE 14|10|OBL 15|10|PUNCT
+*INV:	hm okay . 87002_88902
+%mor:	intj|hm intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*INV:	good . 89722_89982
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's fine . 90108_90628
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	yeah ‡ because water's all comin(g) down through here . [+ gram] 91192_93362
+%mor:	intj|yeah punct|‡ sconj|because noun|water~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot verb|come-Part-Pres-S adp|down adp|through adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|2|ADVCL 7|6|ACL 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|2|PUNCT
+*INV:	uhhuh okay . 93971_94321
+%mor:	intj|uhhuh intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

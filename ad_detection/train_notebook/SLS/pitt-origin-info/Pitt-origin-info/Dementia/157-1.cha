@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00002520-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|84;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	157-1, audio
+@Comment:	previously transcribed as visit 1 but corresponds to audio visit 2 so media renamed to match transcript
+@Comment:	visit 1 , 8/29/85
+@G:	Cookie
+*INV:	okay . 800_1170
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	alright . 1631_2061
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what do you see going on in this picture ? 2299_4269
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+*PAR:	this picture ? [+ exc] [+ gram] 5409_6039
+%mor:	det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	uhhuh , what's the action ? 6118_7538
+%mor:	intj|uhhuh cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|action ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|6|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*PAR:	well , there's a kid on a stool . 7961_11901
+%mor:	intj|well cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kid adp|on det|a-Ind-Art noun|stool .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|4|PUNCT
+*PAR:	it's a boy , and a girl on the floor . 12336_15486
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy cm|cm cconj|and det|a-Ind-Art noun|girl adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|8|PUNCT 6|8|CC 7|8|DET 8|4|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|4|PUNCT
+*PAR:	and the boy is &-uh changing the &-uh time . 15727_20507
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|change-Part-Pres-S det|the-Def-Art noun|time-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	he has his right hand up at the clock but his left hand is holding where he's gonna turn the time . 20919_27179
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 adj|right-S1 noun|hand-Acc adp|up adp|at det|the-Def-Art noun|clock cconj|but pron|his-Prs-Gen-S3 adj|left-S1 noun|hand aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adv|where pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|turn-Inf-S det|the-Def-Art noun|time-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|2|COMPOUND-PRT 7|9|CASE 8|9|DET 9|2|OBL 10|15|CC 11|13|NMOD-POSS 12|13|AMOD 13|15|NSUBJ 14|15|AUX 15|2|CONJ 16|19|ADVMOD 17|19|NSUBJ 18|19|AUX 19|15|ADVCL 20|21|MARK 21|19|XCOMP 22|23|DET 23|21|OBJ 24|2|PUNCT
+*PAR:	he's standing on his right foot . 27555_29195
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on pron|his-Prs-Gen-S3 adj|right-S1 noun|foot .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|3|OBL 8|3|PUNCT
+*PAR:	his left leg is bent at the knee , and so he has both feet on the stool but it isn't gonna be for long . 29245_37725
+%mor:	pron|his-Prs-Gen-S3 adj|left-S1 noun|leg aux|be-Fin-Ind-Pres-S3 adj|bent-S1 adp|at det|the-Def-Art noun|knee cm|cm cconj|and adv|so pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|both-Def-Tot noun|foot-Plur-Acc adp|on det|the-Def-Art noun|stool cconj|but pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3~part|not verb|go-Part-Pres-S~part|to aux|be-Inf-S adp|for adj|long-S1 .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|PUNCT 10|13|CC 11|13|ADVMOD 12|13|NSUBJ 13|5|CONJ 14|15|DET 15|13|OBJ 16|18|CASE 17|18|DET 18|13|OBL 19|23|CC 20|23|NSUBJ 21|23|AUX 22|23|ADVMOD 23|5|CONJ 24|27|MARK 25|27|COP 26|27|CASE 27|23|XCOMP 28|5|PUNCT
+*PAR:	the stool is falling down . 37741_39421
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|down .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	and little girl is telling him what ails him .
+%mor:	cconj|and adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 pron|what-Int-S1 verb|ail-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|IOBJ 7|8|NSUBJ 8|5|CCOMP 9|8|OBJ 10|5|PUNCT
+*PAR:	but she can hardly keep from laughin(g) .
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|can-Fin-S adv|hardly verb|keep-Inf-S sconj|from verb|laugh-Part-Pres-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|ADVCL 8|5|PUNCT
+*PAR:	at the same time here she's standing there on both feet , planted solidly on the ground , on the floor . 39904_51584
+%mor:	adp|at det|the-Def-Art adj|same-S1 noun|time adv|here pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there adp|on det|both-Def-Tot noun|foot-Plur cm|cm verb|plant-Part-Past-S adv|solidly adp|on det|the-Def-Art noun|ground cm|cm adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|8|OBL 5|4|ADVMOD 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|14|PUNCT 14|8|ADVCL 15|14|ADVMOD 16|18|CASE 17|18|DET 18|14|OBL 19|22|PUNCT 20|22|CASE 21|22|DET 22|14|OBL 23|8|PUNCT
+*PAR:	and &-uh she's &-uh got her finger up to her mouth . 53139_56159
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|4|PUNCT
+*PAR:	she's tryin(g) to keep from laughin(g) at him . 58428_60078
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|keep-Inf-S sconj|from verb|laugh-Part-Pres-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|MARK 7|5|ADVCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+*INV:	anything else ? 64468_65138
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	well <he had> [//] the little boy's on the stool and the stool's just about ready to &+t &=laughs fall down . 66999_72489
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool cconj|and det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adv|just adv|about adj|ready-S1 part|to verb|fall-Inf-S adp|down .
+%gra:	1|8|DISCOURSE 2|4|DET 3|4|AMOD 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|DET 8|0|ROOT 9|15|CC 10|11|DET 11|15|NSUBJ 12|15|COP 13|15|ADVMOD 14|15|ADVMOD 15|8|CONJ 16|17|MARK 17|15|XCOMP 18|17|COMPOUND-PRT 19|8|PUNCT
+*PAR:	and he has &-uh one hand up on the clock and the other hand he has a watch or something in his hand he's [/] he (i)s gonna show . [+ gram] 73125_79855
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one noun|hand-Acc adp|up adp|on det|the-Def-Art noun|clock cconj|and det|the-Def-Art adj|other-S1 noun|hand pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|watch-Acc cconj|or pron|something-Ind-S1 adp|in pron|his-Prs-Gen-S3 noun|hand pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|show-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|COMPOUND-PRT 7|9|CASE 8|9|DET 9|3|OBL 10|25|CC 11|13|DET 12|13|AMOD 13|25|OBL-UNMARKED 14|15|NSUBJ 15|13|ACL-RELCL 16|17|DET 17|15|OBJ 18|19|CC 19|17|CONJ 20|22|CASE 21|22|NMOD-POSS 22|19|NMOD 23|25|NSUBJ 24|25|AUX 25|3|CONJ 26|27|MARK 27|25|XCOMP 28|3|PUNCT
+*PAR:	the little girl is standing there . 79903_81733
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	she got a little short skirt on and <her sleeve> [//] the short sleeved dress . 81862_86802
+%mor:	pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|little-S1 adj|short-S1 noun|skirt-Acc adp|on cconj|and det|the-Def-Art adj|short-S1 adj|sleeved-S1 noun|dress .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|DET 4|6|AMOD 5|6|AMOD 6|2|OBJ 7|2|ADVMOD 8|12|CC 9|12|DET 10|12|AMOD 11|12|AMOD 12|7|CONJ 13|2|PUNCT
+*PAR:	and in one she's pointing to her face with her right hand , with her left hand she's gesturing . 87792_94622
+%mor:	cconj|and adp|in num|one pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|point-Part-Pres-S adp|to pron|her-Prs-Gen-S3 noun|face adp|with pron|her-Prs-Gen-S3 adj|right-S1 noun|hand cm|cm adp|with pron|her-Prs-Gen-S3 adj|left-S1 noun|hand pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|gesture-Part-Pres-S .
+%gra:	1|6|CC 2|3|CASE 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|13|CASE 11|13|NMOD-POSS 12|13|AMOD 13|6|OBL 14|21|PUNCT 15|18|CASE 16|18|NMOD-POSS 17|18|AMOD 18|21|OBL 19|21|NSUBJ 20|21|AUX 21|6|PARATAXIS 22|6|PUNCT
+*INV:	okay . 97188_97768
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<how_(a)bout &+s do you see> [//] what do you see going on in this side of the picture ? [+ exc] 97824_100934
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|side adp|of det|the-Def-Art noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|4|PUNCT
+*PAR:	+< oh on this side of the picture ? [+ exc] 101506_102236
+%mor:	intj|oh adp|on det|this-Def-Dem-Sing noun|side adp|of det|the-Def-Art noun|picture ?
+%gra:	1|4|DISCOURSE 2|4|CASE 3|4|DET 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	well this is a &-uh fountain that has found a leak . 102757_106467
+%mor:	intj|well pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|fountain pron|that-Rel aux|have-Fin-Ind-Pres-S3 verb|find-Part-Past-S-irr det|a-Ind-Art noun|leak-Acc .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+*PAR:	and it's goin(g) &-uh every which way up there . 107447_110007
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S det|every-Def-Tot det|which-Def-Int noun|way-Acc adp|up adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET-PREDET 6|7|DET 7|4|OBJ 8|4|COMPOUND-PRT 9|4|ADVMOD 10|4|PUNCT
+*PAR:	and &-uh , I don't know . [+ exc] 110287_111897
+%mor:	cconj|and cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|6|CC 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	I don't know what you'd call that , this little thing on [/] on the mantle there . 112150_117600
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2~aux|would-Fin-S verb|call-Inf-S pron|that-Dem cm|cm det|this-Def-Dem-Sing adj|little-S1 noun|thing-Ger adp|on det|the-Def-Art noun|mantle adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|OBJ 10|13|PUNCT 11|13|DET 12|13|AMOD 13|4|PARATAXIS 14|16|CASE 15|16|DET 16|13|NMOD 17|13|ADVMOD 18|4|PUNCT
+*PAR:	and <there's a little> [//] the &-uh fountain is squirting up into the &-uh air and turned on . 118280_125100
+%mor:	cconj|and det|the-Def-Art noun|fountain aux|be-Fin-Ind-Pres-S3 verb|squirt-Part-Pres-S adp|up adp|into det|the-Def-Art noun|air cconj|and verb|turn-Fin-Ind-Past-S3 adp|on .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|11|CC 11|5|CONJ 12|11|COMPOUND-PRT 13|5|PUNCT
+*PAR:	and beside it there's <a little> [//] also a little cross that &-uh indicates the thing . [+ es] 125298_130907
+%mor:	cconj|and adp|beside pron|it-Prs-Acc-S3 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|also det|a-Ind-Art adj|little-S1 noun|cross pron|that-Rel verb|indicate-Fin-Ind-Pres-S3 det|the-Def-Art noun|thing-Acc-Ger .
+%gra:	1|5|CC 2|3|CASE 3|5|OBL 4|5|EXPL 5|0|ROOT 6|5|ADVMOD 7|9|DET 8|9|AMOD 9|5|NSUBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|13|DET 13|11|OBJ 14|5|PUNCT
+*PAR:	and on this side it's &-uh +... 131830_133520
+%mor:	cconj|and adp|on det|this-Def-Dem-Sing noun|side pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|NSUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	well she got <two hands on the on on> [//] the left hand on this side the right hand on this side . 136470_143700
+%mor:	intj|well pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr det|the-Def-Art adj|left-S1 noun|hand-Acc adp|on det|this-Def-Dem-Sing noun|side det|the-Def-Art adj|right-S1 noun|hand adp|on det|this-Def-Dem-Sing noun|side .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|12|DET 11|12|AMOD 12|3|OBL-UNMARKED 13|15|CASE 14|15|DET 15|12|NMOD 16|3|PUNCT
+*PAR:	and she's looking this way . 146285_147245
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S det|this-Def-Dem-Sing noun|way-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and she's standing on her right foot mostly . 148328_150948
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on pron|her-Prs-Gen-S3 adj|right-S1 noun|foot adv|mostly .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|4|OBL 9|4|ADVMOD 10|4|PUNCT
+*PAR:	her other foot is to [/] to keep the balance . 152070_154810
+%mor:	pron|her-Prs-Gen-S3 adj|other-S1 noun|foot aux|be-Fin-Ind-Pres-S3 part|to verb|keep-Inf-S det|the-Def-Art noun|balance-Acc .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|6|NSUBJ-OUTER 4|6|COP 5|6|MARK 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and she's in the corner of the room . 155287_156817
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|corner adp|of det|the-Def-Art noun|room .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+*PAR:	and behind her is a little trap door for I suppose into [/] &+s into some cupboard or something . 157831_163951
+%mor:	cconj|and adp|behind pron|her-Prs-Acc-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|trap noun|door sconj|for pron|I-Prs-Nom-S1 verb|suppose-Fin-Ind-Pres-S1 adp|into det|some-Def-Ind noun|cupboard cconj|or pron|something-Ind-S1 .
+%gra:	1|8|CC 2|3|CASE 3|8|OBL 4|8|COP 5|8|DET 6|8|AMOD 7|8|COMPOUND 8|0|ROOT 9|11|MARK 10|11|NSUBJ 11|8|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|16|CC 16|14|CONJ 17|8|PUNCT
+*INV:	okay . 164399_164739
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

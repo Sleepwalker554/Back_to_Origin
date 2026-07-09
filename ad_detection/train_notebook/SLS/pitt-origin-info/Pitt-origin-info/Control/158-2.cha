@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00002319-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|80;|female|Control||Participant|30||
+@Media:	158-2, audio
+@G:	Cookie
+*PAR:	washing dishes . [+ gram] 2550_3390
+%mor:	noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	climbing stool . [+ gram] 4390_5350
+%mor:	noun|climb-Ger noun|stool .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	falling off the stool . [+ gram] 5463_6643
+%mor:	verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR:	getting into the cookie jar . [+ gram] 6693_8163
+%mor:	verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|OBL 6|1|PUNCT
+*PAR:	and the little girl &+o on a thing . [+ gram] 8208_10498
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl adp|on det|a-Ind-Art noun|thing-Ger .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	yeah putting her &-uh finger up there . 10552_13092
+%mor:	intj|yeah verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adv|there .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|COMPOUND-PRT 6|2|ADVMOD 7|2|PUNCT
+*PAR:	I don't know . [+ exc] 13180_13600
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	she won't tell . 13650_14320
+%mor:	pron|she-Prs-Nom-S3 aux|will-Fin-S~part|not verb|tell-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't know . [+ exc] 14374_15064
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	outside &-uh there's &-uh grass growing . 15454_19464
+%mor:	adv|outside adv|there~part|s noun|grass noun|grow-Ger .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|2|CASE 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	<you will> [//] &-uh <dish water's washing or is> [//] &-uh the sink is overflowing . 20158_25738
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-uh the dishes aren't all together done . 27335_29765
+%mor:	cconj|and det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3~part|not adv|all adv|together verb|do-Part-Past-S-irr .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ-PASS 4|8|AUX-PASS 5|8|ADVMOD 6|8|ADVMOD 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*PAR:	the floor is getting wet . 30802_31712
+%mor:	det|the-Def-Art noun|floor aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|wet-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*PAR:	I can't see +//. [+ exc] 34896_36516
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S +//.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	a cookie jar is open and the &-uh cupboard door is open . 36697_41047
+%mor:	det|a-Ind-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|11|CC 7|9|DET 8|9|COMPOUND 9|11|NSUBJ 10|11|COP 11|5|CONJ 12|5|PUNCT
+*PAR:	there's no handle on the &-uh cupboard doors down here . 42077_45617
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg noun|handle adp|on det|the-Def-Art noun|cupboard noun|door-Plur adp|down adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|10|CASE 10|2|OBL 11|2|PUNCT
+@End

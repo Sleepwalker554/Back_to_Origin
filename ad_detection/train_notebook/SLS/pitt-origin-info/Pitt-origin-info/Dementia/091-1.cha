@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002495-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|89;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	091-1, audio
+@G:	Cookie
+*INV:	I want you to tell me all of the action that you see okay ? 30_3290
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adj|okay-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|2|PUNCT
+*INV:	here's the picture . 3472_4222
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*INV:	all of the action . 4273_5063
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	&-hm there's a boy gettin(g) in the cookie jar . 5300_9830
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy verb|get-Ger-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|2|PUNCT
+*PAR:	and the girl is waiting for her [: him] [* s:r] . 11105_12635
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|wait-Part-Pres-S adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR:	oh they're (.) tipping over . 13680_18190
+%mor:	intj|oh pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*INV:	okay . 20335_20705
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the girl [: woman] [* s:r] is washing dishes and the water's flowing on the floor . 20716_27006
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water~part|s noun|flow-Ger adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|CC 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|5|CONJ 11|13|CASE 12|13|DET 13|10|NMOD 14|4|PUNCT
+*PAR:	(..) she's drying dishes I guess . 31395_34115
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|AMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*INV:	(..) is that all the action ? 44429_45749
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot det|the-Def-Art noun|action ?
+%gra:	1|5|COP 2|5|MARK 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|5|PUNCT
+*INV:	what did you say was going on over here ? 45819_48229
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|REPARANDUM 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|6|PUNCT
+*PAR:	the boy is getting cookies out_of the jar . 49973_51943
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*INV:	okay . 52387_52907
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< gives one to the girl . [+ gram] 53030_53340
+%mor:	verb|give-Fin-Ind-Pres-S3 num|one adp|to det|the-Def-Art noun|girl .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	and the girl [: woman] [* s:r] (i)s drying dishes . 56469_57549
+%mor:	cconj|and det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	and she'll hafta wipe up the floor to the action there . 57753_60343
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|will-Fin-S part|hafta verb|wipe-Inf-S adp|up det|the-Def-Art noun|floor-Acc adp|to det|the-Def-Art noun|action adv|there .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|5|ADVMOD 13|5|PUNCT
+*INV:	yes there will be . 60496_61876
+%mor:	intj|yes pron|there-Int-S1 aux|will-Fin-S verb|be-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|EXPL 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	(.) okay good . 68460_69730
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	that's good . 70140_70810
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/t-00002654-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	466-0, audio
+@G:	Cookie
+*PAR:	&-uh the girl's washing dishes . 910_5450
+%mor:	det|the-Def-Art noun|girl~aux|be-Fin-Ind-Pres-S3 verb|washing-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the water's spilling over onto the floor . 5593_8042
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	the boy is &-uh &+st taking some cookies . 8598_12578
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and his stool is falling out from under him . 12643_16683
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|out adp|from adp|under pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|9|CASE 8|9|CASE 9|5|OBL 10|5|PUNCT
+*PAR:	&-uh (..) the girl's stepping in the water . 17651_29591
+%mor:	det|the-Def-Art noun|girl~aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	she's [/] &+wa she's wiping &-uh dishes . 29836_32946
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&-uh there's a: view of a house through the door &-uh on the outside . 35089_44099
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|view adp|of det|a-Ind-Art noun|house adp|through det|the-Def-Art noun|door adp|on det|the-Def-Art noun|outside .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|13|CASE 12|13|DET 13|10|NMOD 14|2|PUNCT
+*PAR:	&+th the window is &-uh half opened . 46413_48723
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 noun|half verb|open-Part-Past-S .
+%gra:	1|2|DET 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh <the shades are &-uh or> [//] the (.) curtains are tied back . 50357_59917
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|tie-Part-Past-S adv|back .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the &-uh cookie jar is <on the> [//] in the cupboard on the second shelf . 63985_69445
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cupboard adp|on det|the-Def-Art adj|second-S1 noun|shelf .
+%gra:	1|3|DET 2|3|COMPOUND 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|11|CASE 9|11|DET 10|11|AMOD 11|7|NMOD 12|7|PUNCT
+*PAR:	&-um xxx . [+ exc] 72876_73696
+*INV:	okay that's good . 75380_75860
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

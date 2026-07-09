@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/t-00002639-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	358-0, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 1190_1830
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the door's open in the cupboard . 2123_4693
+%mor:	det|the-Def-Art noun|door~part|s adj|open-S1 adp|in det|the-Def-Art noun|cupboard .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and there's &-uh a cookie jar and a little boy on a &-uh stool . 5493_16043
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar cconj|and det|a-Ind-Art adj|little-S1 noun|boy adp|on det|a-Ind-Art noun|stool .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|NSUBJ 7|10|CC 8|10|DET 9|10|AMOD 10|6|CONJ 11|13|CASE 12|13|DET 13|10|NMOD 14|3|PUNCT
+*PAR:	and he's tryin(g) to reach the cookies . 16967_18627
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|reach-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR:	and the [/] the stool is going to go . 18710_21570
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|go-Inf-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR:	and his sister's tryin(g) to help him . 22503_24283
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|help-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*PAR:	and his mother is lookin(g) out the window . 24430_26860
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|5|PUNCT
+*PAR:	and &-uh she's lettin(g) her water run down the sink . 27487_31477
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S pron|her-Prs-Gen-S3 noun|water-Acc verb|run-Inf-S adp|down det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|4|PUNCT
+*PAR:	and &-uh &=laughs +... [+ exc] 31652_32212
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &+ch &+ch the boy is going to be hurt &=laughs . 33710_35560
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S verb|hurt-Part-Past-S-irr .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|MARK 7|8|AUX-PASS 8|5|XCOMP 9|5|PUNCT
+*INV:	okay . 36710_36800
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

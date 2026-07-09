@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002294-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	138-3, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at that picture and tell me everything that's happening in that picture , everything that you see going on there . 30_7850
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|CCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|14|CC 14|3|CONJ 15|14|IOBJ 16|14|OBJ 17|19|NSUBJ 18|19|AUX 19|16|ACL-RELCL 20|22|CASE 21|22|DET 22|19|OBL 23|24|PUNCT 24|16|APPOS 25|28|OBJ 26|27|NSUBJ 27|24|ACL-RELCL 28|27|XCOMP 29|25|CASE 30|28|ADVMOD 31|3|PUNCT
+*PAR:	okay the little boy is on a stool about to fall . 8516_12176
+%mor:	intj|okay det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool adv|about part|to verb|fall-Inf-S .
+%gra:	1|8|DISCOURSE 2|4|DET 3|4|AMOD 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|DET 8|0|ROOT 9|8|ADVMOD 10|11|MARK 11|8|ACL 12|8|PUNCT
+*PAR:	the stool's about to upset . 12200_13580
+%mor:	det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|upset-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	and he has a cookie in each hand , handing [//] about to hand one cookie to the little girl who is standing there with her hand reached up for the cookie . 13600_23770
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in det|each-Def-Tot noun|hand cm|cm adv|about part|to verb|hand-Inf-S num|one noun|cookie-Acc adp|to det|the-Def-Art adj|little-S1 noun|girl pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there adp|with pron|her-Prs-Gen-S3 noun|hand verb|reach-Part-Past-S adp|up adp|for det|the-Def-Art noun|cookie .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|12|PUNCT 10|12|ADVMOD 11|12|MARK 12|3|ADVCL 13|14|NUMMOD 14|12|OBJ 15|18|CASE 16|18|DET 17|18|AMOD 18|12|OBL 19|21|NSUBJ 20|21|AUX 21|18|ACL-RELCL 22|21|ADVMOD 23|25|CASE 24|25|NMOD-POSS 25|21|OBL 26|21|ADVCL 27|26|COMPOUND-PRT 28|30|CASE 29|30|DET 30|26|OBL 31|3|PUNCT
+*PAR:	and the water is running over <into the dishpan there or> [//] into the sink . 23876_29556
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over adp|into det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	and <the mother or> [//] the lady is standing there drying a dish . 30159_34269
+%mor:	cconj|and det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+*PAR:	two [/] &+s &-uh two cups and a plate are on the &-um counter there . 35627_40077
+%mor:	num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|counter adv|there .
+%gra:	1|2|NUMMOD 2|9|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|9|COP 7|9|CASE 8|9|DET 9|0|ROOT 10|9|ADVMOD 11|9|PUNCT
+*PAR:	and [/] &+sh and out the window there's a walkway and [/] and [/] &+win and you can see a window across (.) from the &-uh walkway &-uh drapes . 40369_54149
+%mor:	cconj|and adp|out det|the-Def-Art noun|window pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|window-Acc adp|across adp|from det|the-Def-Art noun|walkway noun|drape-Plur .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|12|CC 10|12|NSUBJ 11|12|AUX 12|6|CONJ 13|14|DET 14|12|OBJ 15|19|CASE 16|19|CASE 17|19|DET 18|19|COMPOUND 19|12|OBL 20|6|PUNCT
+*PAR:	what's happening you said , huh ? [+ exc] 54250_55720
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr cm|cm intj|huh ?
+%gra:	1|5|OBJ 2|3|AUX 3|5|CCOMP 4|5|NSUBJ 5|0|ROOT 6|7|PUNCT 7|5|PARATAXIS 8|5|PUNCT
+*INV:	+< mhm . 55403_55793
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay that's [/] that's what's happening I guess . [+ exc] 56110_59280
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|AUX 6|4|ACL-RELCL 7|8|NSUBJ 8|4|ACL-RELCL 9|4|PUNCT
+*INV:	+< okay . 58910_59010
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	thank +/. [+ exc] 59497_59617
+%mor:	verb|thank-Fin-Ind-Pres-S1 +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

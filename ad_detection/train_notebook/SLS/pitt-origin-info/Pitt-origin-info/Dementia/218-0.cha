@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/t-00002560-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	218-0, audio
+@G:	Cookie
+*INV:	okay ? 30_320
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and I want you to tell me everything that you see going on in that picture . 1225_5335
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|12|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|11|XCOMP 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|3|PUNCT
+*INV:	just tell me everything that you see happening here . 6110_8840
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|ADVMOD 10|2|PUNCT
+*INV:	there's the picture . 9648_10328
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	you [//] I'm sposta tell you everything that's happening ? [+ exc] 12740_14550
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|sposta verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|4|OBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|4|PUNCT
+*INV:	yeah , mhm . 14600_15430
+%mor:	intj|yeah cm|cm intj|mhm .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*PAR:	<how many over> [//] there [//] there's one two three [/] three women . 17221_20631
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|one num|two num|three noun|woman-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|6|NUMMOD 4|6|NUMMOD 5|6|NUMMOD 6|2|NSUBJ 7|2|PUNCT
+*PAR:	has some aprons on her . [+ gram] 22713_24313
+%mor:	verb|have-Fin-Ind-Pres-S3 det|some-Def-Ind noun|apron-Plur-Acc adp|on pron|her-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*PAR:	going to &-uh wash and dryer there . [+ gram] 25906_28956
+%mor:	verb|go-Part-Pres-S part|to verb|wash-Inf-S cconj|and verb|dryer-Inf-S adv|there .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|5|CC 5|3|CONJ 6|3|ADVMOD 7|1|PUNCT
+*PAR:	little boy is xxx fast . [+ jar] 32073_38054
+%mor:	adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adj|fast-S1 .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	&=laughs .
+*PAR:	&=laughs . [+ exc]
+*INV:	now then . 40216_40636
+%mor:	adv|now adv|then .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*INV:	+< what's happening in the picture . 41910_42580
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	<washing the> [//] washing dishes . [+ gram] 43594_45664
+%mor:	noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 46313_46543
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what else is happening ? 51738_52488
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	hm ? [+ exc] 53910_54120
+%mor:	intj|hm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what else is happening ? 54844_55914
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	what else is happening here ? [+ exc] 56273_57233
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	yeah . 57338_57688
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh then see a minute ago the girls I guess are gettin(g) up there and gonna xxx <a cookie> [//] cookies . [+ jar] 58672_64382
+%mor:	adv|then verb|see-Fin-Imp-S det|a-Ind-Art noun|minute adv|ago det|the-Def-Art noun|girl-Plur pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|up adv|there cconj|and verb|go-Part-Pres-S~part|to noun|cookie-Plur-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|5|OBL-UNMARKED 5|2|ADVMOD 6|7|DET 7|11|NSUBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|AUX 11|2|PARATAXIS 12|11|COMPOUND-PRT 13|11|ADVMOD 14|15|CC 15|11|CONJ 16|17|MARK 17|15|OBJ 18|2|PUNCT
+*PAR:	he didn't get us cookies . 64525_66676
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|get-Inf-S pron|we-Prs-Acc-P1 noun|cookie-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|4|OBJ 7|4|PUNCT
+*INV:	(.) what's happening over here ? 77243_78233
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	oh the [/] &+la the &-uh +... 78776_80016
+%mor:	intj|oh det|the-Def-Art +...
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*PAR:	these women that are +... 84371_86061
+%mor:	det|this-Def-Dem-Plur noun|woman-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 +...
+%gra:	1|2|DET 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+*PAR:	there are +... 86800_88820
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 +...
+%gra:	1|2|EXPL 2|0|ROOT 3|2|PUNCT
+*PAR:	cease this all to send the ball . [+ jar] 93230_94780
+%mor:	verb|cease-Fin-Imp-S pron|this-Dem-S1 det|all-Def-Tot part|to verb|send-Inf-S det|the-Def-Art noun|ball-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|DET 4|5|MARK 5|1|ADVCL 6|7|DET 7|5|OBJ 8|1|PUNCT
+*INV:	pardon ? 95500_95820
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I heard it might but I'm sayin(g) let's tell her send the button and that's it . [+ jar] [+ exc] 95993_99503
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Past-S1-irr pron|it-Prs-Nom-S3 aux|might-Fin-S cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|tell-Inf-S pron|her-Prs-Acc-S3 verb|send-Inf-S det|the-Def-Art noun|button-Acc cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|8|CC 6|8|NSUBJ 7|8|AUX 8|2|CONJ 9|8|XCOMP 10|9|OBJ 11|9|XCOMP 12|11|IOBJ 13|11|XCOMP 14|15|DET 15|13|OBJ 16|19|CC 17|19|NSUBJ 18|19|COP 19|2|CONJ 20|2|PUNCT
+*INV:	okay . 100670_101060
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	you'll see it happen . [+ exc] 101630_102330
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 verb|happen-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+@End

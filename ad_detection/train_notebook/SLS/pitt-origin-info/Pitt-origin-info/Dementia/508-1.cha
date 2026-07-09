@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/t-00002672-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|82;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	508-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 350_1330
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	<and it don't> [//] (.) and you're gonna draw the picture ? [+ exc] 2199_5319
+%mor:	cconj|and pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S~part|to verb|draw-Inf-S det|the-Def-Art noun|picture-Acc ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*INV:	+< no you're going to tell me what you see going on in this picture . 5305_8175
+%mor:	intj|no pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|4|PUNCT
+*PAR:	+< oh [/] oh yeah . [+ exc] 8581_8921
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	the little girl lookin(g) up at the little boy . [+ gram] 10247_12327
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|look-Ger-S adp|up adp|at det|the-Def-Art adj|little-S1 noun|boy .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|AMOD 9|4|OBL 10|3|PUNCT
+*PAR:	<he wants a> [//] &+cook she wants a cookie jar . 12350_14590
+%mor:	pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*PAR:	and he's gonna fall and get hurt . 15480_18650
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S cconj|and aux|get-Inf-S verb|hurt-Part-Past-S-irr .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CC 8|9|AUX-PASS 9|6|CONJ 10|4|PUNCT
+*PAR:	and mother's &-um &+p probably lookin(g) at this [//] these show here <the water> [/] the water comin(g) out_of the spigot . [+ gram] 19725_26035
+%mor:	cconj|and noun|mother~aux|be-Fin-Ind-Pres-S3 adv|probably verb|look-Part-Pres-S adp|at det|this-Def-Dem-Plur noun|show adv|here det|the-Def-Art noun|water verb|come-Ger-S adp|outof det|the-Def-Art noun|spigot .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|ADVMOD 10|11|DET 11|5|PARATAXIS 12|11|ACL 13|15|CASE 14|15|DET 15|12|OBL 16|5|PUNCT
+*PAR:	&-uh she got her hands full . 27856_29176
+%mor:	pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Plur-Acc adj|full-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*PAR:	and &-uh so I don't know . [+ exc] 29195_31885
+%mor:	cconj|and adv|so pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	they're gonna have a mess xxx &=laughs xxx . 31900_35330
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S~part|to verb|have-Inf-S det|a-Ind-Art noun|mess-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	okay . 35806_35906
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &-uh she's wiping the [/] &-uh the plate off with her +... 36000_41690
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|plate-Acc adp|off adp|with pron|her-Prs-Acc-S3 +...
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|9|CASE 9|4|OBL 10|4|PUNCT
+*PAR:	and <she spilled> [//] the water breaking through on the +... 43164_46724
+%mor:	cconj|and det|the-Def-Art noun|water verb|break-Ger-S adp|through adp|on det|the-Def-Art +...
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|3|PUNCT
+*PAR:	and that's coming out on the floor . 47160_49170
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|out adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	let's see . [+ exc] 51250_51470
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	that &-hm &-hm +... [+ exc] 51694_52044
+%mor:	pron|that-Dem +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and outside , I don't know . [+ exc] 53907_55847
+%mor:	cconj|and adv|outside cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|7|CC 2|7|ADVMOD 3|2|PUNCT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*PAR:	ain't much outside . [+ gram] 55900_56880
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not adv|much adv|outside .
+%gra:	1|4|COP 2|4|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	that's about it . [+ exc] 57993_58703
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay fine . 59022_59752
+%mor:	intj|okay adj|fine-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002200-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|female|Control||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	022-0, audio
+@G:	Cookie
+*INV:	okay and you can begin right there . 1040_3010
+%mor:	intj|okay cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S adv|right adv|there .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|ADVMOD 7|5|ADVMOD 8|5|PUNCT
+*PAR:	well ‡ the little boy's on a stepstool trying to reach the cookie jar . 3264_11224
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|boy~part|s adp|on det|a-Ind-Art noun|stepstool verb|try-Ger-S part|to verb|reach-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|9|DISCOURSE 2|9|DISCOURSE 3|5|DET 4|5|AMOD 5|9|NMOD-POSS 6|5|CASE 7|9|CASE 8|9|DET 9|0|ROOT 10|9|ACL 11|12|MARK 12|10|XCOMP 13|15|DET 14|15|COMPOUND 15|12|OBJ 16|9|PUNCT
+*PAR:	and he's falling . 11248_12528
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and the girl is reachin(g) for a cookie he has in his hand . 12551_17421
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|NSUBJ 10|8|ACL-RELCL 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|5|PUNCT
+*PAR:	the mama's washin(g) dishes . 17824_20474
+%mor:	det|the-Def-Art noun|mama~aux|be-Fin-Ind-Pres-S3 verb|washing-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the sink's running over . 20617_21957
+%mor:	cconj|and det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|running-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	and she's drying a plate . 21973_24183
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and the sink is runnin(g) over down on the floor . 24233_27193
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adv|down adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	the window is up . 27632_29232
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adv|up .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and is that &+a all ? [+ exc] 29402_34542
+%mor:	cconj|and aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot ?
+%gra:	1|4|CC 2|4|COP 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	you want something else ? [+ exc] 35250_36270
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|something-Ind-S1 adj|else-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|3|AMOD 5|2|PUNCT
+*INV:	+< anything else ? 35640_36130
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	is there anything else ? 36290_37040
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|1|PUNCT
+*PAR:	oh ‡ well ‡ there's a plate and two cups on the counter . 37400_43700
+%mor:	intj|oh punct|‡ intj|well punct|‡ pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate cconj|and num|two noun|cup-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|3|PUNCT 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|11|CC 10|11|NUMMOD 11|8|CONJ 12|14|CASE 13|14|DET 14|11|NMOD 15|6|PUNCT
+*PAR:	(.) <is that> [/] is that enough ? [+ exc] 43932_51552
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|enough-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	that's fine „ sure . 51600_52530
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 punct|„ adj|sure-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+*PAR:	+< I_mean is that +..? [+ exc] 51745_52305
+%mor:	propn|Imean aux|be-Fin-Ind-Pres-S3 pron|that-Dem +..?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	that's good . 53375_53955
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	+< I [/] I don't see anything +/. [+ exc] 54020_54630
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 +/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

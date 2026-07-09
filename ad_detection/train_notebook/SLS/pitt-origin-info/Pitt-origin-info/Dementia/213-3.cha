@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/t-00002557-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:01-04:00]
+@Media:	213-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay now what I want you to do here is to tell me everything that you see going on in this picture . 280_5130
+%mor:	intj|okay adv|now pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S adv|here aux|be-Fin-Ind-Pres-S3 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|12|DISCOURSE 2|12|ADVMOD 3|12|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|8|ADVMOD 10|12|COP 11|12|MARK 12|0|ROOT 13|12|IOBJ 14|12|OBJ 15|18|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|17|XCOMP 19|18|COMPOUND-PRT 20|22|CASE 21|22|DET 22|18|OBL 23|12|PUNCT
+*INV:	everything that you see happening here . 5741_7671
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|1|ACL 6|5|ADVMOD 7|1|PUNCT
+*INV:	okay ? 8521_8841
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 10328_10518
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	it's kinda [: kind_of] shiny there . [+ exc] 11161_12391
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|kindof adj|shiny-S1 adv|there .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|OBL-UNMARKED 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	I &+c +... [+ exc] 12480_12700
+%mor:	pron|I-Prs-Nom-S1 +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	well that's so you can see it . 14238_15318
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|7|DISCOURSE 2|3|NSUBJ 3|7|REPARANDUM 4|7|ADVMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|7|PUNCT
+*PAR:	mhm . [+ exc] 15731_16341
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) okay it looks like somebody's raidin(g) the cookie jar . 23109_26169
+%mor:	intj|okay pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|somebody-Ind-S1~part|s verb|raid-Ger-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|5|CASE 7|3|ADVCL 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|3|PUNCT
+*PAR:	(.) there's a woman (.) working in the kitchen . 34577_40917
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|woman verb|work-Ger-S adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*INV:	uhhuh . 42025_42165
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) and there's this little girl here with something but I don't know what it is she +... 48909_85129
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing adj|little-S1 noun|girl adv|here adp|with pron|something-Ind-S1 cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 +...
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|3|ADVMOD 8|9|CASE 9|3|OBL 10|14|CC 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|3|CONJ 15|14|OBJ 16|15|NSUBJ 17|15|ACL-RELCL 18|15|ACL-RELCL 19|3|PUNCT
+*INV:	anything else that you see going on there +/? 86241_87581
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there +/?
+%gra:	1|0|ROOT 2|1|AMOD 3|6|OBJ 4|5|NSUBJ 5|1|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|6|ADVMOD 9|1|PUNCT
+*PAR:	+< yeah I'm tryin(g) to identify this thing . [+ exc] 87540_89850
+%mor:	intj|yeah pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to verb|identify-Inf-S det|this-Def-Dem-Sing noun|thing-Acc-Ger .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*INV:	what is that ? 92097_92787
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*PAR:	dɛdɪk@u [: x@n] [* n:uk] tryin(g) to see . [+ exc] 92996_94726
+%mor:	neo|x verb|try-Part-Pres-S part|to verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|ACL 3|4|MARK 4|2|XCOMP 5|1|PUNCT
+*PAR:	is that a table leg ? [+ exc] 96228_97388
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|table noun|leg ?
+%gra:	1|5|COP 2|5|MARK 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*INV:	hm +... 98569_99099
+%mor:	intj|hm +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	I don't know . 100930_101510
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	okay . [+ exc] 102568_102738
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	tell me . 102834_103354
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|PUNCT
+*PAR:	I'd say that's a table leg . 104010_105470
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|say-Inf-S pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|table noun|leg .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|COMPOUND 8|3|CCOMP 9|3|PUNCT
+*INV:	okay . 105683_105963
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay that's real good then . 113083_114143
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|real-S1 adj|good-S1 adv|then .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+@End

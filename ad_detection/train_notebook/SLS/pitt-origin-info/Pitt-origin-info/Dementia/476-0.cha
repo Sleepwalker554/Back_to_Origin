@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002661-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|female|PossibleAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	476-0, audio
+@G:	Cookie
+*INV:	you see going on in the picture . 1040_3080
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*PAR:	&=clears:throat &-hm the woman of the house is drying the dishes . 6169_9369
+%mor:	det|the-Def-Art noun|woman adp|of det|the-Def-Art noun|house aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*PAR:	her sink is overflowing . 10651_12321
+%mor:	pron|her-Prs-Gen-S3 noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the boy's stool is tipping . 13722_16052
+%mor:	det|the-Def-Art noun|boy~part|s noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	he's taking cookies out_of a jar . 16890_19110
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	he's handing one to his sister . 19643_22113
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*PAR:	and <she is> [//] oh she's already dried some dishes right here „ I guess . 23982_30152
+%mor:	cconj|and intj|oh pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|dry-Part-Past-S det|some-Def-Ind noun|dish-Plur-Acc adv|right adv|here punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|6|CC 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|ADVMOD 10|6|ADVMOD 11|13|PUNCT 12|13|NSUBJ 13|6|PARATAXIS 14|6|PUNCT
+*PAR:	well ‡ what is this hon(ey) ? [+ exc] 31052_31662
+%mor:	intj|well punct|‡ pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|honey ?
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|6|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*PAR:	I [/] I can't make that out . [+ exc] 31677_32567
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|make-Inf-S pron|that-Dem adp|out .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+*PAR:	it look like a +... [+ exc] 32591_33071
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBL 4|2|PUNCT 5|2|PUNCT
+*INV:	all you needta tell me is the action . 33868_35308
+%mor:	det|all-Def-Tot pron|you-Prs-Nom-S2 aux|needta-Fin-S verb|tell-Fin-S pron|I-Prs-Acc-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|action .
+%gra:	1|8|NSUBJ 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|IOBJ 6|8|COP 7|8|DET 8|0|ROOT 9|8|PUNCT
+*PAR:	oh action . [+ exc] 35517_35927
+%mor:	intj|oh noun|action .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	oh ‡ I'm sorry . [+ exc] 36372_36752
+%mor:	intj|oh punct|‡ pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*INV:	+< anything going on . 36620_37690
+%mor:	pron|anything-Ind-S1 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|1|ACL 3|2|COMPOUND-PRT 4|1|PUNCT
+*PAR:	she's dryin(g) the dishes . 38120_39090
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she's standin(g) in water <well that's> [/] &+ac if that's action . 42527_44947
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|9|MARK 7|9|NSUBJ 8|9|COP 9|3|ADVCL 10|3|PUNCT
+*INV:	okay . 46412_46732
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the door is open where the cookies are . 49086_51696
+%mor:	cconj|and det|the-Def-Art noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 adv|where det|the-Def-Art noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|9|ADVMOD 7|8|DET 8|9|NSUBJ 9|5|ADVCL 10|5|PUNCT
+*PAR:	they all have their shoes on &=chuckles . 54278_58238
+%mor:	pron|they-Prs-Nom-P3 det|all-Def-Tot verb|have-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|shoe-Plur-Acc adp|on .
+%gra:	1|3|NSUBJ 2|1|DET 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	oh ‡ she's got an apron on &-uh over her dress . 59026_61266
+%mor:	intj|oh punct|‡ pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|apron-Acc adp|on adp|over pron|her-Prs-Gen-S3 noun|dress .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|11|CASE 10|11|NMOD-POSS 11|5|OBL 12|5|PUNCT
+*PAR:	kind_of homely girl „ isn't she ? [+ exc] 62111_63091
+%mor:	propn|kindof adj|homely-S1 noun|girl punct|„ aux|be-Fin-Ind-Pres-S3~part|not pron|she-Prs-Nom-S3 ?
+%gra:	1|3|COMPOUND 2|3|AMOD 3|5|NSUBJ 4|3|PUNCT 5|0|ROOT 6|7|ADVMOD 7|5|NSUBJ 8|5|PUNCT
+*PAR:	she's not doin(g) much she's just got her hand like &=grunt . 66109_69079
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|do-Part-Pres-S adj|much-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|hand-Acc adp|like .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|CCOMP 10|11|NMOD-POSS 11|9|OBJ 12|9|ADVMOD 13|4|PUNCT
+*PAR:	&-uh &+d how many did I get wrong ? [+ exc] 69387_70467
+%mor:	adv|how adj|many-S1 aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|get-Inf-S adj|wrong-S1 ?
+%gra:	1|2|ADVMOD 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|XCOMP 7|5|PUNCT
+*INV:	no that's fine , you did fine . 70490_71850
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 cm|cm pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|4|PARATAXIS 9|4|PUNCT
+*PAR:	okay . [+ exc] 72281_72411
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

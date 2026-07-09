@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/t-00002354-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|65;|male|Control||Participant|30||
+@Media:	229-2, audio
+@G:	Cookie
+*PAR:	there's a child reaching for a cookie . 390_1740
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|child verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*PAR:	the chair [: stool] [* s:r] is tilted . 2920_3820
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|PUNCT
+*PAR:	the girl is possibly moving her finger towards her mouth and reaching for a cookie . 5446_10126
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 adv|possibly verb|move-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|towards pron|her-Prs-Gen-S3 noun|mouth cconj|and verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|12|CC 12|5|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|5|PUNCT
+*PAR:	water's running out_of the sink . 11088_12658
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 noun|running-Ger noun|outof det|the-Def-Art noun|sink .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|0|ROOT 5|6|DET 6|4|APPOS 7|4|PUNCT
+*PAR:	the mother's drying dishes . 14522_15652
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	somebody's gonna be screamin(g) when the kid falls . 15702_20802
+%mor:	pron|somebody-Ind-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S verb|scream-Part-Pres-S adv|when det|the-Def-Art noun|kid verb|fall-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|MARK 5|6|AUX 6|3|XCOMP 7|10|ADVMOD 8|9|DET 9|10|NSUBJ 10|6|ADVCL 11|3|PUNCT
+*PAR:	&-uh I don't know if it's action but mom was standin(g) in water . 21928_28088
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|action cconj|but noun|mom aux|be-Fin-Ind-Past-S3-irr verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|COP 8|4|CCOMP 9|12|CC 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|14|CASE 14|12|OBL 15|4|PUNCT
+*PAR:	that's about all I see . [+ exc] 32037_32756
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+@End

@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/t-00002480-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;00.|female|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:52:15-04:00]
+@Media:	065-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	anything going on in the picture . 220_1670
+%mor:	pron|anything-Ind-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|ACL 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|1|PUNCT
+*PAR:	alright let's start over here . [+ exc] 2461_4811
+%mor:	intj|alright verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|start-Inf-S adp|over adv|here .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+*PAR:	the &+l little boy is [/] &-uh is standing on a stool which is about to fall over . 8508_15468
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|fall-Inf-S adv|over .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|NSUBJ 10|13|COP 11|13|ADVMOD 12|13|MARK 13|8|ACL-RELCL 14|13|ADVMOD 15|5|PUNCT
+*PAR:	and he [/] &+ha he is getting a cookie out_of the cookie &-uh jar . 16163_21823
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|DET 9|10|COMPOUND 10|4|OBJ 11|4|PUNCT
+*PAR:	and his little sister comes +//. 22435_24275
+%mor:	cconj|and pron|his-Prs-Gen-S3 adj|little-S1 noun|sister verb|come-Fin-Ind-Pres-S3 +//.
+%gra:	1|5|CC 2|4|NMOD-POSS 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	<that had> [//] &-uh the lid's off . 24295_25635
+%mor:	det|the-Def-Art noun|lid~part|s adv|off .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	and he has a cookie in his hand [/] hand . 25966_28226
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+*PAR:	and he [//] <and the little> [//] his little sister is down here . 28706_32216
+%mor:	cconj|and pron|his-Prs-Gen-S3 adj|little-S1 noun|sister aux|be-Fin-Ind-Pres-S3 adv|down adv|here .
+%gra:	1|7|CC 2|4|NMOD-POSS 3|4|AMOD 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*PAR:	<and she> [/] &+wa and she has &-uh her hand up to take the &+t a cookie out_of the little boy's hand . 32569_41969
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up part|to verb|take-Inf-S det|the-Def-Art det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art adj|little-S1 noun|boy~part|s noun|hand-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|COMPOUND-PRT 7|8|MARK 8|3|ADVCL 9|12|DET 10|12|DET 11|12|COMPOUND 12|8|OBJ 13|15|DET 14|15|AMOD 15|17|NMOD-POSS 16|15|CASE 17|8|OBJ 18|3|PUNCT
+*PAR:	he's giving it to her . 42271_43381
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*PAR:	and her mother is standing at the sink &+w &-uh wiping a dish with a tea towel . 44618_50738
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|at det|the-Def-Art noun|sink verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|with det|a-Ind-Art noun|tea noun|towel .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|ADVCL 10|11|DET 11|9|OBJ 12|15|CASE 13|15|DET 14|15|COMPOUND 15|9|OBL 16|5|PUNCT
+*PAR:	and <on the [/] &+h the [/] the [/] the> [//] there's [//] then there's a sink that has &-uh &-uh faucets . 52046_62806
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sink pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|faucet-Plur-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|4|PUNCT
+*PAR:	<and the> [/] &+wa and the water is on . 63423_65223
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 adv|on .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	<and she has> [//] <and she> [//] <it is> [//] and [/] &+sh and she's is spilling over onto the floor . [+ gram] 65247_70827
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	and on the &-uh sink also there are two cups and a plate . 71872_77272
+%mor:	cconj|and adp|on det|the-Def-Art noun|sink adv|also pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|7|ADVMOD 6|7|EXPL 7|0|ROOT 8|9|NUMMOD 9|7|NSUBJ 10|12|CC 11|12|DET 12|9|CONJ 13|7|PUNCT
+*PAR:	and bənʌf@u [: above] [* n:k-ret] [//] (a)bove the sink is a window . 78230_80970
+%mor:	cconj|and adp|above det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|NMOD 5|7|COP 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	and you look out and you see &-uh another [//] &+d &-uh the garage and [/] &-uh &+th and a <road in> [//] &-uh &+d &+d drive into which has &+t bushes on [/] &+s on the side . [+ gram] 81514_93334
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 adp|out cconj|and pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|the-Def-Art noun|garage-Acc cconj|and det|a-Ind-Art noun|drive adp|into pron|which-Rel-S1 verb|have-Fin-Ind-Pres-S3 noun|bush-Plur-Acc adp|on det|the-Def-Art noun|side .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CC 6|7|NSUBJ 7|3|CONJ 8|9|DET 9|7|OBJ 10|12|CC 11|12|DET 12|9|CONJ 13|14|CASE 14|15|OBL 15|12|ACL-RELCL 16|15|OBJ 17|19|CASE 18|19|DET 19|15|OBL 20|3|PUNCT
+*PAR:	and in [/] <in the> [//] &-um <on the> [//] &+kol in the garage there's also a window . 93397_99197
+%mor:	cconj|and adp|in det|the-Def-Art noun|garage pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|also det|a-Ind-Art noun|window .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|6|ADVMOD 8|9|DET 9|6|NSUBJ 10|6|PUNCT
+*PAR:	<and up> [//] and then up the curtains . [+ gram] 99812_103152
+%mor:	cconj|and adv|then adp|up det|the-Def-Art noun|curtain-Plur .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|CASE 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	and you can see the top of the garage out the window . 104599_107619
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|top-Acc adp|of det|the-Def-Art noun|garage adp|out det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CASE 11|12|DET 12|6|NMOD 13|4|PUNCT
+*PAR:	<and the curtains> [//] and her kɜ˞kɪt@u [: curtains] [* n:k-ret] curtains on her window . [+ gram] 108023_111343
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|curtain-Plur noun|curtain-Plur adp|on pron|her-Prs-Gen-S3 noun|window .
+%gra:	1|4|CC 2|4|NMOD-POSS 3|4|COMPOUND 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|4|PUNCT
+*PAR:	and the [/] &+s the cupboards are underneath the [/] the sink . 111807_115917
+%mor:	cconj|and det|the-Def-Art noun|cupboard-Plur aux|be-Fin-Ind-Pres-P3 adp|underneath det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	and &-uh it's a good job there if you ask . 116795_119635
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|job adv|there sconj|if pron|you-Prs-Nom-S2 verb|ask-Fin-Ind-Pres-S2 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|ADVMOD 8|10|MARK 9|10|NSUBJ 10|6|ADVCL 11|6|PUNCT
+*INV:	okay good . 120554_121514
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

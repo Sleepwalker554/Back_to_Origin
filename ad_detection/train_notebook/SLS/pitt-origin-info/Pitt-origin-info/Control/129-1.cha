@@ -1,0 +1,28 @@
+@UTF8
+@PID:	11312/t-00002283-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|male|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	129-1, audio
+@G:	Cookie
+*PAR:	<one of the> [//] the boy is on the stool getting cookies from the cookie jar and giving them to the girl but the stool is about ready to tip over . 42546_50966
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool verb|get-Ger-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar cconj|and verb|give-Part-Pres-S pron|they-Prs-Acc-P3 adp|to det|the-Def-Art noun|girl cconj|but det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|tip-Inf-S adp|over .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|ACL 8|7|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|14|CC 14|7|CONJ 15|14|OBJ 16|18|CASE 17|18|DET 18|14|OBL 19|24|CC 20|21|DET 21|24|NSUBJ 22|24|COP 23|24|ADVMOD 24|6|CONJ 25|26|MARK 26|24|XCOMP 27|26|COMPOUND-PRT 28|6|PUNCT
+*PAR:	&-uh the mother is drying the dishes as the sink faucet has filled the sink bowl and is running over onto the floor . 51681_58771
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|as det|the-Def-Art noun|sink noun|faucet aux|have-Fin-Ind-Pres-S3 verb|fill-Part-Past-S det|the-Def-Art noun|sink noun|bowl-Acc cconj|and aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|12|MARK 8|10|DET 9|10|COMPOUND 10|12|NSUBJ 11|12|AUX 12|4|ADVCL 13|15|DET 14|15|COMPOUND 15|12|OBJ 16|18|CC 17|18|AUX 18|12|CONJ 19|18|COMPOUND-PRT 20|22|CASE 21|22|DET 22|18|OBL 23|4|PUNCT
+*PAR:	&-uh that's all the action . [+ exc] 60376_63576
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	let's see . [+ exc] 64970_65200
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*INV:	+< okay . 65640_65730
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) okay good . 73047_73797
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

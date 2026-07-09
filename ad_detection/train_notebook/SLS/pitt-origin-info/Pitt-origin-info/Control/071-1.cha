@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002231-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	071-1, audio
+@G:	Cookie
+*INV:	there it is . 230_780
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	okay . [+ exc] 1255_1365
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh fellow falling off a stool . [+ gram] 1957_3387
+%mor:	adj|fellow-S1 verb|fall-Ger-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	also taking cookies from the cupboard . [+ gram] 4703_6103
+%mor:	adv|also verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cupboard .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*PAR:	&-uh sister standing . [+ gram] 7261_8751
+%mor:	noun|sister noun|standing-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	outstretched hand . [+ gram] 9106_9756
+%mor:	adj|outstretched-S1 noun|hand .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	oh , okay . [+ exc] 9952_10552
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*PAR:	water running out_of the sink . [+ gram] 10940_11990
+%mor:	noun|water verb|run-Ger-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+*PAR:	&-uh woman drying dish . [+ gram] 13960_14920
+%mor:	noun|woman verb|drying-Ger-S noun|dish .
+%gra:	1|2|COMPOUND 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh (.) <the water> [//] got the water . [+ exc] 19662_20412
+%mor:	verb|get-Fin-Ind-Past-S1-irr det|the-Def-Art noun|water-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	I don't see anything happening outside . 20570_21600
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 verb|happen-Ger-S adv|outside .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|ACL 7|6|ADVMOD 8|4|PUNCT
+*PAR:	&-uh do [/] do you want like the window's open that sort of thing ? [+ exc] 22942_25432
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adp|like det|the-Def-Art noun|window~part|s adj|open-S1 det|that-Def-Dem-Sing noun|sort adp|of noun|thing-Ger ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|10|CASE 5|6|DET 6|10|NMOD-POSS 7|6|CASE 8|10|AMOD 9|10|DET 10|3|OBL 11|12|CASE 12|10|NMOD 13|3|PUNCT
+*PAR:	<is that> [/] is that +..? 25481_26101
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem +..?
+%gra:	1|2|COP 2|0|ROOT 3|2|PUNCT
+*PAR:	no , you don't want that . [+ exc] 26233_26903
+%mor:	intj|no cm|cm pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S pron|that-Dem .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	just action +//? [+ exc] 27024_27654
+%mor:	adv|just noun|action +//?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*INV:	+< no , just what you see happening , the action in the picture . 27263_29323
+%mor:	intj|no cm|cm adv|just pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S cm|cm det|the-Def-Art noun|action adp|in det|the-Def-Art noun|picture .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|10|PUNCT 9|10|DET 10|4|APPOS 11|13|CASE 12|13|DET 13|10|NMOD 14|4|PUNCT
+*PAR:	xxx oh . [+ exc] 28260_29650
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 30326_30506
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's it . [+ exc] 31002_31312
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 32093_32323
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< I didn't see any other action . [+ exc] 32392_33572
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|see-Inf-S det|any-Def-Ind adj|other-S1 noun|action-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*INV:	mhm . 33619_33769
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

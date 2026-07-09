@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/t-00002627-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	344-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything you see happening in that picture . 1900_4270
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+*INV:	everything that's going on . 4774_6134
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|1|PUNCT
+*PAR:	well ‡ everything's goin(g) wrong ! [+ exc] 7060_8360
+%mor:	intj|well punct|‡ pron|everything-Tot-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adj|wrong-S1 !
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|5|PUNCT
+*INV:	well ‡ tell me what's going on . 8586_9566
+%mor:	intj|well intj|‡ verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|3|PUNCT
+*INV:	tell me everything you see happening . 10869_12209
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|1|PUNCT
+*PAR:	well ‡ <the stool is> [//] &+f the [/] the boy who's &-uh stealing a cookie for his sister or whoever she is is falling backwards . 13334_21814
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|for pron|his-Prs-Gen-S3 noun|sister cconj|or pron|whoever-Int-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|backwards .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|18|NSUBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|NMOD-POSS 12|7|OBL 13|14|CC 14|12|CONJ 15|16|NSUBJ 16|14|ACL-RELCL 17|18|AUX 18|0|ROOT 19|18|ADVMOD 20|18|PUNCT
+*PAR:	and the &+gir next thing the cookie which [//] box [: jar] [* s:r] will come down on the floor . 22937_26917
+%mor:	cconj|and det|the-Def-Art adj|next-S1 noun|thing-Ger det|the-Def-Art noun|cookie noun|jar aux|will-Fin-S verb|come-Inf-S adp|down adp|on det|the-Def-Art noun|floor .
+%gra:	1|9|CC 2|4|DET 3|4|AMOD 4|9|OBL-UNMARKED 5|7|DET 6|7|COMPOUND 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|9|PUNCT
+*PAR:	&-uh the mother is drying the dishes while the sink <runs over> [/] runs over and onto her feet . 27393_37383
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|sink verb|run-Fin-Ind-Pres-S3 adp|over cconj|and adp|onto pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|MARK 8|9|DET 9|10|NSUBJ 10|4|ADVCL 11|10|COMPOUND-PRT 12|15|CC 13|15|CASE 14|15|NMOD-POSS 15|10|CONJ 16|4|PUNCT
+*PAR:	and &-uh she seems to be unaware of what's going on around her . 38838_47068
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|unaware-S1 adp|of pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|around pron|her-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|8|CASE 8|6|OBL 9|10|AUX 10|8|ACL-RELCL 11|10|COMPOUND-PRT 12|13|CASE 13|10|OBL 14|3|PUNCT
+*PAR:	and the [/] &+da the sister is &+l asking for maybe one cookie or another cookie <I don't know which> [//] from her brother . 48491_58271
+%mor:	cconj|and det|the-Def-Art noun|sister aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for adv|maybe num|one noun|cookie cconj|or det|another-Def-Ind noun|cookie adp|from pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|ADVMOD 8|9|NUMMOD 9|5|OBL 10|12|CC 11|12|DET 12|9|CONJ 13|15|CASE 14|15|NMOD-POSS 15|12|NMOD 16|5|PUNCT
+*PAR:	the &-uh mother is working in front of &-uh an open window . 64420_72140
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|work-Part-Pres-S adp|in noun|front adp|of det|a-Ind-Art adj|open-S1 noun|window .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|10|CASE 8|10|DET 9|10|AMOD 10|6|NMOD 11|4|PUNCT
+*PAR:	and I can't make out what it is . [+ exc] 74749_76179
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|make-Inf-S adp|out pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|5|PUNCT
+*PAR:	it looks like a flower bed . 76200_77640
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|flower noun|bed .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*INV:	just tell me what's happening ! 76500_78200
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S !
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|2|PUNCT
+*INV:	that's all . 78649_78909
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	oh ! [+ exc] 79226_79516
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she's dryin(g) the dishes . 80460_81410
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	mhm . 81571_82241
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< washin(g) the dishes . [+ gram] 81810_82460
+%mor:	verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and the others stealin(g) the cookies . [+ gram] 82635_83805
+%mor:	cconj|and det|the-Def-Art noun|other-Plur verb|steal-Ger-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|6|DET 6|4|OBJ 7|3|PUNCT
+*INV:	mhm . 84777_84947
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the stool is falling over . 87696_89396
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*INV:	+< okay . 88730_88980
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay , great . 90149_91329
+%mor:	intj|okay cm|cm adj|great-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*INV:	thank_you . 91946_92276
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

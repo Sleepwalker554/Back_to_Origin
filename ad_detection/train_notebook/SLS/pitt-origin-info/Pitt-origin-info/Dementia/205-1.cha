@@ -1,0 +1,124 @@
+@UTF8
+@PID:	11312/t-00002548-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|ProbableAD||Participant|22||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:28-04:00]
+@Media:	205-1, audio
+@G:	Cookie
+*INV:	have a look at that picture and tell me everything that you see going on in that picture . 540_6040
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|14|COMPOUND-PRT 16|18|CASE 17|18|DET 18|14|OBL 19|1|PUNCT
+*INV:	all the action . 6373_7423
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	what's happening there ? 8496_9496
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	boy xxx in the cookie jar . [+ jar] 10306_12686
+%mor:	intj|boy adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|1|PUNCT
+*INV:	I'm sorry ? 13091_13541
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	boy in a cookie jar . [+ gram] [+ exc] 14379_16343
+%mor:	intj|boy adp|in det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|1|PUNCT
+*INV:	boy in the cookie jar . 15333_32122
+%mor:	intj|boy adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|COMPOUND 5|1|NMOD 6|1|PUNCT
+*PAR:	&-um &-uh dryin(g) dishes . [+ gram] 18594_23084
+%mor:	verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	girl assisting boy with cookie jar . [+ gram] 25583_31933
+%mor:	noun|girl verb|assist-Ger-S noun|boy-Acc adp|with noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+*INV:	pardon ? 38249_38619
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+*INV:	mhm . 40000_40530
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+*PAR:	(...) towel . [+ gram] 60049_60459
+%mor:	noun|towel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	pardon ? 61237_61477
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	towel . [+ gram] [+ exc] 62107_62567
+%mor:	noun|towel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	towel ? 62749_63049
+%mor:	noun|towel ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc] 63070_63630
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) xxx . [+ jar] [+ exc]
+*INV:	pardon ? 70316_70706
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar] [+ exc]
+*INV:	+< uhhuh . 72524_72604
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(.) what's happening here ? 73283_79383
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	boing@o [/] boing@o [/] boing@o . 79583_83573
+%mor:	on|boing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	chair [: stool] [* s:r] . [+ gram] 87229_87499
+%mor:	noun|stool .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	boy . [+ gram] 91421_91541
+%mor:	intj|boy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good . 95147_95427
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ? 95940_96620
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	(.) garage . [+ gram] 105835_106215
+%mor:	noun|garage .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	pardon ? 107059_107399
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	garage . [+ gram] [+ exc] 107773_108103
+%mor:	noun|garage .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	I'm sorry ? 110060_110590
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	garage . [+ gram] [+ exc] 111221_111611
+%mor:	noun|garage .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	garage , mhm . 112926_113776
+%mor:	noun|garage cm|cm intj|mhm .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	+< yeah . [+ exc] 114020_114080
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	windows [/] windows &+win +... 114634_115514
+%mor:	noun|window-Plur +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the garage . [+ gram] 117178_117778
+%mor:	cconj|and det|the-Def-Art noun|garage .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	okay good . 123135_124625
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	okay [/] okay [/] okay &=laughs . [+ exc] 125055_126585
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< good . 126230_126610
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

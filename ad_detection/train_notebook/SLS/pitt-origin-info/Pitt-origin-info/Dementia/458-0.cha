@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002651-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|85;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	458-0, audio
+@G:	Cookie
+*INV:	picture . 0_260
+%mor:	noun|picture .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh . [+ exc] 600_1370
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	huh ? [+ exc] 2361_2551
+%mor:	intj|huh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	which moves ? [+ exc] 2600_3170
+%mor:	pron|which-Rel-S1 verb|move-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	just tell me everything you see going on in the picture . 3372_6212
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+*PAR:	+< oh [/] oh . [+ exc] 5150_6380
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is takin(g) <a cookie> [//] &-uh cookies out_of a cookie jar . 6738_10148
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+*PAR:	his mama's washin(g) the dishes . 11588_13288
+%mor:	pron|his-Prs-Gen-S3 noun|mama~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and the water is comin(g) &-uh &-uh over the sink into the floor . 13351_17681
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|over det|the-Def-Art noun|sink adp|into det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+*PAR:	and she's wiping the dishes . 19883_22353
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and as I'd said the boy is &+fa &-uh falling . 22430_27740
+%mor:	cconj|and sconj|as pron|I-Prs-Nom-S1~aux|would-Fin-Ind-Past-S1 verb|say-Part-Past-S-irr det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|5|PUNCT
+*PAR:	and the girl's got her hand up to get the cookie . 29600_31760
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|get-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|hand-Acc adp|up part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|10|MARK 10|5|ADVCL 11|12|DET 12|10|OBJ 13|5|PUNCT
+*PAR:	and what else do you wanna know ? [+ exc] 31781_32931
+%mor:	cconj|and pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|know-Inf-S ?
+%gra:	1|6|CC 2|6|OBJ 3|2|ADVMOD 4|6|AUX 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+*INV:	that's all ? 33647_34097
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot ?
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	did I get it right ? [+ exc] 34671_35481
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|get-Inf-S pron|it-Prs-Acc-S3 adv|right ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*INV:	okay that +//. 35674_35924
+%mor:	intj|okay pron|that-Dem +//.
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

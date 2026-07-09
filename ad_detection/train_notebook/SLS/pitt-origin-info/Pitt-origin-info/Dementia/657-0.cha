@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002716-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	657-0, audio
+@G:	Cookie
+*INV:	picture that has a_lot_of action going on there's a_lot_of things going on in the picture . 40_4370
+%mor:	noun|picture pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|alotof noun|action-Acc verb|go-Ger-S adp|on pron|there-Int-S1~part|s noun|alotof noun|thing-Plur-Acc verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|COMPOUND 5|3|OBJ 6|5|ACL 7|6|COMPOUND-PRT 8|11|EXPL 9|8|CASE 10|11|COMPOUND 11|6|OBJ 12|11|ACL 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|1|PUNCT
+*INV:	tell me what you see going on in the picture . 4771_6921
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	well ‡ she's washin(g) dishes . 7355_9675
+%mor:	intj|well punct|‡ pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	he's climbin(g) up to get cookies . 9974_11204
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up part|to verb|get-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|MARK 6|3|ADVCL 7|6|OBJ 8|3|PUNCT
+*PAR:	he's gonna fall . 11270_11980
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*PAR:	and she's laughin(g) . 12001_12981
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 14300_14950
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and she's spill [//] runnin(g) the water over . 15330_18320
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S det|the-Def-Art noun|water-Acc adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*INV:	anything else ? 22777_23547
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	that looks like someone down out there or somethin(g) . [+ es] 28267_32667
+%mor:	pron|that-Dem verb|look-Fin-Ind-Pres-S3 adp|like pron|someone-Ind-S1 adv|down adv|out adv|there cconj|or pron|something-Ind-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|4|ADVMOD 6|7|ADVMOD 7|2|ADVMOD 8|9|CC 9|7|CONJ 10|2|PUNCT
+*PAR:	I don't know what that is . [+ exc] 32688_33578
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+*INV:	okay . 33930_34580
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

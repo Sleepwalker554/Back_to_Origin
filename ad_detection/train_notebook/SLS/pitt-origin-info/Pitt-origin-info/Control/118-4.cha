@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/t-00002272-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	118-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything that's going on in that picture . 470_2900
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*INV:	everything that's happening there . 3157_4617
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+*PAR:	well the water's runnin(g) over outta [: out of] the sink . 6570_10160
+%mor:	intj|well det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	and the little boy is stealin(g) a cookie . 10373_14903
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and he's about to fall off the stool . 14994_18824
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*PAR:	and &-uh the girl has her hand up to her mouth so she didn't want the mother to know what they were up to . 18984_28444
+%mor:	cconj|and det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth sconj|so pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|want-Inf-S det|the-Def-Art noun|mother-Acc part|to verb|know-Inf-S pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adv|up adp|to .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|4|PARATAXIS 16|17|DET 17|15|OBJ 18|19|MARK 19|15|XCOMP 20|19|OBJ 21|23|NSUBJ 22|23|COP 23|20|ACL-RELCL 24|4|PUNCT 25|4|PUNCT
+*PAR:	and the window's open . 28667_30967
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and it must be nice weather because the grass is pretty high and needs cut . 31027_37777
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S adj|nice-S1 noun|weather sconj|because det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 adv|pretty adj|high-S1 cconj|and verb|need-Fin-Ind-Pres-S3 noun|cut-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|AMOD 6|0|ROOT 7|12|MARK 8|9|DET 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|6|ADVCL 13|14|CC 14|12|CONJ 15|14|OBJ 16|6|PUNCT
+*PAR:	and &=sighs (.) the mother is daydreamin(g) or she'd see that the water was goin(g) on the floor and she's gonna get wet or is wet . 37795_52935
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|daydream-Part-Pres-S cconj|or pron|she-Prs-Nom-S3~aux|would-Fin-S verb|see-Inf-S sconj|that det|the-Def-Art noun|water aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|get-Inf-S adj|wet-S1 cconj|or aux|be-Fin-Ind-Pres-S3 adj|wet-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CC 7|9|NSUBJ 8|9|AUX 9|5|CONJ 10|14|MARK 11|12|DET 12|14|NSUBJ 13|14|AUX 14|9|CCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|21|CC 19|21|NSUBJ 20|21|AUX 21|5|CONJ 22|23|MARK 23|21|XCOMP 24|23|XCOMP 25|27|CC 26|27|COP 27|24|CONJ 28|5|PUNCT
+*PAR:	and the curtains seem to blowin(g) brisk in the breeze . 55609_59139
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur verb|seem-Fin-Ind-Pres-P3 sconj|to verb|blow-Part-Pres-S adj|brisk-S1 adp|in det|the-Def-Art noun|breeze .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+*INV:	okay fine thanks . 59240_60870
+%mor:	intj|okay adj|fine-S1 noun|thanks .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+@End

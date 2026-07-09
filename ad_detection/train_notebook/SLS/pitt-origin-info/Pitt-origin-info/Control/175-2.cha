@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/t-00002332-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|58;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:57:24-04:00]
+@Media:	175-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay now +/. 1240_2029
+%mor:	intj|okay adv|now +/.
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	on in the picture . 2360_3280
+%mor:	adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|4|CASE 2|4|CASE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) do you want me to start ? [+ exc] 6540_7130
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|start-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|3|PUNCT
+*INV:	mhm . 7950_8210
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	alright . [+ exc] 8840_8970
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dʌ@u [: the] boy is standing on a stool and he is slipping . 9160_13060
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|slip-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|11|NSUBJ 10|11|AUX 11|4|CONJ 12|4|PUNCT
+*PAR:	and he is reaching into the cookie jar to take cookies out for him and his sister who has her hand out reaching for a cookie . 13769_21129
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar part|to verb|take-Inf-S noun|cookie-Plur-Acc adp|out adp|for pron|he-Prs-Acc-S3 cconj|and pron|his-Prs-Gen-S3 noun|sister pron|who-Rel verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|out verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|10|MARK 10|4|ADVCL 11|10|OBJ 12|10|COMPOUND-PRT 13|14|CASE 14|10|OBL 15|17|CC 16|17|NMOD-POSS 17|14|CONJ 18|19|NSUBJ 19|17|ACL-RELCL 20|21|NMOD-POSS 21|19|OBJ 22|19|COMPOUND-PRT 23|19|ADVCL 24|26|CASE 25|26|DET 26|23|OBL 27|4|PUNCT
+*PAR:	she's standing there beside him . 21820_22760
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there adp|beside pron|he-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|3|PUNCT
+*PAR:	the door of the cabinet is open . 22775_24185
+%mor:	det|the-Def-Art noun|door adp|of det|the-Def-Art noun|cabinet aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|0|ROOT 8|7|PUNCT
+*PAR:	mother is standing at the sink drying a dish . 25199_28539
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|at det|the-Def-Art noun|sink verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVCL 8|9|DET 9|7|OBJ 10|3|PUNCT
+*PAR:	water is overflowing onto the floor . 29355_32705
+%mor:	noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	there are cups and saucers on the counter . 33457_36487
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|cup-Plur cconj|and noun|saucer-Plur adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+*PAR:	the window is open . 37440_38780
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	you can see out . 38950_39770
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	the curtains look as if they are fluttering . 39819_41399
+%mor:	det|the-Def-Art noun|curtain-Plur verb|look-Fin-Ind-Pres-P3 sconj|as sconj|if pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 verb|flutter-Part-Pres-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|4|FIXED 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|3|PUNCT
+*PAR:	there is a tree and a walk . 42747_43987
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree cconj|and det|a-Ind-Art noun|walk .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+*PAR:	and mother has her back to the youngsters . 45231_47101
+%mor:	cconj|and noun|mother verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art noun|youngster-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR:	I don't believe she knows what is going on . 47760_48840
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|believe-Inf-S pron|she-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|9|OBJ 8|9|AUX 9|6|CCOMP 10|9|COMPOUND-PRT 11|4|PUNCT
+*PAR:	(.) what I see or what I see going on ? [+ exc] 52264_54344
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 cconj|or pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 verb|go-Ger-S adp|on ?
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|CC 5|1|CONJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|1|PUNCT
+*INV:	right . 54682_54752
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what you see going on . 55255_56215
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|1|PUNCT
+*PAR:	okay that's the activity . [+ exc] 57168_58158
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|activity .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*INV:	+< okay . 58250_58350
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

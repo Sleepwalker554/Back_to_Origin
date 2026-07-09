@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/t-00002593-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	270-0, audio
+@G:	Cookie
+*INV:	and there's the picture . 30_1010
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*INV:	all of the action . 1495_2455
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	okay . [+ exc] 2596_3476
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well ‡ there is a little boy who has climbed up on a stool to get cookies from the cookie jar . 4272_10552
+%mor:	intj|well punct|‡ pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy pron|who-Rel aux|have-Fin-Ind-Pres-S3 verb|climb-Part-Past-S adp|up adp|on det|a-Ind-Art noun|stool part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|16|MARK 16|10|ADVCL 17|16|OBJ 18|21|CASE 19|21|DET 20|21|COMPOUND 21|16|OBL 22|4|PUNCT
+*PAR:	and his sister is asking for cookies too . 10600_12870
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for noun|cookie-Plur adv|too .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|ADVMOD 9|5|PUNCT
+*PAR:	his mother is washing the dishes . 14093_15953
+%mor:	pron|his-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&=laughs and the water is running over the sink on to the floor . 16000_19890
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over det|the-Def-Art noun|sink adp|on adp|to det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|5|PUNCT
+*PAR:	did I say that the stool was tilted ? [+ exc] 20977_22737
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S sconj|that det|the-Def-Art noun|stool aux|be-Fin-Ind-Past-S3-irr verb|tilt-Part-Past-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|3|CCOMP 9|3|PUNCT
+*PAR:	I didn't think I had . [+ exc] 22785_24705
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*PAR:	&-uh the cookie jar is open . 26812_28182
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	the cupboard door is open . 28675_29885
+%mor:	det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	&-hm [/] &-hm [/] &-hm the little girl has two different shoes on . 31671_36901
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 num|two adj|different-S1 noun|shoe-Plur-Acc adp|on .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|7|NUMMOD 6|7|AMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+*PAR:	(.) I take it those are socks is what they are &=laughs . 38629_44319
+%mor:	pron|I-Prs-Nom-S1 verb|take-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|sock-Plur aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|8|COP 8|2|PARATAXIS 9|10|NSUBJ 10|8|ACL-RELCL 11|2|PUNCT
+*PAR:	&-uh (.) I can't even make out what this is sposta be . [+ exc] 44341_53471
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not adv|even verb|make-Inf-S adp|out pron|what-Int-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|sposta aux|be-Inf-S .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|5|OBJ 8|7|NSUBJ 9|7|COP 10|7|ADVMOD 11|7|COP 12|5|PUNCT
+*PAR:	&=laughs the little boy looks like he is wearing two different shoes „ I think . 55691_58431
+%mor:	det|the-Def-Art adj|little-S1 noun|boy verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S num|two adj|different-S1 noun|shoe-Plur-Acc punct|„ pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|11|NUMMOD 10|11|AMOD 11|8|OBJ 12|14|PUNCT 13|14|NSUBJ 14|4|PARATAXIS 15|4|PUNCT
+*PAR:	(.) I'm not sure what it is . [+ exc] 61134_62384
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+*PAR:	&=sighs . [+ exc]
+*INV:	+< okay . 64608_65289
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< oh ‡ and the stool is [//] has different length [//] lengths of legs . 65880_69320
+%mor:	intj|oh punct|‡ cconj|and det|the-Def-Art noun|stool verb|have-Fin-Ind-Pres-S3 adj|different-S1 noun|length-Plur-Acc adp|of noun|leg-Plur .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|CC 4|5|DET 5|6|NSUBJ 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|10|CASE 10|8|NMOD 11|6|PUNCT
+*INV:	okay . 70502_70912
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(.) is that all the action ? 73620_76400
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot det|the-Def-Art noun|action ?
+%gra:	1|5|COP 2|5|MARK 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	I was just looking outside to see whether there was any difference &=laughs . [+ exc] 77630_80200
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adv|just verb|look-Part-Pres-S adv|outside part|to verb|see-Inf-S sconj|whether pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|any-Def-Ind noun|difference .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|7|MARK 7|4|ADVCL 8|10|MARK 9|10|EXPL 10|7|CCOMP 11|12|DET 12|10|NSUBJ 13|4|PUNCT
+*INV:	&=laughs .
+*PAR:	I assume that these are flowers &=laughs . 81312_83202
+%mor:	pron|I-Prs-Nom-S1 verb|assume-Fin-Ind-Pres-S1 sconj|that pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|flower-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|COP 6|2|CCOMP 7|2|PUNCT
+*INV:	okay . 84600_85130
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< okay good . 86783_87133
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

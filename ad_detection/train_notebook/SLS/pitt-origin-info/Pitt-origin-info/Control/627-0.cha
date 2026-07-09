@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002409-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	627-0, audio
+@G:	Cookie
+*INV:	what I want you to do is to look at this picture and tell me everything that you see going on . 40_6810
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|9|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|COP 8|9|MARK 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|9|CONJ 15|14|IOBJ 16|14|OBJ 17|20|OBJ 18|19|NSUBJ 19|16|ACL-RELCL 20|19|XCOMP 21|20|COMPOUND-PRT 22|9|PUNCT
+*INV:	everything that you see happening in that picture . 7240_9720
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+*PAR:	beginning now ? [+ exc] 11450_12050
+%mor:	verb|begin-Part-Pres-S adv|now ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	yeah . 12170_12420
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	boy is getting [//] reaching for cookies . [+ gram] 12810_14530
+%mor:	noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	the stool is falling over . 14550_15920
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	his sister is reaching at [//] &-uh for cookies . 15940_19280
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	&-uh &+s woman's wiping the dishes . [+ gram] 20262_23502
+%mor:	noun|woman~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the sink is running over . 23521_24851
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	&-um curtains &-um are blowing a little bit but not much . [+ gram] 27821_32821
+%mor:	noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S det|a-Ind-Art adj|little-S1 noun|bit cconj|but part|not adv|much .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBL-UNMARKED 7|9|CC 8|9|ADVMOD 9|3|CONJ 10|3|PUNCT
+*PAR:	the boy is stepping on one of his own toes . 34824_37774
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|on num|one adp|of pron|his-Prs-Gen-S3 adj|own-S1 noun|toe-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|6|NMOD 11|4|PUNCT
+*PAR:	&-uh the little girl's telling him to +"/. 38043_42933
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to +"/.
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|IOBJ 7|5|XCOMP 8|5|PUNCT
+*PAR:	+" be [/] &+q be quiet . 43246_44426
+%mor:	aux|be-Fin-Imp-S adj|quiet-S1 .
+%gra:	1|2|COP 2|0|ROOT 3|2|PUNCT
+*PAR:	+" don't let mommy see . 44602_45432
+%mor:	aux|do-Fin-Imp-S~part|not verb|let-Fin-Imp-S noun|mommy-Acc verb|see-Inf-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*INV:	and that's everything then ? 49479_50449
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|everything-Tot-S1 adv|then ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	that's about it yeah . [+ exc] 50500_51480
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 intj|yeah .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|DISCOURSE 6|4|PUNCT
+@End

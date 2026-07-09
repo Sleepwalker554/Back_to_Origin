@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/t-00002591-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	269-0, audio
+@G:	Cookie
+*INV:	action you see going on in that picture . 30_2220
+%mor:	noun|action pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+*PAR:	well ‡ I'm seeing a_lot_of water that isn't sposta be where it is . 3699_7949
+%mor:	intj|well punct|‡ pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|see-Part-Pres-S noun|alotof noun|water-Acc pron|that-Rel aux|be-Fin-Ind-Pres-S3~part|not adv|sposta aux|be-Inf-S adv|where pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|COMPOUND 7|5|OBJ 8|13|NSUBJ 9|13|COP 10|11|ADVMOD 11|13|ADVMOD 12|13|COP 13|5|ADVCL-RELCL 14|15|NSUBJ 15|13|COP 16|5|PUNCT
+*PAR:	a full sink with &-uh more water running down all [/] all [/] all the way to the floor . [+ gram] 9260_16300
+%mor:	det|a-Ind-Art adj|full-S1 noun|sink adp|with adj|more-Cmp-S1 noun|water verb|run-Ger-S adp|down det|all-Def-Tot det|the-Def-Art noun|way adp|to det|the-Def-Art noun|floor .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|6|CASE 5|6|AMOD 6|3|NMOD 7|6|ACL 8|7|COMPOUND-PRT 9|11|DET-PREDET 10|11|DET 11|7|OBL-UNMARKED 12|14|CASE 13|14|DET 14|11|NMOD 15|3|PUNCT
+*PAR:	a stool that's going to project somebody into a fall and real fast . [+ gram] 17845_25305
+%mor:	det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|project-Inf-S pron|somebody-Ind-S1 adp|into det|a-Ind-Art noun|fall cconj|and adj|real-S1 adv|fast .
+%gra:	1|2|DET 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|14|CC 13|14|ADVMOD 14|11|CONJ 15|2|PUNCT
+*PAR:	getting out_of the cookie jar . [+ gram] 26901_28341
+%mor:	verb|get-Part-Pres-S adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|DET 4|5|COMPOUND 5|1|OBL 6|1|PUNCT
+*PAR:	&-uh &=clears:throat dishwashing and drying . [+ gram] 31606_35746
+%mor:	verb|dishwash-Part-Pres-S cconj|and verb|drying-Part-Pres-S .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*PAR:	(..) and a girl tryin(g) to say &=laughs “silent” so_that &-uh they won't be caught . [+ gram] 43177_55047
+%mor:	cconj|and det|a-Ind-Art noun|girl verb|try-Ger-S part|to verb|say-Inf-S adj|silent-S1 noun|sothat-Acc pron|they-Prs-Nom-P3 aux|will-Fin-S~part|not aux|be-Inf-S verb|catch-Part-Past-S-irr .
+%gra:	1|13|CC 2|3|DET 3|13|NSUBJ-PASS 4|3|ACL 5|6|MARK 6|4|XCOMP 7|8|AMOD 8|6|OBJ 9|13|NSUBJ-PASS 10|13|AUX 11|13|ADVMOD 12|13|AUX-PASS 13|0|ROOT 14|13|PUNCT
+*PAR:	two cups and a plate &-uh that probably are dry and then the other plate is being dried . [+ gram] 58571_65531
+%mor:	num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate pron|that-Rel adv|probably aux|be-Fin-Ind-Pres-P3 adj|dry-S1 cconj|and adv|then det|the-Def-Art adj|other-S1 noun|plate aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|dry-Part-Past-S .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|9|NSUBJ 7|9|ADVMOD 8|9|COP 9|5|ACL-RELCL 10|17|CC 11|17|ADVMOD 12|14|DET 13|14|AMOD 14|17|NSUBJ-PASS 15|17|AUX 16|17|AUX-PASS 17|2|CONJ 18|2|PUNCT
+*PAR:	a cupboard door that's open . [+ gram] 67624_69154
+%mor:	det|a-Ind-Art noun|cupboard noun|door pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|3|PUNCT
+*PAR:	that stool though , I don't know what he's going to do with that . 70709_73869
+%mor:	det|that-Def-Dem-Sing noun|stool adv|though cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|do-Inf-S adp|with pron|that-Dem .
+%gra:	1|2|DET 2|8|OBL-UNMARKED 3|8|ADVMOD 4|3|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|8|OBJ 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|14|MARK 14|12|XCOMP 15|16|CASE 16|14|OBL 17|8|PUNCT
+*PAR:	&-uh (.) I don't know <what you> [//] <why the sink's> [//] &+l [//] why the &-uh water's left on . 75965_87115
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|why det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adj|left-S1 adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|DET 7|9|NSUBJ 8|9|COP 9|5|ADVCL-RELCL 10|5|CASE 11|4|PUNCT
+*PAR:	it's gonna make a mess . 88320_89380
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|make-Inf-S det|a-Ind-Art noun|mess-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*PAR:	(.) she's drying the plate or the dishes or whatever it is that she's working on . 95257_102167
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|plate-Acc cconj|or det|the-Def-Art noun|dish-Plur cconj|or pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|work-Part-Pres-S adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|10|CC 10|3|CONJ 11|12|NSUBJ 12|10|COP 13|16|MARK 14|16|NSUBJ 15|16|AUX 16|10|ACL-RELCL 17|16|OBL 18|3|PUNCT
+*PAR:	and of_course that cupboard door is open . 104566_106836
+%mor:	cconj|and noun|ofcourse det|that-Def-Dem-Sing noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|7|NSUBJ 6|7|COP 7|2|ACL-RELCL 8|2|PUNCT
+*PAR:	if it &+h hadn't been opened why maybe he wouldn't ha(ve) gotten his cookies . 106882_110352
+%mor:	sconj|if pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr~part|not aux|be-Part-Past-S-irr verb|open-Part-Past-S adv|why adv|maybe pron|he-Prs-Nom-S3 aux|would-Fin-S~part|not aux|have-Inf-S verb|get-Part-Past-S-irr pron|his-Prs-Gen-S3 noun|cookie-Plur-Acc .
+%gra:	1|6|MARK 2|6|NSUBJ-PASS 3|6|AUX 4|6|ADVMOD 5|6|AUX-PASS 6|13|ADVCL 7|6|ADVMOD 8|13|ADVMOD 9|13|NSUBJ 10|13|AUX 11|13|ADVMOD 12|13|AUX 13|0|ROOT 14|15|NMOD-POSS 15|13|OBJ 16|13|PUNCT
+*INV:	&=laughs (.) anything else ? 114710_115660
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	well ‡ &=clears:throat otherwise it's [/] it's &-uh except for the &+a two accidents it's &-uh not too bad . 120194_136734
+%mor:	intj|well punct|‡ adv|otherwise pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|except adp|for det|the-Def-Art num|two noun|accident-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adv|too adj|bad-S1 .
+%gra:	1|10|DISCOURSE 2|10|DISCOURSE 3|10|ADVMOD 4|10|NSUBJ 5|10|COP 6|10|CASE 7|10|CASE 8|10|DET 9|10|NUMMOD 10|0|ROOT 11|15|NSUBJ 12|15|COP 13|15|ADVMOD 14|15|ADVMOD 15|10|ACL-RELCL 16|10|PUNCT
+*PAR:	but the boy hasn't gotten down to his fall yet . [+ cir] 138223_141373
+%mor:	cconj|but det|the-Def-Art noun|boy aux|have-Fin-Ind-Pres-S3~part|not verb|get-Part-Past-S-irr adp|down adp|to pron|his-Prs-Gen-S3 noun|fall adv|yet .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|6|OBL 11|6|ADVMOD 12|6|PUNCT
+*INV:	(.) is that it ? 146768_147078
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	that's the way with boys you_know . [+ exc] 147100_148850
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|way adp|with noun|boy-Plur adv|youknow .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|ADVMOD 8|4|PUNCT
+*INV:	+< &=laughs .
+@End

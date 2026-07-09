@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002503-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;|male|MCI||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	120-2, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 380_1340
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well the boy is getting some cookies handing one to his sister . 1364_4774
+%mor:	intj|well det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc verb|hand-Ger-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|ACL 9|8|OBJ 10|12|CASE 11|12|NMOD-POSS 12|8|OBL 13|5|PUNCT
+*PAR:	his sister is shushing so that the mother won't turn around and see . 4795_8915
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|shush-Part-Pres-S sconj|so sconj|that det|the-Def-Art noun|mother aux|will-Fin-S~part|not verb|turn-Inf-S adv|around cconj|and verb|see-Inf-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|11|MARK 6|5|FIXED 7|8|DET 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|4|ADVCL 12|11|ADVMOD 13|14|CC 14|11|CONJ 15|4|PUNCT
+*PAR:	the stool is going to tip over . 9458_10908
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|tip-Inf-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+*PAR:	it won't be very quiet . 10928_12108
+%mor:	pron|it-Prs-Nom-S3 aux|will-Fin-S~part|not aux|be-Inf-S adv|very adj|quiet-S1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|ADVMOD 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	and &-uh the mother is washing the dishes &=laughs as the sink is running over and spilling on the floor . 13018_19988
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|as det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and verb|spill-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|12|COMPOUND-PRT 14|15|CC 15|12|CONJ 16|18|CASE 17|18|DET 18|15|OBL 19|5|PUNCT
+*PAR:	&-uh and she's water [//] &-uh stepping in the moisture . 20803_26133
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|moisture .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	&-um any more action ? [+ exc] 27126_28796
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 noun|action ?
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	&-um outside there's nothing special going on in the way of action . 31289_36459
+%mor:	adv|outside pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|nothing-Neg-S1 adj|special-S1 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|way adp|of noun|action .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|12|CASE 12|10|NMOD 13|3|PUNCT
+*PAR:	and that's all the action I see . [+ exc] 39158_40978
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET-PREDET 5|6|DET 6|0|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|6|PUNCT
+*INV:	okay that's fine . 42900_43630
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	mhm okay . [+ exc] 43818_44638
+%mor:	intj|mhm intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

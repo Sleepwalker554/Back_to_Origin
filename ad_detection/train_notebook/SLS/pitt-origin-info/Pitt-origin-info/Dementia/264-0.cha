@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002589-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	264-0, audio
+@G:	Cookie
+*INV:	what do you see going on in that picture ? 150_1870
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+*PAR:	oh yeah . [+ exc] 3095_4325
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	kid's climbin(g) up on the stool and reachin(g) up in the cupboard . [+ gram] 4635_8505
+%mor:	noun|kid~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up adp|on det|the-Def-Art noun|stool cconj|and verb|reach-Part-Pres-S adp|up adp|in det|the-Def-Art noun|cupboard .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|9|CC 9|3|CONJ 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|3|PUNCT
+*PAR:	they aren't gonna knock things off . 9185_11085
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3~part|not verb|go-Part-Pres-S~part|to verb|knock-Inf-S noun|thing-Plur-Acc adp|off .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|6|COMPOUND-PRT 9|4|PUNCT
+*PAR:	and &-uh <the mother> [//] oh_boy the water's all spillin(g) out o(f) the sink . 12725_17305
+%mor:	cconj|and noun|ohboy det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|all verb|spill-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|7|NSUBJ 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|11|CASE 9|11|CASE 10|11|DET 11|7|OBL 12|7|PUNCT
+*PAR:	she's just looking at it like +"/. 19255_20865
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|look-Part-Pres-S adp|at pron|it-Prs-Acc-S3 adp|like +"/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|DISCOURSE 8|4|PUNCT
+*PAR:	+" oh for goodness sakes . 21390_23400
+%mor:	intj|oh adp|for noun|goodness noun|sake-Plur .
+%gra:	1|4|DISCOURSE 2|4|CASE 3|4|COMPOUND 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) huh . [+ exc] 27144_27234
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ? 28263_29473
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	&-uh &-hm (...) well ‡ as I say that [//] &-uh you_know the boy <on the &+s stand [: stool] [* s:r-ret] or> [//] on that stool and it's tiltin(g) . [+ gram] 30250_49650
+%mor:	intj|well noun|‡ sconj|as pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 verb|youknow-Fin-S det|the-Def-Art noun|boy-Acc adp|on det|that-Def-Dem-Sing noun|stool cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|5|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|15|CC 13|15|NSUBJ 14|15|AUX 15|6|CONJ 16|2|PUNCT
+*PAR:	that's a good way to break his neck . [+ exc] 50343_52003
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|way part|to verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|7|MARK 7|5|ACL 8|9|NMOD-POSS 9|7|OBJ 10|5|PUNCT
+*PAR:	break his back „ I shoulda said . [+ gram] 53111_55181
+%mor:	verb|break-Fin-Imp-S pron|his-Prs-Gen-S3 noun|back-Acc punct|„ pron|I-Prs-Nom-S1 adv|shoulda verb|say-Fin-Ind-Past-S1-irr .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|7|PUNCT 5|7|NSUBJ 6|7|ADVMOD 7|1|PARATAXIS 8|1|PUNCT
+*PAR:	woman left her faucet running . 60794_62984
+%mor:	noun|woman verb|leave-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|faucet noun|running-Acc-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*PAR:	and it rolled over the floor . 62999_65119
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|roll-Fin-Ind-Past-S3 adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	that's bad enough for me to do . [+ exc] 66462_67762
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|bad-S1 adv|enough sconj|for pron|I-Prs-Acc-S1 part|to verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|ADVMOD 5|8|MARK 6|8|NSUBJ 7|8|MARK 8|3|ADVCL 9|3|PUNCT
+*INV:	&=laughs is that it ? 69512_70612
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	&-um let me scan it a little bit more . [+ exc] 71753_77163
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|scan-Inf-S pron|it-Prs-Acc-S3 det|a-Ind-Art adj|little-S1 noun|bit adj|more-Cmp-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|7|DET 6|7|AMOD 7|8|OBL-UNMARKED 8|3|ADVMOD 9|1|PUNCT
+*PAR:	&-uh (...) oh ‡ it's there more in time ? [+ exc] 83889_93969
+%mor:	intj|oh punct|‡ pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 adp|in noun|time ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*INV:	+< no [/] no that's all . 94229_94779
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	+< oh [/] oh . [+ exc] 94680_94850
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	no it's that one . 95342_95772
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing num|one .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*INV:	is that it ? 96205_96755
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	yeah . [+ exc] 97221_97401
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 97811_98181
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/t-00002350-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	225-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	oh yeah . 1350_1800
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	okay . [+ exc] 3463_4183
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the mother is washing or drying the dishes . 4389_8229
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S cconj|or verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR:	the water is overflowing onto the floor . 8281_12351
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	the little boy is almost falling off of the stool and is getting a cookie . 14266_18456
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adv|almost verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool cconj|and aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|10|CASE 8|10|CASE 9|10|DET 10|6|OBL 11|13|CC 12|13|AUX 13|6|CONJ 14|15|DET 15|13|OBJ 16|6|PUNCT
+*PAR:	and &-uh he's giving it to his little sister . 19344_23134
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*PAR:	and &-uh (.) you can see the &-uh walk out the window . 25080_36880
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|walk-Acc adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|9|DET 9|4|OBJ 10|4|PUNCT
+*PAR:	the [/] the curtains are [//] seem to be &-uh shaking in the wind . 36900_44200
+%mor:	det|the-Def-Art noun|curtain-Plur verb|seem-Fin-Ind-Pres-P3 part|to aux|be-Inf-S verb|shake-Part-Pres-S adp|in det|the-Def-Art noun|wind .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|AUX 6|3|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*PAR:	the window is open . 44640_45790
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-um (..) a_lot_of water splashing on the floor . [+ gram] 48103_60783
+%com:	overlapping recording can be heard
+%mor:	cconj|and noun|alotof noun|water verb|splash-Ger-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|CC 2|3|COMPOUND 3|0|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*PAR:	(...) a &-uh woman is standing in the water . 62675_70565
+%mor:	det|a-Ind-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	a wet floor . [+ gram] 71362_74342
+%mor:	det|a-Ind-Art adj|wet-S1 noun|floor .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	(.) the &-uh little girl is sort of motioning (.) &-uh her brother to be quiet so the mother won't know he's getting a cookie out_of the jar . 74516_97456
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 noun|sort sconj|of verb|motion-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother-Acc part|to aux|be-Inf-S adj|quiet-S1 sconj|so det|the-Def-Art noun|mother aux|will-Fin-S~part|not verb|know-Inf-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|jar-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|5|FIXED 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|12|MARK 11|12|COP 12|7|XCOMP 13|18|MARK 14|15|DET 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|7|ADVCL 19|21|NSUBJ 20|21|AUX 21|18|CCOMP 22|24|DET 23|24|COMPOUND 24|21|OBJ 25|26|DET 26|21|OBJ 27|7|PUNCT
+*PAR:	and she's reaching up to &-uh get the cookie that he's handing her . 99174_106684
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|her-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|MARK 7|4|ADVCL 8|9|DET 9|7|OBJ 10|13|OBJ 11|13|NSUBJ 12|13|AUX 13|9|ACL-RELCL 14|13|OBJ 15|4|PUNCT
+*PAR:	(..) the woman has a dish cloth in her hand wiping <the dishes> [//] the one dish . 109563_122603
+%mor:	det|the-Def-Art noun|woman verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish noun|cloth-Acc adp|in pron|her-Prs-Gen-S3 noun|hand verb|wipe-Part-Pres-S det|the-Def-Art num|one noun|dish-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|3|ADVCL 11|13|DET 12|13|NUMMOD 13|10|OBJ 14|3|PUNCT
+*PAR:	(.) that's about as much as I see . [+ exc] 124882_130582
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about adv|as adj|much-S1 sconj|as pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|5|PUNCT
+*INV:	okay that's fine . 131481_131851
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00002478-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	065-0, audio
+@G:	Cookie
+*INV:	okay here's the picture . 780_1880
+%mor:	intj|okay adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*PAR:	&-um a [/] &+g a girl is putting her finger up to her mouth and her &+ar arm up &-uh towards the &-uh boy . 4099_16659
+%mor:	det|a-Ind-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth cconj|and pron|her-Prs-Gen-S3 noun|arm adp|up adp|towards det|the-Def-Art noun|boy .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|4|OBL 11|13|CC 12|13|NMOD-POSS 13|10|CONJ 14|13|ADVMOD 15|17|CASE 16|17|DET 17|14|OBL 18|4|PUNCT
+*PAR:	the boy is on a ladder [: stool] [* s:r] and the ladder [* s:r] is about to go down . 17152_22652
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool cconj|and det|the-Def-Art noun|ladder aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|go-Inf-S adv|down .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|11|CC 8|9|DET 9|11|NSUBJ 10|11|COP 11|6|CONJ 12|13|MARK 13|11|XCOMP 14|13|ADVMOD 15|6|PUNCT
+*PAR:	and he has &-uh something [//] a cookie in his left hand . 23390_26930
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|5|NMOD 10|3|PUNCT
+*PAR:	and he has his right hand is in the cookie jar . 27331_31191
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 adj|right-S1 noun|hand-Acc aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NMOD-POSS 5|6|AMOD 6|3|OBJ 7|11|COP 8|11|CASE 9|11|DET 10|11|COMPOUND 11|3|CCOMP 12|3|PUNCT
+*PAR:	the [/] &+c the lid of the &+c cookie jar is off the jar . 31487_35407
+%mor:	det|the-Def-Art noun|lid adp|of det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|jar .
+%gra:	1|2|DET 2|10|NSUBJ 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|10|PUNCT
+*PAR:	&-uh &+h he's [//] and the cupboard door is open . 37385_40905
+%mor:	cconj|and det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	but that's not an action is it ? [+ exc] 42491_43801
+%mor:	cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art noun|action aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET 6|0|ROOT 7|6|COP 8|6|PARATAXIS 9|6|PUNCT
+*PAR:	&-uh the [//] &-um &+g there's a girl standing in front of the &-uh &-uh sink and &-uh &-uh drying a plate . 44442_55362
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl verb|stand-Ger-S adp|in noun|front adp|of det|the-Def-Art noun|sink cconj|and verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|7|CASE 7|5|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|12|CC 12|5|CONJ 13|14|DET 14|12|OBJ 15|2|PUNCT
+*PAR:	&-uh and the water is running <in the> [/] in the sink and onto the floor . 55584_61294
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|in det|the-Def-Art noun|sink cconj|and adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CC 10|12|CASE 11|12|DET 12|8|CONJ 13|5|PUNCT
+*PAR:	and (.) it's [/] it's [/] &+j it's [//] I can't tell if it's raining outside &=laughs or not . 63273_76343
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|tell-Inf-S sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|rain-Part-Pres-S adv|outside cconj|or part|not .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|9|ADVMOD 11|12|CC 12|9|CONJ 13|5|PUNCT
+*INV:	+< &=laughs .
+*PAR:	guess I wouldn't get it outside the window . [+ exc] 77050_78810
+%mor:	verb|guess-Fin-Imp-S pron|I-Prs-Nom-S1 aux|would-Fin-S~part|not verb|get-Inf-S pron|it-Prs-Acc-S3 adp|outside det|the-Def-Art noun|window .
+%gra:	1|0|ROOT 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|1|CCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	okay . [+ exc] 79029_79189
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay great . 79433_80273
+%mor:	intj|okay adj|great-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

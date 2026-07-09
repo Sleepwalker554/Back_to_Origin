@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/a-00019499-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	291-2, audio
+@G:	Cookie
+*INV:	www .
+%exp:	finish previous task
+*INV:	all that you see going on in the picture ? 1997_3617
+%mor:	det|all-Def-Tot pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	alright . [+ exc] 3715_4235
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	you tell me +/. 6098_6788
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|2|PUNCT
+*PAR:	+< oh . [+ exc] 6517_6787
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the &-uh boy (i)s in the cookie jar (.) handing a cookie to his sister . 6940_13020
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar verb|hand-Part-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|ACL 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|7|PUNCT
+*PAR:	mother is drying dishes . 16224_19044
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	her sink is spilling over . 20146_21966
+%mor:	pron|her-Prs-Gen-S3 noun|sink aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*INV:	(...) any [//] &+oth anything else you see going on in the picture +/? 29759_32378
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture +/?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	+< the stool the boy is on is tilting . 32185_34895
+%mor:	det|the-Def-Art noun|stool det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|8|NSUBJ 3|4|DET 4|6|NSUBJ 5|6|COP 6|2|ACL-RELCL 7|8|COP 8|0|ROOT 9|8|PUNCT
+*PAR:	I said the sink's running over „ I think . [+ exc] 37197_39437
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over punct|„ pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|6|COMPOUND-PRT 8|10|PUNCT 9|10|NSUBJ 10|2|CCOMP 11|2|PUNCT
+*PAR:	no . [+ exc] 49467_49947
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ that's fine . 50294_50874
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

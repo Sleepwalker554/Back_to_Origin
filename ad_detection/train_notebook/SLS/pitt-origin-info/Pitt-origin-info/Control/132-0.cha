@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002287-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|58;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	132-0, audio
+@G:	Cookie
+*INV:	there we go . 670_1030
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	that's it . [+ exc] 1207_1677
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	(o)kay ‡ the boy is in the cookie jar and giving them to his sister . 3348_6988
+%mor:	intj|okay punct|‡ det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar cconj|and verb|give-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|9|DISCOURSE 2|9|DISCOURSE 3|4|DET 4|9|NSUBJ 5|9|COP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|0|ROOT 10|11|CC 11|9|CONJ 12|11|IOBJ 13|15|CASE 14|15|NMOD-POSS 15|11|OBL 16|9|PUNCT
+*PAR:	mother's washing the dishes . 8576_9886
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the water's overflowing in the sink . 10000_12340
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	the boy is falling off the stool . 13155_15415
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	&-uh the girl is eating a cookie asking for another . 16786_20816
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S det|a-Ind-Art noun|cookie-Acc verb|ask-Ger-S adp|for det|another-Def-Ind .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|ACL 8|9|CASE 9|7|OBL 10|4|PUNCT
+*PAR:	&-uh the cover's off the cookie jar . 22796_24886
+%mor:	det|the-Def-Art noun|cover~aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	door to the cabinet is open . [+ gram] 26746_27736
+%mor:	noun|door adp|to det|the-Def-Art noun|cabinet aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|6|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	&-uh the window outside is open . 29267_31187
+%mor:	det|the-Def-Art noun|window adv|outside aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|2|ADVMOD 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	the yard . [+ gram] 31843_32253
+%mor:	det|the-Def-Art noun|yard .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	the mother is impervious of what's going on . 34567_37137
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adj|impervious-S1 adp|of pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|AUX 8|6|ACL-RELCL 9|8|COMPOUND-PRT 10|4|PUNCT
+*PAR:	she's unconscious just standing in the water and wiping the dishes . 38486_42946
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|unconscious-S1 adv|just verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water cconj|and verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|ADVMOD 5|3|ADVCL 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|5|CONJ 11|12|DET 12|10|OBJ 13|3|PUNCT
+*PAR:	(.) that's about it . [+ exc] 44092_48922
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 49872_49962
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the wind might be blowing near the curtain . 50875_52495
+%mor:	det|the-Def-Art noun|wind aux|might-Fin-S aux|be-Inf-S verb|blow-Part-Pres-S adp|near det|the-Def-Art noun|curtain .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*INV:	okey_dok(ey) . 56340_56900
+%mor:	propn|okeydokey .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

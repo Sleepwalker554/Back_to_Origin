@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/t-00002209-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;00.|male|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	034-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'm gonna have you take a look at this picture . 30_1960
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|have-Inf-S pron|you-Prs-Nom-S2 verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|XCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*INV:	and tell me everything that you see happening in that picture . 2599_5489
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*INV:	everything that's going on in there . 5511_7271
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+*PAR:	tell you everything that's going on ? [+ exc] 13320_14850
+%mor:	verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|COMPOUND-PRT 8|1|PUNCT
+*INV:	mhm . 14867_15157
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a little girl asking her brother for a cookie . 16586_19366
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl verb|ask-Ger-S pron|her-Prs-Gen-S3 noun|brother adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|8|NMOD-POSS 8|6|IOBJ 9|11|CASE 10|11|DET 11|6|OBL 12|2|PUNCT
+*PAR:	<he is on a &+s step> [//] he's on a high stepstool reaching up high for the cookies . 19390_27010
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art adj|high-S1 noun|stepstool verb|reach-Ger-S adp|up adj|high-S1 adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|ACL 8|7|COMPOUND-PRT 9|7|ADVMOD 10|12|CASE 11|12|DET 12|7|OBL 13|6|PUNCT
+*PAR:	and the stool is going out from under him . 27655_31575
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|out adp|from adp|under pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|CASE 9|5|OBL 10|5|PUNCT
+*PAR:	he is going to fall . 31640_32870
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*PAR:	the mother is washing dishes and not paying attention . 34754_39704
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and part|not verb|pay-Part-Pres-S noun|attention-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CC 7|8|ADVMOD 8|4|CONJ 9|8|OBJ 10|4|PUNCT
+*PAR:	<the sink> [//] the water in the sink is overflowing . 40070_43550
+%mor:	det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|COP 7|0|ROOT 8|7|PUNCT
+*PAR:	she doesn't seem to be aware of it . 44685_46285
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S adj|aware-S1 adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+*PAR:	the [//] through the window we can see a walkway then a grassy area and another part of the house maybe a garage . 49122_62082
+%mor:	adp|through det|the-Def-Art noun|window pron|we-Prs-Nom-P1 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|walkway-Acc adv|then det|a-Ind-Art adj|grassy-S1 noun|area cconj|and det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house adv|maybe det|a-Ind-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|12|ADVMOD 10|12|DET 11|12|AMOD 12|8|APPOS 13|15|CC 14|15|DET 15|8|CONJ 16|18|CASE 17|18|DET 18|15|NMOD 19|21|ADVMOD 20|21|DET 21|15|APPOS 22|6|PUNCT
+*PAR:	there's two [/] &+sau two cups and a plate on a kitchen counter . 65239_71050
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|a-Ind-Art noun|kitchen noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|2|PUNCT
+*PAR:	(..) the cookie jar is full . 75756_77176
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|full-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and the boy has the lid off and has one cookie in his hand . 77657_81797
+%mor:	cconj|and det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Acc adp|off cconj|and verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|9|CC 9|4|CONJ 10|11|NUMMOD 11|9|OBJ 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|4|PUNCT
+*PAR:	that's it . [+ exc] 83806_84216
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 84354_84694
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you . 85131_86141
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

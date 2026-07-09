@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002415-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	686-0, audio
+@G:	Cookie
+*INV:	take a look at that and tell me everything that you see happening in that picture , everything that's going on . 4260_9290
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at pron|that-Dem cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|7|CC 7|1|CONJ 8|7|IOBJ 9|7|OBJ 10|13|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|12|XCOMP 14|16|CASE 15|16|DET 16|13|OBL 17|18|PUNCT 18|9|APPOS 19|21|NSUBJ 20|21|AUX 21|18|ACL-RELCL 22|21|COMPOUND-PRT 23|1|PUNCT
+*PAR:	well the little girl is reaching for a cookie . 9800_11730
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	and the boy is on a stool which is falling over to get in the cookie jar up on the second shelf of the cupboard with the door open . 11750_18700
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over part|to verb|get-Inf-S adp|in det|the-Def-Art noun|cookie noun|jar adv|up adp|on det|the-Def-Art adj|second-S1 noun|shelf adp|of det|the-Def-Art noun|cupboard adp|with det|the-Def-Art noun|door adj|open-S1 .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|ADVMOD 12|13|MARK 13|10|ADVCL 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|OBL 18|13|ADVMOD 19|22|CASE 20|22|DET 21|22|AMOD 22|13|OBL 23|25|CASE 24|25|DET 25|22|NMOD 26|29|CASE 27|28|DET 28|29|NSUBJ 29|22|ACL 30|7|PUNCT
+*PAR:	the faucet is running and it's overflowing onto the floor because &-um it's overflowing into the sink . 18750_25270
+%mor:	det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|into det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CC 6|8|NSUBJ 7|8|AUX 8|4|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|15|MARK 13|15|NSUBJ 14|15|AUX 15|8|ADVCL 16|18|CASE 17|18|DET 18|15|OBL 19|4|PUNCT
+*PAR:	the woman is drying a plate . 26010_28300
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	she's also looking out the window . 29014_31064
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR:	there's a couple of bowls and a plate on the &-uh counter . 31111_36051
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|couple adp|of noun|bowl-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|4|NMOD 7|9|CC 8|9|DET 9|6|CONJ 10|12|CASE 11|12|DET 12|9|NMOD 13|2|PUNCT
+*PAR:	curtains at the windows . [+ gram] 37173_38583
+%mor:	noun|curtain-Plur adp|at det|the-Def-Art noun|window-Plur .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	there's a driveway or it looks like a driveway outside . 38692_41582
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|driveway cconj|or pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|driveway adv|outside .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|NSUBJ 7|2|CONJ 8|10|CASE 9|10|DET 10|7|OBL 11|7|ADVMOD 12|2|PUNCT
+*PAR:	and you can see another window and some bushes out there and the tree . 41600_46090
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|another-Def-Ind noun|window-Acc cconj|and det|some-Def-Ind noun|bush-Plur adv|out adv|there cconj|and det|the-Def-Art noun|tree .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|11|ADVMOD 11|4|ADVMOD 12|14|CC 13|14|DET 14|6|CONJ 15|4|PUNCT
+*PAR:	and <I guess that's> [//] &+pa looks like a <part of the garage> [//] window of the garage out there . [+ gram] 47208_51668
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|window adp|of det|the-Def-Art noun|garage adp|out adv|there .
+%gra:	1|2|CC 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|10|ADVMOD 10|2|ADVMOD 11|2|PUNCT
+*PAR:	and &-uh &-um the cookie jar has the lid off . 52633_58483
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|lid-Acc adp|off .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|5|PUNCT
+*PAR:	and the boy has one hand in the cookie jar and one with a cookie in it handing &-uh to the little girl who's got her hand up for it and her [//] she looks like got her finger to mouth tell him to be careful &=laughs . 58560_69550
+%mor:	cconj|and det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 num|one noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar cconj|and num|one adp|with det|a-Ind-Art noun|cookie adp|in pron|it-Prs-Acc-S3 verb|hand-Ger-S adp|to det|the-Def-Art adj|little-S1 noun|girl pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|for pron|it-Prs-Acc-S3 cconj|and pron|she-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|finger-Acc adp|to noun|mouth verb|tell-Inf-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|careful-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|NUMMOD 6|4|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|4|OBL 11|18|CC 12|6|CONJ 13|15|CASE 14|15|DET 15|12|NMOD 16|17|CASE 17|15|NMOD 18|4|ADVCL 19|22|CASE 20|22|DET 21|22|AMOD 22|18|OBL 23|25|NSUBJ 24|25|AUX 25|22|ACL-RELCL 26|27|NMOD-POSS 27|25|OBJ 28|25|COMPOUND-PRT 29|30|CASE 30|25|OBL 31|33|CC 32|33|NSUBJ 33|4|CONJ 34|35|MARK 35|33|ADVCL 36|37|NMOD-POSS 37|35|OBJ 38|39|CASE 39|35|OBL 40|33|XCOMP 41|40|IOBJ 42|44|MARK 43|44|COP 44|40|XCOMP 45|4|PUNCT
+*INV:	okay good . 71874_72814
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

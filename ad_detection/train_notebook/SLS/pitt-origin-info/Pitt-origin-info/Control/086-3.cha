@@ -1,0 +1,72 @@
+@UTF8
+@PID:	11312/t-00002241-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	086-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	to look at this picture and tell me everything you see going on in this picture . 590_5180
+%mor:	part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|MARK 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|2|CONJ 8|7|IOBJ 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|11|XCOMP 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|2|PUNCT
+*INV:	tell me everything you see happening . 5203_7033
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|1|PUNCT
+*PAR:	well ‡ a little boy has gotten up to get cookies . 8042_10452
+%mor:	intj|well punct|‡ det|a-Ind-Art adj|little-S1 noun|boy aux|have-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adp|up part|to verb|get-Inf-S noun|cookie-Plur-Acc .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|COMPOUND-PRT 9|10|MARK 10|7|ADVCL 11|10|OBJ 12|7|PUNCT
+*PAR:	he's giving his sister one but in the meantime he's falling off the chair [: stool] [* s:r] . 10500_15320
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|his-Prs-Gen-S3 noun|sister-Acc num|one cconj|but adp|in det|the-Def-Art noun|meantime pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|OBJ 7|13|CC 8|10|CASE 9|10|DET 10|13|OBL 11|13|NSUBJ 12|13|AUX 13|3|CONJ 14|16|CASE 15|16|DET 16|13|OBL 17|3|PUNCT
+*PAR:	she's reaching out for the cookie . 15344_17174
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|out adp|for det|the-Def-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	the lid's off the cookie jar so he's in there . 17743_20183
+%mor:	det|the-Def-Art noun|lid~aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar sconj|so pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adv|there .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|CASE 12|7|ADVCL 13|7|PUNCT
+*PAR:	and the mother is washing the dishes but she's letting the sink run over . 20786_24736
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|run-Inf-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|CC 9|11|NSUBJ 10|11|AUX 11|5|CONJ 12|13|DET 13|11|OBJ 14|11|XCOMP 15|14|COMPOUND-PRT 16|5|PUNCT
+*PAR:	she has more dishes to do I think . 25612_27752
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|dish-Plur-Acc part|to verb|do-Inf-S pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|6|MARK 6|4|ACL 7|8|NSUBJ 8|2|PARATAXIS 9|2|PUNCT
+*PAR:	maybe not . [+ gram] 27834_28424
+%mor:	adv|maybe part|not .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	maybe they're clean . 28729_29749
+%mor:	adv|maybe pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|clean-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and outside the window it's a lovely day . 30492_34892
+%mor:	cconj|and adp|outside det|the-Def-Art noun|window pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|lovely-S1 noun|day .
+%gra:	1|9|CC 2|4|CASE 3|4|DET 4|9|OBL 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|0|ROOT 10|9|PUNCT
+*PAR:	and everything has leaves on it so it must be summer . 34937_37977
+%mor:	cconj|and pron|everything-Tot-S1 aux|have-Fin-Ind-Pres-S3 noun|leave-Plur adp|on pron|it-Prs-Acc-S3 sconj|so pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S noun|summer .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|COP 11|4|PARATAXIS 12|4|PUNCT
+*PAR:	and &-um I guess that's about it . [+ exc] 39290_44410
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|3|PUNCT
+*PAR:	do you wanna know about their clothes or anything ? [+ exc] 44460_46410
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|know-Inf-S adp|about pron|their-Prs-Gen-P3 noun|clothes-Ptan cconj|or pron|anything-Ind-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|CC 10|8|CONJ 11|3|PUNCT
+*INV:	+< &-hmhunh . 46220_46560
+*INV:	just what's happening . [+ exc] 46753_47423
+%mor:	adv|just pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|AUX 4|2|ACL-RELCL 5|2|PUNCT
+*PAR:	+< no that's it . [+ exc] 46782_47352
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	that's all . [+ exc] 47882_48492
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	+< okay . 48012_48122
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you . 48783_49123
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc] 49139_49899
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

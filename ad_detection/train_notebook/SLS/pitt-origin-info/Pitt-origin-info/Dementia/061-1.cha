@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002475-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|male|MCI||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	061-1, audio
+@G:	Cookie
+*PAR:	movement of any kind or whatever ? [+ exc] 450_1860
+%mor:	noun|movement adp|of det|any-Def-Ind noun|kind cconj|or pron|whatever-Int-S1 ?
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|CC 6|4|CONJ 7|1|PUNCT
+*INV:	mhm what's going on in the picture . 2361_3971
+%mor:	intj|mhm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	well ‡ he's reachin(g) for the cookie &=laughs but he's handing the cookie to her . 5807_8657
+%mor:	intj|well punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|cookie-Acc adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|5|CONJ 13|14|DET 14|12|OBJ 15|16|CASE 16|12|OBL 17|5|PUNCT
+*PAR:	in the [/] the meantime the stool is falling over &*INV:mhm . 8777_11287
+%mor:	adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|ADVMOD 9|7|PUNCT
+*PAR:	and &-uh she's dryin(g) dishes . 13329_17309
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	and the sink is running over and all that kind of stuff . 17402_21732
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and det|all-Def-Tot det|that-Def-Dem-Sing noun|kind adp|of noun|stuff .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|10|CC 8|10|DET-PREDET 9|10|DET 10|5|CONJ 11|12|CASE 12|10|NMOD 13|5|PUNCT
+*PAR:	she's xxx . [+ exc] 22886_23006
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	the little girl she's &-uh motioning for a cookie „ I guess . 27831_31411
+%mor:	det|the-Def-Art adj|little-S1 noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|motion-Part-Pres-S adp|for det|a-Ind-Art noun|cookie punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|12|PUNCT 11|12|NSUBJ 12|6|PARATAXIS 13|3|PUNCT
+*PAR:	that's all I see . [+ exc] 33301_33601
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*INV:	anything else ? 36340_36610
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	xxx I don't see xxx . [+ exc] 39638_45988
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	&*INV:okay_that's_fine he's flying on his can . 53766_54906
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fly-Part-Pres-S adp|on pron|his-Prs-Gen-S3 noun|can .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*PAR:	I can see that . [+ exc] 55130_55740
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	okay good . 57178_57748
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

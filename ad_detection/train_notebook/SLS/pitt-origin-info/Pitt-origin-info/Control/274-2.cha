@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/t-00002380-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	274-2, audio
+@G:	Cookie
+*INV:	what you see happening in that picture . 190_2270
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*INV:	everything that's going on in there . 2473_4093
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+*PAR:	&=tapping well this happens to be a kitchen . 6897_8747
+%mor:	intj|well pron|this-Dem-S1 verb|happen-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|a-Ind-Art noun|kitchen .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|COP 6|7|DET 7|3|XCOMP 8|3|PUNCT
+*PAR:	and the mother of the house is washing the dishes . 9295_12175
+%mor:	cconj|and det|the-Def-Art noun|mother adp|of det|the-Def-Art noun|house aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX 8|0|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+*PAR:	and the water is overflowing from the sink onto the floor . 12222_16842
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+*PAR:	and the &-uh two children evidently a brother and a sister are &-uh getting cookies out_of the cookie jar which is on the second shelf of the upper cupboard . 18286_26996
+%mor:	cconj|and det|the-Def-Art num|two noun|child-Plur adv|evidently det|a-Ind-Art noun|brother cconj|and det|a-Ind-Art noun|sister aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S noun|cookie-Plur-Acc verb|outaof-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art adj|second-S1 noun|shelf adp|of det|the-Def-Art adj|upper-S1 noun|cupboard .
+%gra:	1|12|CC 2|4|DET 3|4|NUMMOD 4|12|NSUBJ 5|12|ADVMOD 6|7|DET 7|12|NSUBJ 8|10|CC 9|10|DET 10|7|CONJ 11|12|AUX 12|0|ROOT 13|12|OBJ 14|12|XCOMP 15|17|DET 16|17|COMPOUND 17|14|OBJ 18|23|NSUBJ 19|23|COP 20|23|CASE 21|23|DET 22|23|AMOD 23|17|ACL-RELCL 24|27|CASE 25|27|DET 26|27|AMOD 27|23|NMOD 28|12|PUNCT
+*PAR:	and &-uh he's standing on a three legged stool and is losing its balance and about to fall on the floor . 27060_33740
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art num|three adj|legged-S1 noun|stool cconj|and aux|be-Fin-Ind-Pres-S3 verb|lose-Part-Pres-S pron|its-Prs-Gen-S3 noun|balance-Acc cconj|and adv|about part|to verb|fall-Inf-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|9|CASE 6|9|DET 7|9|NUMMOD 8|9|AMOD 9|4|OBL 10|12|CC 11|12|AUX 12|4|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|18|CC 16|18|ADVMOD 17|18|MARK 18|12|CONJ 19|21|CASE 20|21|DET 21|18|OBL 22|4|PUNCT
+*INV:	okay good . 34539_38419
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

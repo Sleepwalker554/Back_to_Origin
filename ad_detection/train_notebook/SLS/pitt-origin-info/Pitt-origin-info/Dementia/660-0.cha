@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002717-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|PossibleAD||Participant|12||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	660-0, audio
+@G:	Cookie
+*INV:	going on in the picture ? 50_1130
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	I see the little boy's down here +/. 1743_3413
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adp|down adv|here +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|2|CCOMP 9|2|PUNCT
+*INV:	+< okay . 4580_5040
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+, getting the [/] the food . 5430_6580
+%mor:	verb|get-Part-Pres-S det|the-Def-Art noun|food-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	and the little girl down here is the same way . 6600_8720
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl adv|down adv|here aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|same-S1 noun|way .
+%gra:	1|10|CC 2|4|DET 3|4|AMOD 4|10|NSUBJ 5|6|ADVMOD 6|4|ADVMOD 7|10|COP 8|10|DET 9|10|AMOD 10|0|ROOT 11|10|PUNCT
+*PAR:	<this little boy> [//] this is falling over . 9079_10969
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*INV:	mhm . 11587_11747
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and this little girl she's just getting [/] (.) getting things ready for dinner . 12350_20160
+%mor:	cconj|and det|this-Def-Dem-Sing adj|little-S1 noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|get-Part-Pres-S noun|thing-Plur-Acc adj|ready-S1 adp|for noun|dinner .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|DISLOCATED 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|8|OBJ 10|8|XCOMP 11|12|CASE 12|10|OBL 13|8|PUNCT
+*INV:	what else is happening over here ? 21096_22546
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	food dropped . 23659_24959
+%mor:	noun|food verb|drop-Fin-Ind-Past-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 25890_26590
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I think it did . [+ exc] 26870_27620
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*PAR:	yes it did . [+ exc] 27850_28600
+%mor:	intj|yes pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 29010_29700
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

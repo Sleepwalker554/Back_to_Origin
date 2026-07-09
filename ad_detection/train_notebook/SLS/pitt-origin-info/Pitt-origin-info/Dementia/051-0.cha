@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002462-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|female|ProbableAD||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:47:41-04:00]
+@Media:	051-0, audio
+@G:	Cookie
+*INV:	I want you to tell me all of the action that's going on in that picture . 40_3710
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|2|PUNCT
+*PAR:	first of all the little girl's saying +"/. 4523_5613
+%mor:	adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|saying-Part-Pres-S +"/.
+%gra:	1|8|OBJ 2|8|CASE 3|6|DET-PREDET 4|6|DET 5|6|AMOD 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|PUNCT
+*PAR:	+" shh@o . 5804_6234
+%mor:	on|shh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and [/] and he's climbing up to get a cookie . 7638_11468
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S adp|up part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|MARK 7|4|ADVCL 8|9|DET 9|7|OBJ 10|4|PUNCT
+*PAR:	and he's going to fall . 11640_13480
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	and the stool is on [//] tipping . 14222_16202
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the water is running over in the sink . 17433_19463
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	&-uh (.) the towel seems to go in one side and out the other side of the dish . 21032_29012
+%mor:	det|the-Def-Art noun|towel verb|seem-Fin-Ind-Pres-S3 part|to verb|go-Inf-S adp|in num|one noun|side cconj|and adp|out det|the-Def-Art adj|other-S1 noun|side adp|of det|the-Def-Art noun|dish .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|NUMMOD 8|5|OBL 9|13|CC 10|13|CASE 11|13|DET 12|13|AMOD 13|8|CONJ 14|16|CASE 15|16|DET 16|13|NMOD 17|3|PUNCT
+*PAR:	oh that's part of the curtain I guess . 31443_32853
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|part adp|of det|the-Def-Art noun|curtain pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|9|NSUBJ 9|7|ACL-RELCL 10|4|PUNCT
+*PAR:	that's what it is . 33022_33462
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*PAR:	that's part of the curtain &=laughs . 33508_34478
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|part adp|of det|the-Def-Art noun|curtain .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	it looked like it &+c gone through here and come out here &=laughs . 34854_37524
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 sconj|like pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|through adv|here cconj|and verb|come-Fin-Ind-Pres-P3 adp|out adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|7|CASE 7|5|OBL 8|9|CC 9|5|CONJ 10|9|COMPOUND-PRT 11|9|ADVMOD 12|2|PUNCT
+*PAR:	ah . [+ exc] 38425_38735
+%mor:	intj|ah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	www .
+%exp:	bad audio screeching
+*PAR:	two cups and a dish . [+ gram] 46290_49060
+%mor:	num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|2|PUNCT
+*INV:	anything else ? 50231_50821
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	I don't see anything unusual . [+ exc] 50855_52985
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adj|unusual-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*INV:	okay that's fine . 53366_54626
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

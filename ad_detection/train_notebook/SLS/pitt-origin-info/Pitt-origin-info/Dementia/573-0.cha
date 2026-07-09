@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/t-00002688-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|female|MCI||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	573-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that you see happening in there . 30_3570
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|13|CASE 13|11|OBL 14|2|PUNCT
+*INV:	everything that you see going on in that picture . 4176_6536
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|5|OBL 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	alright . [+ exc] 7363_7943
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the young man is <stealing from the> [//] &+c trying to get cookies from the cookie jar . 8140_12480
+%mor:	det|the-Def-Art adj|young-S1 noun|man aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|5|PUNCT
+*PAR:	and she's standing laughing at him . 12500_13980
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S verb|laugh-Part-Pres-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|7|CASE 7|5|OBL 8|4|PUNCT
+*PAR:	and he's falling over . 14000_15050
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	and &-uh mama had an accident at the kitchen sink . 15767_19207
+%mor:	cconj|and noun|mama verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|accident-Acc adp|at det|the-Def-Art noun|kitchen noun|sink .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|NMOD 10|3|PUNCT
+*PAR:	either she's daydreaming or something wiping &-uh &-uh a dish . 19222_23512
+%mor:	cconj|either pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|daydream-Part-Pres-S cconj|or pron|something-Ind-S1 verb|wipe-Ger-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|4|CC-PRECONJ 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|6|ACL 8|9|DET 9|7|OBJ 10|4|PUNCT
+*PAR:	and that is overflowing the sink onto the floor and onto her feet . 24232_28812
+%mor:	cconj|and pron|that-Dem aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc adp|onto det|the-Def-Art noun|floor cconj|and adp|onto pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|13|CC 11|13|CASE 12|13|NMOD-POSS 13|9|CONJ 14|4|PUNCT
+*PAR:	and &-uh the window is open . 29668_31618
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and there are two cups and a dish on the counter . 32311_36072
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish adp|on det|the-Def-Art noun|counter .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR:	what else do you want me to tell you ? [+ exc] 36614_37744
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|8|IOBJ 10|5|PUNCT
+*PAR:	I_mean what did you want me to say ? [+ exc] 38385_39695
+%mor:	propn|Imean pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|say-Inf-S ?
+%gra:	1|5|VOCATIVE 2|8|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|5|PUNCT
+*INV:	+< just anything that's happening +/. 39775_40905
+%mor:	adv|just pron|anything-Ind-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S +/.
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|2|PUNCT
+*PAR:	+< what was it again ? [+ exc] 40630_41260
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 adv|again ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	anything that's happening ? [+ exc] 41314_42294
+%mor:	pron|anything-Ind-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S ?
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+*INV:	+< mhm . 42410_42680
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< oh . [+ exc] 42720_42760
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um well ‡ the window is open . 43340_45780
+%mor:	intj|well punct|‡ det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	I guess there's a breeze blowing but &-uh that's about all I can see actually happening . 45800_50790
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|breeze verb|blow-Ger-S cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adv|actually verb|happen-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|EXPL 4|2|CCOMP 5|6|DET 6|4|NSUBJ 7|4|XCOMP 8|12|CC 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|2|CONJ 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|17|ADVMOD 17|15|ADVCL 18|2|PUNCT
+*INV:	+< okay . 50280_50480
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	very good . [+ exc] 50812_51142
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*INV:	that's it . 52712_53182
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

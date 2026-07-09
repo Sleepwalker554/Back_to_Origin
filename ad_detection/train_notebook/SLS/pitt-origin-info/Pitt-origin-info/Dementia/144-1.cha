@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002515-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	144-1, audio
+@G:	Cookie
+*INV:	look at that picture and tell me what you see going on . 510_3020
+%mor:	verb|look-Fin-Imp-S adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CC 6|1|CONJ 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|1|PUNCT
+*PAR:	an average home that looks very much like ours at many times . [+ gram] 3717_8167
+%mor:	det|a-Ind-Art adj|average-S1 noun|home pron|that-Rel verb|look-Fin-Ind-Pres-S3 adv|very adv|much adp|like pron|our-Prs-P1 adp|at adj|many-S1 noun|time-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|ADVMOD 7|5|ADVMOD 8|9|CASE 9|5|OBL 10|12|CASE 11|12|AMOD 12|5|OBL 13|3|PUNCT
+*PAR:	<and the mother is> [//] well she's spilling her water which is not very good but she's doing [//] washing dishes and drying them . 8661_17361
+%mor:	intj|well pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S pron|her-Prs-Gen-S3 noun|water-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|good-S1 cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|11|NSUBJ 8|11|COP 9|11|ADVMOD 10|11|ADVMOD 11|6|ACL-RELCL 12|15|CC 13|15|NSUBJ 14|15|AUX 15|4|CONJ 16|15|OBJ 17|18|CC 18|15|CONJ 19|18|OBJ 20|4|PUNCT
+*PAR:	and one of the children upset the cookie jar . 17480_19660
+%mor:	cconj|and num|one adp|of det|the-Def-Art noun|child-Plur verb|upset-Fin-Ind-Past-S3-irr det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|0|ROOT 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|PUNCT
+*PAR:	and that's an [: a] [* f:p] very average thing to go in [: on] [* s:r] in a home . 20228_23228
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|average-S1 noun|thing-Ger part|to verb|go-Inf-S adp|on adp|in det|a-Ind-Art noun|home .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|DET 5|6|ADVMOD 6|7|AMOD 7|0|ROOT 8|9|MARK 9|7|ACL 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|7|PUNCT
+*PAR:	our home <is a very> [/] it's a very active family . [+ exc] 23834_28624
+%mor:	pron|our-Prs-Gen-P1 noun|home pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|active-S1 noun|family .
+%gra:	1|2|NMOD-POSS 2|8|NSUBJ 3|8|NSUBJ 4|8|COP 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*PAR:	and so that it makes it kinda hard at our house sometime because &-uh there's a_lot_of [//] &+ac like I said a_lot_of activity . [+ exc] 29193_37253
+%mor:	cconj|and sconj|so sconj|that pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adv|kinda adj|hard-S1 adp|at pron|our-Prs-Gen-P1 noun|house adv|sometime sconj|because pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 sconj|like pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr propn|alotof noun|activity-Acc .
+%gra:	1|5|CC 2|5|MARK 3|2|FIXED 4|5|NSUBJ 5|0|ROOT 6|5|EXPL 7|8|ADVMOD 8|5|XCOMP 9|11|CASE 10|11|NMOD-POSS 11|8|OBL 12|8|ADVMOD 13|15|MARK 14|15|EXPL 15|5|ADVCL 16|18|MARK 17|18|NSUBJ 18|15|ADVCL 19|20|COMPOUND 20|18|OBJ 21|5|PUNCT
+*INV:	okay you see anything else going on over here ? 39260_41460
+%mor:	intj|okay pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|over adv|here ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|3|PUNCT
+*PAR:	well the poor girl is spillin(g) the water on her feet . 42857_44927
+%mor:	intj|well det|the-Def-Art adj|poor-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S det|the-Def-Art noun|water-Acc adp|on pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|6|PUNCT
+*PAR:	it's gonna be &+k wet but then she'll hafta struggle with that . 45030_48320
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S adj|wet-S1 cconj|but adv|then pron|she-Prs-Nom-S3~aux|will-Fin-S verb|haft-Inf-S verb|struggle-Inf-S adp|with pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|11|CC 8|11|ADVMOD 9|11|NSUBJ 10|11|AUX 11|3|CONJ 12|11|XCOMP 13|14|CASE 14|12|OBL 15|3|PUNCT
+*PAR:	also there are a few more dishes left that didn't get finished . 48912_52592
+%mor:	adv|also pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art adj|few-S1 adj|more-Cmp-S1 noun|dish-Plur verb|leave-Part-Past-S-irr pron|that-Rel aux|do-Fin-Ind-Past-S3-irr~part|not aux|get-Inf-S verb|finish-Part-Past-S .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|7|DET 5|7|AMOD 6|7|AMOD 7|3|NSUBJ 8|7|ACL 9|13|NSUBJ-PASS 10|13|AUX 11|13|ADVMOD 12|13|AUX-PASS 13|7|ACL-RELCL 14|3|PUNCT
+*PAR:	this hasta be the dishes . 53447_54697
+%mor:	pron|this-Dem-S1 noun|hasta aux|be-Inf-S det|the-Def-Art noun|dish-Plur .
+%gra:	1|5|NSUBJ 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	and how that little boy fell off that stool I don't know but he did . 55360_59020
+%mor:	cconj|and adv|how det|that-Def-Dem-Sing adj|little-S1 noun|boy verb|fall-Fin-Ind-Past-S3-irr adp|off det|that-Def-Dem-Sing noun|stool pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S cconj|but pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|13|CC 2|13|ADVMOD 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|2|ADVCL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|0|ROOT 14|16|CC 15|16|NSUBJ 16|13|CONJ 17|13|PUNCT
+*INV:	anything else ? 63468_64348
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	no . [+ exc] 64691_64982
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

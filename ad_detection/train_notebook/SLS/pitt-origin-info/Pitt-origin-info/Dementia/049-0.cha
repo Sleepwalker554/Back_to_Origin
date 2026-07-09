@@ -1,0 +1,95 @@
+@UTF8
+@PID:	11312/t-00002459-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	049-0, audio
+@G:	Cookie
+*INV:	there's the picture . 1910_2650
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	&=clears:throat you want me to tell you ? [+ exc] 3275_4355
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|2|PUNCT
+*INV:	just tell me everything that you see happening . 4518_5838
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|7|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|2|PUNCT
+*PAR:	&-um the girl is talking to the boy . 6069_9579
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|talk-Part-Pres-S adp|to det|the-Def-Art noun|boy .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	he's getting the cookie jar down . 9633_11633
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc adv|down .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*PAR:	he has a &+coo cookie in his hand . 11913_14283
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*PAR:	&-uh he's falling off of his stool . 15467_18297
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*PAR:	the mother's doing the dishes and the water's running off into the floor &=laughs . 18477_23377
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S adp|off adp|into det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|11|CC 8|9|DET 9|11|NSUBJ 10|9|CASE 11|6|CONJ 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|4|PUNCT
+*PAR:	she's looking out the window apparently . 24663_26503
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc adv|apparently .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*PAR:	&-um I see grass and a lawn at [//] outside . 26552_31702
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 noun|grass-Acc cconj|and det|a-Ind-Art noun|lawn adv|outside .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CC 5|6|DET 6|3|CONJ 7|2|ADVMOD 8|2|PUNCT
+*PAR:	and I see two bowls , cabinets . 32448_37019
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 num|two noun|bowl-Plur-Acc cm|cm noun|cabinet-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|PUNCT 7|5|CONJ 8|3|PUNCT
+*PAR:	anything else I xxx ? [+ exc] 37337_37957
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|I-Prs-Nom-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|APPOS 4|1|PUNCT
+*PAR:	you want everything I can see ? [+ exc] 40456_41686
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|everything-Tot-S1 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|2|PUNCT
+*INV:	+< yep mhm . 41492_42212
+%mor:	intj|yep intj|mhm .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	I also see a cabinet drawer [//] door there . 43847_45947
+%mor:	pron|I-Prs-Nom-S1 adv|also verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|cabinet noun|door-Acc adv|there .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*INV:	mhm . 46000_46370
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what's happening over here ? 46960_47730
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	remember I said the water was overflowing +/. 48589_50009
+%mor:	verb|remember-Fin-Imp-S pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art noun|water aux|be-Fin-Ind-Past-S3-irr verb|overflow-Part-Pres-S +/.
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|CCOMP 4|5|DET 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|1|PUNCT
+*INV:	+< okay yeah sorry . 50160_51090
+%mor:	intj|okay intj|yeah adj|sorry-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*INV:	is there a glare on that ? 51107_52167
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|a-Ind-Art noun|glare adp|on pron|that-Dem ?
+%gra:	1|0|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ 5|6|CASE 6|4|NMOD 7|1|PUNCT
+*INV:	do you_know sometimes the light glares on it . 52791_54751
+%mor:	verb|do-Fin-Imp-S noun|youknow-Acc adv|sometimes det|the-Def-Art noun|light verb|glare-Fin-Ind-Pres-S3 adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|ADVMOD 4|5|DET 5|6|NSUBJ 6|1|PARATAXIS 7|8|CASE 8|6|OBL 9|1|PUNCT
+*PAR:	oh . [+ exc] 55090_55290
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's fine . 57595_58125
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	there's something inside here . 61390_62410
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adp|inside adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+*INV:	yeah it's only the major things that are happening . 63387_66237
+%mor:	intj|yeah pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|only det|the-Def-Art adj|major-S1 noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|DET 6|7|AMOD 7|0|ROOT 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|7|PUNCT
+*INV:	that's all . 66660_66900
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	that's fine . 67350_67700
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	okay . [+ exc] 68320_68500
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

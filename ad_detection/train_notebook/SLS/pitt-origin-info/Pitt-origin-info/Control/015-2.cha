@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/t-00002191-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	015-2, audio
+@G:	Cookie
+*INV:	and there's the picture . 200_1210
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	this is the one where I insisted the tree doesn't have a trunk and I still think that tree doesn't have a trunk . [+ exc] 7594_12324
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one adv|where pron|I-Prs-Nom-S1 verb|insist-Fin-Ind-Past-S1 det|the-Def-Art noun|tree aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|a-Ind-Art noun|trunk-Acc cconj|and pron|I-Prs-Nom-S1 adv|still verb|think-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|tree aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|a-Ind-Art noun|trunk-Acc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|7|ADVMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|9|DET 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|7|CCOMP 13|14|DET 14|12|OBJ 15|18|CC 16|18|NSUBJ 17|18|ADVMOD 18|4|CONJ 19|20|DET 20|23|NSUBJ 21|23|AUX 22|23|ADVMOD 23|18|CCOMP 24|25|DET 25|23|OBJ 26|4|PUNCT
+*PAR:	okay what do you want me to do ? [+ exc] 12782_13772
+%mor:	intj|okay pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|do-Inf-S ?
+%gra:	1|5|DISCOURSE 2|8|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|5|PUNCT
+*PAR:	tell a &+s +/? [+ exc] 13796_14086
+%mor:	verb|tell-Fin-Imp-S det|a-Ind-Art +/?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*INV:	+< tell all the action that's going on in the picture . 14090_16440
+%mor:	verb|tell-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	what tree ? 16455_17275
+%mor:	det|what-Def-Int noun|tree ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	this is a tree and it [//] &+d if it had a trunk it would continue . 18002_21782
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree cconj|and sconj|if pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|trunk-Acc pron|it-Prs-Nom-S3 aux|would-Fin-S verb|continue-Inf-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|13|CC 6|8|MARK 7|8|NSUBJ 8|13|ADVCL 9|10|DET 10|8|OBJ 11|13|NSUBJ 12|13|AUX 13|4|CONJ 14|4|PUNCT
+*PAR:	this is the top sash of the window and it hasta have a trunk down here and that's just grass . 21806_26376
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|top-S1 noun|sash adp|of det|the-Def-Art noun|window cconj|and pron|it-Prs-Nom-S3 x|hasta verb|have-Fin-Ind-Pres-P3 det|a-Ind-Art noun|trunk-Acc adp|down adv|here cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just noun|grass .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|12|CC 10|12|NSUBJ 11|12|NSUBJ 12|5|CONJ 13|14|DET 14|12|OBJ 15|12|COMPOUND-PRT 16|12|ADVMOD 17|21|CC 18|21|NSUBJ 19|21|COP 20|21|ADVMOD 21|12|CONJ 22|5|PUNCT
+*INV:	looks like a bush to me . 26539_27689
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|bush adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CASE 6|4|NMOD 7|1|PUNCT
+*PAR:	+< so what +/? [+ exc] 26696_27186
+%mor:	adv|so pron|what-Int-S1 +/?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	well what's this ? [+ exc] 28434_29244
+%mor:	intj|well pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+*INV:	+< oh I don't know . 29690_30500
+%mor:	intj|oh pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	+< isn't that a tree ? [+ exc] 30060_30860
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem det|a-Ind-Art noun|tree ?
+%gra:	1|5|COP 2|5|ADVMOD 3|5|NSUBJ 4|5|DET 5|0|ROOT 6|5|PUNCT
+*INV:	+< &=laughs .
+*PAR:	looks like a tree to me . [+ exc] 31994_33134
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|tree adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CASE 6|4|NMOD 7|1|PUNCT
+*PAR:	okay what do you want me to +//? [+ exc] 33970_35040
+%mor:	intj|okay pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to +//?
+%gra:	1|5|DISCOURSE 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|XCOMP 8|5|PUNCT
+*PAR:	<do you> [//] all the action ? [+ exc] 35093_36303
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action ?
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	all the action . 36374_37134
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	+< okay . [+ exc] 36785_37135
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a little boy in short pants with short sleeves who (i)s [//] has a cookie in his left hand handing it to a little girl and grabbing another one . 37504_49054
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy adp|in adj|short-S1 noun|pants-Ptan adp|with adj|short-S1 noun|sleeve-Plur pron|who-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand verb|hand-Part-Pres-S pron|it-Prs-Acc-S3 adp|to det|a-Ind-Art adj|little-S1 noun|girl cconj|and verb|grab-Part-Pres-S det|another-Def-Ind noun|one-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|AMOD 8|5|NMOD 9|11|CASE 10|11|AMOD 11|2|OBL 12|13|NSUBJ 13|11|ACL-RELCL 14|15|DET 15|13|OBJ 16|19|CASE 17|19|NMOD-POSS 18|19|AMOD 19|15|NMOD 20|13|ADVCL 21|20|OBJ 22|25|CASE 23|25|DET 24|25|AMOD 25|20|OBL 26|27|CC 27|20|CONJ 28|29|DET 29|27|OBJ 30|2|PUNCT
+*PAR:	and the lid is falling off the cookie jar . 49071_51511
+%mor:	cconj|and det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+*PAR:	and the stool is upsetting . 51532_53072
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|upsetting-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and it's a three legged stool . 53095_55675
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art num|three adj|legged-S1 noun|stool .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|NUMMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*PAR:	and the little girl is shushing because the mother is standing there in a puddle of water with the water overflowing out_of the &=laughs drain . 56077_65967
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|shush-Part-Pres-S sconj|because det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there adp|in det|a-Ind-Art noun|puddle adp|of noun|water adp|with det|the-Def-Art noun|water verb|overflow-Ger-S noun|outof-Acc det|the-Def-Art noun|drain-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL 12|11|ADVMOD 13|15|CASE 14|15|DET 15|11|OBL 16|17|CASE 17|15|NMOD 18|21|MARK 19|20|DET 20|21|NSUBJ 21|15|ACL 22|21|OBJ 23|24|DET 24|21|OBJ 25|6|PUNCT
+*PAR:	and she's wiping a dish instead of the mess . 66021_68771
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adv|instead adp|of det|the-Def-Art noun|mess .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|7|FIXED 9|10|DET 10|4|OBL 11|4|PUNCT
+*PAR:	and she's wearing an apron and she has on sleeveless clothes . 69311_73021
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron-Acc cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|on adj|sleeveless-S1 noun|clothes-Ptan .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|NSUBJ 9|4|CONJ 10|12|CASE 11|12|AMOD 12|9|OBL 13|4|PUNCT
+*INV:	you all done ? 73732_74332
+%mor:	pron|you-Prs-Nom-S2 det|all-Def-Tot verb|do-Fin-Ind-Past-S2-irr ?
+%gra:	1|3|NSUBJ 2|1|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	+< &=laughs I don't know . [+ exc] 74930_75710
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	I could go on . [+ exc] 76212_77362
+%mor:	pron|I-Prs-Nom-S1 aux|could-Fin-S verb|go-Inf-S adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	there are two cups and a plate and she's drying another plate . 78145_82535
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|another-Def-Ind noun|plate-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|11|CC 9|11|NSUBJ 10|11|AUX 11|2|CONJ 12|13|DET 13|11|OBJ 14|2|PUNCT
+*PAR:	and &-uh she has short hair that's parted on the left hand side . 82771_89661
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|short-S1 noun|hair-Acc pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|part-Part-Past-S adp|on det|the-Def-Art adj|left-S1 noun|hand noun|side .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|8|NSUBJ-PASS 7|8|AUX-PASS 8|5|ACL-RELCL 9|13|CASE 10|13|DET 11|12|AMOD 12|13|COMPOUND 13|8|OBL 14|3|PUNCT
+*PAR:	and the little boy has a high pompadour . 90668_93318
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|high-S1 noun|pompadour-Acc .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+*PAR:	and the little girl has long hair and a long [//] low waisted dress . 93341_97481
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 adj|long-S1 noun|hair-Acc cconj|and det|a-Ind-Art adj|low-S1 verb|waist-Part-Past-S noun|dress .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|7|AMOD 7|5|OBJ 8|12|CC 9|12|DET 10|12|AMOD 11|12|AMOD 12|7|CONJ 13|5|PUNCT
+*PAR:	how long should I go on ? [+ exc] 97498_98348
+%mor:	adv|how adv|long aux|should-Fin-S pron|I-Prs-Nom-S1 verb|go-Inf-S adp|on ?
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*INV:	+< that's fine &=laughs . 98519_99149
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

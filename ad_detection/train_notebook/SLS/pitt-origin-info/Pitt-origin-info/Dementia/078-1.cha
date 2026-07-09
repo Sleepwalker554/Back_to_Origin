@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/t-00002490-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|female|ProbableAD||Participant|16||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	078-1, audio
+@G:	Cookie
+*INV:	what's goin(g) on in this picture ? 0_1460
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*INV:	all of the action okay ? 1679_3489
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action adj|okay-S1 ?
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|AMOD 6|1|PUNCT
+*PAR:	oh gee . [+ exc] 3629_4949
+%mor:	intj|oh intj|gee .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	the little girl is reachin(g) up to the &+g cookie jar . 8180_11850
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|to det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|5|PUNCT
+*PAR:	<and the [/] the boy is> [//] oh he's on the [/] &-uh &-uh &-uh the stool . 11900_18550
+%mor:	intj|oh pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	he's gonna be trouble fallin(g) off &=laughs . [+ gram] 18858_20628
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S noun|trouble verb|fall-Ger-S adp|off .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|6|ACL 8|7|COMPOUND-PRT 9|3|PUNCT
+*INV:	+< yep . 21675_21985
+%mor:	intj|yep .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs and the <woman is> [//] lady is dryin(g) the dishes . 22006_26356
+%mor:	cconj|and det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the &-um sink overroll [: overflowed] [* n:k-ret] [//] overfilled . 26600_31330
+%mor:	cconj|and det|the-Def-Art noun|sink verb|overfill-Fin-Ind-Past-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	I_mean it's all down on the floor . 31394_33234
+%mor:	propn|Imean pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all adv|down adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and I can see cups and &+coff +//. 34846_37726
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S noun|cup-Plur-Acc cconj|and +//.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|CC 7|4|PUNCT
+*PAR:	there [//] I s(ee) that little boy with the cookie jar . 37789_40239
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing adj|little-S1 noun|boy-Acc adp|with det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|2|OBL 10|2|PUNCT
+*PAR:	and that little girl wants one . 41066_42696
+%mor:	cconj|and det|that-Def-Dem-Sing adj|little-S1 noun|girl verb|want-Fin-Ind-Pres-S3 num|one .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and <the water's runnin(g)> [//] as I said the water's running all over the floor . 43455_47465
+%mor:	cconj|and sconj|as pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art noun|water~part|s verb|run-Part-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|8|NSUBJ 7|6|CASE 8|4|CCOMP 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|4|PUNCT
+*PAR:	(..) and the girl's dryin(g) the dishes . 58638_59988
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the little boy's fallin(g) off that there stool because he's up for the cookie jar . 61016_65126
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|that-Def-Dem-Sing pron|there-Prs-Gen-P3 noun|stool sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|up adp|for det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|NMOD-POSS 10|6|OBL 11|14|MARK 12|14|NSUBJ 13|14|COP 14|6|ADVCL 15|18|CASE 16|18|DET 17|18|COMPOUND 18|14|OBL 19|6|PUNCT
+*INV:	okay ? 68186_68846
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	tryin(g) to get one for his sister . [+ gram] 68900_70330
+%mor:	verb|try-Part-Pres-S part|to verb|get-Inf-S num|one adp|for pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|1|PUNCT
+*PAR:	and the water on the faucet is all over the floor &=laughs . 70691_73711
+%mor:	cconj|and det|the-Def-Art noun|water adp|on det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|11|CC 2|3|DET 3|11|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|11|COP 8|11|ADVMOD 9|11|CASE 10|11|DET 11|0|ROOT 12|11|PUNCT
+*INV:	okay . 75072_75862
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh man ! [+ exc] 77681_78471
+%mor:	intj|oh intj|man !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	this is awful . [+ exc] 78884_79644
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|awful-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay good . 80510_81890
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

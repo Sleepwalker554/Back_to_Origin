@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00002570-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|80;|female|Vascular||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	223-0, audio
+@G:	Cookie
+*INV:	there's the picture . 250_870
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	well ‡ the little boy's handing his sister a cookie . 887_8227
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|his-Prs-Gen-S3 noun|sister-Acc det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|11|DET 11|7|OBJ 12|7|PUNCT
+*PAR:	and he's swiping one for himself &=laughs . 9017_12217
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|swipe-Part-Pres-S num|one adp|for pron|himself-Prs-Acc-reflx-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*PAR:	and he's got the standing on the stool on the two legs . [+ gram] 12615_16295
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|standing-Acc-Ger adp|on det|the-Def-Art noun|stool adp|on det|the-Def-Art num|two noun|leg-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|13|CASE 11|13|DET 12|13|NUMMOD 13|4|OBL 14|4|PUNCT
+*PAR:	and the mother's runnin(g) the sink over . 17502_19372
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s verb|run-Ger-S det|the-Def-Art noun|sink-Acc adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|5|PUNCT
+*PAR:	and she's drying a plate . 21216_23086
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	<how many &-uh how [/] how many> [//] is there any [//] &+di &-uh a number that there's sposta be on it ? [+ exc] 24741_29351
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|a-Ind-Art noun|number pron|that-Rel pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|sposta aux|be-Inf-S adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|0|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ 5|7|MARK 6|7|EXPL 7|4|ACL-RELCL 8|7|NSUBJ 9|11|COP 10|11|CASE 11|7|OBL 12|1|PUNCT
+*INV:	+< just tell me everything that you see happening there . 29189_31479
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|ADVMOD 10|2|PUNCT
+*PAR:	well ‡ she's standin(g) in water . 35525_36945
+%mor:	intj|well punct|‡ pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR:	she could get her foot wet . 36995_38335
+%mor:	pron|she-Prs-Nom-S3 aux|could-Fin-S verb|get-Inf-S pron|her-Prs-Gen-S3 noun|foot-Acc adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*INV:	is that everything ? 52800_53470
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing pron|everything-Tot-S1 ?
+%gra:	1|3|COP 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	probably is . 54753_55433
+%mor:	adv|probably aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) well ‡ the spigot's on . 55780_61980
+%mor:	intj|well punct|‡ det|the-Def-Art noun|spigot~part|s adp|on .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|0|ROOT 7|6|PUNCT
+*PAR:	so ‡ that's +... 62060_62960
+%mor:	adv|so intj|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	mhm . 63553_63863
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the water . [+ gram] 64107_65887
+%mor:	det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	she's standing in the water . 66246_67716
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	and the stool . [+ gram] 67764_68694
+%mor:	cconj|and det|the-Def-Art noun|stool .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	he's standing on the stool . 69438_71098
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	and cookies . [+ gram] 71314_72414
+%mor:	cconj|and noun|cookie-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) <that window> [//] that path looks as though it's comin(g) in the window but that wouldn't have anything probably to do with the picture . 72465_87185
+%mor:	det|that-Def-Dem-Sing noun|path verb|look-Fin-Ind-Pres-S3 sconj|as sconj|though pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|in det|the-Def-Art noun|window cconj|but pron|that-Dem aux|would-Fin-S~part|not verb|have-Inf-S pron|anything-Ind-S1 adv|probably part|to verb|do-Inf-S adp|with det|the-Def-Art noun|picture .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|16|CC 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|3|CONJ 17|16|OBJ 18|20|ADVMOD 19|20|MARK 20|17|ACL 21|23|CASE 22|23|DET 23|20|OBL 24|3|PUNCT
+*PAR:	so ‡ hm +... 87320_89100
+%mor:	adv|so intj|‡ intj|hm +...
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*INV:	okay ? 93650_93950
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and two cups . [+ gram] 94201_95331
+%mor:	cconj|and num|two noun|cup-Plur .
+%gra:	1|3|CC 2|3|NUMMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	I guess that's about all I can see . [+ exc] 95410_97720
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|2|CCOMP 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|2|PUNCT
+*INV:	+< okay . 97300_97720
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

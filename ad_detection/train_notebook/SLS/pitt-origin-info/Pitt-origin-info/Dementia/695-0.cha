@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002725-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|83;|male|ProbableAD||Participant|16||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	695-0, audio
+@G:	Cookie
+*INV:	take a look at that picture . 350_1540
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+*PAR:	yeah . [+ exc] 1963_2053
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	I want you to tell me everything that you see happening in that picture , everything that's going on in there . 2320_7550
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture cm|cm pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|16|PUNCT 16|7|APPOS 17|19|NSUBJ 18|19|AUX 19|16|ACL-RELCL 20|19|COMPOUND-PRT 21|22|CASE 22|19|OBL 23|2|PUNCT
+*PAR:	everything's that's +/. [+ exc] 8410_9320
+%mor:	pron|everything-Tot-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|COP 5|3|PUNCT
+*INV:	happening . 10068_10738
+%mor:	verb|happen-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+, not according to Hoyle „ huh ? [+ exc] 10257_11777
+%mor:	part|not verb|accord-Part-Pres-S adp|to propn|Hoyle punct|„ intj|huh ?
+%gra:	1|4|ADVMOD 2|4|CASE 3|2|FIXED 4|0|ROOT 5|6|PUNCT 6|4|FLAT 7|4|PUNCT
+*INV:	+< just everything that's happening . 11990_13240
+%mor:	adv|just pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ACL-RELCL 6|2|PUNCT
+*PAR:	well here's a little boy up on the ladder [: stool] [* s:r] . 13529_15899
+%mor:	intj|well adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy adp|up adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|COP 4|6|DET 5|6|AMOD 6|2|NSUBJ 7|2|ADVMOD 8|10|CASE 9|10|DET 10|2|OBL 11|2|PUNCT
+*PAR:	<the ladder [: stool] [* s:r-ret] or> [//] the [/] &+ch the [/] &+s &+s <the stool> [/] the stool was falling . 15923_22103
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Past-S3-irr verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	+< mhm . 20070_20340
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and there's something else up on the shelf there is falling . 22994_28284
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|else-S1 adp|up adp|on det|the-Def-Art noun|shelf pron|there-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|4|AMOD 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|12|EXPL 11|12|AUX 12|3|PARATAXIS 13|3|PUNCT
+*PAR:	and [/] &-uh and he's going to fall (.) (be)cause the stool is [//] (.) it's tilted too much . 29966_43166
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S sconj|because det|the-Def-Art noun|stool pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S adv|too adv|much .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|12|MARK 8|9|DET 9|12|NSUBJ-PASS 10|12|NSUBJ-PASS 11|12|AUX-PASS 12|6|ADVCL 13|14|ADVMOD 14|12|ADVMOD 15|4|PUNCT
+*PAR:	&-uh here [/] (.) here's a lady that's washin(g) dishes . 44617_53427
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lady pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBJ 9|1|PUNCT
+*PAR:	and all the water is comin(g) over the sink . 54918_58278
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|6|CC 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	it's overflowing . 58350_59510
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	that's about it . [+ exc] 63446_64056
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay good . 64300_65360
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

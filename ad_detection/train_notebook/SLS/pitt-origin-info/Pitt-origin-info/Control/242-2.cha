@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00002359-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|male|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	242-2, audio
+@Comment:	overlapping audio
+@G:	Cookie
+*PAR:	we'll start with the girl . 1480_2510
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|start-Inf-S adp|with det|the-Def-Art noun|girl .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	she's going to the +//. 2780_4370
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to det|the-Def-Art +//.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|XCOMP 6|3|PUNCT
+*PAR:	he steal a cookie . [+ gram] 4439_5309
+%mor:	pron|he-Prs-Nom-S3 verb|steal-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	<her brother is> [/] her brother is taking cookies out_of a jar . 5333_8943
+%mor:	pron|her-Prs-Gen-S3 noun|brother aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|jar .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	and he got careless . 10225_11305
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr adj|careless-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR:	she's askin(g) him for one . 12203_13513
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S pron|he-Prs-Acc-S3 adp|for num|one .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|IOBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*PAR:	so he's handin(g) one down to her . 14148_16168
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S num|one adp|down adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|8|CASE 8|4|OBL 9|4|PUNCT
+*PAR:	in the meantime he is gettin(g) reading to fall <off of a> [/] off of a stool , a three legged stool . 16189_22319
+%mor:	adp|in det|the-Def-Art noun|meantime pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S verb|read-Part-Pres-S part|to verb|fall-Inf-S adp|off adp|of det|a-Ind-Art noun|stool cm|cm det|a-Ind-Art num|three adj|legged-S1 noun|stool .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|XCOMP 8|9|MARK 9|7|XCOMP 10|13|CASE 11|13|CASE 12|13|DET 13|9|OBL 14|18|PUNCT 15|18|DET 16|18|NUMMOD 17|18|AMOD 18|13|APPOS 19|6|PUNCT
+*PAR:	and the mother's not payin(g) much attention . 22536_24106
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S adj|much-S1 noun|attention-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|AMOD 8|6|OBJ 9|6|PUNCT
+*PAR:	she's lookin(g) out the window . 24160_25340
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*PAR:	and in looking out the window why she's lettin(g) her sink run over and the water's splashin(g) on the floor all over her . 26415_35655
+%mor:	cconj|and sconj|in verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc adv|why pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S pron|her-Prs-Acc-S3 verb|sink-Inf-S verb|run-Inf-S adp|over cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|on det|the-Def-Art noun|floor adv|all adp|over pron|her-Prs-Acc-S3 .
+%gra:	1|10|CC 2|3|MARK 3|10|ADVCL 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|12|NMOD-POSS 12|10|OBJ 13|10|XCOMP 14|13|COMPOUND-PRT 15|19|CC 16|17|DET 17|19|NSUBJ 18|19|AUX 19|10|CONJ 20|22|CASE 21|22|DET 22|19|OBL 23|25|ADVMOD 24|25|CASE 25|19|OBL 26|10|PUNCT
+*PAR:	and &-uh what else ? [+ exc] 35673_38283
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	the outside looks alright . 39783_41443
+%mor:	det|the-Def-Art adj|outside-S1 verb|look-Fin-Ind-Pres-S3 intj|alright .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|DISCOURSE 5|3|PUNCT
+*PAR:	there's more here . [+ exc] 41459_44819
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|2|PUNCT
+*PAR:	<she's drying> [/] she's drying a dish . 45097_46787
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and (.) she has two cups and a plate on the table . 48396_53446
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|table .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR:	well I did say she was lettin(g) the &-uh water run over the sink down onto the floor , splashin(g) onto her feet . 55754_62024
+%mor:	intj|well pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over det|the-Def-Art noun|sink adv|down adp|onto det|the-Def-Art noun|floor cm|cm verb|splash-Part-Pres-S adp|onto pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|DET 9|7|OBJ 10|7|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|10|ADVMOD 15|17|CASE 16|17|DET 17|10|OBL 18|19|PUNCT 19|10|ADVCL 20|22|CASE 21|22|NMOD-POSS 22|19|OBL 23|4|PUNCT
+*PAR:	oh boy . [+ exc] 63395_64334
+%mor:	intj|oh intj|boy .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	then there's an angle here that is incomplete <of the> [/] &+s of the corner where the &-uh wall comes together . 64736_72967
+%mor:	adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|angle adv|here pron|that-Rel aux|be-Fin-Ind-Pres-S3 adj|incomplete-S1 adp|of det|the-Def-Art noun|corner adv|where det|the-Def-Art noun|wall verb|come-Fin-Ind-Pres-S3 adv|together .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|5|ADVMOD 7|9|NSUBJ 8|9|COP 9|5|ACL-RELCL 10|12|CASE 11|12|DET 12|9|OBL 13|16|ADVMOD 14|15|DET 15|16|NSUBJ 16|12|ACL-RELCL 17|16|ADVMOD 18|3|PUNCT
+*PAR:	&-hm let's see what else . [+ exc] 73256_76676
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Int-S1 adj|else-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|4|AMOD 6|1|PUNCT
+*PAR:	&-uh let's see . [+ exc] 77663_79643
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	the [//] &+ta there's a plate , two [/] &+sau two cups . 80910_83510
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate cm|cm num|two noun|cup-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|PUNCT 6|7|NUMMOD 7|4|APPOS 8|2|PUNCT
+*PAR:	oh &+sh I did say she's lettin(g) the water run over the sink didn't I ? [+ exc] 85084_88284
+%mor:	intj|oh pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over det|the-Def-Art noun|sink aux|do-Fin-Ind-Past-S3-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|DET 9|7|OBJ 10|7|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|7|ADVCL 15|14|ADVMOD 16|4|DISCOURSE 17|4|PUNCT
+*PAR:	yes . [+ exc] 88848_88878
+%mor:	intj|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 89390_90230
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	now she (i)s [//] seems to be looking out the window while she's drying her dish . 90278_94578
+%mor:	adv|now pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S pron|her-Prs-Gen-S3 noun|dish-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|AUX 6|3|XCOMP 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|6|ADVCL 14|15|NMOD-POSS 15|13|OBJ 16|3|PUNCT
+*PAR:	how_(a)bout that ? [+ exc] 95463_95943
+%mor:	intj|howabout pron|that-Dem ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

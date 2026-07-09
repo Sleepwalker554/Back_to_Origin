@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002693-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|82;|female|PossibleAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	585-0, audio
+@G:	Cookie
+*INV:	you see going on in that picture . 30_1720
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*PAR:	alright . [+ exc] 4716_5506
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mama's washing the dishes . 5625_7645
+%mor:	noun|mama~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the water is running over in the sink . 7894_10724
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	the [//] and the &-uh children are in the cookie jar . 10858_19338
+%mor:	cconj|and det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	and one of (th)em is goin(g) to <get his> [//] get hurt (be)cause he's got the stool . 19360_26050
+%mor:	cconj|and num|one adp|of pron|they-Prs-Acc-P3 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|get-Inf-S verb|hurt-Part-Past-S-irr sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art noun|stool-Acc .
+%gra:	1|6|CC 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|AUX 6|0|ROOT 7|9|MARK 8|9|AUX-PASS 9|6|XCOMP 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|ADVCL 14|15|DET 15|13|OBJ 16|6|PUNCT
+*PAR:	he has nothing to hold onto there . 28860_31540
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|nothing-Neg-S1 part|to verb|hold-Inf-S adp|onto adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|3|ACL 6|7|CASE 7|5|OBL 8|2|PUNCT
+*PAR:	he does have but he [//] he's not doing it . 32351_35202
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|have-Inf-S cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|do-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CONJ 9|8|OBJ 10|3|PUNCT
+*PAR:	the little girl has him interested in the cookie jar . 35379_39059
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 adj|interested-S1 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|XCOMP 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|4|PUNCT
+*INV:	anything else going on over here ? 41603_43083
+%mor:	pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|over adv|here ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|6|CASE 6|3|OBL 7|1|PUNCT
+*PAR:	&-hm <he's got> [//] what's he got on his feet ? [+ exc] 45278_48648
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|get-Part-Past-S-irr adp|on pron|his-Prs-Gen-S3 noun|foot-Plur ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*PAR:	(.) that's the only thing I can see there . [+ exc] 48698_60828
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-S1 noun|thing-Ger pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adv|there .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|ADVMOD 10|5|PUNCT
+*INV:	+< okay . 60740_60870
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	over here poor mama . [+ gram] 61889_63509
+%mor:	adv|over adv|here adj|poor-S1 noun|mama .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 65004_65644
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she's dreaming of diamonds „ I guess . 65990_70340
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|dreaming-Part-Pres-S adp|of noun|diamond-Plur punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT 7|8|NSUBJ 8|3|PARATAXIS 9|3|PUNCT
+*INV:	&=laughs okay . 70861_71631
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs all the water running out_of the sink . [+ gram] 71875_74435
+%mor:	det|all-Def-Tot det|the-Def-Art noun|water verb|run-Ger-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*INV:	(.) okay . 78826_78946
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

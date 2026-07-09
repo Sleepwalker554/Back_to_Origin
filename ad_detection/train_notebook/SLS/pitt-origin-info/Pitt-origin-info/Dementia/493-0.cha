@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00002665-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|76;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	493-0, audio
+@G:	Cookie
+*PAR:	<where do you> [/] where do you mean in the picture ? [+ exc] 5990_7240
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|mean-Inf-S adp|in det|the-Def-Art noun|picture ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*INV:	here's the picture . 7865_8615
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*PAR:	tell me everything you see going on in that picture . 8826_11106
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	oh I see . [+ exc] 11201_11931
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	you want me tell you now ? [+ gram] [+ exc] 12302_13262
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 adv|now ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|IOBJ 6|4|ADVMOD 7|2|PUNCT
+*INV:	mhm . 13540_13970
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well ‡ the kids are up there at the cookie jar . 14580_16840
+%mor:	intj|well punct|‡ det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adv|up adv|there adp|at det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|ADVMOD 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|OBL 12|6|PUNCT
+*PAR:	they're gettin(g) cookies and she's dryin(g) dishes . 17972_20222
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S noun|cookie-Plur-Acc cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|9|CC 6|9|NSUBJ 7|9|COP 8|9|AMOD 9|3|CONJ 10|3|PUNCT
+*PAR:	and &-uh she's got her curtains all fixed up on the windows . 23108_27768
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|curtain-Plur-Acc det|all-Def-Tot verb|fix-Part-Past-S adp|up adp|on det|the-Def-Art noun|window-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|6|DET 8|4|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|4|PUNCT
+*PAR:	and the kid is almost upset on that stool . 29896_32305
+%mor:	cconj|and det|the-Def-Art noun|kid aux|be-Fin-Ind-Pres-S3 adv|almost adj|upset-S1 adp|on det|that-Def-Dem-Sing noun|stool .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	I don't know how he could stand like that and get a picture taken . [+ exc] 34845_38525
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|how pron|he-Prs-Nom-S3 aux|could-Fin-S verb|stand-Inf-S adp|like pron|that-Dem cconj|and verb|get-Inf-S det|a-Ind-Art noun|picture-Acc verb|take-Part-Past-S-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ADVCL-RELCL 9|10|CASE 10|8|OBL 11|12|CC 12|8|CONJ 13|14|DET 14|12|OBJ 15|12|XCOMP 16|4|PUNCT
+*INV:	okay . 39591_39681
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she's got an apron on . 40976_41556
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	cabinets here . [+ gram] 43633_44423
+%mor:	noun|cabinet-Plur adv|here .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	can you see anything else going on here ? 46168_47848
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|6|ADVMOD 9|3|PUNCT
+*PAR:	it seemed like there's water &+spl splattered over . 49099_51809
+%mor:	pron|it-Prs-Nom-S3 verb|seem-Fin-Ind-Past-S3 sconj|like pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|water verb|splatter-Part-Past-S adp|over .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|MARK 4|5|EXPL 5|2|ADVCL 6|5|NSUBJ 7|5|XCOMP 8|7|COMPOUND-PRT 9|2|PUNCT
+*PAR:	isn't that out_o(f) the sink ? [+ exc] 51900_53190
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|that-Dem adp|outof det|the-Def-Art noun|sink ?
+%gra:	1|6|COP 2|6|ADVMOD 3|6|NSUBJ 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	&*INV:okay isn't that water ? [+ exc] 53560_54240
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not det|that-Def-Dem-Sing noun|water ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-uh I see a big plate and couple saucers like . 55476_60496
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|big-S1 noun|plate-Acc cconj|and noun|couple noun|saucer-Plur adp|like .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CC 8|9|COMPOUND 9|6|CONJ 10|3|DISCOURSE 11|3|PUNCT
+*PAR:	and I don't know about the curtains . 62895_64275
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adp|about det|the-Def-Art noun|curtain-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	the curtains got different [//] something made there . [+ es] 64908_70128
+%mor:	det|the-Def-Art noun|curtain-Plur verb|get-Fin-Ind-Past-P3-irr pron|something-Ind-S1 verb|make-Part-Past-S-irr adv|there .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|ACL 6|5|ADVMOD 7|3|PUNCT
+*PAR:	she must have one of those double aprons back and front „ is it . [+ gram] 72860_75930
+%mor:	pron|she-Prs-Nom-S3 aux|must-Fin-S verb|have-Inf-S num|one adp|of det|that-Def-Dem-Plur adj|double-S1 noun|apron-Plur adv|back cconj|and noun|front punct|„ aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|8|ADVMOD 10|11|CC 11|9|CONJ 12|11|PUNCT 13|3|PARATAXIS 14|3|PARATAXIS 15|3|PUNCT
+*PAR:	and the kids are at the cookie jar . 77257_78587
+%mor:	cconj|and det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adp|at det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*INV:	okay ? 81753_81993
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	yeah . [+ exc] 82492_82702
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 83231_83541
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

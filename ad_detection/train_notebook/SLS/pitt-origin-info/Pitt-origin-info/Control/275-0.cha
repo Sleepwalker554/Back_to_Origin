@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/t-00002381-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|47;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	275-0, audio
+@G:	Cookie
+*INV:	I have a picture for you now that has a_lot_of action going on in it . 370_4030
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|picture-Acc adp|for pron|you-Prs-Acc-S2 adv|now pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|alotof noun|action-Acc verb|go-Part-Pres-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|ADVMOD 8|9|NSUBJ 9|4|ACL-RELCL 10|11|COMPOUND 11|9|OBJ 12|11|ACL 13|12|COMPOUND-PRT 14|15|CASE 15|12|OBL 16|2|PUNCT
+*INV:	what I'd like you to do is to tell me all the action you see going on in the picture . 4731_8431
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|10|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|10|COP 9|10|MARK 10|0|ROOT 11|10|IOBJ 12|14|DET-PREDET 13|14|DET 14|10|OBJ 15|16|NSUBJ 16|14|ACL-RELCL 17|16|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|10|PUNCT
+*INV:	and here's the picture . 10670_11650
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*PAR:	let's see . [+ exc] 14059_14319
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	the boy's takin(g) the cookies out_of the cookie jar . 14419_16789
+%mor:	det|the-Def-Art noun|boy~part|s verb|take-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|10|DET 9|10|COMPOUND 10|4|OBJ 11|4|PUNCT
+*PAR:	and the girl is reaching to get the cookie . 17131_19051
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+*PAR:	and the boy is falling off the stool . 19274_22334
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	&-uh mother is drying the dishes while the water spills over the sink . 24324_27974
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|while det|the-Def-Art noun|water verb|spill-Fin-Ind-Pres-S3 adp|over det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|MARK 7|8|DET 8|9|NSUBJ 9|3|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|3|PUNCT
+*PAR:	&-uh it looks like the wind's blowing the curtain there . 30319_31559
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|wind~aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Acc adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ADVCL 8|9|DET 9|7|OBJ 10|7|ADVMOD 11|2|PUNCT
+*PAR:	(.) she's [//] the mother is stepping out_of the water . 36536_38726
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|outof det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	(..) I guess that's about it . [+ exc] 43906_46526
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+*INV:	okay +/. 47390_47610
+%mor:	intj|okay +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is handing the girl a cookie too . 47591_49291
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|the-Def-Art noun|girl det|a-Ind-Art noun|cookie-Acc adv|too .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|ADVMOD 10|4|PUNCT
+*PAR:	I don't know if I've said that . [+ exc] 49390_50330
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|say-Part-Past-S-irr pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|OBJ 10|4|PUNCT
+*PAR:	and she's reaching for it . 50442_51162
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	the boy is &-um I don't wanna say falling off the stool &=laughs or stepping off as it's moving , I +... 52421_59941
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S~part|to verb|say-Inf-S verb|fall-Ger-S adp|off det|the-Def-Art noun|stool cconj|or verb|step-Part-Pres-S adp|off sconj|as pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|move-Part-Pres-S cm|cm pron|I-Prs-Nom-S1 +...
+%gra:	1|2|DET 2|7|NSUBJ-OUTER 3|7|COP 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|15|CC 15|10|CONJ 16|15|COMPOUND-PRT 17|20|MARK 18|20|NSUBJ 19|20|AUX 20|15|ADVCL 21|22|PUNCT 22|7|PARATAXIS 23|7|PUNCT
+*INV:	&=laughs .
+*PAR:	+< &=laughs okay . [+ exc] 61842_61912
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx I think that's it . [+ exc] 64239_64789
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*INV:	okay good . 65206_66386
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

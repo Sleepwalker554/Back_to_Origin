@@ -1,0 +1,22 @@
+@UTF8
+@PID:	11312/t-00002218-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|68;00.|male|Control||Participant|||
+@Media:	052-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	I see a young boy falling off a stool stealing cookies . 30_6400
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|young-S1 noun|boy-Acc verb|fall-Ger-S adp|off det|a-Ind-Art noun|stool verb|steal-Ger-S noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVCL 11|10|OBJ 12|2|PUNCT
+*PAR:	the mother drying dishes . [+ gram] 9169_10739
+%mor:	det|the-Def-Art noun|mother verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|4|DET 2|4|COMPOUND 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	the sink overflowing . [+ gram] 10960_12390
+%mor:	det|the-Def-Art noun|sink noun|overflow-Ger .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	(..) a little girl saying “be quiet” to her brother (.) ready to accept a cookie . [+ gram] 12435_24625
+%mor:	det|a-Ind-Art adj|little-S1 noun|girl verb|say-Ger-S aux|be-Inf-S adj|quiet-S1 adp|to pron|her-Prs-Gen-S3 noun|brother adj|ready-S1 part|to verb|accept-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|ACL 5|6|COP 6|4|XCOMP 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|6|ADVCL 11|12|MARK 12|10|XCOMP 13|14|DET 14|12|OBJ 15|3|PUNCT
+@End

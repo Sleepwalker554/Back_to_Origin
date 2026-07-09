@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002689-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	578-0, audio
+@G:	Cookie
+*INV:	and there's the picture . 110_1870
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	oh I see a woman drying a dish with a dish towel . 1951_5901
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|woman-Acc verb|drying-Ger-S det|a-Ind-Art noun|dish-Acc adp|with det|a-Ind-Art noun|dish noun|towel .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|ACL 7|8|DET 8|6|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|6|OBL 13|3|PUNCT
+*PAR:	I see water overflowing from the sink . 6381_8591
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 noun|water-Acc verb|overflow-Ger-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+*PAR:	the faucet is running . 8688_10108
+%mor:	det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um curtains hanging on the wall . [+ gram] 11007_13447
+%mor:	noun|curtain-Plur verb|hang-Ger-S adp|on det|the-Def-Art noun|wall .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+*PAR:	the window , the picture outside of a pathway and grass and hedges and looks like a part of the extension of the house . [+ gram] 13597_20957
+%mor:	det|the-Def-Art noun|window cm|cm det|the-Def-Art noun|picture adv|outside adp|of det|a-Ind-Art noun|pathway cconj|and noun|grass cconj|and noun|hedge-Plur cconj|and verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|part adp|of det|the-Def-Art noun|extension adp|of det|the-Def-Art noun|house .
+%gra:	1|2|DET 2|0|ROOT 3|5|PUNCT 4|5|DET 5|2|APPOS 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|NMOD 10|11|CC 11|9|CONJ 12|13|CC 13|9|CONJ 14|15|CC 15|2|CONJ 16|18|CASE 17|18|DET 18|15|OBL 19|21|CASE 20|21|DET 21|18|NMOD 22|24|CASE 23|24|DET 24|21|NMOD 25|2|PUNCT
+*PAR:	I see the cabinets below her . 21450_24110
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|cabinet-Plur-Acc adp|below pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+*PAR:	she's wearin(g) shoes dress and apron . 24559_26709
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S noun|shoe-Plur noun|dress-Acc cconj|and noun|apron .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+*PAR:	&-um I see the cabinets on the far end of the wall with two children . 27178_32938
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|cabinet-Plur-Acc adp|on det|the-Def-Art adj|far-S1 noun|end adp|of det|the-Def-Art noun|wall adp|with num|two noun|child-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|2|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|14|CASE 13|14|NUMMOD 14|8|NMOD 15|2|PUNCT
+*PAR:	a stool tilting with a boy on it reaching for cookies from a cookie jar on the shelf . 33030_38520
+%mor:	det|a-Ind-Art noun|stool verb|tilt-Ger-S adp|with det|a-Ind-Art noun|boy adp|on pron|it-Prs-Acc-S3 verb|reach-Ger-S adp|for noun|cookie-Plur adp|from det|a-Ind-Art noun|cookie noun|jar adp|on det|the-Def-Art noun|shelf .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|3|OBL 9|3|ADVCL 10|11|CASE 11|9|OBL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|9|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|2|PUNCT
+*PAR:	I see the girl reaching up to him with the motion of silence to her mouth her fingers up to her lips and standing as the stool is &-um tilting . 39163_50313
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|girl-Acc verb|reach-Ger-S adp|up adp|to pron|he-Prs-Acc-S3 adp|with det|the-Def-Art noun|motion adp|of noun|silence adp|to pron|her-Prs-Gen-S3 noun|mouth pron|her-Prs-Gen-S3 noun|finger-Plur adp|up adp|to pron|her-Prs-Gen-S3 noun|lip-Plur cconj|and noun|standing-Ger sconj|as det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|13|CASE 13|11|NMOD 14|16|CASE 15|16|NMOD-POSS 16|11|NMOD 17|18|NMOD-POSS 18|11|NMOD 19|16|ADVMOD 20|22|CASE 21|22|NMOD-POSS 22|19|OBL 23|24|CC 24|22|CONJ 25|29|MARK 26|27|DET 27|29|NSUBJ 28|29|AUX 29|24|ADVCL 30|2|PUNCT
+*PAR:	the cupboard door is open . 51136_52646
+%mor:	det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	the bottom doors of the cabinets are closed . 52790_55290
+%mor:	det|the-Def-Art noun|bottom noun|door-Plur adp|of det|the-Def-Art noun|cabinet-Plur aux|be-Fin-Ind-Pres-P3 verb|close-Part-Past-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|8|NSUBJ-PASS 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX-PASS 8|0|ROOT 9|8|PUNCT
+*PAR:	&-um the woman is standing in water on the floor from the spilling . 55816_61776
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water adp|on det|the-Def-Art noun|floor adp|from det|the-Def-Art noun|spilling-Ger .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|4|OBL 10|12|CASE 11|12|DET 12|4|OBL 13|4|PUNCT
+*PAR:	there's handles &-um &-uh that I can see on two sets of cabinets . 62884_67374
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|handle-Plur sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adp|on num|two noun|set-Plur adp|of noun|cabinet-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ACL 8|10|CASE 9|10|NUMMOD 10|7|OBL 11|12|CASE 12|10|NMOD 13|2|PUNCT
+*PAR:	&-uh the curtains are tied back by a tie . 68810_71390
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|tie-Part-Past-S adv|back adp|by det|a-Ind-Art noun|tie .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL-AGENT 9|4|PUNCT
+*PAR:	on the counter are two cups and a plate . 71680_73790
+%mor:	adp|on det|the-Def-Art noun|counter aux|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|3|CASE 2|3|DET 3|6|NMOD 4|6|COP 5|6|NUMMOD 6|0|ROOT 7|9|CC 8|9|DET 9|6|CONJ 10|6|PUNCT
+*PAR:	there's two faucets and a spout . 75660_77640
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|faucet-Plur cconj|and det|a-Ind-Art noun|spout .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+*INV:	okay . 78448_80588
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

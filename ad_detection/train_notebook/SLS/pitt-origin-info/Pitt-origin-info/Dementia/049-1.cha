@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002460-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	049-1, audio
+@G:	Cookie
+*INV:	okay and here's the picture . 540_1590
+%mor:	intj|okay cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|CC 3|0|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*INV:	tell me all the action . 1950_2960
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|1|PUNCT
+*PAR:	oh little boy's in the cookie jar . [+ gram] 3550_5280
+%mor:	intj|oh adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|8|DISCOURSE 2|3|AMOD 3|8|NSUBJ 4|8|COP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	the girl's standin(g) down and waitin(g) for him to <give him [: her] [* s:r-ret] some> [//] give her some . 6174_9354
+%mor:	det|the-Def-Art noun|girl~part|s verb|stand-Part-Pres-S adp|down cconj|and verb|wait-Part-Pres-S sconj|for pron|he-Prs-Acc-S3 part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|some-Def-Ind .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|11|MARK 9|11|NSUBJ 10|11|MARK 11|7|ADVCL 12|11|IOBJ 13|11|OBJ 14|4|PUNCT
+*PAR:	the mother's doin(g) the dishes . 10340_11690
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and she's also <letting him> [//] letting &-hm +... 12566_17496
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|let-Part-Pres-S +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	oh the water just fell off [//] over on the floor . 18600_22720
+%mor:	intj|oh det|the-Def-Art noun|water adv|just verb|fall-Fin-Ind-Past-S3-irr adv|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	&-uh can I turn the page ? [+ exc] 24155_26585
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|turn-Inf-S det|the-Def-Art noun|page-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	that's all there is . 27325_28095
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|there-Int-S1 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|EXPL 5|3|ACL-RELCL 6|3|PUNCT
+*PAR:	okay . [+ exc] 28460_28830
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's all there is except she's just gettin(g) all wet . 30763_32653
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|there-Int-S1 aux|be-Fin-Ind-Pres-S3 sconj|except pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|get-Part-Pres-S det|all-Def-Tot adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|EXPL 5|3|ACL-RELCL 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|3|ADVCL 11|12|ADVMOD 12|10|XCOMP 13|3|PUNCT
+*INV:	is that everything in the picture ? 33997_35197
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|everything-Tot-S1 adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|COP 2|3|MARK 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	no . [+ exc] 35524_35654
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the little girl was helpin(g) xxx the boy to get to the cookie jar . 36574_40224
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Past-S3-irr verb|help-Part-Pres-S det|the-Def-Art noun|boy-Acc part|to verb|get-Inf-S adp|to det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|MARK 9|5|ADVCL 10|13|CASE 11|13|DET 12|13|COMPOUND 13|9|OBL 14|5|PUNCT
+*PAR:	but he started stumblin(g) . 41360_42520
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 verb|stumble-Ger-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR:	he must ha(ve) fell over (be)cause he seems to be falling there .
+%mor:	pron|he-Prs-Nom-S3 aux|must-Fin-S aux|have-Inf-S verb|fall-Part-Past-S-irr adp|over sconj|because pron|he-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|fall-Part-Pres-S adv|there .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|MARK 7|8|NSUBJ 8|4|ADVCL 9|11|MARK 10|11|AUX 11|8|XCOMP 12|11|ADVMOD 13|4|PUNCT
+*PAR:	and the mother's over at the sink drying dishes . 47035_49195
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adv|over adp|at det|the-Def-Art noun|sink noun|drying-Ger noun|dish-Plur .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|10|COP 5|10|ADVMOD 6|10|CASE 7|10|DET 8|10|COMPOUND 9|10|COMPOUND 10|0|ROOT 11|10|PUNCT
+*PAR:	and it's goin(g) on the floor . 49385_50535
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and three cups [//] three bowls there . [+ gram] 52657_54147
+%mor:	cconj|and num|three num|three noun|bowl-Plur adv|there .
+%gra:	1|4|CC 2|4|NUMMOD 3|4|NUMMOD 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	okay that's fine . 56800_57830
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

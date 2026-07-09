@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/t-00002540-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	183-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'm gonna show you a picture that has a_lot_of action going on . 670_3390
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|alotof noun|action-Acc verb|go-Part-Pres-S adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|12|COMPOUND 12|10|OBJ 13|10|XCOMP 14|13|COMPOUND-PRT 15|3|PUNCT
+*PAR:	there's a_lot_of things going on in the picture . [+ exc] 3409_5179
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|alotof noun|thing-Plur verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|COMPOUND 4|2|NSUBJ 5|4|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|2|PUNCT
+*INV:	tell me everything you see going on in that picture . 5203_7673
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	the boy's fallin(g) off . 8841_10531
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|falling-Part-Pres-S adp|off .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	&+d and he's <touchin(g) the &+guh cookie> [//] gettin(g) cookies up out_o(f) the jar <handin(g) (th)em> [/] handin(g) (th)em to the kid . 11661_22201
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|up adp|outof det|the-Def-Art noun|jar verb|hand-Ger-S pron|they-Prs-Acc-P3 adp|to det|the-Def-Art noun|kid .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|9|CASE 8|9|DET 9|4|OBL 10|4|ADVCL 11|10|OBJ 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	the lady's washin(g) dishes . 22796_24876
+%mor:	det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 verb|washing-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the spigot's opened . 25460_27130
+%mor:	det|the-Def-Art noun|spigot~aux|be-Fin-Ind-Pres-S3 verb|open-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|PUNCT
+*PAR:	&-uh water's overflowin(g) the sink . 27811_30301
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the window's open . 30423_32543
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	she's walkin(g) in the water . 33911_35661
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	cups on the counter and dish on the counter . [+ gram] 37511_41831
+%mor:	noun|cup-Plur adp|on det|the-Def-Art noun|counter cconj|and noun|dish adp|on det|the-Def-Art noun|counter .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|CC 6|4|CONJ 7|9|CASE 8|9|DET 9|4|NMOD 10|1|PUNCT
+*INV:	okay . 48073_48483
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00002204-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	028-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	take a look at this picture and tell me everything that you see happening in that picture . 0_4550
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|1|PUNCT
+*INV:	everything that you see going on . 5150_6550
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+*PAR:	the boy is on a stool that is falling while he's trying to get some cookies out_of the cookie jar in the top shelf (.) of the cupboard . 8587_18667
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|cookie noun|jar-Acc adp|in det|the-Def-Art adj|top-S1 noun|shelf adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|ADVCL 14|15|MARK 15|13|XCOMP 16|17|DET 17|15|OBJ 18|15|ADVMOD 19|21|DET 20|21|COMPOUND 21|15|OBJ 22|25|CASE 23|25|DET 24|25|AMOD 25|15|OBL 26|28|CASE 27|28|DET 28|25|NMOD 29|6|PUNCT
+*PAR:	the little girl is reaching for a cookie . 19317_21797
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	it looks like she's sort of laughing at the boy or putting her finger up to her mouth to be quiet so her mother doesn't hear who is in the kitchen drying dishes but the water in the sink is overflowing onto the floor and she's stepping in the water . 23021_37631
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|sort adp|of verb|laugh-Part-Pres-S adp|at det|the-Def-Art noun|boy cconj|or verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth part|to aux|be-Inf-S adj|quiet-S1 sconj|so pron|her-Prs-Gen-S3 noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|hear-Inf-S pron|who-Rel aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen noun|drying-Ger noun|dish-Plur cconj|but det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|step-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|EXPL 2|0|ROOT 3|8|MARK 4|8|NSUBJ 5|8|AUX 6|8|ADVMOD 7|6|FIXED 8|2|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|8|CONJ 14|15|NMOD-POSS 15|13|OBJ 16|13|COMPOUND-PRT 17|19|CASE 18|19|NMOD-POSS 19|13|OBL 20|22|MARK 21|22|COP 22|13|ADVCL 23|28|MARK 24|25|NMOD-POSS 25|28|NSUBJ 26|28|AUX 27|28|ADVMOD 28|2|PARATAXIS 29|35|NSUBJ 30|35|COP 31|35|CASE 32|35|DET 33|35|COMPOUND 34|35|COMPOUND 35|28|CCOMP 36|43|CC 37|38|DET 38|43|NSUBJ 39|41|CASE 40|41|DET 41|38|NMOD 42|43|AUX 43|28|CONJ 44|46|CASE 45|46|DET 46|43|OBL 47|50|CC 48|50|NSUBJ 49|50|AUX 50|43|CONJ 51|53|CASE 52|53|DET 53|50|OBL 54|2|PUNCT
+*PAR:	the window is open . 40845_41795
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	looks like &+s it's summer outside . [+ gram] 43405_46475
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer adv|outside .
+%gra:	1|0|ROOT 2|5|MARK 3|5|NSUBJ 4|5|COP 5|1|ADVCL 6|5|ADVMOD 7|1|PUNCT
+*PAR:	yeah there's trees with leaves . 46493_48403
+%mor:	intj|yeah pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|tree-Plur adp|with noun|leave-Plur .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|6|CASE 6|4|NMOD 7|3|PUNCT
+*PAR:	is that all (.) you want me to do ? [+ exc] 48572_50642
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|do-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|3|PUNCT
+*PAR:	she's [//] (.) doesn't look it's like she hears them . 50976_55586
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|look-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3 verb|hear-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|5|NSUBJ 5|8|COP 6|8|MARK 7|8|NSUBJ 8|3|CCOMP 9|8|OBJ 10|3|PUNCT
+*PAR:	she doesn't seem to be aware of them . 56651_58031
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S adj|aware-S1 adp|of pron|they-Prs-Acc-P3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+*PAR:	some of the dishes are already washed and dried . 61769_63949
+%mor:	det|some-Def-Ind adp|of det|the-Def-Art noun|dish-Plur aux|be-Fin-Ind-Pres-P3 adv|already verb|wash-Part-Past-S cconj|and verb|dry-Part-Past-S .
+%gra:	1|7|NSUBJ-PASS 2|4|CASE 3|4|DET 4|1|NMOD 5|7|AUX-PASS 6|7|ADVMOD 7|0|ROOT 8|9|CC 9|7|CONJ 10|7|PUNCT
+*PAR:	is that all you want me to say ? [+ exc] 64078_69779
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|all-Def-Tot pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|say-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|3|PUNCT
+*INV:	okay . 70368_70658
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

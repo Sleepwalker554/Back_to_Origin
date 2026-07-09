@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002237-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|76;00.|male|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	073-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I would like for you to take a look at that picture . 30_3230
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*PAR:	okay . [+ exc] 3245_3765
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	tell me everything that you see going on in that picture . 4383_7233
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	everything that's happening there . 7283_9283
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+*PAR:	okay . [+ exc] 10486_11126
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=clears:throat the stool that the [/] the boy was standing on was about to fall . 12520_17660
+%mor:	det|the-Def-Art noun|stool pron|that-Rel det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Past-S3-irr adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|10|NSUBJ 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ACL-RELCL 8|3|CASE 9|10|COP 10|0|ROOT 11|12|MARK 12|10|XCOMP 13|10|PUNCT
+*PAR:	he was reaching into the cookie jar (.) in the open cupboard . 19064_24524
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar adp|in det|the-Def-Art adj|open-S1 noun|cupboard .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|11|CASE 9|11|DET 10|11|AMOD 11|3|OBL 12|3|PUNCT
+*PAR:	little girl was holding up her left hand to receive a cookie . 27976_37636
+%mor:	adj|little-S1 noun|girl aux|be-Fin-Ind-Past-S3-irr verb|hold-Part-Pres-S adp|up pron|her-Prs-Gen-S3 adj|left-S1 noun|hand-Acc part|to verb|receive-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|NMOD-POSS 7|8|AMOD 8|4|OBJ 9|10|MARK 10|4|ADVCL 11|12|DET 12|10|OBJ 13|4|PUNCT
+*PAR:	the mother <was washing or> [//] drying or washing dishes . 39234_46894
+%mor:	det|the-Def-Art noun|mother noun|drying-Ger cconj|or noun|washing-Ger noun|dish-Plur .
+%gra:	1|6|DET 2|6|COMPOUND 3|6|COMPOUND 4|5|CC 5|3|CONJ 6|0|ROOT 7|6|PUNCT
+*PAR:	and the water from the faucet was spilling over the cabinet of the sink . 48391_54811
+%mor:	cconj|and det|the-Def-Art noun|water adp|from det|the-Def-Art noun|faucet aux|be-Fin-Ind-Past-S3-irr verb|spill-Part-Pres-S adp|over det|the-Def-Art noun|cabinet adp|of det|the-Def-Art noun|sink .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX 8|0|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|8|PUNCT
+*PAR:	I see two cups and a plate on the right hand side . 56254_61174
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art adj|right-S1 noun|hand noun|side .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|12|CASE 9|12|DET 10|11|AMOD 11|12|COMPOUND 12|2|OBL 13|2|PUNCT
+*PAR:	her feet was [* m:a] (.) in a puddle of water &=clears:throat coming from the overflowin(g) sink . 64461_77101
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Past-S3-irr adp|in det|a-Ind-Art noun|puddle adp|of noun|water verb|come-Ger-S adp|from det|the-Def-Art verb|overflow-Ger-S noun|sink .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|8|CASE 8|6|NMOD 9|8|ACL 10|13|CASE 11|13|DET 12|13|AMOD 13|9|OBL 14|6|PUNCT
+*INV:	okay that's fine . 77488_78628
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	+< the curtains , (.) the outside +... 78044_80254
+%mor:	det|the-Def-Art noun|curtain-Plur cm|cm det|the-Def-Art adj|outside-S1 +...
+%gra:	1|2|DET 2|0|ROOT 3|5|PUNCT 4|5|DET 5|2|PARATAXIS 6|2|PUNCT
+*INV:	+< that's fine . 79474_79984
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	that was good . 80720_81340
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

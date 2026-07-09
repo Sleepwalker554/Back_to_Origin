@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/t-00002367-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|52;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	248-2, audio
+@G:	Cookie
+*PAR:	well let's see . [+ exc] 280_1580
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	we have the water coming out_of the spigot and the sink is stopped up and the water is going on the floor . 1670_8100
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|the-Def-Art noun|water-Acc verb|come-Ger-S adp|outof det|the-Def-Art noun|spigot cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|stop-Part-Past-S adp|up cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|13|CC 10|11|DET 11|13|NSUBJ-PASS 12|13|AUX-PASS 13|2|CONJ 14|13|COMPOUND-PRT 15|19|CC 16|17|DET 17|19|NSUBJ 18|19|AUX 19|13|CONJ 20|22|CASE 21|22|DET 22|19|OBL 23|2|PUNCT
+*PAR:	apparently the mother is drying a dish . 9836_13196
+%mor:	adv|apparently det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	we have the boy standing on a stool trying to get cookies out_of the cookie jar and <handing them to> [/] &-uh handing them to his sister probably . 14507_26137
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|the-Def-Art noun|boy-Acc verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool verb|try-Ger-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar cconj|and verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|his-Prs-Gen-S3 noun|sister adv|probably .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|8|ACL 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|11|OBL 17|18|CC 18|11|CONJ 19|18|OBJ 20|22|CASE 21|22|NMOD-POSS 22|18|OBL 23|18|ADVMOD 24|2|PUNCT
+*PAR:	and he's about to fall as the stool is tipping over . 27125_31705
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S sconj|as det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL 12|11|COMPOUND-PRT 13|4|PUNCT
+*PAR:	and the grass is growing and [//] &-uh probably . 32564_36805
+%mor:	cconj|and det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S adv|probably .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	but I guess that's about the action . [+ exc] 37652_39162
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|the-Def-Art noun|action .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|DET 8|3|CCOMP 9|3|PUNCT
+*INV:	okay . 40167_40427
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

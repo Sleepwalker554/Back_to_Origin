@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002692-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	581-0, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 930_2160
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	well ‡ the water is &-uh runnin(g) out over the &+s sink and over the [//] (.) this . [+ es] 3073_9943
+%mor:	intj|well punct|‡ det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink cconj|and adp|over pron|this-Dem-S1 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|13|CC 12|13|CASE 13|10|CONJ 14|6|PUNCT
+*PAR:	the little boy is goin(g) up into the cookie jar but the [//] he's on the top of the &=sighs chair [: stool] [* s:r] that he's gonna fall off since it's tipping over . 10610_21720
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adv|up adp|into det|the-Def-Art noun|cookie noun|jar cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|top adp|of det|the-Def-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off sconj|since pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|16|CC 12|16|NSUBJ 13|16|COP 14|16|CASE 15|16|DET 16|5|CONJ 17|19|CASE 18|19|DET 19|16|NMOD 20|25|OBL 21|23|NSUBJ 22|23|AUX 23|19|ACL-RELCL 24|25|MARK 25|23|XCOMP 26|25|COMPOUND-PRT 27|30|MARK 28|30|NSUBJ 29|30|AUX 30|25|ADVCL 31|30|COMPOUND-PRT 32|5|PUNCT
+*PAR:	&-uh the water that's: <on the> [//] &+s also on the floor that's comin(g) out_of the sink . [+ gram] 21822_28002
+%mor:	det|the-Def-Art noun|water pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|also adp|on det|the-Def-Art noun|floor pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|0|ROOT 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|CASE 7|8|DET 8|2|ACL-RELCL 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+*PAR:	and &-uh (.) let's see here [/] here +... [+ exc] 30040_46340
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|here +...
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|ADVMOD 6|2|PUNCT
+*INV:	okay ? 47390_47620
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no ‡ I don't think I see &+a the [/] the water in here and that . [+ es] 48206_51916
+%mor:	intj|no punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|water-Acc adp|in adv|here cconj|and pron|that-Dem .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|NSUBJ 8|6|CCOMP 9|10|DET 10|8|OBJ 11|12|CASE 12|8|OBL 13|14|CC 14|12|CONJ 15|6|PUNCT
+*PAR:	yeah ‡ it goes all the way down into this kitchen floor . 53929_57849
+%mor:	intj|yeah punct|‡ pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|way-Acc adv|down adp|into det|this-Def-Dem-Sing noun|kitchen noun|floor .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|7|DET-PREDET 6|7|DET 7|4|OBJ 8|4|ADVMOD 9|12|CASE 10|12|DET 11|12|COMPOUND 12|4|OBL 13|4|PUNCT
+*INV:	okay . 58909_59069
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	here he is the boy who's taking the cookie out_of the cookie jar but &+st steps back on the chair [: stool] [* s:r-ret] <or whatever you call this the &-uh table not a table> [//] to get to the top <of the> [/] &+s <of the> [/] &-uh &+cook &-uh of the drawer [* s:uk] . [+ cir] 59706_77446
+%mor:	adv|here pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|boy pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|the-Def-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc cconj|but verb|step-Fin-Ind-Pres-S3 adv|back adp|on det|the-Def-Art noun|stool part|to verb|get-Inf-S adp|to det|the-Def-Art noun|top adp|of det|the-Def-Art noun|drawer .
+%gra:	1|0|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|CCOMP 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|14|DET 13|14|COMPOUND 14|8|OBJ 15|16|CC 16|8|CONJ 17|16|ADVMOD 18|20|CASE 19|20|DET 20|16|OBL 21|22|MARK 22|16|ADVCL 23|25|CASE 24|25|DET 25|22|OBL 26|28|CASE 27|28|DET 28|25|NMOD 29|1|PUNCT
+*PAR:	that's about all . [+ exc] 79204_80214
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	okay that's fine . 80304_81244
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

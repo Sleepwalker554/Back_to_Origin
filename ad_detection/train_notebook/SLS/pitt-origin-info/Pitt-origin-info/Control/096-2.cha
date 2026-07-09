@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/t-00002250-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;00.|male|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	096-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	what do I see going on ? [+ exc] 510_1620
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|see-Inf-S verb|go-Ger-S adp|on ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|4|PUNCT
+*PAR:	just [/] just start to describe it ? [+ exc] 1635_3665
+%mor:	adv|just verb|start-Fin-Imp-S part|to verb|describe-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*INV:	right . 3772_3912
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the girl wants a cookie . 4485_7255
+%mor:	det|the-Def-Art noun|girl verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the boy's &+k tryin(g) to get a cookie out_of the cookie jar . 7274_10544
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|13|DET 12|13|COMPOUND 13|7|OBJ 14|5|PUNCT
+*PAR:	and the stool's fallin(g) over . 10567_12007
+%mor:	cconj|and det|the-Def-Art noun|stool~part|s verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	and the water &+s spigot's turned on . 13861_17521
+%mor:	cconj|and det|the-Def-Art noun|water noun|spigot~part|s verb|turn-Fin-Ind-Past-S3 adp|on .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|4|CASE 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*PAR:	the water's overflowin(g) . 17543_18943
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and the mother's doin(g) the dishes . 18996_20956
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and &-uh the windows open . 21009_24189
+%mor:	cconj|and det|the-Def-Art noun|window-Plur verb|open-Fin-Ind-Pres-P3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-uh (.) it's spring outside somethin(g)'s growing . 24213_31343
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|spring-Ger adp|outside pron|something-Ind-S1~aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|CASE 6|4|NMOD 7|8|AUX 8|4|ACL-RELCL 9|4|PUNCT
+*PAR:	the window's open . 32353_33523
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	anything else ? [+ exc] 36830_37380
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	she's drying the dishes . 37570_38400
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	has a dress on . [+ gram] 38534_39324
+%mor:	verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dress-Acc adp|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	her feet's [* m:a] in the water . [+ gram] 39343_40703
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|water .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	(.) the lid's off the cookie jar . 42738_44198
+%mor:	det|the-Def-Art noun|lid~aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	and the kid has <a hand on> [//] <one hand> [//] in the right hand has gettin(g) a cookie and the left hand has one in . 44222_49662
+%mor:	cconj|and det|the-Def-Art noun|kid aux|have-Fin-Ind-Pres-S3 adp|in det|the-Def-Art adj|right-S1 noun|hand aux|have-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc cconj|and det|the-Def-Art adj|left-S1 noun|hand verb|have-Fin-Ind-Pres-S3 num|one adp|in .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|10|AUX 5|8|CASE 6|8|DET 7|8|AMOD 8|10|OBL 9|10|AUX 10|0|ROOT 11|12|DET 12|10|OBJ 13|17|CC 14|16|DET 15|16|AMOD 16|17|NSUBJ 17|10|CONJ 18|17|OBJ 19|17|ADVMOD 20|10|PUNCT
+*PAR:	he's givin(g) [//] gonna give it to the sister . 49708_52258
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|3|PUNCT
+*INV:	okay good . 53028_53218
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

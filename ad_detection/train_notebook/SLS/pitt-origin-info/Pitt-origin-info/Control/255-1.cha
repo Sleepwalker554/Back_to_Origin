@@ -1,0 +1,24 @@
+@UTF8
+@PID:	11312/t-00002369-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|51;|male|Control||Participant|28||
+@Media:	255-1, audio
+@G:	Cookie
+*PAR:	I &+s see this woman who's standin(g) by the sink washin(g) dishes . 2110_5030
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|woman-Acc pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|by det|the-Def-Art noun|sink noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|12|CASE 9|12|DET 10|12|COMPOUND 11|12|COMPOUND 12|7|OBL 13|2|PUNCT
+*PAR:	and the water's spillin(g) out over the sink . 5209_6929
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	and I see <a little> [//] this little boy standing on a stool reaching for cookies . 10279_15679
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing adj|little-S1 noun|boy-Acc verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool verb|reach-Ger-S adp|for noun|cookie-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|7|ADVCL 12|13|CASE 13|11|OBL 14|3|PUNCT
+*PAR:	and he looks like he's ready to fall . 15856_17486
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|COP 7|3|ADVCL 8|9|MARK 9|7|XCOMP 10|3|PUNCT
+*PAR:	(..) &-uh as far as action goes I don't know if I see any more action in there at all . [+ exc] 19090_39650
+%mor:	adv|as adv|far sconj|as noun|action verb|go-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|any-Def-Ind adj|more-Cmp-S1 noun|action-Acc adp|in adv|there adp|at det|all-Def-Tot .
+%gra:	1|2|ADVMOD 2|9|ADVMOD 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|0|ROOT 10|12|MARK 11|12|NSUBJ 12|9|CCOMP 13|15|DET 14|15|AMOD 15|12|OBJ 16|17|CASE 17|12|OBL 18|19|CASE 19|17|OBL 20|9|PUNCT
+@End

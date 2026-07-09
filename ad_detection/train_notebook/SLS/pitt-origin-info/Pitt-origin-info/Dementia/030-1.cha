@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002445-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	030-1, audio
+@G:	Cookie
+*PAR:	&-um there are two children a boy and a girl . 1880_6720
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|child-Plur det|a-Ind-Art noun|boy cconj|and det|a-Ind-Art noun|girl .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|6|DET 6|4|APPOS 7|9|CC 8|9|DET 9|6|CONJ 10|2|PUNCT
+*PAR:	the girl is standing on the floor and [/] and the boy is reaching up into a cupboard that's open that has a cookie jar with the lid off of it . 6736_14636
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|floor cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|into det|a-Ind-Art noun|cupboard pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|open-S1 pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar-Acc adp|with det|the-Def-Art noun|lid adp|off adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|19|NSUBJ 18|19|COP 19|16|ACL-RELCL 20|21|NSUBJ 21|19|ADVCL-RELCL 22|24|DET 23|24|COMPOUND 24|21|OBJ 25|27|CASE 26|27|DET 27|21|OBL 28|30|CASE 29|30|CASE 30|27|NMOD 31|4|PUNCT
+*PAR:	he has a cookie in his left hand . 15342_16702
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|4|NMOD 9|2|PUNCT
+*PAR:	he's reaching for a second one and the stool on which he is standing has &-uh tipped over and he's going to fall down . 16724_24154
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art adj|second-S1 noun|one cconj|and det|the-Def-Art noun|stool adp|on pron|which-Rel-S1 pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S aux|have-Fin-Ind-Pres-S3 verb|tip-Part-Past-S adp|over cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|down .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|17|CC 9|10|DET 10|17|NSUBJ 11|12|CASE 12|15|OBL 13|15|NSUBJ 14|15|AUX 15|10|ACL-RELCL 16|17|AUX 17|3|CONJ 18|17|COMPOUND-PRT 19|22|CC 20|22|NSUBJ 21|22|AUX 22|17|CONJ 23|24|MARK 24|22|XCOMP 25|24|COMPOUND-PRT 26|3|PUNCT
+*PAR:	the mother her back is <to the> [/] &-um to the event and she is washing dishes while her &-uh sink is &-uh overflowing with water onto the floor . 24200_37890
+%mor:	det|the-Def-Art noun|mother pron|her-Prs-Gen-S3 noun|back aux|be-Fin-Ind-Pres-S3 adp|to det|the-Def-Art noun|event cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc sconj|while pron|her-Prs-Gen-S3 noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with noun|water adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|8|NSUBJ 3|4|NMOD-POSS 4|2|CONJ 5|8|COP 6|8|CASE 7|8|DET 8|0|ROOT 9|12|CC 10|12|NSUBJ 11|12|AUX 12|8|CONJ 13|12|OBJ 14|18|MARK 15|16|NMOD-POSS 16|18|NSUBJ 17|18|AUX 18|12|ADVCL 19|20|CASE 20|18|OBL 21|23|CASE 22|23|DET 23|18|OBL 24|8|PUNCT
+*PAR:	she seems to be oblivious of it . 38648_40248
+%mor:	pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|oblivious-S1 adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|COP 5|2|XCOMP 6|7|CASE 7|5|OBL 8|2|PUNCT
+*PAR:	the window is &-uh opened looking out onto a pathway that has &-um a tree and shrubbery and a part of &-uh what might be an extension of the house or a garage . 40894_53614
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 verb|open-Part-Past-S verb|look-Ger-S adp|out adp|onto det|a-Ind-Art noun|pathway pron|that-Rel verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree-Acc cconj|and noun|shrubbery cconj|and det|a-Ind-Art noun|part adp|of pron|what-Rel-S1 aux|might-Fin-S aux|be-Inf-S det|a-Ind-Art noun|extension adp|of det|the-Def-Art noun|house cconj|or det|a-Ind-Art noun|garage .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|11|NSUBJ 11|9|ACL-RELCL 12|13|DET 13|11|OBJ 14|15|CC 15|13|CONJ 16|18|CC 17|18|DET 18|13|CONJ 19|20|CASE 20|18|NMOD 21|24|AUX 22|24|COP 23|24|DET 24|20|ACL-RELCL 25|27|CASE 26|27|DET 27|24|NMOD 28|30|CC 29|30|DET 30|27|CONJ 31|4|PUNCT
+*PAR:	and there are curtains over the window . 54564_56544
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|over det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	and there are [/] are two cups and a saucer that she is either going to wash or has already washed . 56589_63949
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|saucer pron|that-Rel pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cconj|either verb|go-Part-Pres-S part|to verb|wash-Inf-S cconj|or aux|have-Fin-Ind-Pres-S3 adv|already verb|wash-Part-Past-S .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|15|OBJ 10|13|NSUBJ 11|13|AUX 12|13|CC-PRECONJ 13|8|ACL-RELCL 14|15|MARK 15|13|XCOMP 16|19|CC 17|19|AUX 18|19|ADVMOD 19|15|CONJ 20|3|PUNCT
+*PAR:	and &-uh &+y &+y this event is taking place in the kitchen . 66131_68881
+%mor:	cconj|and det|this-Def-Dem-Sing noun|event aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|place-Acc adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	I don't know if I said that or not . [+ exc] 68900_69850
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|7|OBJ 9|10|CC 10|7|CONJ 11|4|PUNCT
+*INV:	okay . 70843_70933
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and I believe that's about all that I can see . [+ exc] 71198_73578
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|believe-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|3|CCOMP 8|11|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|3|PUNCT
+*INV:	okay . 74318_74418
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

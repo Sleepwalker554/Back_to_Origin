@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/t-00002420-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|male|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	001-0, audio
+@Comment:	another audio testing file overlaps in background
+@G:	Cookie
+*INV:	this is the picture . 340_2530
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	mhm . [+ exc] 2581_3211
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	just tell me everything that you see happening in that picture . 3426_6646
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+*PAR:	+< alright . [+ exc] 6650_6820
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's &-um a young boy that's getting a cookie jar . 7277_12027
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|boy pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|2|PUNCT
+*PAR:	and it [//] he's &-uh in bad shape because &-uh the thing is fallin(g) over . 12768_18528
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in adj|bad-S1 noun|shape sconj|because det|the-Def-Art noun|thing-Ger aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|AMOD 6|0|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL 12|11|ADVMOD 13|6|PUNCT
+*PAR:	and in the picture the mother is washin(g) dishes and doesn't see it . 19908_24598
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and aux|do-Fin-Ind-Pres-S3~part|not verb|see-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|OBJ 10|13|CC 11|13|AUX 12|13|ADVMOD 13|8|CONJ 14|13|OBJ 15|8|PUNCT
+*PAR:	and so <is the> [//] the water is overflowing in the sink . 25022_29022
+%mor:	cconj|and adv|so det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	and the dishes might <get falled [* +ed] over if you don't> [//] fell [//] fall over there [/] there if you don't get it . 30541_34461
+%mor:	cconj|and det|the-Def-Art noun|dish-Plur aux|might-Fin-S verb|fall-Inf-S adp|over adv|there sconj|if pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|12|MARK 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|5|ADVCL 13|12|OBJ 14|5|PUNCT
+*PAR:	and it [//] there [//] it's a picture of a kitchen window . 35844_38954
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|picture adp|of det|a-Ind-Art noun|kitchen noun|window .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|NMOD 10|5|PUNCT
+*PAR:	and the curtains are very &-uh distinct . 39140_42140
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 adv|very adj|distinct-S1 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	but the water is &+flow still flowing . 44272_46242
+%mor:	cconj|but det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 adv|still verb|flow-Part-Pres-S .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*INV:	okay thank_you very much . 47005_54755
+%mor:	intj|okay propn|thankyou adv|very adv|much .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+@End

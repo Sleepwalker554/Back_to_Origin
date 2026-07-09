@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002280-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	128-1, audio
+@G:	Cookie
+*INV:	and here's the picture . 460_2120
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*PAR:	oh I remember this one . [+ exc] 3624_4594
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|remember-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|one-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	okay . [+ exc] 5004_5414
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the mom's doing the dishes and looking out the window . 5853_8103
+%mor:	det|the-Def-Art noun|mom~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|8|COMPOUND-PRT 10|11|DET 11|8|OBJ 12|4|PUNCT
+*PAR:	and she must be really interested in what she sees out there because the sink is running over . 8842_13462
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S adv|really adj|interested-S1 adp|in pron|what-Rel-S1 pron|she-Prs-Nom-S3 verb|see-Fin-Ind-Pres-S3 adv|out adv|there sconj|because det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|10|NSUBJ 10|8|ACL-RELCL 11|12|ADVMOD 12|10|ADVMOD 13|17|MARK 14|15|DET 15|17|NSUBJ 16|17|AUX 17|6|ADVCL 18|17|COMPOUND-PRT 19|6|PUNCT
+*PAR:	the water is splashing on the floor . 13482_15352
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	she's paying no attention to it . 15755_17325
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pay-Part-Pres-S det|no-Def-Neg noun|attention-Acc adp|to pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*PAR:	and meantime behind her the kids are getting up on the stool and getting into the cookie jar <which is> [/] which is on the second shelf of the cupboard . 18028_24548
+%mor:	cconj|and noun|meantime adp|behind pron|her-Prs-Acc-S3 det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|up adp|on det|the-Def-Art noun|stool cconj|and verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art adj|second-S1 noun|shelf adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|8|CC 2|8|NSUBJ 3|4|CASE 4|2|NMOD 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|14|CC 14|8|CONJ 15|18|CASE 16|18|DET 17|18|COMPOUND 18|14|OBL 19|24|NSUBJ 20|24|COP 21|24|CASE 22|24|DET 23|24|AMOD 24|18|ACL-RELCL 25|27|CASE 26|27|DET 27|24|NMOD 28|8|PUNCT
+*PAR:	the left hand side of the cupboard door is open . 24595_26825
+%mor:	det|the-Def-Art adj|left-S1 noun|hand noun|side adp|of det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|4|DET 2|3|AMOD 3|4|COMPOUND 4|10|NSUBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|10|COP 10|0|ROOT 11|10|PUNCT
+*PAR:	&-uh the little girl has her finger on her lips &-uh &+s telling him to shush but he's losing his balance . 27877_34057
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|on pron|her-Prs-Gen-S3 noun|lip-Plur verb|tell-Ger-S pron|he-Prs-Acc-S3 part|to verb|shush-Inf-S cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|lose-Part-Pres-S pron|his-Prs-Gen-S3 noun|balance-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|ADVCL 11|10|IOBJ 12|13|MARK 13|10|XCOMP 14|17|CC 15|17|NSUBJ 16|17|AUX 17|4|CONJ 18|19|NMOD-POSS 19|17|OBJ 20|4|PUNCT
+*PAR:	and he's about to fall on the floor which will really cause a real upset in there . 34553_39263
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|on det|the-Def-Art noun|floor pron|which-Rel-S1 aux|will-Fin-S adv|really verb|cause-Inf-S det|a-Ind-Art adj|real-S1 noun|upset-Acc adp|in adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|13|NSUBJ 11|13|AUX 12|13|ADVMOD 13|9|ACL-RELCL 14|16|DET 15|16|AMOD 16|13|OBJ 17|18|CASE 18|13|OBL 19|4|PUNCT
+*PAR:	and &-uh action [/] action . [+ exc] 40142_42182
+%mor:	cconj|and noun|action .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	the water running . [+ gram] 42421_43101
+%mor:	det|the-Def-Art noun|water noun|running-Ger .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	the mama's drying a dish . 43152_44482
+%mor:	det|the-Def-Art noun|mama~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	that's what she's doing and looking out the window . 44729_48779
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|8|CC 8|6|CONJ 9|8|COMPOUND-PRT 10|11|DET 11|8|OBJ 12|3|PUNCT
+*PAR:	little boy has taken one cookie out_of the cookie jar and is about to hand it to the little girl who is reaching up her hand for it . 52914_59724
+%mor:	adj|little-S1 noun|boy aux|have-Fin-Ind-Pres-S3 verb|take-Part-Past-S-irr num|one noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc cconj|and aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|hand-Inf-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art adj|little-S1 noun|girl pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up pron|her-Prs-Gen-S3 noun|hand-Acc adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|NUMMOD 6|7|COMPOUND 7|4|OBJ 8|10|DET 9|10|COMPOUND 10|4|OBJ 11|13|CC 12|13|COP 13|4|CONJ 14|15|MARK 15|13|XCOMP 16|15|OBJ 17|20|CASE 18|20|DET 19|20|AMOD 20|15|OBL 21|23|NSUBJ 22|23|AUX 23|20|ACL-RELCL 24|23|COMPOUND-PRT 25|26|NMOD-POSS 26|23|OBJ 27|28|CASE 28|23|OBL 29|4|PUNCT
+*PAR:	and he is reaching into the cookie jar for another cookie . 60288_62878
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar adp|for det|another-Def-Ind noun|cookie .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|4|PUNCT
+*PAR:	and action [/] action . [+ exc] 64477_67578
+%mor:	cconj|and noun|action .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	well ‡ the curtains are blowing in the breeze . 74646_76616
+%mor:	intj|well punct|‡ det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S adp|in det|the-Def-Art noun|breeze .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	I guess that's an action . [+ exc] 76728_77508
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|action .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|2|PUNCT
+*PAR:	it looks as though they are . 77890_78810
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|as sconj|though pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|2|PUNCT
+*PAR:	&-um no action as far as I can see out the window . 82679_85169
+%mor:	det|no-Def-Neg noun|action adv|as adv|far sconj|as pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|DET 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|8|COMPOUND-PRT 10|11|DET 11|8|OBJ 12|2|PUNCT
+*PAR:	the window's open (.) which implies an action earlier . 85222_90812
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 pron|which-Rel-S1 verb|imply-Fin-Ind-Pres-S3 det|a-Ind-Art noun|action-Acc adv|early .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|6|NSUBJ 6|4|ADVCL-RELCL 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|4|PUNCT
+*PAR:	I can't see any more action in it . [+ exc] 92929_94329
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S det|any-Def-Ind adj|more-Cmp-S1 noun|action-Acc adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|CASE 9|4|OBL 10|4|PUNCT
+*INV:	okay good . 94877_95957
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

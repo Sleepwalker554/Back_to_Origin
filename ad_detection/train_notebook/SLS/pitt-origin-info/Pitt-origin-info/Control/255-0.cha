@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002368-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|50;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	255-0, audio
+@G:	Cookie
+*PAR:	you mean just detail everything I see ? [+ exc] 30_2100
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adv|just noun|detail pron|everything-Tot-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|5|COMPOUND 5|2|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|2|PUNCT
+*INV:	just everything that you see happening there . 2654_3974
+%mor:	adv|just pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|6|OBJ 4|5|NSUBJ 5|2|ACL-RELCL 6|5|XCOMP 7|6|ADVMOD 8|2|PUNCT
+*PAR:	well ‡ I see &-uh a little boy standing on a stool . 5798_8338
+%mor:	intj|well punct|‡ pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|boy-Acc verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|7|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+*PAR:	and the stool fallin(g) over . 8490_9610
+%mor:	cconj|and det|the-Def-Art noun|stool verb|fall-Ger-S adv|over .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|4|ADVMOD 6|3|PUNCT
+*PAR:	he's up in the cupboard grabbin(g) cookies . 9967_12977
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|up adp|in det|the-Def-Art noun|cupboard verb|grab-Ger-S noun|cookie-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|8|CASE 5|8|DET 6|8|COMPOUND 7|8|AMOD 8|3|OBL 9|3|PUNCT
+*PAR:	and a little girl standing down there waiting to get some cookies off of him . 13026_17416
+%mor:	cconj|and det|a-Ind-Art adj|little-S1 noun|girl verb|stand-Ger-S adp|down adv|there verb|wait-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|off adp|of pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ACL 6|5|COMPOUND-PRT 7|5|ADVMOD 8|5|ADVCL 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|15|CASE 14|15|CASE 15|10|OBL 16|4|PUNCT
+*PAR:	I guess their mother's standing there doing dishes at the sink . 20837_23977
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|their-Prs-Gen-P3 noun|mother~part|s verb|stand-Part-Pres-S adv|there verb|do-Part-Pres-S noun|dish-Plur-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|6|NMOD-POSS 5|4|CASE 6|2|CCOMP 7|6|ADVMOD 8|6|ADVCL 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|2|PUNCT
+*PAR:	and the water's overflowing and running onto the floor . 24140_26150
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S cconj|and verb|run-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CC 7|5|CONJ 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*PAR:	she's wiping a dish off . 27628_28778
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|dish-Acc adp|off .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*PAR:	just staring out the window I guess . [+ gram] 30112_31292
+%mor:	adv|just verb|stare-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|7|NSUBJ 7|2|PARATAXIS 8|2|PUNCT
+*PAR:	this is what I see . [+ exc] 33419_34939
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*INV:	okay . 39735_39865
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 46815_47185
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

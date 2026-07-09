@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002322-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	166-1, audio
+@G:	Cookie
+*PAR:	everything that I see going on . [+ exc] 1150_3210
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+*PAR:	okay . [+ exc] 5707_6347
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well a little boy is stealing a cookie from the cookie jar . 6609_13029
+%mor:	intj|well det|a-Ind-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|6|OBL 13|6|PUNCT
+*PAR:	he's also handing a cookie with his left hand to the girl . 13738_18158
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|with pron|his-Prs-Gen-S3 adj|left-S1 noun|hand adp|to det|the-Def-Art noun|girl .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|4|OBL 11|13|CASE 12|13|DET 13|4|OBL 14|4|PUNCT
+*PAR:	he's also falling off a stool or the stool is tipping over . 19354_24254
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool cconj|or det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|12|COMPOUND-PRT 14|4|PUNCT
+*PAR:	the little girl is reaching for the cookie . 25577_27807
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	at the same time she's picking her nose or something &=laughs . 28050_30840
+%mor:	adp|at det|the-Def-Art adj|same-S1 noun|time pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pick-Part-Pres-S pron|her-Prs-Gen-S3 noun|nose-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|11|CC 11|9|CONJ 12|7|PUNCT
+*PAR:	I don't know what's she's doing &=laughs . [+ exc] 30863_32253
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|9|AUX 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|4|PUNCT
+*PAR:	&=laughs &-uh (.) it looks like maybe the lid is falling from the cookie jar . 34520_42550
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like adv|maybe det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|8|MARK 4|8|ADVMOD 5|6|DET 6|8|NSUBJ 7|8|AUX 8|2|ADVCL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|OBL 13|2|PUNCT
+*PAR:	I'm not sure . [+ exc] 42600_43430
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	the lady is wiping a plate while the sink overflows . 45194_54004
+%mor:	det|the-Def-Art noun|lady aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|plate-Acc sconj|while det|the-Def-Art noun|sink verb|overflow-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|MARK 8|9|DET 9|10|NSUBJ 10|4|ADVCL 11|4|PUNCT
+*PAR:	and she's standing in a puddle of water . 55519_58299
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|CASE 9|7|NMOD 10|4|PUNCT
+*PAR:	am I going too fast ? [+ exc] 60206_61076
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adv|too adj|fast-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*INV:	no you take xxx . 61420_62830
+%mor:	intj|no pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she's looking out the window . 63327_66847
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR:	I can't make out anything in particular going on outside . [+ exc] 67064_77284
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|make-Inf-S adp|out pron|anything-Ind-S1 adp|in adj|particular-S1 verb|go-Ger-S adp|on adv|outside .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|COMPOUND-PRT 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|ADVCL 10|9|COMPOUND-PRT 11|9|ADVMOD 12|4|PUNCT
+*PAR:	<the water> [//] the faucet's turned on of_course which is causing the sink to overflow . 80710_85810
+%mor:	det|the-Def-Art noun|faucet~aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Past-S adp|on noun|ofcourse pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|cause-Part-Pres-S det|the-Def-Art noun|sink-Acc part|to verb|overflow-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|11|DET 11|9|OBJ 12|13|MARK 13|9|XCOMP 14|4|PUNCT
+*PAR:	and the water is splashing on the floor . 85829_88239
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	that's really about all I can tell going on so to speak . [+ exc] 93986_100616
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|really adp|about det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|tell-Inf-S verb|go-Ger-S adp|on adv|so part|to verb|speak-Inf-S .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|CASE 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|ADVMOD 12|13|MARK 13|9|ADVCL 14|5|PUNCT
+*INV:	okay . 101234_101674
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

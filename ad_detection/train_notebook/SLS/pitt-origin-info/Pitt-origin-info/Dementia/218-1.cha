@@ -1,0 +1,147 @@
+@UTF8
+@PID:	11312/t-00002561-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|female|ProbableAD||Participant|1||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:44:24-04:00]
+@Media:	218-1, audio
+@G:	Cookie
+*INV:	I'm gonna show you a picture now . 370_2220
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|5|ADVMOD 10|3|PUNCT
+*INV:	I want you to tell me what you see going on in this picture . 4724_7374
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+*INV:	tell me what's happening in that picture . 7398_9278
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|1|PUNCT
+*PAR:	this is &-uh a clause copy [/] copy c@l by his +... [+ exc] 9998_18038
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|clause noun|copy n:let|c adp|by pron|his-Prs-S3 +...
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|COMPOUND 5|6|COMPOUND 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*INV:	look at the picture up here . 19556_20746
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|picture adp|up adv|here .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|COMPOUND-PRT 6|1|ADVMOD 7|1|PUNCT
+*PAR:	yeah uhhuh . [+ exc] 20765_21535
+%mor:	intj|yeah intj|uhhuh .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	+< tell me what's going on in the picture . 21530_23410
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	a mɪndə˞@u [//] [* n:uk-ret] mɪdə˞@u [//] [* n:uk-ret] mɪdnə˞@u [* n:uk] . [+ jar] [+ exc] 23810_26320
+%mor:	det|a-Ind-Art uni|mɪdnə˞ .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	can you tell me what's going on in this picture ? 27306_29226
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*PAR:	the sun . [+ gram] [+ exc] 30270_30730
+%mor:	det|the-Def-Art noun|sun .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	+< look here . 30580_31060
+%mor:	verb|look-Fin-Imp-S adv|here .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	you see up here ? 32481_33221
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adp|up adv|here ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|2|PUNCT
+*INV:	what's going on in this picture ? 34085_35285
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	+< mhm . [+ exc] 34196_34326
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what do you see in this picture ? 35300_36710
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	his kɜ˞@u [* n:uk] . [+ jar] [+ exc] 39773_40373
+%mor:	pron|his-Prs-Gen-S3 uni|kɜ˞ .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|PUNCT
+*INV:	can you tell me what's going on over here ? 41915_45225
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|3|PUNCT
+*PAR:	+< xxx ample xxx rice &=clears:throat discharged . [+ jar] [+ exc] 45440_51000
+%mor:	adj|ample-S1 noun|rice verb|discharge-Fin-Ind-Past-S3 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	charged . [+ gram] [+ exc] 52282_52812
+%mor:	verb|charge-Fin-Ind-Past-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flexible . [+ gram] [+ exc] 54010_54640
+%mor:	adj|flexible-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flexible . [+ gram] [+ exc] 55472_56252
+%mor:	adj|flexible-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ jar]
+*INV:	+< can you tell me what's going on in this picture ? 58200_60100
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*PAR:	my husband and &-uh +... [+ exc] 61125_67305
+%mor:	pron|my-Prs-Gen-S1 noun|husband cconj|and +...
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|CC 4|2|PUNCT
+*INV:	what's going on in this picture here ? 69180_70970
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|this-Def-Dem-Sing noun|picture adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|ADVMOD 9|3|PUNCT
+*PAR:	+< is there somebody else there ? [+ exc] 69970_70580
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|somebody-Ind-S1 adj|else-S1 adv|there ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|1|ADVMOD 6|1|PUNCT
+*INV:	Missus_Last_name ? 72012_72862
+%mor:	propn|MissusLastname ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<her too> [//] her . [+ gram] [+ exc] 73086_73646
+%mor:	pron|her-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< Missus_Last_name . 73565_74325
+%mor:	propn|MissusLastname .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh Last_name yeah . [+ exc] 74597_75367
+%mor:	noun|lastname intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*INV:	Missus_Last_name can you look at me ? 75590_76830
+%mor:	propn|MissusLastname-Acc aux|can-Fin-S pron|you-Prs-Nom-S2 verb|look-Inf-S adp|at pron|I-Prs-Acc-S1 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*INV:	can you look at me ? 77690_78420
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|look-Inf-S adp|at pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*INV:	I want you to look at the picture here . 79830_81590
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|the-Def-Art noun|picture adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|5|ADVMOD 10|2|PUNCT
+*PAR:	+< yeah . [+ exc] 80140_80180
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	right here . 81995_82615
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*INV:	what's going on right there ? 83303_84573
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|right adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|ADVMOD 6|3|ADVMOD 7|3|PUNCT
+*INV:	what do you see ? 84890_85690
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	a lovely girl . [+ gram] 86648_87488
+%mor:	det|a-Ind-Art adj|lovely-S1 noun|girl .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*INV:	uhhuh any +/? 87965_88585
+%mor:	intj|uhhuh det|any-Def-Ind +/?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*PAR:	+< a do guess gettin(g) older I see I so . [+ jar] 88510_90210
+%mor:	det|a-Ind-Art aux|do-Fin-Ind-Pres-S1 verb|guess-Inf-S verb|get-Ger-S adj|old-Cmp-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|so .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|4|XCOMP 6|7|NSUBJ 7|3|PARATAXIS 8|7|OBJ 9|3|ADVMOD 10|3|PUNCT
+*INV:	uhhuh . 90516_90946
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you see anything else in the picture ? 91249_92879
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*INV:	right here ? 94568_95118
+%mor:	adv|right adv|here ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	oh no . [+ exc] 96200_96690
+%mor:	intj|oh intj|no .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	this is [//] oh I can just +... [+ exc] 97082_98642
+%mor:	pron|this-Dem-S1 intj|oh pron|I-Prs-Nom-S1 aux|can-Fin-S adv|just +...
+%gra:	1|4|NSUBJ 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	okay let me take this away from you . 100692_102512
+%mor:	intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|take-Inf-S pron|this-Dem-S1 adv|away adp|from pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|8|CASE 8|4|OBL 9|2|PUNCT
+@End

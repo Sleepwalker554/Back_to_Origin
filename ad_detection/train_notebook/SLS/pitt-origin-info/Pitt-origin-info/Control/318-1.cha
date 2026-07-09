@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/t-00002400-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|59;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	318-1, audio
+@G:	Cookie
+*INV:	okay great . 850_1770
+%mor:	intj|okay adj|great-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	xxx and there's the picture . 2613_3823
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	well let's see . [+ exc] 6869_8089
+%mor:	intj|well verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	the girl is whisperin(g) to be quiet (be)cause mother might find out that the he's is standing on a school [: stool] [* p:w-ret] [//] stool which is bending over . 8141_15281
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|whisper-Part-Pres-S part|to aux|be-Inf-S adj|quiet-S1 sconj|because noun|mother aux|might-Fin-S verb|find-Inf-S adp|out sconj|that det|the-Def-Art pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|bending-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|11|MARK 9|11|NSUBJ 10|11|AUX 11|4|ADVCL 12|11|COMPOUND-PRT 13|18|MARK 14|15|DET 15|18|NSUBJ 16|18|AUX 17|18|AUX 18|11|CCOMP 19|21|CASE 20|21|DET 21|18|OBL 22|24|NSUBJ 23|24|AUX 24|21|ACL-RELCL 25|24|ADVMOD 26|4|PUNCT
+*PAR:	and he's reachin(g) in a cookie jar and he has a cookie . 15300_17800
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|in det|a-Ind-Art noun|cookie noun|jar cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|11|CC 10|11|NSUBJ 11|4|CONJ 12|13|DET 13|11|OBJ 14|4|PUNCT
+*PAR:	and she's grabbing for the one that he has in his left hand . 17816_20856
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|grab-Part-Pres-S adp|for det|the-Def-Art noun|one pron|that-Rel pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|14|CASE 12|14|NMOD-POSS 13|14|AMOD 14|10|OBL 15|4|PUNCT
+*PAR:	and the sink is running over with water for some reason or other while she's drying (.) a dish and looking out the window and stepping in a puddle of water . 21637_31117
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|with noun|water adp|for det|some-Def-Ind noun|reason cconj|or adj|other-S1 sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc cconj|and verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window cconj|and verb|step-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|13|CC 13|11|CONJ 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|5|ADVCL 18|19|DET 19|17|OBJ 20|21|CC 21|17|CONJ 22|24|CASE 23|24|DET 24|21|OBL 25|26|CC 26|21|CONJ 27|29|CASE 28|29|DET 29|26|OBL 30|31|CASE 31|29|NMOD 32|5|PUNCT
+*PAR:	(..) and the race horse is jumping through the window . [+ exc] 36292_38482
+%mor:	cconj|and det|the-Def-Art noun|race noun|horse aux|be-Fin-Ind-Pres-S3 verb|jump-Part-Pres-S adp|through det|the-Def-Art noun|window .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	no . [+ exc] 38555_38845
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	&=laughs okay good . 39842_40682
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,117 @@
+@UTF8
+@PID:	11312/t-00002238-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:46:11-04:00]
+@Media:	086-0, audio
+@G:	Cookie
+*INV:	now you just look at the picture and you just tell me everything that's going on . 30_3190
+%mor:	adv|now pron|you-Prs-Nom-S2 adv|just verb|look-Fin-Ind-Pres-S2 adp|at det|the-Def-Art noun|picture cconj|and pron|you-Prs-Nom-S2 adv|just verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|11|NSUBJ 10|11|ADVMOD 11|4|CONJ 12|11|IOBJ 13|11|OBJ 14|16|NSUBJ 15|16|AUX 16|13|ACL-RELCL 17|16|COMPOUND-PRT 18|4|PUNCT
+*PAR:	+< oh ‡ I was xxx . [+ exc] 2260_2990
+%mor:	intj|oh punct|‡ pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	okay ? 3207_3487
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ this is gonna be like looking at those artistic things and fiddling when we get there . [+ exc] 3628_8648
+%mor:	intj|oh punct|‡ pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S sconj|like verb|look-Part-Pres-S adp|at det|that-Def-Dem-Plur adj|artistic-S1 noun|thing-Plur cconj|and noun|fiddling-Ger adv|when pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Pres-P1 adv|there .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|MARK 7|9|COP 8|9|MARK 9|5|XCOMP 10|13|CASE 11|13|DET 12|13|AMOD 13|9|OBL 14|15|CC 15|13|CONJ 16|18|ADVMOD 17|18|NSUBJ 18|9|ADVCL 19|18|ADVMOD 20|5|PUNCT
+*INV:	&=laughs .
+*PAR:	+< xxx at <her dishwasher's or> [//] her dishsink@u [: x@n] [* n:uk] is overflowing on the floor (be)cause the faucet is running . 9540_15340
+%mor:	adp|at pron|her-Prs-Gen-S3 neo|x aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|on det|the-Def-Art noun|floor sconj|because det|the-Def-Art noun|faucet aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|5|DEP 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|5|ADVCL 14|5|PUNCT
+*PAR:	and she's standing in it yet . 16802_19122
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in pron|it-Prs-Acc-S3 adv|yet .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|ADVMOD 8|4|PUNCT
+*PAR:	her kiddos are robbing the cookie jar . 19701_21451
+%mor:	pron|her-Prs-Gen-S3 noun|kiddo-Plur aux|be-Fin-Ind-Pres-P3 verb|robb-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*PAR:	and the little boy is falling off of the stool . 21500_24450
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+*PAR:	he's getting some cookies though . 25613_27203
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc adv|though .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	and &-uh the girl doesn't have hers yet . 28584_31654
+%mor:	cconj|and det|the-Def-Art noun|girl aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S pron|her-Prs-S3 adv|yet .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|ADVMOD 9|6|PUNCT
+*PAR:	&-um I don't think the perspective on the corner's quite right in the room . [+ exc] 34437_37577
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S det|the-Def-Art noun|perspective adp|on det|the-Def-Art noun|corner~aux|be-Fin-Ind-Pres-S3 adv|quite adv|right adp|in det|the-Def-Art noun|room .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|15|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|15|COP 11|15|ADVMOD 12|15|ADVMOD 13|15|CASE 14|15|DET 15|4|CCOMP 16|4|PUNCT
+*PAR:	&-um you wanna know how many dishes ? [+ exc] 39655_40715
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|know-Inf-S adv|how adj|many-S1 noun|dish-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|ADVMOD 6|7|AMOD 7|4|OBJ 8|2|PUNCT
+*PAR:	there are two cups and a plate on the counter . 41385_43405
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*PAR:	and &-uh she's drying a plate . 43426_46456
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and &-uh you_know xxx curtains on the windows are tied back . 48524_52754
+%mor:	cconj|and noun|youknow noun|curtain-Plur adp|on det|the-Def-Art noun|window-Plur aux|be-Fin-Ind-Pres-P3 verb|tie-Part-Past-S adv|back .
+%gra:	1|8|CC 2|3|COMPOUND 3|8|NSUBJ-PASS 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX-PASS 8|0|ROOT 9|8|ADVMOD 10|8|PUNCT
+*PAR:	and a real pretty view out the window . [+ gram] 53929_55839
+%mor:	cconj|and det|a-Ind-Art adj|real-S1 adj|pretty-S1 noun|view adp|out det|the-Def-Art noun|window .
+%gra:	1|5|CC 2|5|DET 3|5|AMOD 4|5|AMOD 5|0|ROOT 6|5|ADVMOD 7|8|DET 8|5|NMOD 9|5|PUNCT
+*PAR:	you see the [//] a wing of the house , the living room and the path around the house . 56255_60695
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|a-Ind-Art noun|wing-Acc-Ger adp|of det|the-Def-Art noun|house cm|cm det|the-Def-Art noun|living-Ger noun|room cconj|and det|the-Def-Art noun|path adp|around det|the-Def-Art noun|house .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|11|PUNCT 9|11|DET 10|11|COMPOUND 11|7|CONJ 12|14|CC 13|14|DET 14|7|CONJ 15|17|CASE 16|17|DET 17|14|NMOD 18|2|PUNCT
+*PAR:	the landscaping is bushes up close and &-uh xxx &*INV:mhm happy evergreens and stuff xxx . 61778_69588
+%mor:	det|the-Def-Art noun|landscaping-Ger aux|be-Fin-Ind-Pres-S3 noun|bush-Plur adp|up adj|close-S1 cconj|and adj|happy-S1 noun|evergreen-Plur cconj|and noun|stuff .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|COMPOUND-PRT 6|4|AMOD 7|9|CC 8|9|AMOD 9|6|CONJ 10|11|CC 11|9|CONJ 12|4|PUNCT
+*PAR:	outside there's grass on the ground . 69945_71155
+%mor:	adv|outside adv|there~part|s noun|grass adp|on det|the-Def-Art noun|ground .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	and there's a tree in at these hedges . 72240_74650
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree adp|in adp|at det|this-Def-Dem-Plur noun|hedge-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*INV:	okay . 75226_75316
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	could you repeat to me what you said over there ? 76168_78128
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|repeat-Inf-S adp|to pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr adp|over adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|CASE 10|8|OBL 11|3|PUNCT
+*PAR:	yeah ‡ there's +/. [+ exc] 79206_79966
+%mor:	intj|yeah punct|‡ pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|EXPL 4|0|ROOT 5|4|PUNCT
+*INV:	+< didn't get it all . 79826_80436
+%mor:	aux|do-Fin-Ind-Past-S3-irr~part|not verb|get-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*PAR:	he's &-uh getting cookies out_of the cookie jar . 80726_85096
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+*PAR:	and he's falling off the stool . 85120_86650
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	he's got two cookies already . 86702_88162
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr num|two noun|cookie-Plur-Acc adv|already .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	he's giving one to his sister . 88213_89273
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S num|one adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*PAR:	and he's gonna have one . 89369_90839
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|have-Inf-S num|one .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*PAR:	and then <he doesn't> [//] even if he falls he's gonna have his cookies . 91018_94418
+%mor:	cconj|and adv|then adv|even sconj|if pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|have-Inf-S pron|his-Prs-Gen-S3 noun|cookie-Plur-Acc .
+%gra:	1|9|CC 2|9|ADVMOD 3|6|ADVMOD 4|6|MARK 5|6|NSUBJ 6|9|ADVCL 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|13|NMOD-POSS 13|11|OBJ 14|9|PUNCT
+*PAR:	she has her finger up to her mouth . 95004_96354
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|COMPOUND-PRT 6|8|CASE 7|8|NMOD-POSS 8|2|OBL 9|2|PUNCT
+*PAR:	I don't know whether she's saying “shh” or “I want one too” . 96844_99494
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S intj|shh cconj|or pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|one adv|too .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|OBJ 10|12|CC 11|12|NSUBJ 12|8|CONJ 13|12|OBJ 14|12|ADVMOD 15|4|PUNCT
+*PAR:	&-um I don't know how the mother can be so unaware ! 100576_104206
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|how det|the-Def-Art noun|mother aux|can-Fin-S aux|be-Inf-S adv|so adj|unaware-S1 !
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|DET 7|11|NSUBJ 8|11|AUX 9|11|COP 10|11|ADVMOD 11|5|ADVCL-RELCL 12|4|PUNCT
+*INV:	&=laughs okay that's fine . 104259_105639
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	thank_you . 105663_106313
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

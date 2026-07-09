@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002399-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|58;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	318-0, audio
+@G:	Cookie
+*INV:	just the action and there's the picture . 30_860
+%mor:	adv|just det|the-Def-Art noun|action cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|ADVMOD 2|3|DET 3|0|ROOT 4|6|CC 5|6|EXPL 6|3|CONJ 7|8|DET 8|6|NSUBJ 9|3|PUNCT
+*PAR:	(.) (w)ell the girl is reaching for a cookie that the boy is trying to get for her while he's +//. 4549_10279
+%mor:	intj|well det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie pron|that-Rel det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S adp|for pron|her-Prs-Acc-S3 sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +//.
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|15|OBJ 10|11|DET 11|13|NSUBJ 12|13|AUX 13|8|ACL-RELCL 14|15|MARK 15|13|XCOMP 16|17|CASE 17|15|OBL 18|20|MARK 19|20|NSUBJ 20|15|ADVCL 21|5|PUNCT
+*PAR:	am I goin(g) too fast ? [+ exc] 11240_12060
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|go-Part-Pres-S adv|too adj|fast-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*INV:	hmhunh go ahead . 12450_13310
+%mor:	intj|hmhunh verb|go-Fin-Imp-S adv|ahead .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	+, while he's falling off a ladder [: stool] [* s:r] . 12601_15001
+%mor:	sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and the mother is washing dishes . 16265_18256
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	drying a plate . [+ gram] 19615_20505
+%mor:	verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	while the sink is spilling over with water that is overflown from the spigot that is still running . [+ gram] 20793_26573
+%mor:	sconj|while det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|with noun|water pron|that-Rel aux|be-Fin-Ind-Pres-S3 adj|overflown-S1 adp|from det|the-Def-Art noun|spigot pron|that-Rel aux|be-Fin-Ind-Pres-S3 adv|still verb|run-Part-Pres-S .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|14|CASE 13|14|DET 14|11|OBL 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|14|ACL-RELCL 19|5|PUNCT
+*PAR:	and water is gushing out . 27330_28670
+%mor:	cconj|and noun|water aux|be-Fin-Ind-Pres-S3 verb|gush-Part-Pres-S adp|out .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	(..) and the girl is signaling to be quiet (.) not to let her mother know that the boy is getting the cookie for her . 39832_48772
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|signal-Part-Pres-S part|to aux|be-Inf-S adj|quiet-S1 part|not part|to verb|let-Inf-S pron|her-Prs-Gen-S3 noun|mother-Acc verb|know-Inf-S sconj|that det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Acc adp|for pron|her-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|MARK 7|8|COP 8|5|XCOMP 9|11|ADVMOD 10|11|MARK 11|8|ADVCL 12|13|NMOD-POSS 13|11|OBJ 14|11|XCOMP 15|19|MARK 16|17|DET 17|19|NSUBJ 18|19|AUX 19|14|CCOMP 20|21|DET 21|19|OBJ 22|23|CASE 23|19|OBL 24|5|PUNCT
+*PAR:	(..) and I did say that she's drying the dish with the towel . [+ exc] 58003_60043
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Acc adp|with det|the-Def-Art noun|towel .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|4|PUNCT
+*PAR:	(..) and the water's splashing on the floor . 64125_65565
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|splashing-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*INV:	okay good . 66737_67517
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

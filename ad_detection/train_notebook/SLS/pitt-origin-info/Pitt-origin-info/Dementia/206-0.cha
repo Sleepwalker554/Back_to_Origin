@@ -1,0 +1,97 @@
+@UTF8
+@PID:	11312/t-00002549-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|female|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	206-0, audio
+@G:	Cookie
+*INV:	what do you see going on in the picture ? 280_1980
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+*PAR:	well ‡ the mother is drying the plate . 6164_9344
+%mor:	intj|well punct|‡ det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|plate-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	&-uh the water is running on the floor &+overru overrunning in the sink . 10867_14427
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor verb|overrunn-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+*PAR:	the kids are &+s taking cookies from the cookie jar . 16152_19112
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+*PAR:	and <on a> [/] on a high chair [: stool] [* s:r] <that looks> [//] you_know to reach up to the cupboards . [+ gram] 20692_27212
+%mor:	cconj|and adp|on det|a-Ind-Art adj|high-S1 noun|stool noun|youknow part|to verb|reach-Inf-S adp|up adp|to det|the-Def-Art noun|cupboard-Plur .
+%gra:	1|6|CC 2|6|CASE 3|6|DET 4|5|AMOD 5|6|COMPOUND 6|0|ROOT 7|8|MARK 8|6|ACL 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|6|PUNCT
+*PAR:	and the girl is receiving the cookies . 28653_30293
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|receive-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	the sister „ I suppose . [+ gram] 30891_31951
+%mor:	det|the-Def-Art noun|sister punct|„ pron|I-Prs-Nom-S1 verb|suppose-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|5|PUNCT 4|5|NSUBJ 5|2|PARATAXIS 6|2|PUNCT
+*PAR:	the little girl . [+ gram] 32208_32768
+%mor:	det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	the little boy is takin(g) the cookies . 33853_34983
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and <the little girl is> [//] he's handing them to her . 35584_39194
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*PAR:	and I'd be there eating them too (be)cause I like cookies . [+ exc] 40552_43142
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|would-Fin-S aux|be-Inf-S adv|there verb|eat-Part-Pres-S pron|they-Prs-Acc-P3 adv|too sconj|because pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 noun|cookie-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|COP 5|0|ROOT 6|5|ADVCL 7|6|OBJ 8|6|ADVMOD 9|11|MARK 10|11|NSUBJ 11|6|ADVCL 12|11|OBJ 13|5|PUNCT
+*PAR:	<I'd be a> [//] &-uh my hand is always in the cookie jar . [+ exc] 45780_48340
+%mor:	pron|my-Prs-Gen-S1 noun|hand aux|be-Fin-Ind-Pres-S3 adv|always adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NMOD-POSS 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|CASE 6|8|DET 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	and the mother is drying the dishes at the sink . 49959_54889
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	the water's running over . 56357_57667
+%mor:	det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	&*INV:okay xxx and she's not paying any never minds to it „ I guess . 59290_64390
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S det|any-Def-Ind adv|never noun|mind-Plur-Acc adp|to pron|it-Prs-Acc-S3 punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|DET 7|8|ADVMOD 8|5|OBJ 9|10|CASE 10|5|OBL 11|13|PUNCT 12|13|NSUBJ 13|5|PARATAXIS 14|5|PUNCT
+*PAR:	&=laughs the floor's getting wet . 66251_67261
+%mor:	det|the-Def-Art noun|floor~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|wet-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*PAR:	she'll hafta &*INV:she_doesn't_care_yeah get a mop and mop it up ! 67407_69217
+%mor:	pron|she-Prs-Nom-S3~aux|will-Fin-S part|hafta verb|get-Inf-S det|a-Ind-Art noun|mop-Acc cconj|and verb|mop-Inf-S pron|it-Prs-Acc-S3 adp|up !
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|8|OBJ 10|8|COMPOUND-PRT 11|4|PUNCT
+*PAR:	oh this &*INV:how_about_over_here is crazy . [+ exc] 70527_74777
+%mor:	intj|oh pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|crazy-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	is anything else going on over here ? 75210_76540
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|anything-Ind-S1 adj|else-S1 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|2|COP 2|0|ROOT 3|2|AMOD 4|2|ACL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|2|PUNCT
+*PAR:	well ‡ <the chair [: stool] [* s:r-ret] is> [//] &-uh the kid's going to fall from <the &-uh the stool> [//] the high stool (.) that's dumping over . 78388_86458
+%mor:	intj|well punct|‡ det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|from det|the-Def-Art adj|high-S1 noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|dump-Part-Pres-S adp|over .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|15|COMPOUND-PRT 17|6|PUNCT
+*PAR:	and he's going to land on his rear end pretty soon . 86764_91624
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|land-Inf-S adp|on pron|his-Prs-Gen-S3 adj|rear-S1 noun|end adv|pretty adv|soon .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|6|OBL 11|12|ADVMOD 12|6|ADVMOD 13|4|PUNCT
+*PAR:	those might be a couple cookies in his hand . 92870_94510
+%mor:	pron|that-Dem-P1 aux|might-Fin-S aux|be-Inf-S det|a-Ind-Art noun|couple noun|cookie-Plur adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|COP 4|6|DET 5|6|NMOD-UNMARKED 6|0|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|6|PUNCT
+*PAR:	probably the cookie jar spilled too . 95065_96635
+%mor:	adv|probably det|the-Def-Art noun|cookie noun|jar verb|spill-Fin-Ind-Past-S3 adv|too .
+%gra:	1|5|ADVMOD 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	he might catch that &*INV:hm when it went to the floor „ yeah . 96920_102030
+%mor:	pron|he-Prs-Nom-S3 aux|might-Fin-S verb|catch-Inf-S pron|that-Dem adv|when pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|floor punct|„ intj|yeah .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|ADVMOD 6|7|NSUBJ 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|12|PUNCT 12|3|DISCOURSE 13|3|PUNCT
+*INV:	okay ? 102573_103093
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's about all . [+ exc] 104560_105260
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	&*INV:okay the sink is running over . 105328_106788
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the water's <on the> [//] dripping on the floor , all over the floor . 106837_108677
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|drip-Part-Pres-S adp|on det|the-Def-Art noun|floor cm|cm adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|PUNCT 9|12|ADVMOD 10|12|CASE 11|12|DET 12|4|OBL 13|4|PUNCT
+*PAR:	the old lady (w)ill hafta get a mop and mop up the floor too after she's through with washing the dishes &=laughs . 109879_114789
+%mor:	det|the-Def-Art adj|old-S1 noun|lady aux|will-Fin-S part|hafta verb|get-Inf-S det|a-Ind-Art noun|mop-Acc cconj|and verb|mop-Inf-S adp|up det|the-Def-Art noun|floor adv|too sconj|after pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|through sconj|with verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|CC 10|6|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|10|ADVMOD 15|18|MARK 16|18|NSUBJ 17|18|COP 18|10|ADVCL 19|20|MARK 20|18|ADVCL 21|22|DET 22|20|OBJ 23|6|PUNCT
+@End

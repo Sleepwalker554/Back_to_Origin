@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002494-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|88;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	091-0, audio
+@G:	Cookie
+*PAR:	&-mm dishes are being dried . 1330_2580
+%mor:	noun|dish-Plur aux|be-Fin-Ind-Pres-P3 aux|be-Part-Pres-S verb|dry-Part-Past-S .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|0|ROOT 5|4|PUNCT
+*INV:	mhm . 2942_3902
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	an(d) the child is getting some cookies out_of the jar . 4234_7264
+%mor:	cconj|and det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	<the> [/] the &-uh <plant stand> [//] or the stand [: stool] [* s:r] he's on is [//] looks as though it's crooked . 7948_14298
+%mor:	det|the-Def-Art cconj|or det|the-Def-Art noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on verb|look-Fin-Ind-Pres-S3 sconj|as sconj|though pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|crooked-S1 .
+%gra:	1|8|REPARANDUM 2|4|CC 3|4|DET 4|8|NSUBJ 5|7|NSUBJ 6|7|COP 7|4|ACL-RELCL 8|0|ROOT 9|13|MARK 10|13|MARK 11|13|NSUBJ 12|13|COP 13|8|ADVCL 14|8|PUNCT
+*PAR:	an(d) the water's going over (.) <in the sink> [//] from the sink . 14789_19439
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|over adp|from det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	is that all ? [+ exc] 26575_27235
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	anything else that you see ? 28034_29354
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|5|OBJ 4|5|NSUBJ 5|1|ACL-RELCL 6|1|PUNCT
+*PAR:	and then the boy was getting the cookies out_of the jar and the cover is off . 38736_42906
+%mor:	cconj|and adv|then det|the-Def-Art noun|boy aux|be-Fin-Ind-Past-S3-irr verb|get-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc verb|outaof-Inf-S det|the-Def-Art noun|jar-Acc cconj|and det|the-Def-Art noun|cover aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|XCOMP 10|11|DET 11|9|OBJ 12|16|CC 13|14|DET 14|16|NSUBJ 15|16|COP 16|6|CONJ 17|6|PUNCT
+*INV:	okay . 43620_43830
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	but she [: he] [* s:r-ret] [//] he's giving her a cookie and the stool is turning over and the water in the sink is <boiling [: flowing] [* s:r-ret] over or> [//] flowing over . 43850_52460
+%mor:	cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S adp|over cconj|and det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|12|COMPOUND-PRT 14|21|CC 15|16|DET 16|21|NSUBJ 17|19|CASE 18|19|DET 19|16|NMOD 20|21|AUX 21|4|CONJ 22|21|ADVMOD 23|4|PUNCT
+*INV:	mhm . 52560_54030
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	an(d) she's drying dishes . 54447_55797
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 58722_58942
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you . 58987_59977
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

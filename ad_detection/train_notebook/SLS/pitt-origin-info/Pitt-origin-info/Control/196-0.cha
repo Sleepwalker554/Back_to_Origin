@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002337-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|62;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	196-0, audio
+@G:	Cookie
+*INV:	and there's the picture . 110_1000
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	mhm . [+ exc] 1700_1840
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=sighs the mother is washing the dishes but not very attentively allowing the sink to overflow onto the floor . 2843_12723
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|but part|not adv|very adv|attentively verb|allow-Part-Pres-S det|the-Def-Art noun|sink-Acc part|to verb|overflow-Inf-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|11|CC 8|11|ADVMOD 9|10|ADVMOD 10|11|ADVMOD 11|4|CONJ 12|13|DET 13|11|OBJ 14|15|MARK 15|11|XCOMP 16|18|CASE 17|18|DET 18|15|OBL 19|4|PUNCT
+*PAR:	and she is drying a dish . 14932_16632
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&=sighs kids are tryin(g) to get into the cookie jar . [+ gram] 18954_20864
+%mor:	noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|3|PUNCT
+*PAR:	they have managed to get into it . 20884_22384
+%mor:	pron|they-Prs-Nom-P3 aux|have-Fin-Ind-Pres-P3 verb|manage-Part-Past-S part|to verb|get-Inf-S adp|into pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|3|PUNCT
+*PAR:	the boy is standing on a stool which is in the process of falling over while he's trying to hand a cookie to his younger sister who is reaching for it . 23162_30372
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|process sconj|of verb|fall-Ger-S adp|over sconj|while pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|hand-Inf-S det|a-Ind-Art noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 adj|young-Cmp-S1 noun|sister pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|NSUBJ 9|12|COP 10|12|CASE 11|12|DET 12|7|ACL-RELCL 13|14|MARK 14|12|ACL 15|14|COMPOUND-PRT 16|19|MARK 17|19|NSUBJ 18|19|AUX 19|12|ADVCL 20|21|MARK 21|19|XCOMP 22|23|DET 23|21|OBJ 24|27|CASE 25|27|NMOD-POSS 26|27|AMOD 27|21|OBL 28|30|NSUBJ 29|30|AUX 30|27|ACL-RELCL 31|32|CASE 32|30|OBL 33|4|PUNCT
+*PAR:	the window is open overlooking a garden . 30918_35898
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 verb|overlook-Part-Pres-S det|a-Ind-Art noun|garden-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVCL 6|7|DET 7|5|OBJ 8|4|PUNCT
+*PAR:	the wind is blowing slightly . 37910_39840
+%mor:	det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S adv|slightly .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	it's ruffling the curtains . 39888_41258
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ruffle-Part-Pres-S det|the-Def-Art noun|curtain-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	it is summer . 42097_45337
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 noun|summer .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	or at least the grass is out and the trees are in leaf and the bushes . 47560_51840
+%mor:	cconj|or adp|at adj|least-Sup-S1 det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 adv|out cconj|and det|the-Def-Art noun|tree-Plur aux|be-Fin-Ind-Pres-P3 adp|in noun|leaf cconj|and det|the-Def-Art noun|bush-Plur .
+%gra:	1|7|CC 2|7|ADVMOD 3|2|FIXED 4|5|DET 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|13|CC 9|10|DET 10|13|NSUBJ 11|13|COP 12|13|CASE 13|7|CONJ 14|16|CC 15|16|DET 16|13|CONJ 17|7|PUNCT
+*PAR:	that's all of the action I see . [+ exc] 57507_59137
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot adp|of det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|8|NSUBJ 8|6|ACL-RELCL 9|3|PUNCT
+*INV:	okay . 59546_59886
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	thank_you . 60296_60496
+%mor:	propn|thankyou .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

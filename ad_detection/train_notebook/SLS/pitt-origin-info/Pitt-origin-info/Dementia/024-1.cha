@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/t-00002440-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|51;|male|Memory||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	024-1, audio
+@G:	Cookie
+*PAR:	I see a little boy climbed up on a stool that is reaching for a cookie out_of the cookie jar . 830_6630
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|boy verb|climb-Fin-Ind-Past-S3 adp|up adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie noun|outof det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|2|CCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|OBL 18|20|DET 19|20|COMPOUND 20|13|OBJ 21|2|PUNCT
+*PAR:	&-uh the stool is about to fall . 7907_11057
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	his sister is telling him to be very quiet . 12521_14971
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adv|very adj|quiet-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|9|MARK 7|9|COP 8|9|ADVMOD 9|4|XCOMP 10|4|PUNCT
+*PAR:	(..) and also at the same time she is reaching for the cookie that he has in his hand . 18816_24176
+%mor:	cconj|and adv|also adp|at det|the-Def-Art adj|same-S1 noun|time pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie pron|that-Rel pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|9|CC 2|9|ADVMOD 3|6|CASE 4|6|DET 5|6|AMOD 6|9|OBL 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|15|OBJ 14|15|NSUBJ 15|12|ACL-RELCL 16|18|CASE 17|18|NMOD-POSS 18|15|OBL 19|9|PUNCT
+*PAR:	&-uh &=clears:throat (.) the &-uh mother is apparently washing or drying the dishes . 26472_37042
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|apparently verb|wash-Part-Pres-S cconj|or verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|CC 7|5|CONJ 8|9|DET 9|7|OBJ 10|5|PUNCT
+*PAR:	and &-uh she has neglected to &-uh shut the water off . 38239_43759
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|neglect-Part-Past-S part|to verb|shut-Inf-S det|the-Def-Art noun|water-Acc adp|off .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|6|COMPOUND-PRT 10|4|PUNCT
+*PAR:	and the sink is &+over overflowing . 43777_46397
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	(.) &-uh (...) I think that's all I see going on . [+ exc] 63056_64836
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 verb|go-Ger-S adp|on .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|2|PUNCT
+*INV:	okay . 65558_65908
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

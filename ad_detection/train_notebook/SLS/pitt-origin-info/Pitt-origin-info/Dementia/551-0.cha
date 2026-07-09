@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/t-00002684-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	551-0, audio
+@G:	Cookie
+*INV:	I want you to tell me everything that's happening in that picture . 130_4050
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|2|PUNCT
+*INV:	(..) I want you to tell me everything that's going on in that picture . 4094_10785
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+*PAR:	+< well ‡ this boy is almost falling <out of the> [//] off of the chair [: stool] [* s:r] when he's putting up the picture .
+%mor:	intj|well punct|‡ det|this-Def-Dem-Sing noun|boy aux|be-Fin-Ind-Pres-S3 adv|almost verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool adv|when pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S adp|up det|the-Def-Art noun|picture-Acc .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|11|CASE 9|11|CASE 10|11|DET 11|7|OBL 12|15|ADVMOD 13|15|NSUBJ 14|15|AUX 15|7|ADVCL 16|15|COMPOUND-PRT 17|18|DET 18|15|OBJ 19|7|PUNCT
+*PAR:	and &-uh she's washin(g) dishes . 15471_19311
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I guess she wouldn't know . 20179_21979
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 aux|would-Fin-S~part|not verb|know-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|2|PUNCT
+*PAR:	oh my ! [+ exc] 22469_22559
+%mor:	intj|oh pron|my-Prs-Gen-S1 !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	her sink is running over too isn't it &=laughs . 22579_25439
+%mor:	pron|her-Prs-Gen-S3 noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adv|too aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PARATAXIS 8|9|ADVMOD 9|4|PARATAXIS 10|4|PUNCT
+*INV:	mhm . 25493_26063
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	is that all [//] more [: all] [* s:r] or is [/] is there more to it ? [+ exc] 26254_28764
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot cconj|or verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 adj|more-Cmp-S1 adp|to pron|it-Prs-Acc-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|5|CC 5|3|CONJ 6|5|EXPL 7|5|NSUBJ 8|9|CASE 9|7|OBL 10|3|PUNCT
+*PAR:	this one looks kinda [: kind_of] like a +... 29529_31409
+%mor:	det|this-Def-Dem-Sing noun|one verb|look-Fin-Ind-Pres-S3 adj|kindof-S1 adp|like det|a-Ind-Art +...
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|3|DISCOURSE 6|3|PUNCT 7|3|PUNCT
+*PAR:	oh that's a plate I guess . 31456_32656
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|PUNCT
+*PAR:	and a cup and saucer . [+ gram] 33288_34568
+%mor:	cconj|and det|a-Ind-Art noun|cup cconj|and noun|saucer .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+*PAR:	(..) oh this is a lady here . 40794_47784
+%mor:	intj|oh pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lady adv|here .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	is it or isn't it &=laughs ? [+ exc] 47910_48810
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 cconj|or aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|CC 4|0|ROOT 5|4|ADVMOD 6|4|OBJ 7|4|PUNCT
+*PAR:	right there . [+ exc] 49535_50185
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	is that a lady ? [+ exc] 50240_50760
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|a-Ind-Art noun|lady ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|0|ROOT 5|4|PUNCT
+*INV:	no hmhunh . 50816_51816
+%mor:	det|no-Def-Neg intj|hmhunh .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	<I thought this> [//] when I had it this way it looked almost like a lady . [+ exc] 52241_55591
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 det|this-Def-Dem-Sing noun|way pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adv|almost adp|like det|a-Ind-Art noun|lady .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ADVCL 4|3|OBJ 5|6|DET 6|3|OBL-UNMARKED 7|8|NSUBJ 8|0|ROOT 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|8|PUNCT
+*INV:	+< just tell me anything you see happening in there . 55718_57598
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|9|CASE 9|7|OBL 10|2|PUNCT
+*PAR:	oh . [+ exc] 58030_58180
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and just turn it this way . 59218_60378
+%mor:	cconj|and adv|just verb|turn-Fin-Imp-S pron|it-Prs-Acc-S3 det|this-Def-Dem-Sing noun|way .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBL-UNMARKED 7|3|PUNCT
+*PAR:	she's washing dishes . 61911_62991
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm . 63200_63680
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and she must have dropped one . 64354_65904
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|must-Fin-S aux|have-Inf-S verb|drop-Part-Past-S num|one .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	oh_no she let the sink ran over . 66044_68454
+%mor:	intj|ohno pron|she-Prs-Nom-S3 verb|let-Fin-Ind-Past-S3-irr det|the-Def-Art noun|sink-Acc verb|run-Part-Past-S-irr adp|over .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|6|COMPOUND-PRT 8|3|PUNCT
+*PAR:	and he's almost falling off of the chair [: stool] [* s:r] . 69651_69921
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|almost verb|fall-Part-Pres-S adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	and she's [//] she did something , it looks like . [+ es] 73591_78241
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr pron|something-Ind-S1 cm|cm pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|PUNCT 6|7|NSUBJ 7|3|PARATAXIS 8|7|ADVMOD 9|3|PUNCT
+*INV:	okay good . 80017_81037
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

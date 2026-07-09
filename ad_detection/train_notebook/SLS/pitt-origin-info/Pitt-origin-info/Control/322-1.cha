@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002402-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	322-1, audio
+@G:	Cookie
+*INV:	&+chir I'd like you to tell me everything you see going on in the picture . 290_3510
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|3|PUNCT
+*INV:	and there's the picture . 5359_6339
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	action type things ? [+ exc] 8345_9935
+%mor:	noun|action noun|type noun|thing-Plur ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	there is water coming out_of a faucet into a basin which is overflowing onto the floor . 11137_19327
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|water verb|come-Ger-S noun|outof det|a-Ind-Art noun|faucet-Acc adp|into det|a-Ind-Art noun|basin pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|10|CASE 9|10|DET 10|4|OBL 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|2|PUNCT
+*PAR:	the mother is drying dishes . 21162_23502
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	and she's walking in the water that is flowing on the floor . 23941_27591
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|walk-Part-Pres-S adp|in det|the-Def-Art noun|water pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|4|PUNCT
+*PAR:	two children are stealing cookies . 30287_32366
+%mor:	num|two noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|2|NUMMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	one of whom is up on a &-uh stool that is about to fall . [+ gram] 33287_41217
+%mor:	num|one adp|of pron|whom-Rel-S1 aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|NSUBJ 2|3|CASE 3|1|NMOD 4|5|COP 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|COP 11|8|ACL-RELCL 12|13|MARK 13|11|XCOMP 14|5|PUNCT
+*PAR:	he's removing cookies from an upper shelf in the closet . 42815_46055
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|remove-Part-Pres-S noun|cookie-Plur-Acc adp|from det|a-Ind-Art adj|upper-S1 noun|shelf adp|in det|the-Def-Art noun|closet .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|11|CASE 10|11|DET 11|3|OBL 12|3|PUNCT
+*PAR:	the wind appears to be blowing because the curtains appear to be you_know puffed . 49526_58186
+%mor:	det|the-Def-Art noun|wind verb|appear-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|blow-Part-Pres-S sconj|because det|the-Def-Art noun|curtain-Plur verb|appear-Fin-Ind-Pres-P3 part|to aux|be-Inf-S noun|youknow verb|puff-Part-Past-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|MARK 5|6|AUX 6|3|XCOMP 7|10|MARK 8|9|DET 9|10|NSUBJ 10|6|ADVCL 11|14|MARK 12|14|AUX-PASS 13|14|COMPOUND 14|10|XCOMP 15|3|PUNCT
+*PAR:	those are the only action things that I can see . [+ exc] 60234_62954
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|only-S1 noun|action noun|thing-Plur pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|0|ROOT 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|6|PUNCT
+*INV:	okay good . 63931_64450
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,28 @@
+@UTF8
+@PID:	11312/t-00002472-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|male|ProbableAD||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	058-3, audio
+@G:	Cookie
+*PAR:	well the [/] &-uh the little boy is (.) stealing cookies and givin(g) it to his friend or sister . 1110_11180
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc cconj|and verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|friend cconj|or noun|sister .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|9|CC 9|6|CONJ 10|9|OBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|15|CC 15|13|CONJ 16|6|PUNCT
+*PAR:	he's &-uh partially gonna fall off the stool . 12804_15984
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|partially verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*PAR:	his sister is tellin(g) him to be quiet . 17872_21252
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|8|MARK 7|8|COP 8|4|XCOMP 9|4|PUNCT
+*PAR:	the mother is washing dishes . 23804_25174
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	an(d) &-uh the water is overflowing onto the floor and she's standing in a puddle an(d) (.) has a smile on her face . 25281_35681
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle cconj|and verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|smile-Acc adp|on pron|her-Prs-Gen-S3 noun|face .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|5|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|17|CC 17|12|CONJ 18|19|DET 19|17|OBJ 20|22|CASE 21|22|NMOD-POSS 22|19|NMOD 23|5|PUNCT
+*INV:	okay . 40837_41077
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

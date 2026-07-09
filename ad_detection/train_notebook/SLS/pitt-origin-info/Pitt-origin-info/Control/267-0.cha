@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/t-00002376-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|52;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	267-0, audio
+@Comment:	overlapping audio
+@G:	Cookie
+*INV:	just tell me what's happening in the picture . 2140_3750
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+*PAR:	&-uh the boy is standing on [/] on a stepstool getting cookies out_of the cookie jar and the stepstool is falling over . 5937_13327
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stepstool verb|get-Ger-S noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|cookie noun|jar-Acc cconj|and det|the-Def-Art noun|stepstool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|7|ACL 9|8|OBJ 10|8|ADVMOD 11|13|DET 12|13|COMPOUND 13|8|OBJ 14|18|CC 15|16|DET 16|18|NSUBJ 17|18|AUX 18|4|CONJ 19|18|ADVMOD 20|4|PUNCT
+*PAR:	and &-um the girl is standing there <with her hands> [//] with her hand [//] left hand up in the air waiting to get a cookie . 14555_21685
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|there adp|with pron|her-Prs-Gen-S3 adj|left-S1 noun|hand adp|up adp|in det|the-Def-Art noun|air verb|wait-Ger-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|5|OBL 11|5|COMPOUND-PRT 12|14|CASE 13|14|DET 14|5|OBL 15|5|ADVCL 16|17|MARK 17|15|XCOMP 18|19|DET 19|17|OBJ 20|5|PUNCT
+*PAR:	the little girl's right hand seems to be up to her mouth <in a> [/] in a signal to be quiet . 24917_31807
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~part|s adj|right-S1 noun|hand verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adv|up adp|to pron|her-Prs-Gen-S3 noun|mouth adp|in det|a-Ind-Art noun|signal part|to aux|be-Inf-S adj|quiet-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|6|NMOD-POSS 4|3|CASE 5|6|AMOD 6|7|NSUBJ 7|0|ROOT 8|10|MARK 9|10|COP 10|7|XCOMP 11|13|CASE 12|13|NMOD-POSS 13|10|OBL 14|16|CASE 15|16|DET 16|10|OBL 17|19|MARK 18|19|COP 19|16|ACL 20|7|PUNCT
+*PAR:	mom has her back to the two . 32900_34430
+%mor:	noun|mom verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art num|two .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|ADVMOD 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*PAR:	apparently it's mom has her back to the two children . 34957_37297
+%mor:	adv|apparently pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|mom verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 adv|back adp|to det|the-Def-Art num|two noun|child-Plur .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|5|ADVMOD 8|11|CASE 9|11|DET 10|11|NUMMOD 11|5|OBL 12|5|PUNCT
+*PAR:	and she's preoccupied with <drying the dish> [//] drying a dish but she also seems to be looking out the window and doesn't [//] &-uh isn't aware that the water is overflowing onto the floor and she's standing in a puddle of water . 38154_51044
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|preoccupy-Part-Past-S sconj|with verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc cconj|but pron|she-Prs-Nom-S3 adv|also verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window cconj|and aux|be-Fin-Ind-Pres-S3~part|not adj|aware-S1 sconj|that det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|6|MARK 6|4|ADVCL 7|8|DET 8|6|OBJ 9|12|CC 10|12|NSUBJ 11|12|ADVMOD 12|4|CONJ 13|15|MARK 14|15|AUX 15|12|XCOMP 16|18|CASE 17|18|DET 18|15|OBL 19|22|CC 20|22|COP 21|22|ADVMOD 22|12|CONJ 23|27|MARK 24|25|DET 25|27|NSUBJ 26|27|AUX 27|22|CCOMP 28|30|CASE 29|30|DET 30|27|OBL 31|34|CC 32|34|NSUBJ 33|34|AUX 34|22|CONJ 35|37|CASE 36|37|DET 37|34|OBL 38|39|CASE 39|37|NMOD 40|4|PUNCT
+*PAR:	and there's a torrent of water falling out_of the sink . 51645_53935
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|torrent adp|of noun|water verb|fall-Ger-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|5|NMOD 8|7|ACL 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+@End

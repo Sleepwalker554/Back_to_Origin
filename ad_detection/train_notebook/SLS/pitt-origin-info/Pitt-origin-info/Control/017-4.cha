@@ -1,0 +1,110 @@
+@UTF8
+@PID:	11312/t-00002194-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	017-4, audio
+@G:	Cookie
+*PAR:	are you ready ? [+ exc] 1130_2300
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	mhm . 2397_2537
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um well the sink is overflowing . 4867_6637
+%mor:	intj|well det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	mother is standing in the water like a jerk . 6660_8660
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water adp|like det|a-Ind-Art noun|jerk .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	she's wiping the dishes also like a jerk . 8684_10904
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adv|also adp|like det|a-Ind-Art noun|jerk .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	&-um there [//] (.) &-uh the [/] the [/] the boy is trying to get a cookie out_of the cookie jar but boy he's about to fall off the stool . 10925_23095
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc cconj|but noun|boy pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|12|DET 11|12|COMPOUND 12|6|OBJ 13|17|CC 14|17|NSUBJ 15|17|NSUBJ 16|17|COP 17|4|CONJ 18|19|MARK 19|17|XCOMP 20|22|CASE 21|22|DET 22|19|OBL 23|4|PUNCT
+*PAR:	his sister <has her> [/] has her <hand up> [//] finger up to her mouth like she's saying +"/. 24407_28127
+%mor:	pron|his-Prs-Gen-S3 noun|sister verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S +"/.
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|COMPOUND-PRT 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|3|ADVCL 14|3|PUNCT
+*PAR:	+" shh . 29176_29186
+%mor:	intj|shh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	to be quiet +". 29510_29650
+%mor:	part|to aux|be-Inf-S adj|quiet-S1 +".
+%gra:	1|3|MARK 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	+" don't let mother know what you're doin(g) . 30310_31370
+%mor:	aux|do-Fin-Imp-S~part|not verb|let-Fin-Imp-S noun|mother-Acc verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|do-Part-Pres-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|3|PUNCT
+*PAR:	and he's about to hand her a cookie . 31473_32903
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|hand-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|4|PUNCT
+*PAR:	but &-um in a few moments it's going to be like total catastrophe . 33036_37456
+%mor:	cconj|but adp|in det|a-Ind-Art adj|few-S1 noun|moment-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adp|like adj|total-S1 noun|catastrophe .
+%gra:	1|8|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|8|OBL 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|13|MARK 10|13|COP 11|13|CASE 12|13|AMOD 13|8|XCOMP 14|8|PUNCT
+*PAR:	mother [//] the reason the water's flowing out over the sink is because the water is running furiously . 37558_41988
+%mor:	det|the-Def-Art noun|reason det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 sconj|because det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|furiously .
+%gra:	1|2|DET 2|16|NSUBJ-OUTER 3|4|DET 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|16|COP 12|16|MARK 13|14|DET 14|16|NSUBJ 15|16|AUX 16|0|ROOT 17|16|ADVMOD 18|16|PUNCT
+*PAR:	&-um and I'm looking out through the window . 42006_46386
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|look-Part-Pres-S adp|out adp|through det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	and I don't see anything going on out there . 46728_48768
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 verb|go-Ger-S adp|on adp|out adv|there .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|7|COMPOUND-PRT 10|7|ADVMOD 11|5|PUNCT
+*PAR:	unless [//] &+m I don't +//. [+ exc] 48792_51772
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not +//.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*PAR:	that's just a bush I'm presuming or a plum pudding .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art noun|bush pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|presume-Part-Pres-S cconj|or det|a-Ind-Art noun|plum noun|pudding-Ger .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|12|CC 10|12|DET 11|12|COMPOUND 12|8|CONJ 13|5|PUNCT
+*PAR:	&-um I told you the stools about to go over . 54762_59402
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|the-Def-Art noun|stool-Plur-Acc adp|about part|to verb|go-Inf-S adv|over .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|8|MARK 7|8|MARK 8|5|ACL 9|8|ADVMOD 10|2|PUNCT
+*PAR:	in a moment there's going to be real chaos which will make what's going on in the picture look like nothing . 61367_66047
+%mor:	adp|in det|a-Ind-Art noun|moment pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adj|real-S1 noun|chaos pron|which-Rel-S1 aux|will-Fin-S verb|make-Inf-S pron|what-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture verb|look-Inf-S adp|like pron|nothing-Neg-S1 .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|EXPL 5|6|AUX 6|0|ROOT 7|10|MARK 8|6|XCOMP 9|10|AMOD 10|6|XCOMP 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|16|OBJ 15|16|AUX 16|13|CCOMP 17|16|COMPOUND-PRT 18|20|CASE 19|20|DET 20|16|OBL 21|13|XCOMP 22|23|CASE 23|21|OBL 24|6|PUNCT
+*INV:	&=laughs .
+*PAR:	the cookie jar is full . 66767_68167
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|full-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	the lid is off the cookie jar . 68253_69423
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	and the +//. [+ exc] 69444_69544
+%mor:	cconj|and det|the-Def-Art +//.
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	do you want me to tell you all of those things ? [+ exc] 70024_71364
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 det|all-Def-Tot adp|of det|that-Def-Dem-Plur noun|thing-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*INV:	tell me all [>] of the things you see going on in the picture . 71381_73681
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|thing-Plur pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|NSUBJ 8|6|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|1|PUNCT
+*PAR:	the [/] [<] the cabinet door has just swung open . 72094_76344
+%mor:	det|the-Def-Art noun|cabinet noun|door aux|have-Fin-Ind-Pres-S3 adv|just verb|swing-Part-Past-S-irr adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|XCOMP 8|6|PUNCT
+*PAR:	stool is about to fall . [+ gram] 76519_77739
+%mor:	noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*PAR:	I guess I've just told you that . [+ exc] 77792_78872
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|just verb|tell-Part-Past-S-irr pron|you-Prs-Acc-S2 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|6|IOBJ 8|6|OBJ 9|2|PUNCT
+*PAR:	with a terrible crash . [+ gram] 78889_80589
+%mor:	adp|with det|a-Ind-Art adj|terrible-S1 noun|crash .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	&-um mother is daydreaming . 80606_83216
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|daydream-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	she doesn't even know what's going on behind her . 83848_85428
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not adv|even verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|behind pron|her-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|8|AUX 8|6|ACL-RELCL 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|5|PUNCT
+*PAR:	I think that's very important and sometimes typical . [+ exc] 85473_88073
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|very adj|important-S1 cconj|and adv|sometimes adj|typical-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|2|CCOMP 7|9|CC 8|9|ADVMOD 9|6|CONJ 10|2|PUNCT
+*PAR:	&-um seems to be all I can see . [+ exc] 88095_97005
+%mor:	verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|0|ROOT 2|4|MARK 3|4|COP 4|1|XCOMP 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|1|PUNCT
+*INV:	+< okay that's fine . 95599_96549
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

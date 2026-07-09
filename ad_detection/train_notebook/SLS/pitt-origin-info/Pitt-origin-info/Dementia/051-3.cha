@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00002465-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:56:22-04:00]
+@Media:	051-3, audio
+@G:	Cookie
+*PAR:	alright . [+ exc] 0_350
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	gonna start here . [+ exc] 716_1586
+%mor:	verb|go-Part-Pres-S~part|to verb|start-Inf-S adv|here .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+*INV:	okay . 1610_1730
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< <the [/] the [/] the boys have opened the> [//] the boy has opened the [//] <into the cookie> [//] &+ca &-uh where the cookies are . [+ cir] 3250_9860
+%mor:	det|the-Def-Art noun|boy aux|have-Fin-Ind-Pres-S3 verb|open-Part-Past-S adv|where det|the-Def-Art noun|cookie-Plur aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|8|NSUBJ 8|5|COP 9|4|PUNCT
+*PAR:	and in the meantime he's [//] <they almost> [//] the thing is falling down . [+ es] 10556_16546
+%mor:	cconj|and adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|thing-Ger aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|down .
+%gra:	1|8|CC 2|4|CASE 3|4|DET 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|COMPOUND-PRT 10|8|PUNCT
+*PAR:	<the little boy> [//] the girl was being shh@o quiet . 17536_21456
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Past-S3-irr aux|be-Part-Pres-S on|shh adj|quiet-S1 .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|DEP 6|0|ROOT 7|6|PUNCT
+*PAR:	<mother has> [//] the water is running over in the kitchen . 22210_26190
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	mother is wiping <the dishes> [//] the dish and dishes . 27073_31393
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc cconj|and noun|dish-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+*PAR:	&-uh it's [//] she doesn't seem to <think it's> [//] even know what's going on . 32042_37882
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to adv|even verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|MARK 6|7|ADVMOD 7|4|XCOMP 8|10|NSUBJ 9|10|AUX 10|7|CCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	&-uh it's &-uh I would say summer . 38672_43792
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|say-Inf-S noun|summer-Acc .
+%gra:	1|2|NSUBJ 2|5|REPARANDUM 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	that looks like things are growing up . 44454_45854
+%mor:	pron|that-Dem verb|look-Fin-Ind-Pres-S3 sconj|like noun|thing-Plur aux|be-Fin-Ind-Pres-P3 verb|grow-Part-Pres-S adp|up .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|COMPOUND-PRT 8|2|PUNCT
+*PAR:	there she's looking out the window . 46442_48402
+%mor:	adv|there pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+*PAR:	&-uh she's standing in the water . 49672_53542
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	&-uh cookies . [+ gram] 54753_56723
+%mor:	noun|cookie-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	they've taken cookies out_of the cookie jar . 59456_61996
+%mor:	pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 verb|take-Part-Past-S-irr noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+*PAR:	she's keeping quiet . 63182_64952
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|keep-Part-Pres-S adj|quiet-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|XCOMP 5|3|PUNCT
+*PAR:	the things break , falling over . 65324_67644
+%mor:	det|the-Def-Art noun|thing-Plur noun|break cm|cm verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|5|PUNCT 5|3|ACL 6|5|ADVMOD 7|3|PUNCT
+*PAR:	it's summer . 69628_70218
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	I_mean it looks like it's summer . 70264_71874
+%mor:	propn|Imean pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|summer .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|COP 7|3|ADVCL 8|3|PUNCT
+*PAR:	it's [//] things are coming up . [+ es] 71890_73860
+%mor:	noun|thing-Plur aux|be-Fin-Ind-Pres-P3 verb|come-Part-Pres-S adp|up .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	&-uh mother doesn't seem to care what's going on with the kids &=laughs . 75797_80677
+%mor:	noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to verb|care-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|with det|the-Def-Art noun|kid-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|OBJ 8|9|AUX 9|6|CCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|4|PUNCT
+*PAR:	&-uh there are two cups but only one [/] one &-uh dish . 82271_88551
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|but adv|only num|one noun|dish .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|8|CC 6|8|ADVMOD 7|8|NUMMOD 8|4|CONJ 9|2|PUNCT
+*INV:	okay ? 96314_96594
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm <I think> [//] did I say <they'd turned off the water> [//] <they hadn't> [//] the water's still running . [+ exc] 99395_103475
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|still verb|run-Part-Pres-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CCOMP 9|3|PUNCT
+*PAR:	that was all . [+ exc] 103492_104142
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	I guess that's it . [+ exc] 104633_105153
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*INV:	okay good . 105361_106481
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002306-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|61;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	142-3, audio
+@G:	Cookie
+*INV:	one more thing . 1020_1780
+%mor:	num|one adj|more-Cmp-S1 noun|thing-Ger .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+*INV:	what I want you to do is take a look at that picture . 1889_4599
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|8|PUNCT
+*PAR:	mhm . [+ exc] 4672_5182
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< and tell me everything you see happening , everything that's going on . 5130_9150
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S cm|cm pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|2|CC 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|9|PUNCT 9|4|APPOS 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|12|COMPOUND-PRT 14|2|PUNCT
+*PAR:	well the water's running over on the floor . 11312_13582
+%mor:	intj|well det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	&-uh the chair [: stool] [* s:r] is tilting . 15254_17354
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	the boy is into the cookie jar . 18669_20489
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	and his sister is reaching for a cookie . 21651_24151
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	the mother's drying dishes . 25198_26688
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&-um do you want action or just want anything I see ? [+ exc] 27917_32677
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|action-Acc cconj|or adv|just verb|want-Inf-S pron|anything-Ind-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CC 6|7|ADVMOD 7|3|CONJ 8|7|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|3|PUNCT
+*INV:	just action . 33161_33701
+%mor:	adv|just noun|action .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	okay . [+ exc] 34132_34422
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) okay thanks very much . 44695_45945
+%mor:	intj|okay noun|thanks adv|very adv|much .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+*PAR:	mhm . [+ exc] 46070_47150
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

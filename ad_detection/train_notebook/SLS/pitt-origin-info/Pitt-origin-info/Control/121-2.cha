@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002275-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|Control||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	121-2, audio
+@G:	Cookie
+*INV:	that you see going on in that picture . 0_1980
+%mor:	sconj|that pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|3|PUNCT
+*INV:	all the action that you see happening there . 2596_4316
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|3|ACL 8|7|ADVMOD 9|3|PUNCT
+*PAR:	&-um the boy reaching [//] &-uh standing on a stool which is tipping . 7294_11724
+%mor:	det|the-Def-Art noun|boy verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|3|PUNCT
+*PAR:	with one foot over the &-um edge of the stool . [+ gram] 12551_16041
+%mor:	adp|with num|one noun|foot adp|over det|the-Def-Art noun|edge adp|of det|the-Def-Art noun|stool .
+%gra:	1|3|CASE 2|3|NUMMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+*PAR:	and <his heel is on the> [/] the heel of that foot is on the toe of his other foot . 17339_22809
+%mor:	cconj|and det|the-Def-Art noun|heel adp|of det|that-Def-Dem-Sing noun|foot aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|toe adp|of pron|his-Prs-Gen-S3 adj|other-S1 noun|foot .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|14|CASE 12|14|NMOD-POSS 13|14|AMOD 14|10|NMOD 15|10|PUNCT
+*PAR:	&-um he's taking a cookie out_of the cookie jar . 23677_26267
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|9|DET 8|9|COMPOUND 9|3|OBJ 10|3|PUNCT
+*PAR:	and has one in his left hand too . 26693_28723
+%mor:	cconj|and verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand adv|too .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|2|OBL 8|2|ADVMOD 9|2|PUNCT
+*PAR:	looks as if he's going to hand it to his sister who has her arm up . [+ gram] 29057_32447
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|as sconj|if pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|hand-Inf-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|sister pron|who-Rel verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|arm-Acc adp|up .
+%gra:	1|0|ROOT 2|6|MARK 3|2|FIXED 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|12|CASE 11|12|NMOD-POSS 12|8|OBL 13|14|NSUBJ 14|12|ACL-RELCL 15|16|NMOD-POSS 16|14|OBJ 17|14|COMPOUND-PRT 18|1|PUNCT
+*PAR:	she has her finger (.) in front of her face . 33362_37652
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|in noun|front adp|of pron|her-Prs-Gen-S3 noun|face .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|CASE 6|2|OBL 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|2|PUNCT
+*PAR:	&-um looks as if she's laugh [//] saying be quiet . [+ gram] 37721_42321
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|as sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S aux|be-Fin-S adj|quiet-S1 .
+%gra:	1|0|ROOT 2|6|MARK 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|8|COP 8|6|XCOMP 9|1|PUNCT
+*PAR:	and <the mother is at the> [//] the sister is standing on the floor . 42356_47036
+%mor:	cconj|and det|the-Def-Art noun|sister aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	the mother is at the kitchen sink drying <a dish> [//] a plate . 47702_52882
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|kitchen noun|sink verb|drying-Ger-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|ACL 9|10|DET 10|8|OBJ 11|7|PUNCT
+*PAR:	the water is running over . 53000_54480
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	it's spilling over from the sink onto the floor . 54585_57475
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over adp|from det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*PAR:	it's running full tilt out_of the tap . 57545_59225
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adj|full-S1 noun|tilt-Acc adp|outof det|the-Def-Art noun|tap .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR:	&-um the mother is not looking . 60513_62793
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 part|not verb|look-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	she's facing away from everything . 63411_65741
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|face-Part-Pres-S adv|away adp|from pron|everything-Tot-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|3|PUNCT
+*PAR:	&-um she has a <dish cloth in her right hand> [//] dish towel in her right hand . 66879_72259
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish noun|towel-Acc adp|in pron|her-Prs-Gen-S3 adj|right-S1 noun|hand .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|2|OBL 10|2|PUNCT
+*PAR:	&-um you can see outside . 73647_76117
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adv|outside .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	there's <a cup> [//] two cups and a plate on the counter beside . 77375_80605
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter adv|beside .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|2|OBL 11|2|ADVMOD 12|2|PUNCT
+*PAR:	<so &+h she's either> [/] I guess she's finished washing those maybe . 80690_83770
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S verb|wash-Ger-S pron|that-Dem-P1 adv|maybe .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|2|CCOMP 6|5|XCOMP 7|6|OBJ 8|6|ADVMOD 9|2|PUNCT
+*PAR:	&-um she's standing with one foot flat on the floor and the next foot up as if she's standing on the toe &+th . 85432_93162
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|with num|one noun|foot noun|flat adp|on det|the-Def-Art noun|floor cconj|and det|the-Def-Art adj|next-S1 noun|foot adp|up sconj|as sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|toe .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|NUMMOD 6|7|COMPOUND 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|15|CC 12|14|DET 13|14|AMOD 14|15|NSUBJ 15|3|CONJ 16|20|MARK 17|16|FIXED 18|20|NSUBJ 19|20|AUX 20|3|ADVCL 21|23|CASE 22|23|DET 23|20|OBL 24|3|PUNCT
+*PAR:	not resting on her heel . [+ gram] 95179_96239
+%mor:	part|not verb|rest-Part-Pres-S adp|on pron|her-Prs-Gen-S3 noun|heel .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*INV:	okay . 100162_100302
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	alright . 100716_100856
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

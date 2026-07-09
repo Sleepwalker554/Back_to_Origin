@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002626-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	344-0, audio
+@G:	Cookie
+*INV:	going on in the picture ? 1210_2290
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	well ‡ <the guy's gettin(g) in the> [//] &+coo the boy's gettin(g) in the cookie jar . 3485_6445
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|6|PUNCT
+*PAR:	and he's &+har standing on a stool that is falling over . 6830_12080
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|ADVMOD 12|4|PUNCT
+*PAR:	and his &-uh sister maybe is &-uh telling him to be quiet so his mother won't see him . 12100_21020
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister adv|maybe aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 sconj|so pron|his-Prs-Gen-S3 noun|mother aux|will-Fin-S~part|not verb|see-Inf-S pron|he-Prs-Acc-S3 .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|6|ADVMOD 5|6|AUX 6|0|ROOT 7|6|IOBJ 8|10|MARK 9|10|COP 10|6|XCOMP 11|16|MARK 12|13|NMOD-POSS 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|6|ADVCL 17|16|OBJ 18|6|PUNCT
+*PAR:	&-uh in the meantime &-uh the &-uh sink is running over onto the floor . 22341_28191
+%mor:	adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|CASE 2|3|DET 3|7|OBL 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|7|PUNCT
+*PAR:	and she's dryin(g) dishes . 28240_29540
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-um (..) <I don't> [//] there's somethin(g) going on outside the window . 30729_38779
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 verb|go-Ger-S adp|on adp|outside det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|4|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|3|PUNCT
+*PAR:	I don't know just what it is . [+ exc] 38800_39860
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adv|just pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|ADVMOD 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|4|PUNCT
+*PAR:	(.) she's dryin(g) dishes but &-uh I don't get the connection between the picture outside . 42984_49614
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|get-Inf-S det|the-Def-Art noun|connection-Acc adp|between det|the-Def-Art noun|picture adv|outside .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|9|CC 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|3|CONJ 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|9|ADVMOD 16|3|PUNCT
+*PAR:	I guess she's havin(g) her [/] her problems and they're havin(g) theirs . 50870_54050
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Pres-S pron|her-Prs-Gen-S3 noun|problem-Plur-Acc cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|have-Part-Pres-S pron|their-Prs-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|NMOD-POSS 7|5|OBJ 8|11|CC 9|11|NSUBJ 10|11|AUX 11|2|CONJ 12|11|OBJ 13|2|PUNCT
+*INV:	(..) okay ? 57784_58154
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) okay good . 61356_62166
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

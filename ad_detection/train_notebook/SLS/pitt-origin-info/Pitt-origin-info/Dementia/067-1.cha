@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002482-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	067-1, audio
+@G:	Cookie
+*INV:	there it is . 70_1950
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	that's it . [+ exc] 1996_2296
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	well the girl's dryin(g) the [/] the plate . 2629_11349
+%mor:	intj|well det|the-Def-Art noun|girl~part|s verb|drying-Ger-S det|the-Def-Art noun|plate-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and she's overflowin(g) the water in the &=laughs sink . 12508_15878
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|water-Acc adp|in det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*INV:	(..) okay . 21380_21660
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a boy up on a stool and he's fallin(g) off of it . 24143_27563
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy adp|up adp|on det|a-Ind-Art noun|stool cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|8|CASE 7|8|DET 8|2|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|2|CONJ 13|15|CASE 14|15|CASE 15|12|OBL 16|2|PUNCT
+*PAR:	tryin(g) to get a cake or somethin(g) . [+ gram] 29110_30440
+%mor:	verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|cake-Acc cconj|or pron|something-Ind-S1 .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|1|PUNCT
+*PAR:	(..) in the cupboard . [+ gram] 35378_37448
+%mor:	adp|in det|the-Def-Art noun|cupboard .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	see he's trying to get this and he's gonna fall off of there . [+ es] 38560_41980
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S pron|this-Dem-S1 cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off adp|of adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|11|CC 9|11|NSUBJ 10|11|AUX 11|1|CONJ 12|13|MARK 13|11|XCOMP 14|13|ADVMOD 15|16|CASE 16|13|OBL 17|1|PUNCT
+*INV:	mhm , okay . 42000_43680
+%mor:	intj|mhm cm|cm intj|okay .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	+< so +... 43620_43700
+%mor:	adv|so +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the mother's water's all coming down out_of her &=laughs sink there . 47730_51890
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|water~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot verb|come-Part-Pres-S adp|down adp|outof pron|her-Prs-Gen-S3 noun|sink adv|there .
+%gra:	1|8|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|8|NSUBJ-OUTER 6|8|COP 7|0|ROOT 8|7|ACL 9|8|COMPOUND-PRT 10|12|CASE 11|12|NMOD-POSS 12|8|OBL 13|8|ADVMOD 14|7|PUNCT
+*INV:	mhm . 52000_52340
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what's happening here ? 53165_54035
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	the little girl is puttin(g) her hand up to the boy . 54248_60138
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to det|the-Def-Art noun|boy .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+*PAR:	they're gonna get something out_of that jar , a pineapple jar or something . 61163_64492
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S~part|to verb|get-Inf-S pron|something-Ind-S1 adp|outof det|that-Def-Dem-Sing noun|jar cm|cm det|a-Ind-Art noun|pineapple noun|jar cconj|or pron|something-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|13|PUNCT 11|13|DET 12|13|COMPOUND 13|9|CONJ 14|15|CC 15|13|CONJ 16|3|PUNCT
+*INV:	okay . 65610_66030
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

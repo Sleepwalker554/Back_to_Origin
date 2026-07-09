@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/t-00002512-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	134-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'm gonna show you a picture that has a_lot_of things going on in the picture . 930_4330
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|alotof noun|thing-Plur-Acc verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|12|COMPOUND 12|10|OBJ 13|12|ACL 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|3|PUNCT
+*INV:	&*PAR:mm I'd like you to tell me everything you see going on in the picture . 4750_8060
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|6|IOBJ 8|6|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|11|COMPOUND-PRT 13|15|CASE 14|15|DET 15|11|OBL 16|3|PUNCT
+*PAR:	mhm . [+ exc] 8884_9364
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm (.) this [//] the boy is <on the> [/] on the [/] &-uh the &-uh chair [: stool] [* s:r] tryin(g) to get some cookies out_of the cupboard to give to [/] &+hi to his sister „ I guess . 11420_27280
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|cupboard-Acc part|to verb|give-Inf-S adp|to pron|his-Prs-Gen-S3 noun|sister punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|ACL 8|9|MARK 9|7|XCOMP 10|11|DET 11|9|OBJ 12|9|ADVMOD 13|14|DET 14|9|OBJ 15|16|MARK 16|9|ADVCL 17|19|CASE 18|19|NMOD-POSS 19|16|OBL 20|22|PUNCT 21|22|NSUBJ 22|6|PARATAXIS 23|6|PUNCT
+*PAR:	and the mother is &-um doin(g) &+th the dishes . 28937_32156
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and [/] and the sink overflowed . 32200_33550
+%mor:	cconj|and det|the-Def-Art noun|sink verb|overflow-Fin-Ind-Past-S3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	and [/] and all the water's going on the floor . 35322_37442
+%mor:	cconj|and det|all-Def-Tot det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|6|CC 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	that's it . [+ exc] 37855_39035
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 42495_42575
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

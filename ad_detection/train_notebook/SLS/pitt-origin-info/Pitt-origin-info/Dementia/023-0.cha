@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002438-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|78;|male|ProbableAD||Participant|16||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	023-0, audio
+@G:	Cookie
+*INV:	everything that's happening in that picture . 1960_3820
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*PAR:	(..) well I see the mother . 20121_21621
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art noun|mother-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	what's she doin(g) ? [+ exc] 26904_27494
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	pourin(g) the [/] (.) the faucet down on the floor . [+ gram] 27890_34160
+%mor:	verb|pour-Part-Pres-S det|the-Def-Art noun|faucet-Acc adp|down adp|on det|the-Def-Art noun|floor .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|COMPOUND-PRT 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+*PAR:	<she got> [//] yeah she got that runnin(g) on the floor . [+ es] 34208_37958
+%mor:	intj|yeah pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr pron|that-Dem verb|run-Ger-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*PAR:	she's wipin(g) the dishes . 39810_40980
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the little boy's gonna break his neck (.) tryin(g) to get into the cookie jar . 41201_47411
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~part|s verb|go-Part-Pres-S~part|to verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc verb|try-Part-Pres-S part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|4|CASE 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|NMOD-POSS 10|8|OBJ 11|8|ADVCL 12|13|MARK 13|11|XCOMP 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|OBL 18|6|PUNCT
+*PAR:	and the little girl's yellin(g) for more . 48634_50384
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|yelling-Part-Pres-S adp|for adj|more-Cmp-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*PAR:	(..) they're headin(g) into a disaster &=laughs . 66585_68285
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|head-Part-Pres-S adp|into det|a-Ind-Art noun|disaster .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	+< &=laughs okay . 69684_70344
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) anything else ? 87417_87997
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	well the little boy's gonna &+br break his neck there if he doesn't watch out . 94591_96991
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc adv|there sconj|if pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|watch-Inf-S adp|out .
+%gra:	1|6|DISCOURSE 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|NMOD-POSS 10|8|OBJ 11|8|ADVMOD 12|16|MARK 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|8|ADVCL 17|16|COMPOUND-PRT 18|6|PUNCT
+*PAR:	&=clears:throat now I expect there are a whole lot more that I didn't see . [+ exc] 102703_105623
+%mor:	adv|now pron|I-Prs-Nom-S1 verb|expect-Fin-Ind-Pres-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art adj|whole-S1 noun|lot adj|more-Cmp-S1 pron|that-Rel pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|see-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|EXPL 5|3|CCOMP 6|8|DET 7|8|AMOD 8|9|OBL-UNMARKED 9|5|NSUBJ 10|14|OBJ 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|9|ACL-RELCL 15|3|PUNCT
+*INV:	okay that's fine . 108627_109577
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

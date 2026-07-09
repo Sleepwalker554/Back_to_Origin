@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/t-00002675-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|79;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:55:30-04:00]
+@Media:	526-1, audio
+@G:	Cookie
+*INV:	tell me what's going on in that picture . 0_2130
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|1|PUNCT
+*PAR:	<there's a little boy or> [//] there's a little girl &+s talkin(g) to this boy <up [/] up on the> [/] &+t up [/] up on the stepladder [: stool] [* s:r] . 3452_10892
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl verb|talk-Ger-S adp|to det|this-Def-Dem-Sing noun|boy adp|up adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|9|CASE 8|9|DET 9|6|OBL 10|6|COMPOUND-PRT 11|13|CASE 12|13|DET 13|6|OBL 14|2|PUNCT
+*PAR:	&+a &+a and she's askin(g) him to bring some of this down or whatever it was a jar or whatever it is that [//] so it doesn't [/] &+r doesn't break . [+ es] 13886_21636
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S pron|he-Prs-Acc-S3 part|to verb|bring-Inf-S det|some-Def-Ind adp|of pron|this-Dem-S1 adp|down cconj|or pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|jar cconj|or pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|so pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|break-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|7|OBJ 9|10|CASE 10|8|NMOD 11|7|COMPOUND-PRT 12|13|CC 13|8|CONJ 14|17|NSUBJ 15|17|COP 16|17|DET 17|13|ACL-RELCL 18|19|CC 19|17|CONJ 20|21|NSUBJ 21|19|ACL-RELCL 22|26|ADVMOD 23|26|NSUBJ 24|26|AUX 25|26|ADVMOD 26|4|PARATAXIS 27|4|PUNCT
+*PAR:	there's a mother over here . 22977_24337
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mother adp|over adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+*PAR:	she's watchin(g) them that she has that break [* s:uk] in her &+an hand . [+ gram] 24829_27809
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|watch-Part-Pres-S pron|they-Prs-Acc-P3 sconj|that pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|break-Acc adp|in pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|MARK 6|7|NSUBJ 7|3|CCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|NMOD-POSS 12|7|OBL 13|3|PUNCT
+*PAR:	and it looks like it's &+g &-uh very strong &+bra or &+k hek@u [: x@n] [* n:uk] or &+b +... 28930_34300
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|strong-S1 cconj|or neo|x cconj|or +...
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|ADVMOD 8|3|ADVCL 9|10|DEP 10|8|CONJ 11|3|CONJ 12|3|PUNCT
+*PAR:	she's lookin(g) real [/] real good at it , a jar or whatever . 36790_40370
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adv|real adj|good-S1 adp|at pron|it-Prs-Acc-S3 cm|cm det|a-Ind-Art noun|jar cconj|or pron|whatever-Int-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|ADVMOD 5|3|XCOMP 6|7|CASE 7|5|OBL 8|10|PUNCT 9|10|DET 10|7|CONJ 11|12|CC 12|10|CONJ 13|3|PUNCT
+*INV:	what else is goin(g) on over here ? 40500_41980
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|4|PUNCT
+*PAR:	she's touchin(g) [//] givin(g) a little [/] little [/] little touch of her mouth . [+ cir] 44494_47274
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S det|a-Ind-Art adj|little-S1 noun|touch-Acc adp|of pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|3|PUNCT
+*INV:	that's right . 47558_48228
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	+< although that's xxx . [+ jar] [+ exc] 48340_48990
+%mor:	sconj|although pron|that-Dem~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	anything else ? 49290_49850
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	and it [/] &-uh it looks like &-uh he's gonna bring some of that down [/] down for them all . [+ es] 50060_54980
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|bring-Inf-S det|some-Def-Ind adp|of pron|that-Dem adp|down adp|for pron|they-Prs-Acc-P3 det|all-Def-Tot .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|12|CASE 12|10|NMOD 13|9|COMPOUND-PRT 14|15|CASE 15|9|OBL 16|9|OBL-UNMARKED 17|3|PUNCT
+*PAR:	and [/] and [/] and mother's out there lookin(g) at (th)em . 56191_57981
+%mor:	cconj|and noun|mother~aux|be-Fin-Ind-Pres-S3 adv|out adv|there verb|look-Part-Pres-S adp|at pron|they-Prs-Acc-P3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|ADVCL 7|8|CASE 8|6|OBL 9|5|PUNCT
+*PAR:	and [/] and &-uh looks like she's washin(g) this dishes that they already had it . [+ gram] 57999_62579
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|this-Def-Dem-Sing noun|dish-Plur-Acc pron|that-Rel pron|they-Prs-Nom-P3 adv|already verb|have-Fin-Ind-Past-P3-irr pron|it-Prs-Acc-S3 .
+%gra:	1|2|CC 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|8|DET 8|6|OBJ 9|12|OBJ 10|12|NSUBJ 11|12|ADVMOD 12|8|ACL-RELCL 13|12|OBJ 14|2|PUNCT
+*PAR:	and she's [/] she's washin(g) the dishes away from them . 62710_65250
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adv|away adp|from pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|9|CASE 9|4|OBL 10|4|PUNCT
+*INV:	okay . 65440_65980
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< it [/] it looks that way . [+ exc] 65840_66750
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|way-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	good . 67020_67120
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she's cleanin(g) it you_know . 67200_68280
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|clean-Part-Pres-S pron|it-Prs-Acc-S3 adv|youknow .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*INV:	good . 69120_69380
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

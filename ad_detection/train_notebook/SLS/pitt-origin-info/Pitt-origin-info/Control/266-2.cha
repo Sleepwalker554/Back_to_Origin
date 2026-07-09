@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002375-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	266-2, audio
+@G:	Cookie
+*PAR:	&-uh it's &-uh a kitchen scene . 1470_4810
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kitchen noun|scene .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	and the mother is doing the dishes . 5303_7033
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	the children are trying to get into the cookie jar . 7420_10970
+%mor:	det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|get-Inf-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|4|PUNCT
+*PAR:	the stool is falling over . 11921_14021
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the water is running over in the sink . 14877_17547
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	the [//] &-um &+win it looks as though the window is open . 18624_22864
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|as sconj|though det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|8|MARK 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|COP 8|2|ADVCL 9|2|PUNCT
+*PAR:	and there (.) is grass and what have you , &+t grass and trees outside . 23113_30753
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|grass cconj|and pron|what-Int-S1 verb|have-Fin-Ind-Pres-P3 pron|you-Prs-Acc-S2 cm|cm noun|grass cconj|and noun|tree-Plur adv|outside .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|6|CC 6|4|CONJ 7|3|CONJ 8|7|OBJ 9|10|PUNCT 10|8|CONJ 11|12|CC 12|8|CONJ 13|7|ADVMOD 14|3|PUNCT
+*PAR:	looks like the curtains might be billowing a little . [+ gram] 31559_34019
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|curtain-Plur aux|might-Fin-S aux|be-Inf-S verb|billow-Part-Pres-S det|a-Ind-Art adj|little-S1 .
+%gra:	1|0|ROOT 2|7|MARK 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|AUX 7|1|ADVCL 8|9|DET 9|7|OBJ 10|1|PUNCT
+*PAR:	the little girl is asking the boy for a cookie . 35723_38303
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S det|the-Def-Art noun|boy-Acc adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*PAR:	and let's see . [+ exc] 40279_41379
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	the mother's drying the dishes . 41400_43040
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and (..) she's standing in the water . 45304_51314
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	looks like there are a couple dishes that have already been dried sitting on the sink . [+ gram] 54562_58592
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art noun|couple noun|dish-Plur pron|that-Rel aux|have-Fin-Ind-Pres-P3 adv|already aux|be-Part-Past-S-irr verb|dry-Part-Past-S verb|sit-Part-Pres-S adp|on det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|4|MARK 3|4|EXPL 4|1|ADVCL 5|7|DET 6|7|COMPOUND 7|4|NSUBJ 8|12|NSUBJ-PASS 9|12|AUX 10|12|ADVMOD 11|12|AUX-PASS 12|7|ACL-RELCL 13|12|XCOMP 14|16|CASE 15|16|DET 16|13|OBL 17|1|PUNCT
+*PAR:	(..) I guess that's all I see . [+ exc] 62016_63486
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|2|PUNCT
+*INV:	can you tell me what's going on over here ? 64555_66155
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|3|PUNCT
+*PAR:	pardon me ? [+ exc] 66796_67216
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	tell me this again . 67657_68397
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|this-Dem-S1 adv|again .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	I might have missed it what you said . [+ exc] 68415_69555
+%mor:	pron|I-Prs-Nom-S1 aux|might-Fin-S aux|have-Inf-S verb|miss-Part-Past-S pron|it-Prs-Acc-S3 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|4|PUNCT
+*PAR:	oh I said the little boy's tryin(g) to get some cookies out_of the cookie jar . [+ exc] 69800_73380
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|3|PUNCT
+*INV:	+< okay . 73155_73285
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the little girl's asking for a cookie . [+ exc] 73400_75380
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~part|s verb|ask-Ger-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|4|CASE 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	and the stool looks as though it's going to fall over . [+ exc] 75400_78080
+%mor:	cconj|and det|the-Def-Art noun|stool verb|look-Fin-Ind-Pres-S3 sconj|as sconj|though pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adv|over .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|9|MARK 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|11|MARK 11|9|XCOMP 12|11|ADVMOD 13|4|PUNCT
+*INV:	okay . 78889_79129
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay good . 80476_81366
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

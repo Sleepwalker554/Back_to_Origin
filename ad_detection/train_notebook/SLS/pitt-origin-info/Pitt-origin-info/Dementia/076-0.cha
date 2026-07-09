@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00002486-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:51:40-04:00]
+@Media:	076-0, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 0_1410
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	&-uh well ‡ the children are climbing up . 3584_6644
+%mor:	intj|well punct|‡ det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|climb-Part-Pres-S adp|up .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*PAR:	and he's about to fall . 6841_7901
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	and he's getting cookies . 7950_9170
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and she's &-uh telling him to sh@o be quiet so mother <won't hear it> [//] won't hear him getting up there . 10632_15732
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to on|sh aux|be-Inf-S adj|quiet-S1 adv|so noun|mother aux|will-Fin-S~part|not verb|hear-Inf-S pron|he-Prs-Acc-S3 verb|get-Ger-S adp|up adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|9|DEP 7|9|NSUBJ 8|9|COP 9|4|XCOMP 10|14|ADVMOD 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|4|PARATAXIS 15|14|OBJ 16|14|XCOMP 17|16|COMPOUND-PRT 18|16|ADVMOD 19|4|PUNCT
+*PAR:	and &-uh he's handing a cookie down to her . 20713_22413
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|down adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|9|CASE 9|4|OBL 10|4|PUNCT
+*PAR:	she's washing the dishes . 22925_23875
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &-uh (.) for some reason she must have been upset about something because &-uh she is letting the water run out all over the place .
+%mor:	cconj|and adp|for det|some-Def-Ind noun|reason pron|she-Prs-Nom-S3 aux|must-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr adj|upset-S1 adp|about pron|something-Ind-S1 sconj|because pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|out adv|all adp|over det|the-Def-Art noun|place .
+%gra:	1|9|CC 2|4|CASE 3|4|DET 4|9|OBL 5|9|NSUBJ 6|9|AUX 7|9|AUX 8|9|COP 9|0|ROOT 10|11|CASE 11|9|OBL 12|15|MARK 13|15|NSUBJ 14|15|AUX 15|9|ADVCL 16|17|DET 17|15|OBJ 18|15|XCOMP 19|18|COMPOUND-PRT 20|23|ADVMOD 21|23|CASE 22|23|DET 23|18|OBL 24|9|PUNCT
+*PAR:	<whether she's> [//] &+up I can't believe she's upset about the kids (be)cause she hasn't seen them . 33334_37244
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|believe-Inf-S pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|upset-S1 adp|about det|the-Def-Art noun|kid-Plur sconj|because pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not verb|see-Part-Past-S-irr pron|they-Prs-Acc-P3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|7|ADVCL 16|15|OBJ 17|4|PUNCT
+*PAR:	maybe she did turn and look at them and &=laughs then go back to the dishes . 37666_41236
+%mor:	adv|maybe pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr verb|turn-Inf-S cconj|and verb|look-Inf-S adp|at pron|they-Prs-Acc-P3 cconj|and adv|then verb|go-Inf-S adv|back adp|to det|the-Def-Art noun|dish-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|8|CASE 8|6|OBL 9|11|CC 10|11|ADVMOD 11|4|CONJ 12|11|ADVMOD 13|15|CASE 14|15|DET 15|11|OBL 16|4|PUNCT
+*INV:	&=laughs .
+*PAR:	in other words it's &-uh +... 43680_44330
+%mor:	adp|in adj|other-S1 noun|word-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|3|CASE 2|3|AMOD 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh she [/] she's deciding that if she did see them she's deciding that she's going to let them go ahead with it . 48560_53130
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|decide-Part-Pres-S sconj|that sconj|if pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr verb|see-Inf-S pron|they-Prs-Acc-P3 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|decide-Part-Pres-S sconj|that pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|let-Inf-S pron|they-Prs-Acc-P3 verb|go-Inf-S adv|ahead adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|12|MARK 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|12|ADVCL 9|8|OBJ 10|12|NSUBJ 11|12|AUX 12|3|CCOMP 13|16|MARK 14|16|NSUBJ 15|16|AUX 16|12|CCOMP 17|18|MARK 18|16|XCOMP 19|18|OBJ 20|18|XCOMP 21|20|ADVMOD 22|23|CASE 23|20|OBL 24|3|PUNCT
+*PAR:	but I don't think she would have let them go ahead if she saw the little boy falling . 54317_57037
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|she-Prs-Nom-S3 aux|would-Fin-S aux|have-Inf-S verb|let-Part-Past-S-irr pron|they-Prs-Acc-P3 verb|go-Inf-S adv|ahead sconj|if pron|she-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr det|the-Def-Art adj|little-S1 noun|boy-Acc verb|fall-Ger-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|NSUBJ 7|9|AUX 8|9|AUX 9|5|CCOMP 10|9|OBJ 11|9|XCOMP 12|11|ADVMOD 13|15|MARK 14|15|NSUBJ 15|11|ADVCL 16|18|DET 17|18|AMOD 18|15|OBJ 19|15|XCOMP 20|5|PUNCT
+*PAR:	I think she would have turned . 57086_58316
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 aux|would-Fin-S aux|have-Inf-S verb|turn-Part-Past-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|2|CCOMP 7|2|PUNCT
+*PAR:	maybe dropped her dish &=laughs . 59324_60744
+%mor:	adv|maybe verb|drop-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|dish-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*PAR:	but she would have gotten hold of him and saved him from being harmed in the fall . 60915_63595
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|would-Fin-S aux|have-Inf-S verb|get-Part-Past-S-irr noun|hold-Acc adp|of pron|he-Prs-Acc-S3 cconj|and verb|save-Part-Past-S pron|he-Prs-Acc-S3 sconj|from aux|be-Part-Pres-S verb|harm-Part-Past-S adp|in det|the-Def-Art noun|fall .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|CASE 8|6|NMOD 9|10|CC 10|5|CONJ 11|10|OBJ 12|14|MARK 13|14|AUX-PASS 14|10|ADVCL 15|17|CASE 16|17|DET 17|14|OBL 18|5|PUNCT
+*PAR:	and he might just pull all the cookie jar with him when he falls too &=laughs . 66463_69653
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|might-Fin-S adv|just verb|pull-Inf-S det|all-Def-Tot det|the-Def-Art noun|cookie noun|jar-Acc adp|with pron|he-Prs-Acc-S3 adv|when pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Pres-S3 adv|too .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|DET-PREDET 7|9|DET 8|9|COMPOUND 9|5|OBJ 10|11|CASE 11|5|OBL 12|14|ADVMOD 13|14|NSUBJ 14|5|ADVCL 15|14|ADVMOD 16|5|PUNCT
+*INV:	&=laughs .
+*PAR:	and with the water on the floor and the cookie jar on the floor &=laughs it would be a sad +/. 70749_74619
+%mor:	cconj|and adp|with det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor cconj|and det|the-Def-Art noun|cookie noun|jar adp|on det|the-Def-Art noun|floor pron|it-Prs-Nom-S3 aux|would-Fin-S aux|be-Inf-S det|a-Ind-Art adj|sad-S1 +/.
+%gra:	1|19|CC 2|4|CASE 3|4|DET 4|19|OBL 5|7|CASE 6|7|DET 7|4|NMOD 8|11|CC 9|11|DET 10|11|COMPOUND 11|4|CONJ 12|14|CASE 13|14|DET 14|11|NMOD 15|19|NSUBJ 16|19|AUX 17|19|COP 18|19|DET 19|0|ROOT 20|19|PUNCT
+*INV:	+< bad . 75003_75243
+%mor:	adj|bad-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+, threesome but [//] and the kitchen would be a mess . 75571_77531
+%mor:	noun|threesome cconj|and det|the-Def-Art noun|kitchen aux|would-Fin-S aux|be-Inf-S det|a-Ind-Art noun|mess .
+%gra:	1|8|NSUBJ 2|4|CC 3|4|DET 4|1|CONJ 5|8|AUX 6|8|COP 7|8|DET 8|0|ROOT 9|8|PUNCT
+*INV:	mhm . 79063_79393
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ? 80227_80607
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	great ! 80910_81370
+%mor:	adj|great-S1 !
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

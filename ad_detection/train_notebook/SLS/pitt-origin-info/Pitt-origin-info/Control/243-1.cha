@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002361-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|male|Control||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	243-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 30_800
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*INV:	tell me everything you see going on in the picture . 1010_3110
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	I see a boy &-um getting <in the> [/] in the cookie jar . 4821_9651
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|boy-Acc verb|get-Ger-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|2|PUNCT
+*PAR:	he's handing a [//] cookies to his sister . 11351_13851
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*PAR:	his sister is standing on the floor receiving the cookies . 14020_17110
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|floor verb|receive-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVCL 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	the boy is standing on the stool and it is in the process of toppling over . 17340_22400
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|process sconj|of verb|topple-Ger-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|13|CC 9|13|NSUBJ 10|13|COP 11|13|CASE 12|13|DET 13|4|CONJ 14|15|MARK 15|13|ACL 16|15|COMPOUND-PRT 17|4|PUNCT
+*PAR:	the cookie jar is &-uh quite full at the present time . 23442_26272
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|quite adj|full-S1 adp|at det|the-Def-Art adj|present-S1 noun|time .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|6|PUNCT
+*PAR:	the lid is off the cookie jar . 26670_29370
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	the mother is standing at the kitchen sink . 30180_32150
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|at det|the-Def-Art noun|kitchen noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	she is wiping dishes . 32883_35953
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&-uh the sink is overflowing . 36694_38844
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the water is running onto the floor splashing onto the floor . 39420_43640
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|onto det|the-Def-Art noun|floor verb|splash-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+*PAR:	&-uh there are other dishes . 44927_46917
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adj|other-S1 noun|dish-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|AMOD 4|2|NSUBJ 5|2|PUNCT
+*PAR:	there's a dish and two other cups on the counter beside her . 46970_52520
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish cconj|and num|two adj|other-S1 noun|cup-Plur adp|on det|the-Def-Art noun|counter adp|beside pron|her-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|8|CC 6|8|NUMMOD 7|8|AMOD 8|4|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|13|CASE 13|11|NMOD 14|2|PUNCT
+*PAR:	&-um in [//] <near her or> [//] over the sink is a window with curtains . 53835_59415
+%mor:	adp|over det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window adp|with noun|curtain-Plur .
+%gra:	1|3|CASE 2|3|DET 3|6|NMOD 4|6|COP 5|6|DET 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*PAR:	and &-uh the window is open . 60108_62258
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh the [//] outside there is a tree and grass and shrubbery in sight . 63557_70607
+%mor:	cconj|and adv|outside pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree cconj|and noun|grass cconj|and noun|shrubbery adp|in noun|sight .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|8|CC 8|6|CONJ 9|10|CC 10|6|CONJ 11|12|CASE 12|4|OBL 13|4|PUNCT
+*PAR:	also a path and &-uh &-uh a window <into the> [//] into &-uh a garage or another portion of the house is visible . 71275_80805
+%mor:	adv|also det|a-Ind-Art noun|path cconj|and det|a-Ind-Art noun|window adp|into det|a-Ind-Art noun|garage cconj|or det|another-Def-Ind noun|portion adp|of det|the-Def-Art noun|house aux|be-Fin-Ind-Pres-S3 adj|visible-S1 .
+%gra:	1|17|ADVMOD 2|3|DET 3|17|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|CC 11|12|DET 12|9|CONJ 13|15|CASE 14|15|DET 15|12|NMOD 16|17|COP 17|0|ROOT 18|17|PUNCT
+*INV:	okay . 82104_82194
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

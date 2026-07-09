@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002696-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|male|ProbableAD||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	592-0, audio
+@G:	Cookie
+*INV:	okay ‡ can you tell me everything you see going on in the picture ? 1678_4198
+%mor:	intj|okay punct|‡ aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|5|PUNCT
+*PAR:	&-mm &+s boy &+o over here standin(g) on the chair [: stool] [* s:r] . 6427_8687
+%mor:	intj|boy adv|over adv|here verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*PAR:	&-uh it's fallin(g) over . 8846_10206
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	and a girl down below . [+ gram] 11736_12786
+%mor:	cconj|and det|a-Ind-Art noun|girl adv|down adv|below .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+*PAR:	the boy's up [/] up (th)ere . 14473_16023
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adp|up adv|there .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	he's &-uh has a cookie jar up (th)ere . 16849_19729
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar-Acc adp|up adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|COMPOUND-PRT 8|3|ADVMOD 9|3|PUNCT
+*PAR:	he's puttin(g) cookies in . 21049_22119
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S noun|cookie-Plur-Acc adp|in .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR:	and the thing's fallin(g) over . [+ es] 22832_24382
+%mor:	cconj|and det|the-Def-Art noun|thing-Ger~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	then there's the lady . 28802_30212
+%mor:	adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|lady .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	she's [/] (..) she's washin(g) dishes and dryin(g) (th)em . 31888_38808
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|6|OBJ 8|3|PUNCT
+*PAR:	and the sink (.) is turned on . 41448_44748
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Past-S adp|on .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	and the water's runnin(g) down and is runnin(g) on the floor . 44790_47180
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|down cconj|and aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CC 8|9|AUX 9|5|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|5|PUNCT
+*PAR:	and she's standin(g) in the water . 47251_48581
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	she's got &-uh (..) a dress on . 50358_54728
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|dress-Acc adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	and [/] and there's [//] she's looking out [/] out past drapes down here . 54800_64800
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out adp|past noun|drape-Plur adp|down adv|here .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|4|COMPOUND-PRT 9|4|ADVMOD 10|4|PUNCT
+*PAR:	and she's lookin(g) out through the window . 65868_67588
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out adp|through det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	(..) looks like that boy's gonna fall over pretty soon . 75164_77504
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|that-Def-Dem-Sing noun|boy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|over adv|pretty adv|soon .
+%gra:	1|0|ROOT 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|8|MARK 8|6|XCOMP 9|8|ADVMOD 10|11|ADVMOD 11|8|ADVMOD 12|1|PUNCT
+*INV:	+< okay . 78329_78459
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

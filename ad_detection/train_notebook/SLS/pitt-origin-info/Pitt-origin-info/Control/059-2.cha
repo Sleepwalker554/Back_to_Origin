@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/t-00002224-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	059-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	what action do you see going on in that picture ? 1270_3770
+%mor:	det|what-Def-Int noun|action-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|2|DET 2|6|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+*PAR:	all the action . [+ exc] 4503_5763
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	mother is drying dishes . 5780_7140
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	and the tap water is overflowing the sink and running on the floor . 7191_11941
+%mor:	cconj|and det|the-Def-Art noun|tap noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc cconj|and verb|run-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|CC 10|6|CONJ 11|13|CASE 12|13|DET 13|10|OBL 14|6|PUNCT
+*PAR:	and Johnny's trying to get some cookies . 11987_15107
+%mor:	cconj|and propn|Johnny~part|s verb|try-Part-Pres-S part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR:	and his stepstool is falling . 15155_17275
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stepstool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and little girl is reaching her hand up for a cookie and putting her hand to her mouth . 17290_23790
+%mor:	cconj|and adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|for det|a-Ind-Art noun|cookie cconj|and verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|5|CC 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|11|CASE 10|11|DET 11|5|OBL 12|13|CC 13|5|CONJ 14|15|NMOD-POSS 15|13|OBJ 16|18|CASE 17|18|NMOD-POSS 18|13|OBL 19|5|PUNCT
+*PAR:	oh [/] oh ‡ well ‡ that's what's happening . [+ exc] 24357_26747
+%mor:	intj|oh punct|‡ intj|well punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|9|AUX 9|7|ACL-RELCL 10|7|PUNCT
+*PAR:	I don't know . [+ exc] 32533_32953
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	<mother's stepping I_mean> [//] the lady's stepping in the water that spilled on the floor . 33000_36980
+%mor:	det|the-Def-Art noun|lady~part|s verb|step-Ger-S adp|in det|the-Def-Art noun|water pron|that-Rel verb|spill-Fin-Ind-Past-S3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|NSUBJ 9|7|ACL-RELCL 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+*PAR:	that's all I can be sure of . [+ exc] 43303_45263
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S aux|be-Inf-S adj|sure-S1 adp|of .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|7|NSUBJ 5|7|AUX 6|7|COP 7|3|ACL-RELCL 8|7|OBL 9|3|PUNCT
+*INV:	okay that's fine . 47704_48104
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002386-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	292-1, audio
+@G:	Cookie
+*INV:	on in the picture . 220_940
+%mor:	adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|4|CASE 2|4|CASE 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	girl is reaching up . [+ gram] 3433_4553
+%mor:	noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*PAR:	the boy is [/] is &-uh taking cookies out_of the cookie jar . 4568_9718
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+*PAR:	&-uh the &-uh stool is tilting . 9931_12681
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	mother is washing the dishes . 12697_14107
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	the water's running over . 14123_15473
+%mor:	det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S adp|over .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	the wind is blowing the &-uh curtains . 18180_22000
+%mor:	det|the-Def-Art noun|wind aux|be-Fin-Ind-Pres-S3 verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	(.) the mother is drying the dishes . 27800_29370
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	the boy is reaching down to I guess his sister . 32820_35680
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adv|down sconj|to pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|his-Prs-Gen-S3 noun|sister-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|8|MARK 7|8|NSUBJ 8|4|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|4|PUNCT
+*PAR:	the boy is climbing but he's gonna fall . 39238_41168
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|climb-Part-Pres-S cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CC 6|8|NSUBJ 7|8|AUX 8|4|CONJ 9|10|MARK 10|8|XCOMP 11|4|PUNCT
+*PAR:	(.) and the mother's drying the dishes . 47933_49223
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	I think I said that . [+ exc] 49288_50068
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	the water's running and running down . 50089_52039
+%mor:	det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S cconj|and verb|run-Part-Pres-S adp|down .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|6|CC 6|4|CONJ 7|6|COMPOUND-PRT 8|4|PUNCT
+*PAR:	and that's all I see on that . [+ exc] 53252_54502
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 adp|on pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|CASE 8|6|OBL 9|4|PUNCT
+*INV:	okay (.) xxx . 57310_57410
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

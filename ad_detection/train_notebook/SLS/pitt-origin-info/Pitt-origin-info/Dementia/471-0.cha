@@ -1,0 +1,24 @@
+@UTF8
+@PID:	11312/t-00002658-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|73;|male|PossibleAD||Participant|29||
+@Media:	471-0, audio
+@G:	Cookie
+*PAR:	(.) the boy's gonna fall . 4790_6370
+%mor:	det|the-Def-Art noun|boy~part|s verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	(.) she's runnin(g) the sink over . 11696_12986
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S det|the-Def-Art noun|sink-Acc adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+*PAR:	(..) that kid seem to gettin(g) in the cookie jar . [+ gram] 23661_25401
+%mor:	det|that-Def-Dem-Sing noun|kid verb|seem-Fin-Ind-Pres-S3 sconj|to verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|ADVCL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|3|PUNCT
+*PAR:	so +... [+ exc] 25600_25660
+%mor:	adv|so +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) and she's standing in water working . 30627_33067
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in noun|water verb|work-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|4|OBL 7|4|ADVCL 8|4|PUNCT
+@End

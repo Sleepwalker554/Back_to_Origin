@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/t-00002331-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	175-1, audio
+@G:	Cookie
+*PAR:	water's pouring out_of the sink . 420_2750
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	and the woman is washing dishes . 3606_5856
+%mor:	cconj|and det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	the &-uh child is &+fa on a stool falling off as he's reaching for the cookie jar with his right hand and &-uh trying to hand the other cookies to a little girl who's reaching up with her left hand to get the cookie . 7027_22787
+%mor:	det|the-Def-Art noun|child aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool verb|fall-Ger-S adp|off sconj|as pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar adp|with pron|his-Prs-Gen-S3 adj|right-S1 noun|hand cconj|and verb|try-Part-Pres-S part|to verb|hand-Inf-S det|the-Def-Art adj|other-S1 noun|cookie-Plur-Acc adp|to det|a-Ind-Art adj|little-S1 noun|girl pron|who-Rel~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|with pron|her-Prs-Gen-S3 adj|left-S1 noun|hand part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|ACL 8|7|COMPOUND-PRT 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|7|ADVCL 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|20|CASE 18|20|NMOD-POSS 19|20|AMOD 20|12|OBL 21|22|CC 22|12|CONJ 23|24|MARK 24|22|XCOMP 25|27|DET 26|27|AMOD 27|24|OBJ 28|31|CASE 29|31|DET 30|31|AMOD 31|24|OBL 32|34|NSUBJ 33|34|AUX 34|31|ACL-RELCL 35|34|COMPOUND-PRT 36|39|CASE 37|39|NMOD-POSS 38|39|AMOD 39|34|OBL 40|41|MARK 41|34|ADVCL 42|43|DET 43|41|OBJ 44|6|PUNCT
+*PAR:	and her right hand looks like she's almost &-uh trying to make a signal of silence so the mother doesn't hear it . 23323_30473
+%mor:	cconj|and pron|her-Prs-Gen-S3 adj|right-S1 noun|hand verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|almost verb|try-Part-Pres-S part|to verb|make-Inf-S det|a-Ind-Art noun|signal-Acc adp|of noun|silence sconj|so det|the-Def-Art noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|hear-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|4|NMOD-POSS 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ADVCL 11|12|MARK 12|10|XCOMP 13|14|DET 14|12|OBJ 15|16|CASE 16|14|NMOD 17|22|MARK 18|19|DET 19|22|NSUBJ 20|22|AUX 21|22|ADVMOD 22|12|ADVCL 23|22|OBJ 24|5|PUNCT
+*PAR:	the mother's &+wa feet are in the water as it's pouring on the floor . 30966_34456
+%mor:	det|the-Def-Art noun|mother~part|s noun|foot-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|water sconj|as pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|DET 8|0|ROOT 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|8|ADVCL 13|15|CASE 14|15|DET 15|12|OBL 16|8|PUNCT
+*PAR:	and the window is open . 35454_36764
+%mor:	cconj|and det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	you can see a yard outside . 36781_39031
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|yard-Acc adv|outside .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	there's a dish and cups on the sink . 39592_42142
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|dish cconj|and noun|cup-Plur adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|6|CC 6|4|CONJ 7|9|CASE 8|9|DET 9|2|OBL 10|2|PUNCT
+*PAR:	and the curtains are pulled back so you can see out the window . 42806_45776
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|pull-Part-Past-S adv|back sconj|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|ADVMOD 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|5|PUNCT
+*PAR:	the cupboard door is open . 45800_47300
+%mor:	det|the-Def-Art noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh they're all fully dressed . 48119_50979
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|all adv|fully verb|dress-Part-Past-S .
+%gra:	1|6|CC 2|6|NSUBJ-PASS 3|6|AUX-PASS 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	and they have sort_of a nondescript expression on their face . 51889_57439
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 noun|sortof-Acc det|a-Ind-Art adj|nondescript-S1 noun|expression-Acc adp|on pron|their-Prs-Gen-P3 noun|face .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|DET 6|7|AMOD 7|3|OBJ 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|3|PUNCT
+*PAR:	the woman has her mouth open a little bit . 58561_60781
+%mor:	det|the-Def-Art noun|woman verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|mouth-Acc adj|open-S1 det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|9|DET 8|9|AMOD 9|6|OBL-UNMARKED 10|3|PUNCT
+*PAR:	we(ll) each one of them have their mouths open a little bit . 60800_62800
+%mor:	intj|well det|each-Def-Tot noun|one adp|of pron|they-Prs-Acc-P3 verb|have-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|mouth-Plur-Acc verb|open-Inf-S det|a-Ind-Art adj|little-S1 noun|bit .
+%gra:	1|6|DISCOURSE 2|3|DET 3|6|NSUBJ 4|5|CASE 5|3|NMOD 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|6|XCOMP 10|12|DET 11|12|AMOD 12|9|OBL-UNMARKED 13|6|PUNCT
+*PAR:	and &-um (.) that's about it . [+ exc] 64144_71374
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|5|PUNCT
+*INV:	okay good . 72039_72679
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

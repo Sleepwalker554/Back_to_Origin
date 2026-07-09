@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002641-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	360-0, audio
+@G:	Cookie
+*INV:	xxx what's going on in the picture . 1110_2830
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	water's runnin(g) over the sink . 4735_6605
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	and she's ignoring it . 8074_9234
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ignore-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and <the kid's> [//] he's grabbin(g) the cookies . 9438_11848
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|grab-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and she's ignorin(g) that . 11871_12881
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ignore-Part-Pres-S pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	she's &+ig practic(ally) ignoring everything . 12900_14820
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|practically verb|ignore-Part-Pres-S pron|everything-Tot-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the kid's fallin(g) and the &-um +... 15271_19401
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 verb|falling-Part-Pres-S cconj|and det|the-Def-Art +...
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+*PAR:	what else do you want &=laughs ? [+ exc] 22275_23035
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	that's fine . 23915_24565
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	he's ready to fall . 25680_26640
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*PAR:	his problem's the water's comin(g) over . 26957_30117
+%mor:	pron|his-Prs-Gen-S3 noun|problem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|water~part|s verb|come-Part-Pres-S adp|over .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ-OUTER 3|7|COP 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|0|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+*PAR:	he's ready to fall down and (.) danger ! [+ gram] 30132_32912
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S adp|down cconj|and verb|danger-Inf-S !
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|CC 8|5|CONJ 9|3|PUNCT
+*PAR:	there's danger there or something . 33165_34485
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|danger adv|there cconj|or pron|something-Ind-S1 .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|6|CC 6|4|CONJ 7|2|PUNCT
+*PAR:	I don't know what you want . [+ exc] 34500_35580
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+*INV:	okay that's fine . 36905_39515
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

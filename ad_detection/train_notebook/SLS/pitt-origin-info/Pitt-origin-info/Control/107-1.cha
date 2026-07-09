@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00002254-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|58;|male|Control||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	107-1, audio
+@G:	Cookie
+*INV:	and there's the picture . 190_2360
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	(.) boy's fallin(g) off a stool . [+ gram] 2413_10203
+%mor:	noun|boy~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the lid is fallin(g) off a cookie jar . 10290_12530
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	he's grabbin(g) a cookie in his hand . 12750_15190
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|grab-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*PAR:	the girl is reachin(g) up . 15212_16592
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	she's touchin(g) her nose . 16608_19568
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|touch-Part-Pres-S pron|her-Prs-Gen-S3 noun|nose-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	the other side , the mother's washin(g) dishes . [+ gram] 23223_26753
+%mor:	det|the-Def-Art adj|other-S1 noun|side-Acc cm|cm det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|washing-Part-Pres-S noun|dish-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|8|OBJ 4|9|PUNCT 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|3|APPOS 10|8|PUNCT
+*PAR:	the sink is runnin(g) over . 26798_28088
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	(.) her feet's [* m:a] gettin(g) wet (.) as she's lookin(g) out the window . [+ gram] 28171_43291
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|wet-S1 sconj|as pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|9|COMPOUND-PRT 11|12|DET 12|9|OBJ 13|4|PUNCT
+*PAR:	that'd be pretty difficult to look out the window and get your feet gettin(g) wet at the same time but that's what it is . [+ exc] 45146_50036
+%mor:	pron|that-Dem~aux|would-Fin-S aux|be-Inf-S adv|pretty adj|difficult-S1 part|to verb|look-Inf-S adp|out det|the-Def-Art noun|window cconj|and verb|get-Inf-S pron|your-Prs-Gen-S2 noun|foot-Plur-Acc verb|get-Ger-S adj|wet-S1 adp|at det|the-Def-Art adj|same-S1 noun|time cconj|but pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|CC 12|7|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|12|XCOMP 16|15|XCOMP 17|20|CASE 18|20|DET 19|20|AMOD 20|15|OBL 21|24|CC 22|24|NSUBJ 23|24|COP 24|5|CONJ 25|26|NSUBJ 26|24|ACL-RELCL 27|5|PUNCT
+*INV:	+< &=laughs . [+ exc]
+*PAR:	okay . [+ exc] 51444_51674
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ? 51830_52230
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 52678_52938
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

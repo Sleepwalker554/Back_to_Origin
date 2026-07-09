@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/t-00002321-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	166-0, audio
+@G:	Cookie
+*INV:	okay why don't you start with the woman again ? 1440_4410
+%mor:	intj|okay adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|start-Inf-S adp|with det|the-Def-Art noun|woman adv|again ?
+%gra:	1|6|DISCOURSE 2|6|ADVMOD 3|6|AUX 4|6|ADVMOD 5|6|NSUBJ 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|ADVMOD 11|6|PUNCT
+*INV:	woman's wiping dishes . 7005_8035
+%mor:	noun|woman~aux|be-Fin-Ind-Pres-S3 verb|wiping-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the woman is wiping the dishes . 8678_10478
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	she's standing in a puddle of water . 10648_12558
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+*PAR:	if that's action I don't know . [+ exc] 12624_14214
+%mor:	sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|action pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|COP 4|8|ADVCL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|8|PUNCT
+*PAR:	the sink is overflowing . 14250_16410
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) doesn't seem to be anything going on outside that I can tell in the picture . 21934_28694
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|seem-Inf-S part|to aux|be-Inf-S pron|anything-Ind-S1 verb|go-Ger-S adp|on adv|outside sconj|that pron|I-Prs-Nom-S1 aux|can-Fin-S verb|tell-Inf-S adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|6|ACL 8|7|OBL 9|7|ADVMOD 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|6|ACL-RELCL 14|16|CASE 15|16|DET 16|13|OBL 17|3|PUNCT
+*INV:	okay good . 31060_32180
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002609-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|male|PossibleAD||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	306-0, audio
+@G:	Cookie
+*INV:	all of the action . 300_870
+%mor:	det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*PAR:	whew &=laughs . [+ exc] 5566_5626
+%mor:	intj|whew .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh do I hafta use my [/] my [/] &-uh my personal &-uh description ? [+ exc] 6985_13815
+%mor:	aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 part|hafta verb|use-Inf-S pron|my-Prs-Gen-S1 adj|personal-S1 noun|description-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|NMOD-POSS 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*PAR:	or &=laughs like &-uh +... [+ exc] 13878_14908
+%mor:	cconj|or intj|like +...
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	<the &+c cookie jar> [//] stealing the &+g &-uh cookie out_o(f) the cookie jar . [+ gram] 15630_19760
+%mor:	verb|steal-Part-Pres-S det|the-Def-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|0|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|7|DET 6|7|COMPOUND 7|1|OBJ 8|1|PUNCT
+*PAR:	the [/] &+t &-uh the &+tripar not [//] &+t stool the &+tr triple [: three legged] [* s:r] stool is [//] he's [/] &-uh he's rockin(g) with its +... 21744_30714
+%mor:	det|the-Def-Art noun|stool det|the-Def-Art num|three adj|legged-S1 noun|stool-Acc pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|rock-Part-Pres-S adp|with pron|its-Prs-Gen-S3 +...
+%gra:	1|2|DET 2|9|NSUBJ 3|6|DET 4|6|NUMMOD 5|6|AMOD 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|11|CASE 11|9|OBL 12|9|PUNCT
+*PAR:	&-uh I wonder if she's puttin(g) her finger to her [/] her lips . 35018_39348
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 sconj|if pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|8|NMOD-POSS 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|2|PUNCT
+*PAR:	and &-uh is that she wants one to eat or she's &+ha &+h reachin(g) up for it ? [+ gram] 40682_43832
+%mor:	cconj|and aux|be-Fin-Ind-Pres-S3 sconj|that pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 num|one part|to verb|eat-Inf-S cconj|or pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for pron|it-Prs-Acc-S3 ?
+%gra:	1|5|CC 2|5|COP 3|5|MARK 4|5|NSUBJ 5|0|ROOT 6|5|OBJ 7|8|MARK 8|5|XCOMP 9|12|CC 10|12|NSUBJ 11|12|AUX 12|5|CONJ 13|12|COMPOUND-PRT 14|15|CASE 15|12|OBL 16|5|PUNCT
+*PAR:	huh ? [+ exc] 44298_44528
+%mor:	intj|huh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and then spillin(g) the water in the kitchen sink . [+ gram] 45860_48370
+%mor:	cconj|and adv|then verb|spill-Part-Pres-S det|the-Def-Art noun|water-Acc adp|in det|the-Def-Art noun|kitchen noun|sink .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+*PAR:	she's dryin(g) the dishes . 49751_50961
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	(..) they got their &+s sink is overflowin(g) . 59273_60753
+%mor:	pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr pron|their-Prs-Gen-P3 noun|sink-Acc aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|COP 6|2|XCOMP 7|2|PUNCT
+*PAR:	so ‡ <that would be the> [//] that's why it's overflowin(g) because <the &+s sink> [//] &+w &-uh &-uh this water's runnin(g) out_o(f) the spigot . 60945_66895
+%mor:	adv|so punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S sconj|because det|this-Def-Dem-Sing noun|water~part|s verb|run-Part-Pres-S verb|outaof-Fin-S det|the-Def-Art noun|spigot-Acc .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ADVCL-RELCL 9|14|MARK 10|11|DET 11|13|NMOD-POSS 12|11|CASE 13|14|NSUBJ 14|8|ADVCL 15|16|DET 16|14|OBJ 17|5|PUNCT
+*PAR:	she's dryin(g) the dishes . 69296_70096
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and let's see what else &-uh +... [+ exc] 70290_77390
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Int-S1 adj|else-S1 +...
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|5|AMOD 7|2|PUNCT
+*INV:	okay ? 80840_80930
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	am I missin(g) somethin(g) ? [+ exc] 82754_83394
+%mor:	aux|be-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|miss-Part-Pres-S pron|something-Ind-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	you_know I'm pretty tired . [+ exc] 83724_84164
+%mor:	intj|youknow pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|pretty adj|tired-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	(..) I guess xxx . [+ exc] 92050_92240
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	okay that's +/. 93874_94214
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +/.
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+@End

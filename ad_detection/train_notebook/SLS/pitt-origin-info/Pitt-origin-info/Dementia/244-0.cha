@@ -1,0 +1,94 @@
+@UTF8
+@PID:	11312/t-00002580-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	244-0, audio
+@G:	Cookie
+*INV:	and there it is . 220_1030
+%mor:	cconj|and pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|CC 2|4|EXPL 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	the chair [: stool] [* s:r] is tilting . 1654_7024
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) &-uh (.) lid is off of the cookie jar . 11417_15277
+%mor:	noun|lid aux|be-Fin-Ind-Pres-S3 adp|off adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	cookie <in the> [/] in the left arm of the boy . [+ gram] 17823_19673
+%mor:	noun|cookie adp|in det|the-Def-Art adj|left-S1 noun|arm adp|of det|the-Def-Art noun|boy .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|NMOD 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+*PAR:	his right hand is touchin(g) a cookie in the cookie jar . 21927_25737
+%mor:	pron|his-Prs-Gen-S3 adj|right-S1 noun|hand aux|be-Fin-Ind-Pres-S3 verb|touch-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|5|OBL 12|5|PUNCT
+*PAR:	<one of his foot> [//] one <of his [/] his> [/] of his feet <are a> [//] is a [//] &+ha about a third off o(f) the stool . 29143_34793
+%mor:	num|one adp|of pron|his-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Pres-S3 adv|about det|a-Ind-Art noun|third adp|off adp|of det|the-Def-Art noun|stool .
+%gra:	1|8|NSUBJ 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|8|COP 6|8|ADVMOD 7|8|DET 8|0|ROOT 9|12|CASE 10|12|CASE 11|12|DET 12|8|NMOD 13|8|PUNCT
+*PAR:	he's got short pants and a blouse . 41327_44037
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adj|short-S1 noun|pants-Ptan-Acc cconj|and det|a-Ind-Art noun|blouse .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|3|PUNCT
+*PAR:	<and &-uh it seems> [//] and &-uh (.) look like they're boots instead of shoes . [+ gram] 48023_56143
+%mor:	cconj|and verb|look-Fin-Imp-S sconj|like pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|boot-Plur adv|instead adp|of noun|shoe-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|COP 6|2|ADVCL 7|9|CASE 8|7|FIXED 9|6|OBL 10|2|PUNCT
+*PAR:	<the girl> [/] the girl has a finger to her lips as though to say “quiet” &+th &+w one hand out . 60095_66005
+%mor:	det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|lip-Plur sconj|as adv|though part|to verb|say-Inf-S adj|quiet-S1 num|one noun|hand-Acc adp|out .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|12|MARK 10|9|FIXED 11|12|MARK 12|3|ADVCL 13|15|AMOD 14|15|NUMMOD 15|12|OBJ 16|12|COMPOUND-PRT 17|3|PUNCT
+*PAR:	her left hand is out . 66398_67468
+%mor:	pron|her-Prs-Gen-S3 adj|left-S1 noun|hand aux|be-Fin-Ind-Pres-S3 adv|out .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	she's got short skirt and a blouse , jersey sweater . [+ gram] 69698_73238
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adj|short-S1 noun|skirt-Acc cconj|and det|a-Ind-Art noun|blouse cm|cm noun|jersey noun|sweater .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|11|CC 7|11|DET 8|11|COMPOUND 9|11|PUNCT 10|11|COMPOUND 11|5|CONJ 12|3|PUNCT
+*PAR:	socks , anklets rather . [+ gram] 77788_79628
+%mor:	noun|sock-Plur cm|cm noun|anklet-Plur adv|rather .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	the [//] on [//] I did mention <that the> [/] that the stool was tilting . [+ exc] 82076_87046
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|mention-Inf-S sconj|that det|the-Def-Art noun|stool aux|be-Fin-Ind-Past-S3-irr verb|tilt-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|3|PUNCT
+*PAR:	<the still on [/] on> [//] <the boy that> [//] the boy's standing on the stool <has it> [//] and it's tilting . 89120_92430
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|11|NSUBJ 10|11|AUX 11|4|CONJ 12|4|PUNCT
+*PAR:	I think I mentioned that . [+ exc] 92817_93757
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|mention-Fin-Ind-Past-S1 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+*PAR:	the girl has hair hangin(g) to her neck . 96729_98549
+%mor:	det|the-Def-Art noun|girl verb|have-Fin-Ind-Pres-S3 noun|hair-Acc verb|hang-Ger-S adp|to pron|her-Prs-Gen-S3 noun|neck .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|ACL 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|3|PUNCT
+*PAR:	(.) the boy has <like short> [//] like &-uh hair combed straight back . 103453_107283
+%mor:	det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 intj|like noun|hair-Acc verb|comb-Part-Past-S adv|straight adv|back .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DISCOURSE 5|3|OBJ 6|3|XCOMP 7|8|ADVMOD 8|6|ADVMOD 9|3|PUNCT
+*PAR:	(.) &=laughs the <door is> [//] jar is open <on the> [/] &+cook on the [/] the [/] the cupboard . 114943_119193
+%mor:	det|the-Def-Art noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 adp|on det|the-Def-Art noun|cupboard .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	(.) the mother's dryin(g) the dish <with her left hand> [//] with her right hand holdin(g) it with her left . 122897_128047
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Acc adp|with pron|her-Prs-Gen-S3 adj|right-S1 noun|hand verb|hold-Part-Pres-S pron|it-Prs-Acc-S3 adp|with pron|her-Prs-Gen-S3 noun|left .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|4|OBL 11|4|ADVCL 12|11|OBJ 13|15|CASE 14|15|NMOD-POSS 15|11|OBL 16|4|PUNCT
+*PAR:	(.) she's got an apron over her dress or whatever it may be . 133196_137486
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|apron-Acc adp|over pron|her-Prs-Gen-S3 noun|dress cconj|or pron|whatever-Rel-S1 pron|it-Prs-Nom-S3 aux|may-Fin-S aux|be-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|10|CC 10|8|CONJ 11|13|NSUBJ 12|13|AUX 13|10|ACL-RELCL 14|3|PUNCT
+*PAR:	(.) water spilling out_of the sink . [+ gram] 147056_148556
+%mor:	noun|water noun|spilling-Ger adp|outof det|the-Def-Art noun|sink .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	(.) two cups facin(g) opposite direction . [+ gram] 154483_156333
+%mor:	num|two noun|cup-Plur verb|face-Ger-S adj|opposite-S1 noun|direction-Acc .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|2|ACL 4|5|AMOD 5|3|OBJ 6|2|PUNCT
+*PAR:	(.) one plate to the right of the cups . [+ gram] 162776_164766
+%mor:	num|one noun|plate adp|to det|the-Def-Art noun|right adp|of det|the-Def-Art noun|cup-Plur .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*PAR:	(.) curtains flowing &+w in the breeze of the wind . [+ gram] 173095_176435
+%mor:	noun|curtain-Plur verb|flow-Ger-S adp|in det|the-Def-Art noun|breeze adp|of det|the-Def-Art noun|wind .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+*INV:	(.) okay . 181872_181962
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there still some more but &-uh +... [+ exc] 182819_183829
+%mor:	pron|there-Int-S1 adv|still det|some-Def-Ind adj|more-Cmp-S1 cconj|but +...
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|DET 4|1|NSUBJ 5|4|CC 6|1|PUNCT
+*INV:	that's about everything I think . 184499_185849
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about pron|everything-Tot-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*PAR:	+< oh yeah . [+ exc] 185720_185860
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

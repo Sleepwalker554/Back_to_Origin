@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002338-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	196-1, audio
+@G:	Cookie
+*PAR:	mhm . [+ exc] 710_850
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and there's the picture . 1016_1557
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	&=sighs the little boy is reaching for a cookie . 3033_7163
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and he's falling at the same time because the stool has tipped over . 7183_12873
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|at det|the-Def-Art adj|same-S1 noun|time sconj|because det|the-Def-Art noun|stool aux|have-Fin-Ind-Pres-S3 verb|tip-Part-Past-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|4|ADVCL 14|13|COMPOUND-PRT 15|4|PUNCT
+*PAR:	his little sister is reaching for a cookie and I think beginning to laugh because he's falling . 13358_20338
+%mor:	pron|his-Prs-Gen-S3 adj|little-S1 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 verb|begin-Ger-S part|to verb|laugh-Inf-S sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CC 10|11|NSUBJ 11|5|CONJ 12|11|XCOMP 13|14|MARK 14|12|XCOMP 15|18|MARK 16|18|NSUBJ 17|18|AUX 18|14|ADVCL 19|5|PUNCT
+*PAR:	the sink is running over and dripping water on the floor while the mother is trying to dry the dishes . 21155_28815
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and verb|drip-Part-Pres-S noun|water-Acc adp|on det|the-Def-Art noun|floor sconj|while det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|dry-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|7|OBJ 9|11|CASE 10|11|DET 11|7|OBL 12|16|MARK 13|14|DET 14|16|NSUBJ 15|16|AUX 16|4|ADVCL 17|18|MARK 18|16|XCOMP 19|20|DET 20|18|OBJ 21|4|PUNCT
+*PAR:	&-um the window is open . 30070_33540
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and the curtains are blowing in the breeze coming in from outside . 33561_37981
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S adp|in det|the-Def-Art noun|breeze verb|come-Ger-S adp|in adp|from adv|outside .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|ACL 10|9|COMPOUND-PRT 11|12|CASE 12|9|OBL 13|5|PUNCT
+*PAR:	the water is running in the sink . 40005_42235
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	that's why it's overflowing . 42350_43610
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|ADVCL-RELCL 7|3|PUNCT
+*PAR:	(..) I also believe that the mother is daydreaming (..) possibly worrying about something . 52921_63171
+%mor:	pron|I-Prs-Nom-S1 adv|also verb|believe-Fin-Ind-Pres-S1 sconj|that det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|daydream-Part-Pres-S adv|possibly verb|worry-Part-Pres-S adp|about pron|something-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|10|ADVMOD 10|8|ADVCL 11|12|CASE 12|10|OBL 13|3|PUNCT
+*PAR:	that's it . [+ exc] 65034_65394
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	that's all I see . [+ exc] 65417_66167
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+*INV:	+< okay , good . 66320_66880
+%mor:	intj|okay cm|cm adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+@End

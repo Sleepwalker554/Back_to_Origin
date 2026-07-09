@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002453-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|Memory||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	039-0, audio
+@G:	Cookie
+*INV:	okay you can begin . 30_820
+%mor:	intj|okay pron|you-Prs-Nom-S2 aux|can-Fin-S verb|begin-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	okay we see &-um first of all &-uh the sink is overflowing . 2371_8351
+%mor:	intj|okay pron|we-Prs-Nom-P1 verb|see-Fin-Ind-Pres-P1 adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CASE 6|8|DET-PREDET 7|8|DET 8|10|NSUBJ 9|10|COP 10|3|CCOMP 11|3|PUNCT
+*PAR:	water cascading down the &-uh kitchen cabinet onto the floor . [+ gram] 9604_15344
+%mor:	noun|water verb|cascade-Ger-S adp|down det|the-Def-Art noun|kitchen noun|cabinet adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|9|CASE 8|9|DET 9|2|OBL 10|2|PUNCT
+*PAR:	&-uh the lady in the picture is drying a dish . 16471_21351
+%mor:	det|the-Def-Art noun|lady adp|in det|the-Def-Art noun|picture aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*PAR:	&-uh there is a young man on a stool . 24669_30209
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|man adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*PAR:	an(d) he's [//] the stool is being tipped over . 30892_33062
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S verb|tip-Part-Past-S adp|over .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ-PASS 4|6|AUX 5|6|AUX-PASS 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*PAR:	he's reaching for a cookie jar . 33112_35242
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	&-uh the lid is off the jar an(d) it looks like he's going to try to hand a cookie down to his little sister . 35936_43836
+%mor:	det|the-Def-Art noun|lid aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|jar cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|try-Inf-S part|to verb|hand-Inf-S det|a-Ind-Art noun|cookie-Acc adp|down adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|sister .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|9|CC 8|9|EXPL 9|6|CONJ 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|9|ADVCL 14|15|MARK 15|13|XCOMP 16|17|MARK 17|15|XCOMP 18|19|DET 19|17|OBJ 20|17|COMPOUND-PRT 21|24|CASE 22|24|NMOD-POSS 23|24|AMOD 24|17|OBL 25|6|PUNCT
+*PAR:	and &-uh looks like he might make it before he hits the floor . 47632_52482
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3 aux|might-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 sconj|before pron|he-Prs-Nom-S3 verb|hit-Fin-Ind-Pres-S3 det|the-Def-Art noun|floor-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|6|OBJ 8|10|MARK 9|10|NSUBJ 10|6|ADVCL 11|12|DET 12|10|OBJ 13|2|PUNCT
+*INV:	anything else ? 54222_54922
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	I don't think so . [+ exc] 64354_65254
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S adv|so .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*INV:	okay good . 65872_66352
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

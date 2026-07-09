@@ -1,0 +1,112 @@
+@UTF8
+@PID:	11312/t-00002615-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|76;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	329-0, audio
+@G:	Cookie
+*PAR:	let's go . [+ exc] 1330_1720
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*INV:	you can go . 2134_2724
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|go-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	just tell you what the &-uh +/. [+ exc] 3477_4527
+%mor:	adv|just verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 det|what-Def-Int det|the-Def-Art +/.
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|5|DET 5|2|PUNCT 6|2|PUNCT
+*PAR:	&*INV:right is that it ? 4714_5154
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	(.) you ready ? [+ exc] 8668_8968
+%mor:	pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	mhm . 9258_9668
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I don't know what you mean by everything going on . [+ exc] 11149_13239
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adp|by pron|everything-Tot-S1 verb|go-Ger-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|9|ACL 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	the kid's snitchin(g) the cookies . 13300_14780
+%mor:	det|the-Def-Art noun|kid~part|s verb|snitch-Part-Pres-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|CASE 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	okay . 14804_15014
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the little girl I think is tellin(g) the little boy to be quiet because she's got her finger up to her &*INV:okay mouth . 16558_24678
+%mor:	det|the-Def-Art adj|little-S1 noun|girl pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S det|the-Def-Art adj|little-S1 noun|boy part|to aux|be-Inf-S adj|quiet-S1 sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|7|COP 7|0|ROOT 8|10|DET 9|10|AMOD 10|7|IOBJ 11|13|MARK 12|13|COP 13|7|XCOMP 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|7|ADVCL 18|19|NMOD-POSS 19|17|OBJ 20|17|COMPOUND-PRT 21|23|CASE 22|23|NMOD-POSS 23|17|OBL 24|7|PUNCT
+*PAR:	mommy's kinda [: kind_of] sloppy with the dishwater &=laughs . 26870_29340
+%mor:	propn|mommy~part|s noun|kindof adj|sloppy-S1 adp|with det|the-Def-Art noun|dishwater .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|0|ROOT 4|3|AMOD 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+*PAR:	it's running out_of the sink . 31517_32987
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	two cups , a saucer , plate . [+ gram] 36585_37665
+%mor:	num|two noun|cup-Plur cm|cm det|a-Ind-Art noun|saucer cm|cm noun|plate .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|5|PUNCT 4|5|DET 5|2|CONJ 6|7|PUNCT 7|2|APPOS 8|2|PUNCT
+*PAR:	(.) &=whistles (...) the mommy's standing in the water . 50588_52258
+%mor:	det|the-Def-Art noun|mommy~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	<is that the> [//] is one of the things you want ? [+ exc] 54683_57663
+%mor:	aux|be-Fin-Ind-Pres-S3 num|one adp|of det|the-Def-Art noun|thing-Plur pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 ?
+%gra:	1|2|COP 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|7|NSUBJ 7|5|ACL-RELCL 8|2|PUNCT
+*INV:	mhm . 57755_58265
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	anything you find , oh okay . [+ exc] 58704_60454
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|find-Fin-Ind-Pres-S2 cm|cm intj|oh intj|okay .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|PUNCT 5|6|DISCOURSE 6|1|DISCOURSE 7|1|PUNCT
+*PAR:	the kid's just about ready to let go there and &+s fall on his back or his head (.) off the ladder [: stool] [* s:r] . 61745_69895
+%mor:	det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 adv|just adv|about adj|ready-S1 part|to verb|let-Inf-S verb|go-Inf-S adv|there cconj|and verb|fall-Inf-S adp|on pron|his-Prs-Gen-S3 noun|back cconj|or pron|his-Prs-Gen-S3 noun|head adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|XCOMP 10|9|ADVMOD 11|12|CC 12|9|CONJ 13|15|CASE 14|15|NMOD-POSS 15|12|OBL 16|18|CC 17|18|NMOD-POSS 18|15|CONJ 19|21|CASE 20|21|DET 21|12|OBL 22|6|PUNCT
+*PAR:	(..) &-hm (.) the little girl looks okay but reachin(g) up for the cookie . 70397_85717
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|look-Fin-Ind-Pres-S3 adj|okay-S1 cconj|but verb|reach-Part-Pres-S adp|up adp|for det|the-Def-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|7|CC 7|4|CONJ 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|4|PUNCT
+*PAR:	is that what you wanna know ? [+ exc] 87164_88074
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|know-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|3|PUNCT
+*PAR:	like reaching up for the cookie &*INV:mhm or somethin(g) ? [+ exc] 88208_90158
+%mor:	sconj|like verb|reach-Part-Pres-S adp|up adp|for det|the-Def-Art noun|cookie cconj|or pron|something-Ind-S1 ?
+%gra:	1|2|MARK 2|0|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|8|CC 8|6|CONJ 9|2|PUNCT
+*PAR:	oh okay . [+ exc] 90256_90596
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	reachin(g) up for the cookie &*INV:anything_else that the kid brother is donating to her cause . 90650_96210
+%mor:	verb|reach-Part-Pres-S adp|up adp|for det|the-Def-Art noun|cookie sconj|that det|the-Def-Art noun|kid noun|brother aux|be-Fin-Ind-Pres-S3 verb|donate-Part-Pres-S adp|to pron|her-Prs-Gen-S3 noun|cause .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|11|MARK 7|9|DET 8|9|COMPOUND 9|11|NSUBJ 10|11|AUX 11|5|ACL 12|14|CASE 13|14|NMOD-POSS 14|11|OBL 15|1|PUNCT
+*PAR:	&-uh I did say the sink's overflowing „ didn't I ? [+ exc] 99517_101867
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S det|the-Def-Art noun|sink~part|s noun|overflow-Ger punct|„ aux|do-Fin-Ind-Past-S3-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|9|NSUBJ 8|9|PUNCT 9|3|CCOMP 10|9|ADVMOD 11|9|OBJ 12|3|PUNCT
+*INV:	okay . 102301_102481
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &-hm &-hm (..) I don't see much more than that &*INV:okay other_than the kid's falling off of a stool . 103037_117237
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S adv|much adj|more-Cmp-S1 adp|than det|that-Def-Dem-Sing noun|otherthan det|the-Def-Art noun|kid~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of det|a-Ind-Art noun|stool .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|ADVMOD 6|4|OBJ 7|9|CASE 8|9|DET 9|6|OBL 10|11|DET 11|13|NSUBJ 12|13|AUX 13|9|ACL-RELCL 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|4|PUNCT
+*PAR:	he's &-uh getting into the cookie jar which he hadn't oughta do . 117257_121397
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar pron|which-Rel-S1 pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr~part|not part|oughta verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|13|OBJ 9|13|NSUBJ 10|13|AUX 11|13|ADVMOD 12|13|ADVMOD 13|7|ACL-RELCL 14|3|PUNCT
+*PAR:	well ‡ maybe he could . [+ exc] 121723_122573
+%mor:	intj|well punct|‡ adv|maybe pron|he-Prs-Nom-S3 aux|could-Fin-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	that's alright . [+ exc] 122634_123124
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|alright-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	I've done it myself . [+ exc] 123300_124230
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|do-Part-Past-S-irr pron|it-Prs-Acc-S3 pron|myself-Prs-Acc-reflx-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBL-UNMARKED 6|3|PUNCT
+*INV:	+< okay . 125638_125708
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's good . 126054_126384
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	+< it's this one here ? [+ exc] 126453_127113
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|one adv|here ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	just like me „ yeah . [+ exc] 127624_128314
+%mor:	adv|just adp|like pron|I-Prs-Acc-S1 punct|„ intj|yeah .
+%gra:	1|3|ADVMOD 2|3|CASE 3|0|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+@End

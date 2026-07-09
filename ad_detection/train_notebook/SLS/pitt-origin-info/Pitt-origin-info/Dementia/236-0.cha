@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/t-00002576-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|PossibleAD||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	236-0, audio
+@G:	Cookie
+*INV:	here you go . 780_1710
+%mor:	adv|here pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*INV:	what do you see going on in that picture ? 1729_3489
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|4|PUNCT
+*PAR:	well ‡ the children are enjoying it and the mother is [/] &-um is &+wa drying the dishes . 4531_8951
+%mor:	intj|well punct|‡ det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|enjoy-Part-Pres-S pron|it-Prs-Acc-S3 cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|12|CC 9|10|DET 10|12|NSUBJ 11|12|AUX 12|6|CONJ 13|14|DET 14|12|OBJ 15|6|PUNCT
+*PAR:	(.) and the little boy is about to &+f fall <if he does not too> [//] &+caif he's not careful . 15446_19466
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|careful-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|8|CCOMP 13|6|PUNCT
+*INV:	(..) anything else ? 29864_30704
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	no that's all . [+ exc] 32017_32616
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	do you see any more action going on in that picture ? 33323_35693
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|any-Def-Ind adj|more-Cmp-S1 noun|action-Acc verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*PAR:	oh ‡ dishwashing . [+ gram] 35745_36545
+%mor:	intj|oh punct|‡ noun|dishwashing-Ger .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*PAR:	and the little boy is trying to get something out_of a box [: jar] [* s:r] . 41012_44562
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S pron|something-Ind-S1 adp|outof det|a-Ind-Art noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|6|PUNCT
+*PAR:	imagine it's a <cookie box [: jar] [* s:r]> [//] cookie &-um +... 44930_47930
+%mor:	verb|imagine-Fin-Imp-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie +...
+%gra:	1|0|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|CCOMP 6|1|PUNCT
+*PAR:	<and the> [/] and the stool it hasn't &+tur &-uh &+t &-um turned yet but the way he has it on two legs it won't be much longer . 51531_64671
+%mor:	cconj|and det|the-Def-Art noun|stool pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not verb|turn-Part-Past-S adv|yet cconj|but det|the-Def-Art noun|way pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adp|on num|two noun|leg-Plur pron|it-Prs-Nom-S3 aux|will-Fin-S~part|not aux|be-Inf-S adv|much adj|long-Cmp-S1 .
+%gra:	1|23|CC 2|3|DET 3|23|NSUBJ 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|7|ADVMOD 9|23|CC 10|11|DET 11|23|OBL-UNMARKED 12|13|NSUBJ 13|11|ACL-RELCL 14|13|OBJ 15|17|CASE 16|17|NUMMOD 17|13|OBL 18|23|NSUBJ 19|23|AUX 20|23|ADVMOD 21|23|COP 22|23|ADVMOD 23|0|ROOT 24|23|PUNCT
+*INV:	(.) anything else ? 69105_70035
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	&-uh that's all . [+ exc] 70651_72301
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	he's reaching <for the> [/] for the cookie jar or xxx . 72350_77600
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar cconj|or .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|CONJ 9|3|PUNCT
+*INV:	do you see anything going on over here ? 82332_85682
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 verb|go-Ger-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|ACL 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|3|PUNCT
+*PAR:	dishwashing . [+ gram] 86870_87520
+%mor:	noun|dishwashing-Ger .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 88730_88900
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	evidently they hafta dry them now (.) their &-um dishes there &+th wash them . [+ gram] 90203_96583
+%mor:	adv|evidently pron|they-Prs-Nom-P3 aux|hafta-Fin-Ind-Pres-P3 verb|dry-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 adv|now pron|their-Prs-Gen-P3 noun|dish-Plur-Acc adv|there verb|wash-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|8|NMOD-POSS 8|4|OBJ 9|10|ADVMOD 10|4|PARATAXIS 11|10|OBJ 12|4|PUNCT
+*INV:	anything else ? 104752_105422
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	no ‡ I don't think so . [+ exc] 106748_107528
+%mor:	intj|no punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S adv|so .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|ADVMOD 8|6|PUNCT
+*INV:	okay ‡ alright . 108060_109840
+%mor:	intj|okay x|‡ intj|alright .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

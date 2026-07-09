@@ -1,0 +1,85 @@
+@UTF8
+@PID:	11312/t-00002404-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	323-0, audio
+@G:	Cookie
+*INV:	good and there's the picture . 320_2029
+%mor:	adj|good-S1 cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|4|CC 3|4|EXPL 4|1|CONJ 5|6|DET 6|4|NSUBJ 7|1|PUNCT
+*PAR:	(..) first of all the sink is overflowing . 3969_9379
+%mor:	adj|first-S1 adp|of det|all-Def-Tot det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|7|NSUBJ 2|3|CASE 3|5|DET-PREDET 4|5|DET 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|PUNCT
+*PAR:	(.) mother is washing dishes or an adult is washing dishes . 12376_16506
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|or det|a-Ind-Art noun|adult aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|CC 6|7|DET 7|4|CONJ 8|9|AUX 9|10|AMOD 10|3|OBJ 11|3|PUNCT
+*PAR:	there are two children in the cookie jar . 16961_19681
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|child-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|2|PUNCT
+*PAR:	one of (th)em is on a stool . 20138_21468
+%mor:	num|one adp|of pron|they-Prs-Acc-P3 aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool .
+%gra:	1|7|NSUBJ 2|3|CASE 3|1|NMOD 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	and the stool's overturning . 21825_23435
+%mor:	cconj|and det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 verb|overturning-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	the little girl is reaching for a cookie from the little boy as the &+s &+s stool turn [//] falls over . 24629_32339
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie adp|from det|the-Def-Art adj|little-S1 noun|boy sconj|as det|the-Def-Art noun|stool verb|fall-Fin-Ind-Pres-S3 adv|over .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|NMOD 13|16|MARK 14|15|DET 15|16|NSUBJ 16|5|ADVCL 17|16|ADVMOD 18|5|PUNCT
+*PAR:	there's a window . 33197_34227
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	a::nd the bushes and path outside the window . [+ gram] 35744_39944
+%mor:	cconj|and det|the-Def-Art noun|bush-Plur cconj|and noun|path adp|outside det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|3|NMOD 9|3|PUNCT
+*PAR:	and a glimpse of another window . [+ gram] 40615_42265
+%mor:	cconj|and det|a-Ind-Art noun|glimpse adp|of det|another-Def-Ind noun|window .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	and another part of the house . [+ gram] 44020_45460
+%mor:	cconj|and det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	there are curtains with tie-backs . 45515_46765
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|with noun|tie–back-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+*PAR:	there are dishes . 47394_48394
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|dish-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|PUNCT
+*PAR:	(.) <there is dish towels> [//] (.) there are dish towels . 50368_53618
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|dish noun|towel-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|COMPOUND 4|2|NSUBJ 5|2|PUNCT
+*PAR:	&-um (.) well maybe there are [* m:a] only one . [+ gram] 55303_60333
+%mor:	intj|well adv|maybe pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|only num|one .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|ADVMOD 6|4|NSUBJ 7|4|PUNCT
+*PAR:	there's at least only one dish towel . 60378_61988
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adp|at adj|least-Sup-S1 adv|only num|one noun|dish noun|towel .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|CASE 4|6|NMOD 5|6|ADVMOD 6|8|NUMMOD 7|8|COMPOUND 8|2|NSUBJ 9|2|PUNCT
+*PAR:	<I thought I> [//] &+s I looked at one dish towel . [+ exc] 62009_64119
+%mor:	pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Past-S1 adp|at num|one noun|dish noun|towel .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|NUMMOD 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*PAR:	two cups a plate cabinets . [+ gram] 65535_68395
+%mor:	num|two noun|cup-Plur det|a-Ind-Art noun|plate noun|cabinet-Plur .
+%gra:	1|2|NUMMOD 2|5|NMOD-UNMARKED 3|5|DET 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*PAR:	(.) apron . [+ gram] 72122_72612
+%mor:	noun|apron .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) glass and trees . [+ gram] 78496_79556
+%mor:	noun|glass cconj|and noun|tree-Plur .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*PAR:	I don't think I can xxx +... [+ exc] 79849_80809
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|I-Prs-Nom-S1 aux|can-Fin-S +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*PAR:	floor . [+ gram] 82042_82492
+%mor:	noun|floor .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) counter space . [+ gram] 86543_87203
+%mor:	noun|counter noun|space .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	(...) okay good . 95321_97561
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	+< did I xxx +... [+ exc] 97904_98114
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 +...
+%gra:	1|0|ROOT 2|1|NSUBJ 3|1|PUNCT
+@End

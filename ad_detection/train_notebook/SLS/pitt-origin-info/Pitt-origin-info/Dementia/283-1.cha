@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002604-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|62;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	283-1, audio
+@G:	Cookie
+*INV:	can you tell me what's going on in the picture ? 0_1680
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|3|PUNCT
+*PAR:	oh sure . [+ exc] 1813_2413
+%mor:	intj|oh adj|sure-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	the little girl's standing in the kitchen . 2433_4143
+%mor:	det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*PAR:	and then the little boy steps on a [/] &-uh a chair [: stool] [* s:r] to get some cookies . 4190_10670
+%mor:	cconj|and adv|then det|the-Def-Art adj|little-S1 noun|boy noun|step-Plur adp|on det|a-Ind-Art noun|stool part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|DET 4|5|AMOD 5|6|COMPOUND 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|11|MARK 11|6|ACL 12|13|DET 13|11|OBJ 14|6|PUNCT
+*PAR:	and he's about to fall down . 10720_12280
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|down .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|4|PUNCT
+*PAR:	and his mother isn't aware of it yet . 13094_14994
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3~part|not adj|aware-S1 adp|of pron|it-Prs-Acc-S3 adv|yet .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|ADVMOD 10|6|PUNCT
+*PAR:	she's still washing dishes . 15480_16950
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and then the sink ran over I guess when she got excited . 17837_21187
+%mor:	cconj|and adv|then det|the-Def-Art noun|sink verb|run-Fin-Ind-Past-S3-irr adp|over pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|when pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr verb|excite-Part-Past-S .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|0|ROOT 6|5|COMPOUND-PRT 7|8|NSUBJ 8|5|PARATAXIS 9|11|ADVMOD 10|11|NSUBJ 11|8|ADVCL 12|11|XCOMP 13|5|PUNCT
+*PAR:	and it's going down <on a> [//] on the &+s floor in the kitchen . 21981_26131
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|down adp|on det|the-Def-Art noun|floor adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|11|CASE 10|11|DET 11|4|OBL 12|4|PUNCT
+*PAR:	and she's trying to dry the dishes . 26960_29430
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|dry-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*PAR:	and she's just standing there . 29450_30910
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|stand-Part-Pres-S adv|there .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	she still has dishes to go I guess . 32023_33743
+%mor:	pron|she-Prs-Nom-S3 adv|still verb|have-Fin-Ind-Pres-S3 noun|dish-Plur-Acc part|to verb|go-Inf-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|MARK 6|4|ACL 7|8|NSUBJ 8|3|PARATAXIS 9|3|PUNCT
+*PAR:	and this little boy is about to fall . 34405_36005
+%mor:	cconj|and det|this-Def-Dem-Sing adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|6|PUNCT
+*PAR:	and this little girl is smiling at him because he's going for the cookies in the cookie jar &=laughs . 36050_41370
+%mor:	cconj|and det|this-Def-Dem-Sing adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|smile-Part-Pres-S adp|at pron|he-Prs-Acc-S3 sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|CASE 8|6|OBL 9|12|MARK 10|12|NSUBJ 11|12|AUX 12|6|ADVCL 13|15|CASE 14|15|DET 15|12|OBL 16|19|CASE 17|19|DET 18|19|COMPOUND 19|12|OBL 20|6|PUNCT
+*INV:	okay good thank_you . 43379_44349
+%mor:	intj|okay adj|good-S1 noun|thankyou .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|0|ROOT 4|3|PUNCT
+@End

@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002394-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|male|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	298-1, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture and tell me everything that you see going on that [//] in that picture . 680_5840
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|12|CC 12|2|CONJ 13|12|IOBJ 14|12|OBJ 15|18|OBJ 16|17|NSUBJ 17|14|ACL-RELCL 18|17|XCOMP 19|18|COMPOUND-PRT 20|22|CASE 21|22|DET 22|18|OBL 23|2|PUNCT
+*INV:	everything you see happening there . 5982_7752
+%mor:	pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|there .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|ACL 5|4|ADVMOD 6|1|PUNCT
+*PAR:	okay . [+ exc] 8138_8229
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is standing up trying to get the cookie jar and the &-uh stool is falling . 8300_15260
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|up verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVCL 7|8|MARK 8|6|XCOMP 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|16|CC 13|14|DET 14|16|NSUBJ 15|16|AUX 16|4|CONJ 17|4|PUNCT
+*PAR:	the girl is reaching up to get a cookie out_of his hand . 15634_18074
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up part|to verb|get-Inf-S det|a-Ind-Art noun|cookie noun|outof-Acc pron|his-Prs-Gen-S3 noun|hand-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|MARK 7|4|ADVCL 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|12|NMOD-POSS 12|7|OBJ 13|4|PUNCT
+*PAR:	the mother is at the window washing dishes . 19206_21096
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|window noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|8|NSUBJ 3|8|COP 4|8|CASE 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*PAR:	the sink is overflowing on [//] getting on her shoes . 21362_23612
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S verb|get-Part-Pres-S adp|on pron|her-Prs-Gen-S3 noun|shoe-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|4|PUNCT
+*PAR:	and there are saucers and a plate on the +... 24919_28119
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|saucer-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art +...
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*PAR:	oh ‡ you wanna know what is going on ? [+ exc] 28520_29520
+%mor:	intj|oh punct|‡ pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|know-Inf-S pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|OBJ 8|9|AUX 9|6|CCOMP 10|9|COMPOUND-PRT 11|4|PUNCT
+*PAR:	you want me to tell you what's on the &-uh sink too and everything ? [+ exc] 31124_33404
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|sink adv|too cconj|and pron|everything-Tot-S1 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|11|NSUBJ 8|11|COP 9|11|CASE 10|11|DET 11|5|CCOMP 12|11|ADVMOD 13|14|CC 14|11|CONJ 15|2|PUNCT
+*INV:	whatever you see happening . 33697_35677
+%mor:	pron|whatever-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|1|PUNCT
+*PAR:	+< oh . [+ exc] 35430_35750
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well <that is> [//] that's all I see happening plus stuff going outside . [+ exc] 36351_40651
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 verb|happen-Ger-S cconj|plus noun|stuff verb|go-Ger-S adv|outside .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|9|CC 9|7|CONJ 10|7|CONJ 11|10|ADVMOD 12|4|PUNCT
+*INV:	okay . 41192_41312
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good thanks . 41884_42524
+%mor:	adj|good-S1 noun|thanks .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

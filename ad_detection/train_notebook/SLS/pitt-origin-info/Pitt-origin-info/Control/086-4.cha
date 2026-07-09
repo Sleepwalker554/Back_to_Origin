@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/t-00002242-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	086-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay . 190_570
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	picture . 914_1454
+%mor:	noun|picture .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc] 1968_2538
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-um a boy's standing on a stool getting a cookie out_of the cookie jar . 3033_8583
+%mor:	det|a-Ind-Art noun|boy~part|s verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool verb|get-Ger-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|7|ACL 9|11|DET 10|11|COMPOUND 11|8|OBJ 12|14|DET 13|14|COMPOUND 14|8|OBJ 15|4|PUNCT
+*PAR:	an(d) the stool is tipping over . 8829_10319
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	his sister is reaching up <asking him> [//] she's asking for another cookie and he's handing it down to her . 10822_17032
+%mor:	pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|another-Def-Ind noun|cookie cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|it-Prs-Acc-S3 adp|down adp|to pron|her-Prs-Acc-S3 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|15|CC 13|15|NSUBJ 14|15|AUX 15|4|CONJ 16|15|OBJ 17|15|COMPOUND-PRT 18|19|CASE 19|15|OBL 20|4|PUNCT
+*PAR:	and he has one in his left hand for her and one in his right hand for himself except he's gonna fall down first . 17050_22390
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand adp|for pron|her-Prs-Acc-S3 cconj|and num|one adp|in pron|his-Prs-Gen-S3 adj|right-S1 noun|hand adp|for pron|himself-Prs-Acc-reflx-S3 sconj|except pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|down adv|first .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|3|OBL 9|10|CASE 10|3|OBL 11|12|CC 12|4|CONJ 13|16|CASE 14|16|NMOD-POSS 15|16|AMOD 16|12|NMOD 17|18|CASE 18|16|NMOD 19|22|MARK 20|22|NSUBJ 21|22|AUX 22|3|ADVCL 23|24|MARK 24|22|XCOMP 25|24|COMPOUND-PRT 26|24|ADVMOD 27|3|PUNCT
+*PAR:	&-um the lid's off the cookie jar . 23407_26657
+%mor:	det|the-Def-Art noun|lid~aux|be-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	the mother's washing [//] drying [//] &-um she's washing dishes . 27160_30030
+%mor:	det|the-Def-Art noun|mother~part|s pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	she's drying a plate . 30045_31435
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	somehow or [//] she's gotten bemused and let the sink run over . 31929_34979
+%mor:	adv|somehow pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr verb|bemuse-Part-Past-S cconj|and verb|let-Inf-S det|the-Def-Art noun|sink-Acc verb|run-Inf-S adp|over .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|7|CC 7|4|CONJ 8|9|DET 9|7|OBJ 10|7|XCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	the water's flowing into the sink . 35000_36870
+%mor:	det|the-Def-Art noun|water~part|s verb|flow-Part-Pres-S adp|into det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	there are two cups and a plate on the counter . 37215_39905
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|NUMMOD 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|2|PUNCT
+*PAR:	the window is open . 40753_42153
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and &-um it must be &-uh summer or you_know maybe autumn (be)cause there are bushes and trees and things and they have leaves on . 43312_54672
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S noun|summer cconj|or noun|youknow adv|maybe noun|autumn sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|bush-Plur cconj|and noun|tree-Plur cconj|and noun|thing-Plur cconj|and pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 noun|leave-Plur-Acc adp|on .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|COP 5|0|ROOT 6|7|CC 7|5|CONJ 8|9|ADVMOD 9|5|CONJ 10|12|MARK 11|12|EXPL 12|5|ADVCL 13|12|NSUBJ 14|15|CC 15|13|CONJ 16|17|CC 17|13|CONJ 18|20|CC 19|20|NSUBJ 20|5|CONJ 21|20|OBJ 22|20|ADVMOD 23|5|PUNCT
+*PAR:	and &-um it's in kitchen . 56142_57902
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in noun|kitchen .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	that's about +//. [+ exc] 59261_59741
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about +//.
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh &+m oh the mother has on a dress that's just about comes to her knees . 59764_64244
+%mor:	intj|oh det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|dress pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|just adv|about verb|come-Fin-Ind-Pres-S3 adp|to pron|her-Prs-Gen-S3 noun|knee-Plur .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|NSUBJ 9|12|AUX 10|12|ADVMOD 11|12|ADVMOD 12|7|ACL-RELCL 13|15|CASE 14|15|NMOD-POSS 15|12|OBL 16|4|PUNCT
+*PAR:	she has an apron and &-uh a sleeveless dress . 64327_69097
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc cconj|and det|a-Ind-Art adj|sleeveless-S1 noun|dress .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|CC 6|8|DET 7|8|AMOD 8|4|CONJ 9|2|PUNCT
+*PAR:	&-um little girl's in a miniskirt and the boy is in shorts . 71715_75745
+%mor:	adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|miniskirt cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|in noun|short-Plur .
+%gra:	1|2|AMOD 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|12|CC 8|9|DET 9|12|NSUBJ 10|12|COP 11|12|CASE 12|6|CONJ 13|6|PUNCT
+*PAR:	that's about it . [+ exc] 78269_78869
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	xxx .
+@End

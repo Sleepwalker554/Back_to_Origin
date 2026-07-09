@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002687-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|83;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	563-0, audio
+@G:	Cookie
+*INV:	one more thing and then we're done with this testing . 1350_3980
+%mor:	num|one adj|more-Cmp-S1 noun|thing-Ger cconj|and adv|then pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|done-S1 adp|with det|this-Def-Dem-Sing noun|testing-Ger .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|0|ROOT 4|8|CC 5|8|ADVMOD 6|8|NSUBJ 7|8|COP 8|3|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+*INV:	and I'm sure you're glad to hear that . 4100_6080
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|glad-S1 part|to verb|hear-Inf-S pron|that-Dem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|4|PUNCT
+*PAR:	oh ‡ I don't mind it . [+ exc] 6459_7259
+%mor:	intj|oh punct|‡ pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|mind-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*INV:	what I want you to do is take a look at this picture . 7501_10291
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|10|NMOD 14|8|PUNCT
+*INV:	I want you to tell me everything that you see happening in that picture . 11204_15134
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|11|OBJ 9|10|NSUBJ 10|7|ACL-RELCL 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|2|PUNCT
+*INV:	I want you to tell me everything that's going on in there . 15917_18307
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|13|CASE 13|10|OBL 14|2|PUNCT
+*PAR:	the lady's a lousy dishwasher (be)cause her xxx is all over the floor &=laughs . 18850_22650
+%mor:	det|the-Def-Art noun|lady~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|lousy-S1 noun|dishwasher sconj|because pron|her-Prs-Acc-S3 aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|13|MARK 8|13|NSUBJ 9|13|COP 10|13|ADVMOD 11|13|CASE 12|13|DET 13|6|ADVCL 14|6|PUNCT
+*PAR:	I never do that do you ? [+ exc] 25226_26556
+%mor:	pron|I-Prs-Nom-S1 adv|never verb|do-Fin-Ind-Pres-S1 pron|that-Dem aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|PARATAXIS 6|3|PARATAXIS 7|3|PUNCT
+*INV:	no . 26750_27060
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&=laughs and the boy is falling off of a stool stealing a cookie from the cookie jar . 28482_34982
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off adp|of det|a-Ind-Art noun|stool verb|steal-Ger-S det|a-Ind-Art noun|cookie-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|CASE 8|9|DET 9|5|OBL 10|9|ACL 11|12|DET 12|10|OBJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBL 17|5|PUNCT
+*PAR:	and what else ? [+ exc] 36240_37090
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	and he's going to get hurt when the chair [: stool] [* s:r] &+fa &-uh tips over . 41380_46580
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|get-Inf-S verb|hurt-Part-Past-S-irr adv|when det|the-Def-Art noun|stool verb|tip-Fin-Ind-Pres-S3 adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|11|ADVMOD 9|10|DET 10|11|NSUBJ 11|6|ADVCL 12|11|COMPOUND-PRT 13|4|PUNCT
+*PAR:	and what else ? [+ exc] 49471_50391
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	(.) the little girl is asking for a cookie . 57053_60603
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	the &+ma mother is doin(g) dishes . 63633_65803
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the water's runnin(g) out_o(f) the sink all over the floor &=laughs . 66267_69347
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|run-Part-Pres-S adp|outof det|the-Def-Art noun|sink-Acc adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBJ 9|12|ADVMOD 10|12|CASE 11|12|DET 12|8|NMOD 13|5|PUNCT
+*PAR:	some dishwasher &=laughs . [+ exc] 71170_72660
+%mor:	det|some-Def-Ind noun|dishwasher .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	good . 74446_74686
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's good . [+ exc] 74992_75432
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	alrightie we're all done . 76369_77699
+%mor:	intj|alrightie pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|all verb|do-Part-Past-S-irr .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+@End

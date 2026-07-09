@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/t-00002446-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|MCI||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	033-0, audio
+@G:	Cookie
+*INV:	and there it is . 500_1410
+%mor:	cconj|and pron|there-Int-S1 pron|it-Prs-Nom-S3 verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|CC 2|4|EXPL 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	okay . [+ exc] 2289_3269
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	apparently a mother and a daughter and a son are in the kitchen . 3776_7916
+%mor:	adv|apparently det|a-Ind-Art noun|mother cconj|and det|a-Ind-Art noun|daughter cconj|and det|a-Ind-Art noun|son aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|13|ADVMOD 2|3|DET 3|13|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|CC 8|9|DET 9|3|CONJ 10|13|COP 11|13|CASE 12|13|DET 13|0|ROOT 14|13|PUNCT
+*PAR:	and the son is standing on the stool which is tilting . 8159_11659
+%mor:	cconj|and det|the-Def-Art noun|son aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|the-Def-Art noun|stool pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|NSUBJ 10|11|AUX 11|8|ACL-RELCL 12|5|PUNCT
+*PAR:	and he has his hand in the cookie jar and handing one cookie to his sister . [+ gram] 12579_17719
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar cconj|and verb|hand-Part-Pres-S num|one noun|cookie-Acc adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|11|CC 11|3|CONJ 12|13|NUMMOD 13|11|OBJ 14|16|CASE 15|16|NMOD-POSS 16|11|OBL 17|3|PUNCT
+*PAR:	&-uh at the same time the mother is &-uh doing dishes and apparently looking out the windo(w) because &-uh she has &-uh allowed the sink to run over and it's &-uh &-uh cascading onto the floor and her feet . 17743_33763
+%mor:	adp|at det|the-Def-Art adj|same-S1 noun|time det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc cconj|and adv|apparently verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc sconj|because pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|allow-Part-Past-S det|the-Def-Art noun|sink-Acc part|to verb|run-Inf-S adp|over cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|cascade-Part-Pres-S adp|onto det|the-Def-Art noun|floor cconj|and pron|her-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|8|OBL 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|OBJ 10|12|CC 11|12|ADVMOD 12|8|CONJ 13|12|COMPOUND-PRT 14|15|DET 15|12|OBJ 16|19|MARK 17|19|NSUBJ 18|19|AUX 19|8|ADVCL 20|21|DET 21|19|OBJ 22|23|MARK 23|19|XCOMP 24|23|COMPOUND-PRT 25|28|CC 26|28|NSUBJ 27|28|AUX 28|19|CONJ 29|31|CASE 30|31|DET 31|28|OBL 32|34|CC 33|34|NMOD-POSS 34|31|CONJ 35|8|PUNCT
+*PAR:	&-uh she has [/] &-uh (.) has &-uh dried a few dishes &-uh two cups and a plate and is &-uh attempting to dry another plate now . 34573_44103
+%mor:	pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|dry-Part-Past-S det|a-Ind-Art adj|few-S1 noun|dish-Plur-Acc num|two noun|cup-Plur-Acc cconj|and det|a-Ind-Art noun|plate cconj|and aux|be-Fin-Ind-Pres-S3 verb|attempt-Part-Pres-S part|to verb|dry-Inf-S det|another-Def-Ind noun|plate-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|8|NUMMOD 8|3|OBJ 9|11|CC 10|11|DET 11|8|CONJ 12|14|CC 13|14|AUX 14|3|CONJ 15|16|MARK 16|14|XCOMP 17|18|DET 18|16|OBJ 19|16|ADVMOD 20|3|PUNCT
+*PAR:	and she's looking out into the yard which I could see the driveway and maybe the end of the house or the garage with a_lot_of shrubbery around it . 44705_53005
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out adp|into det|the-Def-Art noun|yard pron|which-Rel-S1 pron|I-Prs-Nom-S1 aux|could-Fin-S verb|see-Inf-S det|the-Def-Art noun|driveway-Acc cconj|and adv|maybe det|the-Def-Art noun|end adp|of det|the-Def-Art noun|house cconj|or det|the-Def-Art noun|garage adp|with noun|alotof noun|shrubbery adp|around pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|12|OBJ 10|12|NSUBJ 11|12|AUX 12|8|ACL-RELCL 13|14|DET 14|12|OBJ 15|18|CC 16|18|ADVMOD 17|18|DET 18|14|CONJ 19|21|CASE 20|21|DET 21|18|NMOD 22|24|CC 23|24|DET 24|18|CONJ 25|27|CASE 26|27|COMPOUND 27|24|NMOD 28|29|CASE 29|27|NMOD 30|4|PUNCT
+*INV:	okay good . 54456_55456
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

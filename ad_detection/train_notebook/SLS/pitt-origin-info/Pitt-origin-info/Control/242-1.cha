@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002358-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|male|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	242-1, audio
+@G:	Cookie
+*PAR:	kid's gonna <fall on> [//] fall off the stool getting cookies out_of the jar that his sister's holdin(g) her finger up tellin(g) him don't talk and she wants a cookie . 1430_9630
+%mor:	noun|kid~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool verb|get-Ger-S noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|jar-Acc pron|that-Rel pron|his-Prs-Gen-S3 noun|sister~aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|finger-Acc adp|up verb|tell-Ger-S pron|he-Prs-Acc-S3 aux|do-Fin-S~part|not verb|talk-Inf-S cconj|and pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|5|ADVCL 10|9|OBJ 11|9|ADVMOD 12|13|DET 13|9|OBJ 14|18|OBJ 15|16|NMOD-POSS 16|18|NSUBJ 17|18|AUX 18|13|ACL-RELCL 19|20|NMOD-POSS 20|18|OBJ 21|18|COMPOUND-PRT 22|18|ADVCL 23|22|IOBJ 24|26|AUX 25|26|ADVMOD 26|22|CCOMP 27|29|CC 28|29|NSUBJ 29|18|CONJ 30|31|DET 31|29|OBJ 32|3|PUNCT
+*PAR:	and the water's running over in the sink . 10367_12057
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	and the mother's standing in the water . 12074_14514
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*PAR:	she's dryin(g) the dishes . 14536_16106
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and &-uh let's see . [+ exc] 17799_19759
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+*PAR:	<what do you> [//] what else you wanted to see ? [+ exc] 20539_21659
+%mor:	pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Past-S2 part|to verb|see-Inf-S ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|6|MARK 6|4|XCOMP 7|1|PUNCT
+*PAR:	you wanna see what's wrong with the picture ? [+ exc] 21852_23262
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 adp|with det|the-Def-Art noun|picture ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+*INV:	not what's wrong just anything that's going on . 24230_25990
+%mor:	part|not pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 adv|just pron|anything-Ind-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|2|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|ADVMOD 6|4|NSUBJ 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|COMPOUND-PRT 11|4|PUNCT
+*PAR:	+< oh oh . [+ exc] 25350_25480
+%mor:	intj|oh intj|oh .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	and &-uh the window's open . 26819_28529
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh (.) she's dryin(g) the dishes . 30301_34791
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	she has her back to the kids . 35410_37030
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 noun|back-Acc adp|to det|the-Def-Art noun|kid-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+*PAR:	the cupboard's open . 38561_39521
+%mor:	det|the-Def-Art noun|cupboard~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	little girl's tellin(g) him not to talk to much and I guess she's [//] not to tell on them . 40526_44096
+%mor:	adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|not part|to verb|talk-Inf-S adp|to adj|much-S1 cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 part|not part|to verb|tell-Inf-S adp|on pron|they-Prs-Acc-P3 .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|8|ADVMOD 7|8|MARK 8|4|XCOMP 9|10|CASE 10|8|OBL 11|13|CC 12|13|NSUBJ 13|4|CONJ 14|16|ADVMOD 15|16|MARK 16|13|XCOMP 17|18|CASE 18|16|OBL 19|4|PUNCT
+*PAR:	<and that's about> [//] &-uh what else is there you're gonna find out in that picture ? [+ exc]
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S~part|to verb|find-Inf-S adp|out adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|7|NSUBJ-OUTER 2|1|ADVMOD 3|7|COP 4|7|EXPL 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|7|PUNCT
+*PAR:	I don't see anything off out in the yard . 53212_55812
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adp|off adp|out adp|in det|the-Def-Art noun|yard .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|COMPOUND-PRT 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*PAR:	guess it's the summer and the grass is growin(g) and bushes look like they're growin(g) . [+ gram] 57757_61507
+%mor:	verb|guess-Fin-Imp-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|summer cconj|and det|the-Def-Art noun|grass aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S cconj|and noun|bush-Plur verb|look-Fin-Ind-Pres-P3 sconj|like pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|grow-Part-Pres-S .
+%gra:	1|0|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|CCOMP 6|10|CC 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|13|CC 12|13|NSUBJ 13|10|CONJ 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|13|ADVCL 18|1|PUNCT
+*PAR:	it looks like a towel . 64474_65485
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|towel .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	I don't understand the towel situation . [+ exc] 65534_67224
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|understand-Inf-S det|the-Def-Art noun|towel noun|situation-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*PAR:	it looks like half xxx +//. 67358_68308
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like noun|half +//.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*PAR:	oh no that's the other part of the curtain . 68961_70091
+%mor:	intj|oh intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|other-S1 noun|part adp|of det|the-Def-Art noun|curtain .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|0|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|7|PUNCT
+*PAR:	that's alright . [+ exc] 70397_70547
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|alright-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

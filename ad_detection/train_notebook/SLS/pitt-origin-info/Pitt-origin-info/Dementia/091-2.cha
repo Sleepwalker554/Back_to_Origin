@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/t-00002496-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|90;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	091-2, audio
+@G:	Cookie
+*INV:	picture . 30_700
+%mor:	noun|picture .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is &-uh &+d after the cookie jar for him and his girl . 5196_8496
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adp|after det|the-Def-Art noun|cookie noun|jar adp|for pron|he-Prs-Acc-S3 cconj|and pron|his-Prs-Gen-S3 noun|girl .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|9|CASE 9|7|NMOD 10|12|CC 11|12|NMOD-POSS 12|9|CONJ 13|7|PUNCT
+*PAR:	and the girl or the woman is drying dishes and the water is leaking on the floor . 9623_16793
+%mor:	cconj|and det|the-Def-Art noun|girl cconj|or det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|leak-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|9|CC 2|3|DET 3|9|NSUBJ 4|6|CC 5|6|DET 6|3|CONJ 7|9|COP 8|9|AMOD 9|0|ROOT 10|14|CC 11|12|DET 12|14|NSUBJ 13|14|AUX 14|9|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|9|PUNCT
+*PAR:	spilling on the floor . [+ gram] 18429_19729
+%mor:	verb|spill-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*INV:	(..) can you tell me what else is going on in the picture ? 33940_36180
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|8|OBJ 6|5|AMOD 7|8|AUX 8|3|CCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+*INV:	what else do you see ? 37474_38304
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	the boy is getting cookies out_of the jar and <the [/] the jack [: stool] [* s:ur-ret] or the &+m cushion [: stool] [* s:r-ret] or> [//] the hat [: stool] [* s:ur] is falling over . 38350_48750
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|jar cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|4|CONJ 14|13|ADVMOD 15|4|PUNCT
+*PAR:	he's gonna fall . 49827_50767
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+*PAR:	and the water's spilling for the &+w woman &+won drying the dishes . 51478_54618
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|for det|the-Def-Art noun|woman verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|8|ACL 10|11|DET 11|9|OBJ 12|5|PUNCT
+*PAR:	(.) is that all ? [+ exc] 59244_59894
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay that's fine . 60006_60936
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002293-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	138-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 1650_1820
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a cookie jar on the shelf . 3779_5419
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar adp|on det|the-Def-Art noun|shelf .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*PAR:	and the little boy's up on a stool . 5471_7231
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adp|on det|a-Ind-Art noun|stool .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	and <the stool is about to &-uh fall> [//] he's about to fall . 7249_11799
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*PAR:	the stool's about to turn over . 11821_13301
+%mor:	det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 adv|about part|to verb|turn-Inf-S adp|over .
+%gra:	1|2|DET 2|6|NSUBJ-OUTER 3|6|COP 4|6|ADVMOD 5|6|MARK 6|0|ROOT 7|6|COMPOUND-PRT 8|6|PUNCT
+*PAR:	little girl in the picture's reaching for the cookie . [+ gram] 13861_16541
+%mor:	adj|little-S1 noun|girl adp|in det|the-Def-Art noun|picture~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie .
+%gra:	1|2|AMOD 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*PAR:	mother is washing dishes . 17375_18845
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the water's &-uh running and running over onto the floor . 18862_24022
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|running-Part-Pres-S cconj|and verb|run-Part-Pres-S adp|over adp|onto det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+*PAR:	she [/] she has a plate in her hand and a towel . 24682_27992
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate-Acc adp|in pron|her-Prs-Gen-S3 noun|hand cconj|and det|a-Ind-Art noun|towel .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|10|CC 9|10|DET 10|7|CONJ 11|2|PUNCT
+*PAR:	she's drying a plate . 28040_29200
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	two cups are sitting on a counter and also a plate . 30067_34317
+%mor:	num|two noun|cup-Plur aux|be-Fin-Ind-Pres-P3 verb|sit-Part-Pres-S adp|on det|a-Ind-Art noun|counter cconj|and adv|also det|a-Ind-Art noun|plate .
+%gra:	1|2|NUMMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|11|CC 9|11|ADVMOD 10|11|DET 11|7|CONJ 12|4|PUNCT
+*PAR:	you can see out through the kitchen window to another part of the house and a [/] &+dri &-uh a walkway away from the house . 35016_44086
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adp|out adp|through det|the-Def-Art noun|kitchen noun|window adp|to det|another-Def-Ind noun|part adp|of det|the-Def-Art noun|house cconj|and det|a-Ind-Art noun|walkway adv|away adp|from det|the-Def-Art noun|house .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|11|CASE 10|11|DET 11|3|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|17|CC 16|17|DET 17|11|CONJ 18|17|ADVMOD 19|21|CASE 20|21|DET 21|18|OBL 22|3|PUNCT
+*PAR:	you can see a window across in the other part of the house and the roof with &-uh a tree . 46118_52048
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|a-Ind-Art noun|window-Acc adv|across adp|in det|the-Def-Art adj|other-S1 noun|part adp|of det|the-Def-Art noun|house cconj|and det|the-Def-Art noun|roof adp|with det|a-Ind-Art noun|tree .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|16|CC 15|16|DET 16|10|CONJ 17|19|CASE 18|19|DET 19|16|NMOD 20|3|PUNCT
+*PAR:	<that there are> [/] there are curtains on the windows . 52955_54805
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|on det|the-Def-Art noun|window-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|2|PUNCT
+*PAR:	(...) I think that's +... [+ exc] 71700_72440
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+*PAR:	did I cover it all ? [+ exc] 73922_74692
+%mor:	aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|cover-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*INV:	is that it ? 75465_75775
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|it-Prs-Nom-S3 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	yeah . [+ exc] 76055_76265
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 76662_77102
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

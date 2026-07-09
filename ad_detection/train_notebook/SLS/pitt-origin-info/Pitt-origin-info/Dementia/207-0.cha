@@ -1,0 +1,326 @@
+@UTF8
+@PID:	11312/t-00002550-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|61;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-07T09:29:41-04:00]
+@Media:	207-0, audio
+@G:	Cookie
+*INV:	this picture . 510_1080
+%mor:	det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	&*PAR:yes and tell me everything that you see going on in that picture . 1950_4850
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|2|PUNCT
+*INV:	what's happening there ? 5167_6437
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	the water ? [+ exc] 7677_12187
+%mor:	det|the-Def-Art noun|water ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	uhhuh . 12725_12875
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what about it ? 13661_14011
+%mor:	pron|what-Int-S1 adp|about pron|it-Prs-Acc-S3 ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*PAR:	well ‡ let's see . [+ exc] 15612_16742
+%mor:	intj|well intj|‡ verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*PAR:	there's something hasta be where the water goes down over . [+ gram] 18264_21884
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adv|hasta aux|be-Inf-S adv|where det|the-Def-Art noun|water verb|go-Fin-Ind-Pres-S3 adp|down adv|over .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|6|COP 6|9|ADVMOD 7|8|DET 8|9|NSUBJ 9|3|ACL-RELCL 10|9|COMPOUND-PRT 11|9|ADVMOD 12|2|PUNCT
+*PAR:	&-uh there's probably something that's &-uh +... 22124_24274
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|probably pron|something-Ind-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|EXPL 2|0|ROOT 3|2|ADVMOD 4|2|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|2|PUNCT
+*PAR:	or they don't have it open or [/] or something might ha(ve) +//. 25850_28700
+%mor:	cconj|or pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S pron|it-Prs-Acc-S3 adj|open-S1 cconj|or pron|something-Ind-S1 aux|might-Fin-S verb|have-Inf-S +//.
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|XCOMP 8|11|CC 9|11|NSUBJ 10|11|AUX 11|5|CONJ 12|5|PUNCT
+*PAR:	I dunno [: don't know] . [+ exc] 29007_29417
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	what &-uh +..? [+ exc] 29539_30219
+%mor:	pron|what-Int-S1 +..?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	when the water goes down &=finger:tap what [/] what do you call that ? [+ exc] 30600_32900
+%mor:	adv|when det|the-Def-Art noun|water verb|go-Fin-Ind-Pres-S3 adp|down pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|that-Dem ?
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|9|ADVCL 5|4|COMPOUND-PRT 6|9|OBJ 7|9|AUX 8|9|NSUBJ 9|0|ROOT 10|9|OBJ 11|9|PUNCT
+*PAR:	this here . [+ exc] 34474_34864
+%mor:	pron|this-Dem-S1 adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	right here . [+ exc] 35641_36021
+%mor:	adv|right adv|here .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	this . [+ exc] 37198_37508
+%mor:	pron|this-Dem-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	what [/] &-uh what do you call that ? [+ exc] 37561_38881
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|that-Dem ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	what is that ? [+ exc] 39694_40064
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*INV:	+< what ? 41478_41548
+%mor:	pron|what-Int-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	what is that ? [+ exc] 41545_42358
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*INV:	what would you call that ? 41568_42445
+%mor:	pron|what-Int-S1 aux|would-Fin-S pron|you-Prs-Nom-S2 verb|call-Inf-S pron|that-Dem ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	I don't know ! [+ exc] 42834_43384
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S !
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	that's what I'm saying . [+ exc] 43504_44254
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+*PAR:	I [/] I don't know what that is . [+ exc] 44463_46363
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+*INV:	<I don't> [//] I [/] I would call that the u@l pipe . 47762_50112
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|call-Inf-S sconj|that det|the-Def-Art n:let|u noun|pipe-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|DET 6|7|DEP 7|3|OBJ 8|3|PUNCT
+*INV:	is that &*PAR:the_what what it's called +/? 50847_51397
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S +/?
+%gra:	1|3|COP 2|6|MARK 3|0|ROOT 4|6|NSUBJ-PASS 5|6|AUX-PASS 6|3|ACL-RELCL 7|3|PUNCT
+*INV:	a u@l pipe ? 51839_52579
+%mor:	det|a-Ind-Art n:let|u noun|pipe ?
+%gra:	1|3|DET 2|3|DEP 3|0|ROOT 4|3|PUNCT
+*INV:	the u@l bend ? 53354_53924
+%mor:	det|the-Def-Art n:let|u noun|bend ?
+%gra:	1|3|DET 2|3|DEP 3|0|ROOT 4|3|PUNCT
+*INV:	no ‡ it's just a pipe . 54159_54949
+%mor:	intj|no punct|‡ pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art noun|pipe .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	a pipe . [+ exc] 55671_56051
+%mor:	det|a-Ind-Art noun|pipe .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	oh [/] oh [/] oh water pipe ! [+ exc] 56396_57956
+%mor:	intj|oh noun|water noun|pipe !
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*INV:	yeah . 58192_58422
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh yeah . [+ exc] 58697_59277
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	okay . [+ exc] 59365_59635
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well ‡ then maybe the water pipe is &-uh broke [//] &-er &-uh not broke but &-uh there must be things in there &*INV:yeah that the water will not go down . 59920_70050
+%mor:	intj|well punct|‡ adv|then adv|maybe det|the-Def-Art noun|water noun|pipe aux|be-Fin-Ind-Pres-S3 part|not adj|broke-S1 cconj|but pron|there-Int-S1 aux|must-Fin-S verb|be-Inf-S noun|thing-Plur adp|in adv|there sconj|that det|the-Def-Art noun|water aux|will-Fin-S part|not verb|go-Inf-S adv|down .
+%gra:	1|10|DISCOURSE 2|1|PUNCT 3|10|ADVMOD 4|10|ADVMOD 5|7|DET 6|7|COMPOUND 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|0|ROOT 11|14|CC 12|14|EXPL 13|14|AUX 14|10|CONJ 15|14|NSUBJ 16|17|CASE 17|14|OBL 18|23|MARK 19|20|DET 20|23|NSUBJ 21|23|AUX 22|23|ADVMOD 23|15|ACL 24|23|ADVMOD 25|10|PUNCT
+*PAR:	I don't know . [+ exc] 71231_71701
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	+< so ‡ what's happening to the water ? 71590_72810
+%mor:	adv|so punct|‡ pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|to det|the-Def-Art noun|water ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	huh ? [+ exc] 73928_74118
+%mor:	intj|huh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what's happening to the water ? 74440_75810
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|to det|the-Def-Art noun|water ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	what's happening to the water ? [+ exc] 76686_77936
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|to det|the-Def-Art noun|water ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	yeah . 78036_78226
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well ‡ the water is &+g going down in the &-uh (.) &=finger:tap &=sighs &=claps +... 78498_80968
+%mor:	intj|well punct|‡ det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|down adp|in det|the-Def-Art +...
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|6|PUNCT
+*PAR:	&=laughs I don't know . [+ exc] 86295_86565
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	what [/] what [/] what [/] what would you call this ? [+ exc] 86800_89060
+%mor:	pron|what-Int-S1 aux|would-Fin-S pron|you-Prs-Nom-S2 verb|call-Inf-S pron|this-Dem-S1 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	on the floor ? 89416_89996
+%mor:	adp|on det|the-Def-Art noun|floor ?
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	floor [/] floor [/] &*INV:mhm floor ! [+ exc] 90150_91260
+%mor:	noun|floor !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	yeah &*INV:okay okay [/] okay . [+ exc] 91377_92847
+%mor:	intj|yeah intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 92918_93308
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and &*PAR:yeah what's happening over this side of the picture then ? 93743_95923
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over det|this-Def-Dem-Sing noun|side adp|of det|the-Def-Art noun|picture adv|then ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|4|ADVMOD 12|4|PUNCT
+*PAR:	what's happenin(g) over here ? [+ exc] 97204_98394
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*INV:	well ‡ down on this side of the picture . 99168_100698
+%mor:	intj|well punct|‡ adv|down adp|on det|this-Def-Dem-Sing noun|side adp|of det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|6|NMOD 10|3|PUNCT
+*PAR:	well ‡ this thing here is &-uh turnin(g) over . [+ es] 103234_107054
+%mor:	intj|well punct|‡ det|this-Def-Dem-Sing noun|thing-Ger adv|here aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Pres-S adp|over .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|4|DET 4|7|NSUBJ-OUTER 5|4|ADVMOD 6|7|AUX 7|0|ROOT 8|7|COMPOUND-PRT 9|7|PUNCT
+*INV:	mhm . 107399_107569
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	yeah . [+ exc] 108866_109036
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you tell me what's going on there ? 113138_114408
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|7|ADVMOD 10|3|PUNCT
+*PAR:	no uhuh . [+ exc] 115413_115653
+%mor:	intj|no intj|uhuh .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	I don't know what's going on . [+ exc] 116502_117432
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|COMPOUND-PRT 9|4|PUNCT
+*PAR:	well ‡ he's probably &-uh gettin(g) +... 117585_119135
+%mor:	intj|well punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably verb|get-Part-Pres-S +...
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	what's this here ? [+ exc] 119848_120628
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 adv|here ?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+*PAR:	cocoa jar ? [+ exc] [+ gram] 120836_123136
+%mor:	noun|cocoa noun|jar ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	what's [/] what's this cocoa ? [+ exc] 125906_127096
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|cocoa ?
+%gra:	1|0|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*INV:	say it again ? 127863_128523
+%mor:	verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adv|again ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*INV:	can you read it again for me ? 128806_129895
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|read-Inf-S pron|it-Prs-Acc-S3 adv|again adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|3|PUNCT
+*PAR:	c@l o@l o@l k@l i@l e@l . [+ exc] 130815_132645
+%mor:	n:let|c n:let|o n:let|o n:let|k n:let|i n:let|e .
+%gra:	1|0|ROOT 2|1|DEP 3|1|DEP 4|1|DEP 5|6|DEP 6|1|DEP 7|1|PUNCT
+*INV:	what does that spell ? 133353_133953
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|spell-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't know &=laughs . [+ exc] 136830_137980
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	&=laughs I don't know what [/] &*INV:coo what [/] what +/. [+ exc] 138063_138983
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 +/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	&+coo cookie &*PAR:huh . 139344_140904
+%mor:	noun|cookie .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	cookie &*PAR:cookie . 141358_141918
+%mor:	noun|cookie .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ a cookie [/] &*INV:cookie_yeah cookie . [+ exc] 142103_143213
+%mor:	intj|oh punct|‡ det|a-Ind-Art noun|cookie .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	oh &*PAR:mhm ! [+ exc] 143664_143944
+%mor:	intj|oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh okay . [+ exc] 144779_145489
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	mhm . [+ exc] 146657_146787
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	and what are the kids doing ? 146663_147713
+%mor:	cconj|and pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|kid-Plur verb|do-Part-Pres-S ?
+%gra:	1|2|CC 2|0|ROOT 3|6|AUX 4|5|DET 5|6|NSUBJ 6|2|ACL-RELCL 7|2|PUNCT
+*PAR:	well ‡ he's &-uh gettin(g) it out . [+ es] 148770_152090
+%mor:	intj|well punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+*PAR:	and he's gonna give it to the girl &*INV:mhm down here &*INV:okay . 153680_156230
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|give-Inf-S pron|it-Prs-Acc-S3 adp|to det|the-Def-Art noun|girl adp|down adv|here .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|12|CASE 12|6|OBL 13|4|PUNCT
+*INV:	&*PAR:mhm is there anything else going on in the picture that you wanna tell me about ? 157894_161054
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture pron|that-Rel pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|3|ACL 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|14|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|14|MARK 14|12|XCOMP 15|14|IOBJ 16|10|CASE 17|1|PUNCT
+*PAR:	going on in the picture ? [+ exc] 162391_163521
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*INV:	mhm . 167370_168560
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well ‡ the boy is giving him [: her] [* s:r] the girl the &+co &+co cocoa [: cookie] [* s:r] . 167377_172417
+%mor:	intj|well punct|‡ det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|her-Prs-Acc-S3 det|the-Def-Art noun|girl-Acc det|the-Def-Art noun|cookie-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|IOBJ 8|9|DET 9|6|OBJ 10|11|DET 11|6|OBJ 12|6|PUNCT
+*PAR:	this probably is broke . 177285_179305
+%mor:	pron|this-Dem-S1 adv|probably aux|be-Fin-Ind-Pres-S3 adj|broke-S1 .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	mhm . 179747_183037
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	so ‡ the water will not go down in . 180166_182146
+%mor:	adv|so punct|‡ det|the-Def-Art noun|water aux|will-Fin-S part|not verb|go-Inf-S adp|down adp|in .
+%gra:	1|7|ADVMOD 2|7|ADVMOD 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|0|ROOT 8|7|COMPOUND-PRT 9|7|OBL 10|7|PUNCT
+*PAR:	and it's comin(g) up &=finger:tap and going in here „ huh . 182252_184372
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adp|up cconj|and verb|go-Part-Pres-S adp|in adv|here punct|„ intj|huh .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|7|ADVMOD 9|7|OBL 10|11|PUNCT 11|7|OBL 12|4|PUNCT
+*INV:	and what's she doing ? 185181_185711
+%mor:	cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	well ‡ it looks like she's [//] &+wa &-uh she was gonna wash &-uh &*INV:mhm <what she> [//] what they eat with . [+ cir] 188533_196133
+%mor:	intj|well punct|‡ pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S~part|to verb|wash-Inf-S pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|eat-Fin-Ind-Pres-P3 adp|with .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|10|MARK 10|8|XCOMP 11|10|OBJ 12|13|NSUBJ 13|11|ACL-RELCL 14|13|OBL 15|4|PUNCT
+*INV:	yeah . 196422_199202
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh &*INV:mhm &+wha what do you call that ? [+ exc] 196809_197919
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|that-Dem ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	<what do> [/] what do you call this ? [+ exc] 198207_199337
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|this-Dem-S1 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	a plate ? 200909_201329
+%mor:	det|a-Ind-Art noun|plate ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	the dishes ? 202986_203426
+%mor:	det|the-Def-Art noun|dish-Plur ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	<the plate> [//] a plate ? [+ exc] 204000_205250
+%mor:	det|a-Ind-Art noun|plate ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	mhm . 205250_205832
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh [/] oh yeah [/] yeah [/] yeah [/] yeah . [+ exc] 205832_207245
+%mor:	intj|oh intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	what you eat in [: on] [* s:r] &*INV:yeah . [+ cir] [+ exc] 207682_208292
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 adp|on .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBL 5|1|PUNCT
+*PAR:	<is that> [/] is that what you call them a plate ? [+ exc] 209012_210702
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|call-Fin-Ind-Pres-S2 pron|they-Prs-Acc-P3 det|a-Ind-Art noun|plate ?
+%gra:	1|3|COP 2|5|MARK 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|IOBJ 7|8|DET 8|5|XCOMP 9|3|PUNCT
+*INV:	+< well ‡ <a cup> [/] a cup and saucer . 210736_212216
+%mor:	intj|well punct|‡ det|a-Ind-Art noun|cup cconj|and noun|saucer .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DET 4|0|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+*PAR:	+< oh ‡ this is a cup ? [+ exc] 211828_212578
+%mor:	intj|oh punct|‡ pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cup ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|6|PUNCT
+*INV:	it might be a saucer . 213049_213929
+%mor:	pron|it-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S det|a-Ind-Art noun|saucer .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|0|ROOT 6|5|PUNCT
+*PAR:	oh maybe . [+ exc] 214612_215042
+%mor:	intj|oh adv|maybe .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know . [+ exc] 215192_215612
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	+< it might be a saucer or a plate . 215786_216736
+%mor:	pron|it-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S det|a-Ind-Art noun|saucer cconj|or det|a-Ind-Art noun|plate .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|0|ROOT 6|8|CC 7|8|DET 8|5|CONJ 9|5|PUNCT
+*PAR:	mhm . [+ exc] 218624_218784
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 218864_219094
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

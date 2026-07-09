@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/t-00002598-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|ProbableAD||Participant|21||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	279-0, audio
+@G:	Cookie
+*INV:	and here's the picture . 420_1500
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*PAR:	kid's stool turnin(g) over . [+ gram] 4953_7123
+%mor:	noun|kid~part|s noun|stool verb|turn-Part-Pres-S adp|over .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|3|PUNCT
+*PAR:	she [//] &-uh tryin(g) to steal cookies out_of the cookie jar . [+ gram] 8400_10890
+%mor:	verb|try-Part-Pres-S part|to verb|steal-Inf-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|1|PUNCT
+*PAR:	little girl is reachin(g) up to grab hers . [+ gram] 11461_13751
+%mor:	adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up part|to verb|grab-Inf-S pron|her-Prs-S3 .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|MARK 7|4|ADVCL 8|7|OBJ 9|4|PUNCT
+*PAR:	huh . [+ exc] 14960_15110
+%mor:	intj|huh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mother's doin(g) the dishes but let the water run over all over the floor . 15314_18964
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|but verb|let-Fin-Imp-S det|the-Def-Art noun|water-Acc verb|run-Inf-S adp|over det|all-Def-Tot adp|over det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|3|CONJ 8|9|DET 9|7|OBJ 10|7|XCOMP 11|10|COMPOUND-PRT 12|10|OBJ 13|15|CASE 14|15|DET 15|10|OBL 16|3|PUNCT
+*PAR:	and she's standin(g) in a puddle . 20511_21861
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	(..) action . [+ gram] [+ exc] 25976_26256
+%mor:	noun|action .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) dryin(g) the dishes . [+ gram] 30861_31771
+%mor:	verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	(.) or did I say that before before ? [+ exc] 33147_34147
+%mor:	cconj|or aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S pron|that-Dem adv|before adv|before ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|ADVMOD 8|4|PUNCT
+*PAR:	yeah . [+ exc] 34951_35011
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	kid's laughin(g) . [+ gram] 37908_38748
+%mor:	noun|kid~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	the other kid with the stool fallin(g) over &=laughs break his neck . [+ gram] 40094_44244
+%mor:	det|the-Def-Art adj|other-S1 noun|kid adp|with det|the-Def-Art noun|stool verb|fall-Ger-S adp|over verb|break-Inf-S pron|his-Prs-Gen-S3 noun|neck-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|6|ACL 8|9|MARK 9|7|ADVCL 10|11|NMOD-POSS 11|9|OBJ 12|3|PUNCT
+*INV:	mhm . 44594_45354
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm there no action to the curtains . [+ gram] 47848_49648
+%mor:	pron|there-Int-S1 det|no-Def-Neg noun|action adp|to det|the-Def-Art noun|curtain-Plur .
+%gra:	1|3|EXPL 2|3|DET 3|0|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*PAR:	and grass is growing out there . 49664_51284
+%mor:	cconj|and noun|grass aux|be-Fin-Ind-Pres-S3 verb|grow-Part-Pres-S adp|out adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PUNCT
+*PAR:	I guess you can call that action . [+ exc] 51300_53490
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|call-Inf-S det|that-Def-Dem-Sing noun|action-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	leaves are probably blowing . 55327_56647
+%mor:	noun|leave-Plur aux|be-Fin-Ind-Pres-P3 adv|probably verb|blow-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) the mother's in her own little world . 61156_62636
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adp|in pron|her-Prs-Gen-S3 adj|own-S1 adj|little-S1 noun|world .
+%gra:	1|2|DET 2|8|NSUBJ 3|8|COP 4|8|CASE 5|8|NMOD-POSS 6|8|AMOD 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*PAR:	the water's still runnin(g) . 63090_64069
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adv|still noun|running-Ger .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 65438_66398
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cookie jar . [+ gram] 69398_69858
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	he's handin(g) (th)em out (.) like he [/] he made them &=laughs . 70620_75310
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|out sconj|like pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|8|MARK 7|8|NSUBJ 8|3|ADVCL 9|8|OBJ 10|3|PUNCT
+*INV:	&=laughs .
+*PAR:	the chair's [: stool's] [* s:r-ret] fallin(g) over or the stool . [+ gram] 77612_79832
+%mor:	det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 verb|falling-Part-Pres-S adp|over cconj|or det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|4|PUNCT
+*INV:	okay . 80318_81178
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< I think . [+ exc] 80610_80700
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	good . 82222_82572
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and I think the little kid kicked it . 83258_84568
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|kid verb|kick-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|7|NSUBJ 7|3|CCOMP 8|7|OBJ 9|3|PUNCT
+*PAR:	and it pushed him over &=laughs . 84704_86034
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|push-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|over .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*INV:	okay . 86562_87692
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< instead of holdin(g) him up she gave him a shove . 87330_89500
+%mor:	adv|instead adp|of verb|hold-Part-Pres-S pron|he-Prs-Acc-S3 adp|up pron|she-Prs-Nom-S3 verb|give-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 det|a-Ind-Art noun|shove-Acc .
+%gra:	1|3|MARK 2|1|FIXED 3|7|ADVCL 4|3|OBJ 5|3|COMPOUND-PRT 6|7|NSUBJ 7|0|ROOT 8|7|IOBJ 9|10|DET 10|7|OBJ 11|7|PUNCT
+*INV:	okay good . 90700_91710
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

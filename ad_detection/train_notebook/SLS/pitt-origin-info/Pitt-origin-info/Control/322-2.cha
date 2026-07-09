@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/t-00002403-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	322-2, audio
+@G:	Cookie
+*INV:	you can start now . 520_1430
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	okay . [+ exc] 1991_2421
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is taking cookies out_of a closet with one hand trying to give the cookies to his sister with another (.) while he is falling off a three [/] three prong stool . 2538_15118
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|a-Ind-Art noun|closet adp|with num|one noun|hand verb|try-Part-Pres-S part|to verb|give-Inf-S det|the-Def-Art noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister adp|with det|another-Def-Ind sconj|while pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|a-Ind-Art num|three noun|prong noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|11|CASE 10|11|NUMMOD 11|4|OBL 12|4|ADVCL 13|14|MARK 14|12|XCOMP 15|16|DET 16|14|OBJ 17|19|CASE 18|19|NMOD-POSS 19|14|OBL 20|21|CASE 21|14|OBL 22|25|MARK 23|25|NSUBJ 24|25|AUX 25|14|ADVCL 26|30|CASE 27|30|DET 28|30|NUMMOD 29|30|COMPOUND 30|25|OBL 31|4|PUNCT
+*PAR:	his mother is washing dishes . 16155_18465
+%mor:	pron|his-Prs-Gen-S3 noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and the dishwasher is overflowing onto the floor . 19488_23608
+%mor:	cconj|and det|the-Def-Art noun|dishwasher aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and the curtains are billowing . 24547_26527
+%mor:	cconj|and det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|billow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and the girl is eating (.) or toying . 27063_31473
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S cconj|or verb|toy-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CC 7|5|CONJ 8|5|PUNCT
+*PAR:	it's difficult to tell . [+ exc] 31934_33264
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|difficult-S1 part|to verb|tell-Inf-S .
+%gra:	1|3|EXPL 2|3|COP 3|0|ROOT 4|5|MARK 5|3|CSUBJ 6|3|PUNCT
+*PAR:	that's the only action I see . [+ exc] 34044_35674
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-S1 noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|PUNCT
+*INV:	okay ‡ good . 36415_36745
+%mor:	intj|okay intj|‡ adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+@End

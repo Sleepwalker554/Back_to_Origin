@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002311-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|female|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=eng | 2026-05-04T05:59:40-04:00]
+@Media:	150-0, audio
+@G:	Cookie
+*INV:	and there's the picture . 480_1510
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	oh ‡ you mean things like the boy climbing up on the stool reaching for cookies ? 3123_7113
+%mor:	intj|oh punct|‡ pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 noun|thing-Plur-Acc adp|like det|the-Def-Art noun|boy verb|climb-Ger-S adp|up adp|on det|the-Def-Art noun|stool verb|reach-Ger-S adp|for noun|cookie-Plur ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|8|ACL 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|9|ADVCL 15|16|CASE 16|14|OBL 17|4|PUNCT
+*PAR:	and the &-uh stool is tipping over . 7616_9346
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	and he's gonna go falling on his lup@u [: x@n] [* n:uk] . 9400_10990
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|go-Inf-S verb|fall-Ger-S adp|on pron|his-Prs-Gen-S3 neo|x .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|XCOMP 8|10|DEP 9|10|NMOD-POSS 10|7|OBL 11|4|PUNCT
+*PAR:	and his sister's talking to him and pointing . 11735_14075
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister~aux|be-Fin-Ind-Pres-S3 verb|talk-Part-Pres-S adp|to pron|he-Prs-Acc-S3 cconj|and verb|point-Part-Pres-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|CASE 7|5|OBL 8|9|CC 9|5|CONJ 10|5|PUNCT
+*PAR:	and &-uh (.) the mother is wiping the dishes . 15227_20187
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and the sink is spilling over and going on the floor . 20405_23245
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|over cconj|and verb|go-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|CC 8|5|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|5|PUNCT
+*PAR:	and did I say she's &+wi wiping the dishes ? [+ exc] 24690_26410
+%mor:	cconj|and aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|say-Inf-S pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|9|DET 9|7|OBJ 10|4|PUNCT
+*PAR:	I presume there's something in the sink . 28016_29546
+%mor:	pron|I-Prs-Nom-S1 verb|presume-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|EXPL 4|2|CCOMP 5|4|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*PAR:	(.) it looks like the girl is laughing . 34513_35943
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ADVCL 8|2|PUNCT
+*PAR:	the mother's standing in water . 36280_40150
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adp|in noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*PAR:	you mean things like that ? [+ exc] 40488_41398
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 noun|thing-Plur-Acc adp|like pron|that-Dem ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+*INV:	mhm . 41716_42016
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	can I finish now ? [+ exc] 42875_43285
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|finish-Inf-S adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*INV:	mhm . 43403_44053
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	good . [+ exc] 44298_44498
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

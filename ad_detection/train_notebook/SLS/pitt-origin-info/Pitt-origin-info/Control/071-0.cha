@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002230-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|56;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	071-0, audio
+@G:	Cookie
+*INV:	okay there's the picture . 1070_2300
+%mor:	intj|okay pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*INV:	okay , everything you see going +/. 3435_4255
+%mor:	intj|okay cm|cm pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S +/.
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|3|PUNCT
+*PAR:	+< you mean this house ? [+ exc] 3753_4393
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 det|this-Def-Dem-Sing noun|house-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	oh whatever . [+ exc] 4830_5150
+%mor:	intj|oh pron|whatever-Int-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	yeah . 5383_5643
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	uhhuh . [+ exc] 6819_7139
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	do you want me to start at any particular time ? [+ exc] 9425_11145
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|I-Prs-Acc-S1 part|to verb|start-Inf-S adp|at det|any-Def-Ind adj|particular-S1 noun|time ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|3|PUNCT
+*INV:	+< mhm , you can start now . 10394_11724
+%mor:	intj|mhm cm|cm pron|you-Prs-Nom-S2 aux|can-Fin-S verb|start-Inf-S adv|now .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*PAR:	well top left cookie being removed from the cookie jar . [+ gram] 12182_15512
+%mor:	intj|well adj|top-S1 adj|left-S1 noun|cookie aux|be-Part-Pres-S verb|remove-Part-Past-S adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|DISCOURSE 2|4|AMOD 3|4|AMOD 4|0|ROOT 5|6|AUX-PASS 6|4|ACL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|4|PUNCT
+*PAR:	&-uh handing cookie to sister . [+ gram] 16425_18345
+%mor:	verb|hand-Part-S noun|cookie-Acc adp|to noun|sister .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+*PAR:	(a)bout to upend on the three legged stool . [+ gram] 20161_22051
+%mor:	adv|about part|to verb|upend-Inf-S adp|on det|the-Def-Art num|three adj|legged-S1 noun|stool .
+%gra:	1|3|ADVMOD 2|3|MARK 3|0|ROOT 4|8|CASE 5|8|DET 6|8|NUMMOD 7|8|AMOD 8|3|OBL 9|3|PUNCT
+*PAR:	&-uh mother drying dishes , sink overflowing onto the floor . [+ gram] 23866_28366
+%mor:	noun|mother noun|drying-Ger noun|dish-Plur cm|cm verb|sink-Fin-Imp-S verb|overflow-Ger-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+*PAR:	&-uh <you want> [/] you want action type things xxx . [+ exc] 30823_33543
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|action noun|type noun|thing-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*INV:	+< yeah . 33290_33460
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	yeah . [+ exc] 33800_33840
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<drying> [//] I said drying dishes . [+ gram] 34435_35495
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr verb|drying-Ger-S noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*PAR:	let's see . [+ exc] 36649_36819
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	water overflowing in the sink . [+ gram] 37465_38155
+%mor:	noun|water verb|overflow-Ger-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|1|ACL 3|5|CASE 4|5|DET 5|2|OBL 6|1|PUNCT
+*INV:	mhm . 39033_39913
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-hm xxx have a heck of a_lot to do with it . [+ exc] 39958_42128
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art noun|heck-Acc adp|of noun|alot part|to verb|do-Inf-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|3|NMOD 6|7|MARK 7|3|ACL 8|9|CASE 9|7|OBL 10|1|PUNCT
+*PAR:	and that &*INV:okay_good spiral +... [+ exc] 42242_43452
+%mor:	cconj|and det|that-Def-Dem-Sing noun|spiral +...
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	maybe I should +/. [+ exc] 43999_44489
+%mor:	adv|maybe pron|I-Prs-Nom-S1 aux|should-Fin-S +/.
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+@End

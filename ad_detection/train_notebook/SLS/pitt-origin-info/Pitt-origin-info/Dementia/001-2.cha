@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/t-00002421-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|59;|male|ProbableAD||Participant|11||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	001-2, audio
+@G:	Cookie
+*INV:	you see going on in the picture . 390_1790
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*INV:	tell me all the action . 1808_3538
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|1|PUNCT
+*PAR:	mhm . 3609_4139
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ? 4432_5032
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a young boy &-uh going in a cookie jar . 5236_10246
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|boy verb|go-Ger-S adp|in det|a-Ind-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|2|PUNCT
+*PAR:	and there's a [/] &+lit a girl [//] young girl . 11120_13040
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|girl .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|3|PUNCT
+*PAR:	and I'm sayin(g) he's a boy (be)cause <you can> [//] &+hard it's hardly [//] hard to tell anymore . 14293_18873
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|say-Part-Pres-S pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 part|to verb|tell-Inf-S adv|anymore .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|12|MARK 10|12|EXPL 11|12|COP 12|4|ADVCL 13|14|MARK 14|12|CSUBJ 15|14|ADVMOD 16|4|PUNCT
+*INV:	&=laughs .
+*PAR:	&-uh and he's [/] he's in the &+c &+t cookie jar . 19885_23475
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|7|CC 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|COMPOUND 7|0|ROOT 8|7|PUNCT
+*PAR:	and there's a &+s stool that he is on and it already is starting to fall over . 23542_30392
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|on cconj|and pron|it-Prs-Nom-S3 adv|already aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|fall-Inf-S adv|over .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|9|OBJ 7|9|NSUBJ 8|9|COP 9|5|ACL-RELCL 10|14|CC 11|14|NSUBJ 12|14|ADVMOD 13|14|AUX 14|3|CONJ 15|16|MARK 16|14|XCOMP 17|16|ADVMOD 18|3|PUNCT
+*PAR:	and so is the water in the sink &-uh is &+ev overflowing in the sink . [+ gram] 30944_36504
+%mor:	cconj|and adv|so aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|water adp|in det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|10|CC 2|10|ADVMOD 3|10|COP 4|5|DET 5|10|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|10|AUX 10|0|ROOT 11|13|CASE 12|13|DET 13|10|OBL 14|10|PUNCT
+*INV:	okay anything else ? 38291_39601
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*PAR:	&-hm I [/] I don't know about the [//] this hickey here I [//] whether that's more than what I said . [+ es] 39837_45667
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S adp|about det|this-Def-Dem-Sing noun|hickey adv|here sconj|whether pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 adp|than pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVMOD 9|12|MARK 10|12|NSUBJ 11|12|COP 12|4|ADVCL 13|14|CASE 14|12|OBL 15|16|NSUBJ 16|14|ACL-RELCL 17|4|PUNCT
+*PAR:	&-uh like <it &-uh the wife or &+g I_mean> [//] &-uh the [/] the mother is near the girl . 46729_52659
+%mor:	sconj|like det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adp|near det|the-Def-Art noun|girl .
+%gra:	1|7|MARK 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	and she's [//] &-uh &+w &-uh &+h she has [/] &-uh has +/. 52722_58232
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 +/.
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	oh &-uh I [/] I can't think of the +... 58350_62270
+%mor:	intj|oh pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|think-Inf-S adp|of det|the-Def-Art +...
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR:	she has &-uh the she's tryin(g) to wipe [/] &-uh wipe dishes . 64804_70864
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|wipe-Inf-S noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|OBJ 4|6|NSUBJ 5|6|AUX 6|2|CCOMP 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|2|PUNCT
+*INV:	okay . 71220_71760
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh &+a and stop the water from going out . 71809_74689
+%mor:	intj|oh cconj|and verb|stop-Fin-Imp-S det|the-Def-Art noun|water-Acc sconj|from verb|go-Part-Pres-S adp|out .
+%gra:	1|3|DISCOURSE 2|3|CC 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|7|COMPOUND-PRT 9|3|PUNCT
+*INV:	okay . 75168_76008
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay good . 78646_80146
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

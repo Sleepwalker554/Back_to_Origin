@@ -1,0 +1,107 @@
+@UTF8
+@PID:	11312/t-00002612-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	319-0, audio
+@G:	Cookie
+*INV:	tell me what you see going on in this picture . 0_2320
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|this-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	(.) I don't see xxx . [+ exc] 5297_6407
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	(loo)ks like somebody took some pencils or somethin(g) and went up and down those xxx them things . [+ exc] 6970_11660
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|somebody-Ind-S1 verb|take-Fin-Ind-Past-S3-irr det|some-Def-Ind noun|pencil-Plur-Acc cconj|or pron|something-Ind-S1 cconj|and verb|go-Fin-Ind-Past-S3-irr adp|up cconj|and adp|down det|that-Def-Dem-Plur pron|they-Prs-Acc-P3 noun|thing-Plur-Acc .
+%gra:	1|0|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|10|CC 10|4|CONJ 11|10|COMPOUND-PRT 12|16|CC 13|16|CASE 14|16|DET 15|16|COMPOUND 16|10|OBJ 17|1|PUNCT
+*INV:	can you see what's going on in that picture ? 12311_14541
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|3|PUNCT
+*PAR:	<all I see> [//] I see a girl standin(g) there or somethin(g) or other . 15480_17880
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|a-Ind-Art noun|girl-Acc verb|stand-Ger-S adv|there cconj|or pron|something-Ind-S1 cconj|or adj|other-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|ACL 6|5|ADVMOD 7|8|CC 8|5|CONJ 9|10|CC 10|8|CONJ 11|2|PUNCT
+*INV:	okay tell me what else you see . 20725_22085
+%mor:	intj|okay verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|4|ADVMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|2|PUNCT
+*PAR:	(.) some little knots [* s:uk] or somethin(g) . [+ gram] [+ jar] 25828_26958
+%mor:	det|some-Def-Ind adj|little-S1 noun|knot-Plur cconj|or pron|something-Ind-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+*PAR:	I don't know . [+ exc] 27011_27631
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) xxx . [+ exc] [+ jar]
+*PAR:	(.) some kind of a xxx pan or somethin(g) . [+ gram] [+ jar] 35468_37938
+%mor:	det|some-Def-Ind noun|kind adp|of det|a-Ind-Art noun|pan cconj|or pron|something-Ind-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|7|CC 7|5|CONJ 8|2|PUNCT
+*PAR:	(.) and that girl is there . 39878_40998
+%mor:	cconj|and det|that-Def-Dem-Sing noun|girl aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	(.) and there's somethin(g) else over there . [+ es] 43331_44601
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|else-S1 adp|over adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|4|AMOD 6|7|CASE 7|3|OBL 8|3|PUNCT
+*PAR:	(.) there's another girl (.) look like . [+ gram] 45984_49994
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|another-Def-Ind noun|girl verb|look-Inf-Imp-S adp|like .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|XCOMP 6|5|COMPOUND-PRT 7|2|PUNCT
+*INV:	(..) what else do you see going on in the picture ? 51328_59528
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|6|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|5|PUNCT
+*INV:	what's going on right here in this picture ? 59550_61630
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|right adv|here adp|in det|this-Def-Dem-Sing noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|ADVMOD 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	looks +/. [+ exc] 62253_62553
+%mor:	verb|look-Fin-Ind-Pres-S3 +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< what's happening there ? 62260_63110
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	look like some [//] a little girl is in there . [+ gram] 63125_65345
+%mor:	verb|look-Fin-Imp-S sconj|like det|a-Ind-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 adp|in adv|there .
+%gra:	1|0|ROOT 2|8|MARK 3|5|DET 4|5|AMOD 5|8|NSUBJ 6|8|COP 7|8|CASE 8|1|ADVCL 9|1|PUNCT
+*INV:	mhm . 65618_66178
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what else is going on ? 66708_68328
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on ?
+%gra:	1|4|OBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	I don't see nothin(g) else . [+ exc] 70240_71150
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|nothing-Neg-S1 adj|else-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|AMOD 7|4|PUNCT
+*PAR:	some of xxx and things . [+ exc] [+ jar] [+ gram] 72150_73510
+%mor:	det|some-Def-Ind adp|of cconj|and noun|thing-Plur .
+%gra:	1|0|ROOT 2|4|CASE 3|4|CC 4|1|NMOD 5|1|PUNCT
+*INV:	uhhuh . 74717_74777
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you tell me what's going on on this side of the picture ? 75827_78057
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|on det|this-Def-Dem-Sing noun|side adp|of det|the-Def-Art noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|3|PUNCT
+*PAR:	look to me like the same except them things up there . [+ gram] 79404_82724
+%mor:	verb|look-Fin-Imp-S adp|to pron|I-Prs-Acc-S1 adp|like det|the-Def-Art adj|same-S1 adp|except pron|they-Prs-Acc-P3 noun|thing-Plur adp|up adv|there .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|6|DISCOURSE 5|6|DET 6|1|OBL 7|8|CASE 8|6|NMOD 9|6|NMOD 10|11|ADVMOD 11|9|ADVMOD 12|1|PUNCT
+*INV:	what [/] what are you talking about ? 82938_85228
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|talk-Part-Pres-S adp|about ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT 6|4|PUNCT
+*PAR:	(..) I see this they all look [//] looked about the same to me except this thing here . [+ es] 87698_91498
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|this-Dem-S1 pron|they-Prs-Nom-P3 det|all-Def-Tot verb|look-Fin-Ind-Past-P3 adp|about det|the-Def-Art adj|same-S1 adp|to pron|I-Prs-Acc-S1 adp|except det|this-Def-Dem-Sing noun|thing-Ger adv|here .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|NSUBJ 5|4|DET 6|2|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|11|CASE 11|6|OBL 12|14|CASE 13|14|DET 14|6|OBL 15|14|ADVMOD 16|2|PUNCT
+*PAR:	look like a little kid the same . [+ gram] 91776_92816
+%mor:	verb|look-Fin-Imp-S adp|like det|a-Ind-Art adj|little-S1 noun|kid det|the-Def-Art adj|same-S1 .
+%gra:	1|0|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|7|DET 7|5|NMOD-UNMARKED 8|1|PUNCT
+*INV:	uhhuh . 93430_93950
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	can you see anything else in that picture ? 94180_95720
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*PAR:	(.) I'm sorry I didn't bring my glasses . [+ exc] 98185_99775
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|bring-Inf-S pron|my-Prs-Gen-S1 noun|glasses-Ptan-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|9|NMOD-POSS 9|7|OBJ 10|3|PUNCT
+*INV:	(.) maybe we can try another time when you have your glasses . 102254_104924
+%mor:	adv|maybe pron|we-Prs-Nom-P1 aux|can-Fin-S verb|try-Inf-S det|another-Def-Ind noun|time-Acc adv|when pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|glasses-Ptan-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|ADVMOD 8|9|NSUBJ 9|4|ADVCL 10|11|NMOD-POSS 11|9|OBJ 12|4|PUNCT
+*INV:	it does help to have +/. 105530_106540
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|help-Inf-S part|to verb|have-Inf-S +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+@End

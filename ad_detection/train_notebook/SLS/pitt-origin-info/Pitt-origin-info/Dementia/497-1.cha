@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00002668-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|71;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	497-1, audio
+@G:	Cookie
+*INV:	look at this picture . 340_1200
+%mor:	verb|look-Fin-Imp-S adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*INV:	tell me everything that you see happening in that picture . 2057_4767
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+*INV:	what's going on there ? 5040_6350
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*PAR:	well ‡ the &+m mother's washing the dishes [//] &+d &-uh drying the dishes . 7021_10531
+%mor:	intj|well punct|‡ det|the-Def-Art noun|mother~part|s verb|wash-Part-Pres-S det|the-Def-Art verb|drying-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|4|CASE 6|0|ROOT 7|10|DET 8|6|OBJ 9|10|DET 10|6|OBJ 11|6|PUNCT
+*PAR:	and the &+k the two little kids are &+i <in the> [//] in a cupboard . 10664_14094
+%mor:	cconj|and det|the-Def-Art det|the-Def-Art num|two adj|little-S1 noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art noun|cupboard .
+%gra:	1|10|CC 2|6|DET 3|6|DET 4|6|NUMMOD 5|6|AMOD 6|10|NSUBJ 7|10|COP 8|10|CASE 9|10|DET 10|0|ROOT 11|10|PUNCT
+*PAR:	they're tryin(g) to get the [/] the [/] <the &-uh cookie> [//] <little cookies> [//] the cookies . 14111_18371
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	anything else going on ? 20301_21481
+%mor:	pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|ACL 4|3|COMPOUND-PRT 5|1|PUNCT
+*PAR:	yeah ‡ the [/] &+w &-uh the &+w &-uh water's &+sp spreadin(g) over [//] all over the floor . 21710_25600
+%mor:	intj|yeah punct|‡ det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spread-Part-Pres-S adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|10|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+*PAR:	(.) is that supposed +//? [+ exc] 27872_28282
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem verb|suppose-Part-Past-S +//?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|0|ROOT 4|3|PUNCT
+*PAR:	and what else ? [+ exc] 28300_28730
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|2|PUNCT
+*INV:	+< mhm . 28840_28900
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	what else ? [+ exc] 28951_29471
+%mor:	pron|what-Int-S1 adv|else ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*INV:	is there anything else ? 29890_30810
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|1|PUNCT
+*PAR:	&-uh <the see (.) the> [//] &-uh let's see . [+ exc] 31003_37353
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	the [/] &+la the &+w woman's lookin(g) out the window too . 37400_39450
+%mor:	det|the-Def-Art noun|woman~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc adv|too .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+*INV:	mhm . 39746_40006
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< you_know she's got this thing and then <with the> [/] <with the> [//] tryin(g) to wash and &+w dishes with them . [+ gram] 39828_44478
+%mor:	intj|youknow pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|this-Def-Dem-Sing noun|thing-Acc-Ger cconj|and adv|then verb|try-Part-Pres-S part|to verb|wash-Inf-S cconj|and noun|dish-Plur adp|with pron|they-Prs-Acc-P3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|ADVMOD 9|4|CONJ 10|11|MARK 11|9|XCOMP 12|13|CC 13|11|CONJ 14|15|CASE 15|11|OBL 16|4|PUNCT
+*PAR:	let's see . [+ exc] 45183_46263
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	(.) <they spill it> [//] <they spill> [//] &-uh water spilled <over it> [//] over the thing . [+ es] 46286_53306
+%mor:	noun|water verb|spill-Fin-Ind-Past-S3 adp|over det|the-Def-Art noun|thing-Ger .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*INV:	+< okay . 52810_53090
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay ? [+ exc] 54178_54538
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good . 54560_54920
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/t-00002214-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	045-0, audio
+@G:	Cookie
+*INV:	start whenever you want . 1320_2310
+%mor:	verb|start-Fin-Imp-S adv|whenever pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|2|ADVCL-RELCL 5|1|PUNCT
+*PAR:	cookie jar . [+ gram] 3957_4757
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	&-uh a lad standing on a stool teetering , grabbing for the cookies . [+ gram] 5120_15060
+%mor:	det|a-Ind-Art noun|lad verb|stand-Ger-S adp|on det|a-Ind-Art noun|stool verb|teeter-Ger-S cm|cm verb|grab-Part-Pres-S adp|for det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|DET 2|0|ROOT 3|2|ACL 4|6|CASE 5|6|DET 6|3|OBL 7|3|ADVCL 8|9|PUNCT 9|3|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|2|PUNCT
+*PAR:	sister I guess laughing at him . [+ gram] 18021_20461
+%mor:	noun|sister pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 verb|laugh-Ger-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|6|CASE 6|4|OBL 7|3|PUNCT
+*PAR:	mother washing dishes . [+ gram] 22054_23114
+%mor:	noun|mother noun|washing-Ger noun|dish-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	sink is overflowing . [+ gram] 23200_24260
+%mor:	noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	&-um view of the yard and the kitchen window with its curtain . [+ gram] 25011_30231
+%mor:	noun|view adp|of det|the-Def-Art noun|yard cconj|and det|the-Def-Art noun|kitchen noun|window adp|with pron|its-Prs-Gen-S3 noun|curtain .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|8|CC 6|8|DET 7|8|COMPOUND 8|4|CONJ 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|1|PUNCT
+*PAR:	two cups and a dish remain . 33101_35471
+%mor:	num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|dish verb|remain-Fin-Ind-Pres-P3 .
+%gra:	1|2|NUMMOD 2|6|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|0|ROOT 7|6|PUNCT
+*PAR:	looks like they're dried . [+ gram] 35648_36968
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|dry-Part-Past-S .
+%gra:	1|0|ROOT 2|5|MARK 3|5|NSUBJ 4|5|COP 5|1|ADVCL 6|1|PUNCT
+*PAR:	mother standing in the overflowed water . [+ gram] 39023_41043
+%mor:	noun|mother verb|stand-Ger-S adp|in det|the-Def-Art verb|overflow-Part-Past-S noun|water .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+*PAR:	&-um her <four vased> [//] two faced cabinets four doors . [+ gram] 42644_48824
+%mor:	pron|her-Prs-Gen-S3 num|two verb|face-Fin-Ind-Past-P3 noun|cabinet-Plur-Acc num|four noun|door-Plur-Acc .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|NUMMOD 6|3|OBJ 7|3|PUNCT
+*INV:	anything else ? 50949_51459
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	+< and a valance and the curtain . [+ gram] 51802_54952
+%mor:	cconj|and det|a-Ind-Art noun|valance cconj|and det|the-Def-Art noun|curtain .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+*PAR:	window's half open . [+ gram] 56884_57964
+%mor:	noun|window~part|s noun|half adj|open-S1 .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|OBL-UNMARKED 4|0|ROOT 5|4|PUNCT
+*PAR:	and there's landscaping along the wall of <the &-uh view from the yard> [//] view of the yard . 60103_64833
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|landscaping-Ger adp|along det|the-Def-Art noun|wall adp|of noun|view adp|of det|the-Def-Art noun|yard .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*PAR:	and the walkway pictured from the window . [+ gram] 65166_73316
+%mor:	cconj|and det|the-Def-Art noun|walkway verb|picture-Part-Past-S adp|from det|the-Def-Art noun|window .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	water is running , overflowing . 75041_77391
+%mor:	noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S cm|cm verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+*PAR:	boy is holding a cookie in his left hand , grabbing for another one with his right hand . [+ gram] 79671_85861
+%mor:	noun|boy aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand cm|cm verb|grab-Part-Pres-S adp|for det|another-Def-Ind noun|one adp|with pron|his-Prs-Gen-S3 adj|right-S1 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|3|OBL 10|11|PUNCT 11|3|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|18|CASE 16|18|NMOD-POSS 17|18|AMOD 18|11|OBL 19|3|PUNCT
+*PAR:	the lid of the cookie jar is over [//] uff [: off] [* nk-ret] [//] off . 85911_89471
+%mor:	det|the-Def-Art noun|lid adp|of det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adv|off .
+%gra:	1|2|DET 2|8|NSUBJ 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|NMOD 7|8|COP 8|0|ROOT 9|8|PUNCT
+*PAR:	mother's wearing an apron drying dishes . 94611_97581
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S det|a-Ind-Art noun|apron noun|drying-Ger noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|DET 5|7|COMPOUND 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*INV:	that's fine . 98130_103550
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	okay . [+ exc] 104332_104422
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 105050_105340
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

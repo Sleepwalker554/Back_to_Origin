@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002608-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	293-1, audio
+@G:	Cookie
+*INV:	what's going on in the picture ? 0_2110
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*PAR:	does that say cookie honey ? [+ exc] 6623_8073
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|say-Inf-S noun|cookie noun|honey-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*INV:	you just tell me what you see going on in the picture . 8489_10649
+%mor:	pron|you-Prs-Nom-S2 adv|just verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+*PAR:	oh cookie jar . [+ gram] 11157_12367
+%mor:	intj|oh noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	this chair [: stool] [* s:r] is tilted . 15093_16283
+%mor:	det|this-Def-Dem-Sing noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|PUNCT
+*PAR:	do I tell you that too ? [+ exc] 16300_17620
+%mor:	aux|do-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|that-Dem adv|too ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*INV:	you can tell me everything you see going on . 18233_19793
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|3|PUNCT
+*PAR:	+< titled chair [: stool] [* s:r] . [+ gram] 18450_19450
+%mor:	verb|title-Part-Past-S noun|stool-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	girl goin(g) [: doin(g)] [* s:r] dishes . [+ gram] 20693_21713
+%mor:	noun|girl verb|do-Ger-S noun|dish-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	spillin(g) water . [+ gram] 22634_23384
+%mor:	verb|spill-Part-Pres-S noun|water-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	(.) here's two plates . 33023_33913
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 num|two noun|plate-Plur .
+%gra:	1|0|ROOT 2|1|COP 3|4|NUMMOD 4|1|NSUBJ 5|1|PUNCT
+*PAR:	now what would I say about them ? [+ exc] 34090_35720
+%mor:	adv|now pron|what-Int-S1 aux|would-Fin-S pron|I-Prs-Nom-S1 verb|say-Inf-S adp|about pron|they-Prs-Acc-P3 ?
+%gra:	1|5|ADVMOD 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*INV:	just tell me what you see going on in the picture . 36313_38273
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|2|PUNCT
+*PAR:	water spillin(g) . [+ gram] 40139_41249
+%mor:	noun|water noun|spilling-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) cookie jar . [+ gram] 45629_46409
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	(.) chair [: stool] [* s:r] fallin(g) . [+ gram] 50666_51626
+%mor:	noun|stool noun|falling-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	and children . [+ gram] 52458_53128
+%mor:	cconj|and noun|child-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	hell this is a damn dumb thing . [+ exc] 53570_57770
+%mor:	noun|hell pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|damn-S1 adj|dumb-S1 noun|thing-Ger .
+%gra:	1|7|OBL-UNMARKED 2|7|NSUBJ 3|7|COP 4|7|DET 5|7|AMOD 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*INV:	okay that's fine let me take it away . 58832_60322
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|take-Inf-S pron|it-Prs-Acc-S3 adv|away .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PARATAXIS 6|5|OBJ 7|5|XCOMP 8|7|OBJ 9|7|ADVMOD 10|4|PUNCT
+@End

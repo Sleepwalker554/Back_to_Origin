@@ -1,0 +1,130 @@
+@UTF8
+@PID:	11312/t-00002617-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|83;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	334-0, audio
+@G:	Cookie
+*INV:	in the picture . 590_1300
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	stool <is being> [//] &-uh is &+k falling over . [+ gram] 2544_5944
+%mor:	noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	the little girl is &-uh criticizing her brother if it's her brother . 5963_10883
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|criticize-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother-Acc sconj|if pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|NMOD-POSS 12|5|ADVCL 13|5|PUNCT
+*PAR:	her brother's getting in the cookie jar . 10900_12620
+%mor:	pron|her-Prs-Gen-S3 noun|brother~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+*PAR:	and the stool's gonna fall over with him . 13380_15120
+%mor:	cconj|and det|the-Def-Art noun|stool~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|over adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|5|PUNCT
+*PAR:	the mother's drying dishes . 15142_16472
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	there's water . 16490_17070
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|water .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|2|PUNCT
+*PAR:	sink's overflowing . [+ gram] 17361_18571
+%mor:	noun|sink~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	there's dirty dishes on the sink . 19161_20811
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|dirty-S1 noun|dish-Plur adp|on det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|AMOD 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	there's curtains at the window . 21292_22432
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|curtain-Plur adp|at det|the-Def-Art noun|window .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|2|PUNCT
+*PAR:	there's shrubbery , a tree outside . 22484_25544
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|shrubbery cm|cm det|a-Ind-Art noun|tree adv|outside .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|6|PUNCT 5|6|DET 6|3|APPOS 7|6|ADVMOD 8|2|PUNCT
+*PAR:	there's &-uh (..) oh landscaping . 26579_33429
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 intj|oh noun|landscaping-Ger .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DISCOURSE 4|2|NSUBJ 5|2|PUNCT
+*PAR:	you can see the window to the neighborhood [//] neighbor yard I guess your [//] her house . [+ gram] 33453_38413
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|window-Acc adp|to det|the-Def-Art noun|neighbor noun|yard pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|her-Prs-Gen-S3 noun|house-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|11|NSUBJ 11|3|PARATAXIS 12|13|NMOD-POSS 13|11|OBJ 14|3|PUNCT
+*PAR:	what else . [+ exc] 39576_40096
+%mor:	pron|what-Int-S1 adv|else .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	anything else ? [+ exc] 40249_40839
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*INV:	you tell me . 41978_42618
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|2|PUNCT
+*PAR:	I did say that the water's running in the sink and overflowing and it's getting on the mother's shoe . 43541_48701
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S sconj|that det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|in det|the-Def-Art noun|sink cconj|and verb|overflow-Part-Pres-S cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|on det|the-Def-Art noun|mother~part|s noun|shoe .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|13|CC 13|8|CONJ 14|17|CC 15|17|NSUBJ 16|17|AUX 17|8|CONJ 18|22|CASE 19|20|DET 20|22|NMOD-POSS 21|20|CASE 22|17|OBL 23|3|PUNCT
+*PAR:	she's standing in the water . 49819_51259
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	she's drying a dish . 51846_53106
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	she has an apron on . 53262_54482
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|apron-Acc adp|on .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*INV:	okay . 55172_55732
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I told you the boy's falling <off the> [/] &-uh off the stool . 56661_60901
+%mor:	pron|I-Prs-Nom-S1 verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|the-Def-Art noun|boy~part|s verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|5|DET 5|7|NSUBJ 6|5|CASE 7|2|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+*PAR:	and the girl's trying to +... 61817_62897
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|try-Part-Pres-S part|to +...
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|5|XCOMP 7|5|PUNCT
+*PAR:	cupboard door is open . [+ gram] 63671_64551
+%mor:	noun|cupboard noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the cookie jar is open . 64566_65767
+%mor:	det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	he's got a cookie in his hand he's handing to his sister „ I guess . 65788_69318
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S adp|to pron|his-Prs-Gen-S3 noun|sister punct|„ pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|11|NSUBJ 10|11|AUX 11|3|PARATAXIS 12|14|CASE 13|14|NMOD-POSS 14|11|OBL 15|17|PUNCT 16|17|NSUBJ 17|11|PARATAXIS 18|3|PUNCT
+*PAR:	(.) &+w you want any more things ? [+ exc] 72049_73149
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|any-Def-Ind adj|more-Cmp-S1 noun|thing-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*INV:	you tell me . 73172_73752
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|IOBJ 4|2|PUNCT
+*INV:	you think that's all ? 73767_74467
+%mor:	pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|2|PUNCT
+*PAR:	tie-back curtains . [+ gram] 74491_75551
+%mor:	noun|tie–back noun|curtain-Plur .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 77849_78339
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I said some dishes on the counter . 80304_81994
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr det|some-Def-Ind noun|dish-Plur-Acc adp|on det|the-Def-Art noun|counter .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	<the sink's> [//] (.) the water's running in the sink . 82016_85036
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	it's overflowing . 85086_85916
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	and shows a garden in the neighbor's house . [+ gram] 86966_89306
+%mor:	cconj|and verb|show-Fin-Ind-Pres-S3 det|a-Ind-Art noun|garden-Acc adp|in det|the-Def-Art noun|neighbor~part|s noun|house .
+%gra:	1|2|CC 2|0|ROOT 3|4|DET 4|2|OBJ 5|9|CASE 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|4|NMOD 10|2|PUNCT
+*PAR:	tree growing in the neighbor's yard . [+ gram] 91935_93535
+%mor:	noun|tree verb|grow-Ger-S adp|in det|the-Def-Art noun|neighbor~part|s noun|yard .
+%gra:	1|0|ROOT 2|1|ACL 3|7|CASE 4|5|DET 5|7|NMOD-POSS 6|5|CASE 7|2|OBL 8|1|PUNCT
+*PAR:	they have some shrubbery in their yard . 95123_96863
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 det|some-Def-Ind noun|shrubbery-Acc adp|in pron|their-Prs-Gen-P3 noun|yard .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*PAR:	I don't know . [+ exc] 97214_97554
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	okay that's xxx . 97790_98700
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay ? 98837_99407
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

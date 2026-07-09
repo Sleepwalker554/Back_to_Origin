@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002180-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	002-2, audio
+@G:	Cookie
+*INV:	look at the picture and tell me everything that you see going on in the picture . 2930_6960
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CC 6|1|CONJ 7|6|IOBJ 8|6|OBJ 9|12|OBJ 10|11|NSUBJ 11|8|ACL-RELCL 12|11|XCOMP 13|12|COMPOUND-PRT 14|16|CASE 15|16|DET 16|12|OBL 17|1|PUNCT
+*PAR:	&-um a boy and a girl are in the kitchen with their mother . 10229_14609
+%mor:	det|a-Ind-Art noun|boy cconj|and det|a-Ind-Art noun|girl aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|kitchen adp|with pron|their-Prs-Gen-P3 noun|mother .
+%gra:	1|2|DET 2|9|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|9|COP 7|9|CASE 8|9|DET 9|0|ROOT 10|12|CASE 11|12|NMOD-POSS 12|9|NMOD 13|9|PUNCT
+*PAR:	and the little boy is getting a cookie for the little girl but he's on a stool it's about to fall down . 15412_23272
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|for det|the-Def-Art adj|little-S1 noun|girl cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|down .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|12|CASE 10|12|DET 11|12|AMOD 12|6|OBL 13|18|CC 14|18|NSUBJ 15|18|COP 16|18|CASE 17|18|DET 18|6|CONJ 19|21|EXPL 20|21|COP 21|6|CONJ 22|23|MARK 23|21|XCOMP 24|23|COMPOUND-PRT 25|6|PUNCT
+*PAR:	&-uh the mother is washing dishes . 23736_26566
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and she's obviously thinking of something else because the water's pouring out over the &-uh sink . 26958_33988
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|obviously verb|think-Part-Pres-S adp|of pron|something-Ind-S1 adj|else-S1 sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|pour-Part-Pres-S adp|out adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|CASE 7|5|OBL 8|7|AMOD 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|5|ADVCL 14|13|COMPOUND-PRT 15|17|CASE 16|17|DET 17|13|OBL 18|5|PUNCT
+*PAR:	she's finished with some of the dishes . 34697_36307
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S adp|with det|some-Def-Ind adp|of det|the-Def-Art noun|dish-Plur .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|0|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*PAR:	it seems to be summertime because there are bushes . 36355_38715
+%mor:	pron|it-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S noun|summertime sconj|because pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|bush-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|COP 5|2|XCOMP 6|8|MARK 7|8|EXPL 8|2|ADVCL 9|8|NSUBJ 10|2|PUNCT
+*PAR:	the window is open . 38972_40412
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	there seems to be some kind of a breeze because the curtains on the sill there blowing . 41305_45565
+%mor:	pron|there-Int-S1 verb|seem-Fin-Ind-Pres-S3 part|to verb|be-Inf-S det|some-Def-Ind noun|kind adp|of det|a-Ind-Art noun|breeze sconj|because det|the-Def-Art noun|curtain-Plur adp|on det|the-Def-Art noun|sill adv|there verb|blow-Part-Pres-S .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|17|MARK 11|12|DET 12|17|NSUBJ 13|15|CASE 14|15|DET 15|12|NMOD 16|17|ADVMOD 17|4|ADVCL 18|2|PUNCT
+*PAR:	must be fairly hot . [+ gram] 46698_47968
+%mor:	aux|must-Fin-S aux|be-Inf-S adv|fairly adj|hot-S1 .
+%gra:	1|4|AUX 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	the mother's in a sleeveless dress . 48097_50457
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art adj|sleeveless-S1 noun|dress .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|DET 6|7|AMOD 7|0|ROOT 8|7|PUNCT
+*PAR:	the children are in [/] in short sleeve &-um tops and have sandals . 50693_58493
+%mor:	det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 adp|in adj|short-S1 noun|sleeve noun|top-Plur cconj|and verb|have-Fin-Ind-Pres-P3 noun|sandal-Plur-Acc .
+%gra:	1|2|DET 2|7|NSUBJ 3|7|COP 4|7|CASE 5|7|AMOD 6|7|COMPOUND 7|0|ROOT 8|9|CC 9|7|CONJ 10|9|OBJ 11|7|PUNCT
+*PAR:	the little boy has &-uh tennis shoes on . 58539_61079
+%mor:	det|the-Def-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 noun|tennis noun|shoe-Plur-Acc adp|on .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*PAR:	&-um the mother obviously is unaware of what the children are doing . 64022_66992
+%mor:	det|the-Def-Art noun|mother adv|obviously aux|be-Fin-Ind-Pres-S3 adj|unaware-S1 adp|of pron|what-Rel-S1 det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|do-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|ADVMOD 4|5|COP 5|0|ROOT 6|7|CASE 7|5|OBL 8|9|DET 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|5|PUNCT
+*PAR:	she's going to be aware of it very shortly . 67187_69357
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adj|aware-S1 adp|of pron|it-Prs-Acc-S3 adv|very adv|shortly .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|8|CASE 8|6|OBL 9|10|ADVMOD 10|6|ADVMOD 11|3|PUNCT
+*PAR:	&-um I_mean how much more do you want ? [+ exc] 71867_72987
+%mor:	propn|Imean adv|how adv|much adj|more-Cmp-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|7|DISCOURSE 2|3|ADVMOD 3|4|ADVMOD 4|7|OBJ 5|7|AUX 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*INV:	if that's it that's fine . 73209_73939
+%mor:	sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|COP 4|7|ADVCL 5|7|NSUBJ 6|7|COP 7|0|ROOT 8|7|PUNCT
+*PAR:	+< hm okay . [+ exc] 73570_74430
+%mor:	intj|hm intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

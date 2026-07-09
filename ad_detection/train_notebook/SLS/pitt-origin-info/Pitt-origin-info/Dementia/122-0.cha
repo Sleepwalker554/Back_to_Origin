@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002506-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	122-0, audio
+@G:	Cookie
+*PAR:	well , why <the mother is> [//] she's [/] &-um <she's not with the> [//] what is she ? [+ exc] 180_11050
+%mor:	intj|well cm|cm adv|why pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|0|ROOT 5|4|COP 6|4|NSUBJ 7|4|PUNCT
+*PAR:	she's &-uh &+indus interested in something else and she doesn't realize that her water is spilling . 12211_20061
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|interested-S1 adp|in pron|something-Ind-S1 adj|else-S1 cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|realize-Inf-S sconj|that pron|her-Prs-Gen-S3 noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|5|AMOD 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|3|CONJ 12|16|MARK 13|14|NMOD-POSS 14|16|NSUBJ 15|16|AUX 16|11|CCOMP 17|3|PUNCT
+*PAR:	(.) and the children have [//] &-uh havin(g) a good time because they're [//] while their mother's interested in something else they're stealing cookies . [+ gram] 22904_32433
+%mor:	cconj|and det|the-Def-Art noun|child-Plur verb|have-Ger-S det|a-Ind-Art adj|good-S1 noun|time-Acc sconj|because sconj|while pron|their-Prs-Gen-P3 noun|mother~aux|be-Fin-Ind-Pres-S3 adj|interested-S1 adp|in pron|something-Ind-S1 adj|else-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|7|DET 6|7|AMOD 7|4|OBJ 8|13|MARK 9|13|MARK 10|11|NMOD-POSS 11|13|NSUBJ 12|13|COP 13|4|ADVCL 14|15|CASE 15|13|OBL 16|15|AMOD 17|19|NSUBJ 18|19|AUX 19|15|ACL-RELCL 20|19|OBJ 21|3|PUNCT
+*PAR:	<the child> [//] the [/] <the son> [//] the boy looks like he's gonna be hurt . 38220_42100
+%mor:	det|the-Def-Art noun|boy verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S verb|hurt-Part-Past-S-irr .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|ADVCL 8|10|MARK 9|10|AUX-PASS 10|7|XCOMP 11|3|PUNCT
+*PAR:	and oh the water's overflowing . 44591_46581
+%mor:	cconj|and intj|oh det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|6|CC 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	I hope I didn't go too fast . [+ exc] 49358_50848
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|go-Inf-S adv|too adv|fast .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|8|ADVMOD 8|6|ADVMOD 9|2|PUNCT
+*INV:	it's okay . 51001_51481
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	I've got the tape recorder on so &=laughs +... 52393_53983
+%mor:	pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr det|the-Def-Art noun|tape noun|recorder-Acc adp|on adv|so +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|ADVMOD 8|3|ADVMOD 9|3|PUNCT
+*INV:	(.) what's happening there ? 59026_59796
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	the boy is falling . 60683_61753
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and oh he's stealing cookies too . 62526_64416
+%mor:	cconj|and intj|oh pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc adv|too .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*INV:	mhm . 65019_65179
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 72613_72973
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

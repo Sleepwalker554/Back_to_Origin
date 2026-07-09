@@ -1,0 +1,125 @@
+@UTF8
+@PID:	11312/t-00002487-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;00.|female|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	076-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me all the action you see going on in the picture . 500_3020
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|DET-PREDET 4|5|DET 5|1|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|1|PUNCT
+*PAR:	oh my . [+ exc] 3709_4019
+%mor:	intj|oh pron|my-Prs-Gen-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	you mean how much or just &+t the ones ? [+ exc] 4230_6090
+%mor:	pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adv|how adj|much-S1 cconj|or adv|just det|the-Def-Art noun|one-Plur ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|2|OBJ 5|8|CC 6|8|ADVMOD 7|8|DET 8|4|CONJ 9|2|PUNCT
+*INV:	+< just tell me all the action . 6043_7193
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot det|the-Def-Art noun|action-Acc .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|DET-PREDET 5|6|DET 6|2|OBJ 7|2|PUNCT
+*INV:	tell me what's going on . 7232_8292
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+*PAR:	+< oh . [+ exc] 8420_8450
+%mor:	intj|oh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's [//] the sink is overflowing while she's wiping &-uh &-uh &+k &-uh a plate and not looking &=laughs . 9590_15110
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S sconj|while pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|a-Ind-Art noun|plate-Acc cconj|and part|not verb|look-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|10|DET 10|8|OBJ 11|13|CC 12|13|ADVMOD 13|8|CONJ 14|4|PUNCT
+*INV:	mhm . 16225_16565
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the little boy is hungry . 16906_18146
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 adj|hungry-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	he wants to get some cookies . 18190_19470
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	and he's standing on &-uh &-um a stool . 19537_22397
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and it's tipping over . 23020_23730
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	and I don't know whether he's gonna bring the cookie jar with him or what &=laughs . 24417_26807
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|bring-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc adp|with pron|he-Prs-Acc-S3 cconj|or pron|what-Int-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|11|MARK 11|9|XCOMP 12|14|DET 13|14|COMPOUND 14|11|OBJ 15|16|CASE 16|11|OBL 17|18|CC 18|16|CONJ 19|5|PUNCT
+*PAR:	and the little girl is &-um &-uh holding up her hand wanting some . 28074_34584
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|hold-Part-Pres-S adp|up pron|her-Prs-Gen-S3 noun|hand-Acc verb|want-Part-Pres-S det|some-Def-Ind .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|9|NMOD-POSS 9|6|OBJ 10|6|ADVCL 11|10|OBJ 12|6|PUNCT
+*PAR:	and he's gonna give to him [* s:r] . 34626_35726
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|give-Inf-S adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*PAR:	but &-uh I don't know if she has a finger to her mouth but +... 35800_39160
+%mor:	cconj|but pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|finger-Acc adp|to pron|her-Prs-Gen-S3 noun|mouth cconj|but +...
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|MARK 7|8|NSUBJ 8|5|CCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|5|PUNCT 15|5|PUNCT
+*PAR:	and she knows that he's gonna be tipping over it looks like to me . 39450_42180
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|know-Fin-Ind-Pres-S3 sconj|that pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S verb|tip-Part-Pres-S adp|over pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|10|MARK 9|10|AUX 10|7|XCOMP 11|10|COMPOUND-PRT 12|13|NSUBJ 13|7|CONJ 14|13|OBL 15|16|CASE 16|13|OBL 17|3|PUNCT
+*INV:	uhhuh . 43892_44312
+%mor:	intj|uhhuh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	or maybe she's just not noticing it and making her mouth get ready for this good cookie . 43893_49553
+%mor:	cconj|or adv|maybe pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just part|not verb|notice-Part-Pres-S pron|it-Prs-Acc-S3 cconj|and verb|make-Part-Pres-S pron|her-Prs-Gen-S3 noun|mouth-Acc verb|get-Inf-S adj|ready-S1 adp|for det|this-Def-Dem-Sing adj|good-S1 noun|cookie .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|0|ROOT 8|7|OBJ 9|10|CC 10|7|CONJ 11|12|NMOD-POSS 12|10|OBJ 13|10|XCOMP 14|13|XCOMP 15|18|CASE 16|18|DET 17|18|AMOD 18|14|OBL 19|7|PUNCT
+*PAR:	I don't know which way it is for the little girl . [+ exc] 49991_51191
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S det|which-Def-Int noun|way-Acc pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|for det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|12|CASE 10|12|DET 11|12|AMOD 12|6|NMOD 13|4|PUNCT
+*PAR:	(be)cause she's smiling . [+ gram] 52537_53297
+%mor:	sconj|because pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|smile-Part-Pres-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	I think if she saw him falling over she'd do something to [/] to help him so he wouldn't get hurt . 53333_58533
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|if pron|she-Prs-Nom-S3 verb|see-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 verb|fall-Ger-S adp|over pron|she-Prs-Nom-S3~aux|would-Fin-S verb|do-Inf-S pron|something-Ind-S1 part|to verb|help-Inf-S pron|he-Prs-Acc-S3 sconj|so pron|he-Prs-Nom-S3 aux|would-Fin-S~part|not aux|get-Inf-S verb|hurt-Part-Past-S-irr .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|NSUBJ 5|11|ADVCL 6|5|OBJ 7|5|XCOMP 8|7|COMPOUND-PRT 9|11|NSUBJ 10|11|AUX 11|2|CCOMP 12|11|OBJ 13|14|MARK 14|12|ACL 15|14|OBJ 16|21|MARK 17|21|NSUBJ-PASS 18|21|AUX 19|21|ADVMOD 20|21|AUX-PASS 21|11|ADVCL 22|2|PUNCT
+*PAR:	I_mean she'd grab it or something . 58933_60243
+%mor:	propn|Imean pron|she-Prs-Nom-S3~aux|would-Fin-S verb|grab-Inf-S pron|it-Prs-Acc-S3 cconj|or pron|something-Ind-S1 .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CC 7|5|CONJ 8|4|PUNCT
+*INV:	+< mhm . 60210_60390
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	but she's just looking up at him you_know lookin(g) up at those good cookies and waitin(g) for them to come to her hand . 61072_66032
+%mor:	cconj|but pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just verb|look-Part-Pres-S adp|up adp|at pron|he-Prs-Acc-S3 noun|youknow verb|look-Part-Pres-S adp|up adp|at det|that-Def-Dem-Plur adj|good-S1 noun|cookie-Plur cconj|and verb|wait-Part-Pres-S sconj|for pron|they-Prs-Acc-P3 part|to verb|come-Inf-S adp|to pron|her-Prs-Gen-S3 noun|hand .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|5|OBL 10|5|ADVCL 11|10|COMPOUND-PRT 12|15|CASE 13|15|DET 14|15|AMOD 15|10|OBL 16|17|CC 17|10|CONJ 18|21|MARK 19|21|NSUBJ 20|21|MARK 21|17|ADVCL 22|24|CASE 23|24|NMOD-POSS 24|21|OBL 25|5|PUNCT
+*PAR:	but this little finger in her mouth is +... 66979_69479
+%mor:	cconj|but det|this-Def-Dem-Sing adj|little-S1 noun|finger adp|in pron|her-Prs-Gen-S3 noun|mouth aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|NSUBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|0|ROOT 9|8|PUNCT
+*PAR:	&-uh I'm not quite sure what it means . [+ exc] 69939_71279
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|quite adj|sure-S1 pron|what-Int-S1 pron|it-Prs-Nom-S3 verb|mean-Fin-Ind-Pres-S3 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|8|OBJ 7|8|NSUBJ 8|5|CCOMP 9|5|PUNCT
+*PAR:	I think it means that it's gonna be good &=laughs . 71808_73818
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3 verb|mean-Fin-Ind-Pres-S3 sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to aux|be-Inf-S adj|good-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|NSUBJ 4|2|CCOMP 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|11|MARK 10|11|COP 11|8|XCOMP 12|2|PUNCT
+*INV:	+< mhm probably . 73963_74743
+%mor:	intj|mhm adv|probably .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|PUNCT
+*PAR:	yeah . [+ exc]
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 76080_76460
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &-uh I don't know whether the mother knows this is wet yet &=laughs . 76797_79637
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether det|the-Def-Art noun|mother verb|know-Fin-Ind-Pres-S3 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|wet-S1 adv|yet .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|9|MARK 7|8|DET 8|9|NSUBJ 9|5|CCOMP 10|12|NSUBJ 11|12|COP 12|9|CCOMP 13|12|ADVMOD 14|5|PUNCT
+*INV:	she's gonna find out isn't she ? 80760_82090
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|find-Inf-S adp|out aux|be-Fin-Ind-Pres-S3~part|not pron|she-Prs-Nom-S3 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PARATAXIS 8|9|ADVMOD 9|3|PARATAXIS 10|3|PUNCT
+*PAR:	+< she's thinking something else I think . 81800_83410
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|think-Part-Pres-S pron|something-Ind-S1 adj|else-S1 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|3|PUNCT
+*PAR:	I don't know what it is . [+ exc] 83646_84496
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+*PAR:	+" <what are> [//] what's [//] what are we going to have for lunch ? 85710_87760
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|have-Inf-S adp|for noun|lunch ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*PAR:	or [/] &=laughs or she's got something in her mind (be)cause certainly she'd see this if she didn't hear it . 88070_93350
+%mor:	cconj|or pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|something-Ind-S1 adp|in pron|her-Prs-Gen-S3 noun|mind sconj|because adv|certainly pron|she-Prs-Nom-S3~aux|would-Fin-S verb|see-Inf-S pron|this-Dem-S1 sconj|if pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|hear-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|13|MARK 10|13|ADVMOD 11|13|NSUBJ 12|13|AUX 13|4|ADVCL 14|13|OBJ 15|19|MARK 16|19|NSUBJ 17|19|AUX 18|19|ADVMOD 19|13|ADVCL 20|19|OBJ 21|4|PUNCT
+*INV:	okay . 93480_94360
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

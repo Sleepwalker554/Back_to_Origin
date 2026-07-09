@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/t-00002362-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|male|Control||Participant|28||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	245-0, audio
+@G:	Cookie
+*INV:	all the action you see going on in that picture . 280_2850
+%mor:	det|all-Def-Tot det|the-Def-Art noun|action pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|3|DET-PREDET 2|3|DET 3|0|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|3|PUNCT
+*PAR:	well the mother is &-uh &=clears:throat washin(g) dishes and the [/] the [//] she hasn't turned the water off . 3657_11137
+%mor:	intj|well det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not verb|turn-Part-Past-S det|the-Def-Art noun|water-Acc adp|off .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|5|CONJ 12|13|DET 13|11|OBJ 14|11|COMPOUND-PRT 15|5|PUNCT
+*PAR:	and the [/] the water (i)s spillin(g) out from the sink onto the floor and she's standin(g) in the puddle of water . 11229_16248
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|from det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|puddle adp|of noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|5|OBL 13|16|CC 14|16|NSUBJ 15|16|AUX 16|5|CONJ 17|19|CASE 18|19|DET 19|16|OBL 20|21|CASE 21|19|NMOD 22|5|PUNCT
+*PAR:	and the boy is &-uh standin(g) on a stool , a high stool and he is &-uh robbing the cookie jar . 16379_24999
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool cm|cm det|a-Ind-Art adj|high-S1 noun|stool cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|robb-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|PUNCT 10|12|DET 11|12|AMOD 12|8|CONJ 13|16|CC 14|16|NSUBJ 15|16|AUX 16|5|CONJ 17|19|DET 18|19|COMPOUND 19|16|OBJ 20|5|PUNCT
+*PAR:	and at the same time his sister is askin(g) him for a cookie and <in the> [/] in the process his stool is starting to tip over . 25020_34830
+%mor:	cconj|and adp|at det|the-Def-Art adj|same-S1 noun|time pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S pron|he-Prs-Acc-S3 adp|for det|a-Ind-Art noun|cookie cconj|and adp|in det|the-Def-Art noun|process pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|tip-Inf-S adp|over .
+%gra:	1|9|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|9|OBL 6|7|NMOD-POSS 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|IOBJ 11|13|CASE 12|13|DET 13|9|OBL 14|21|CC 15|17|CASE 16|17|DET 17|21|OBL 18|19|NMOD-POSS 19|21|NSUBJ 20|21|AUX 21|9|CONJ 22|23|MARK 23|21|XCOMP 24|23|COMPOUND-PRT 25|9|PUNCT
+*PAR:	(.) and &-uh I guess that's the main point to this . [+ exc] 34848_40658
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|main-S1 noun|point adp|to pron|this-Dem-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|AMOD 8|3|CCOMP 9|10|CASE 10|8|NMOD 11|3|PUNCT
+*PAR:	it looks like that <boy (i)s> [/] boy (i)s in for a bad fall &=laughs . 40845_47635
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|that-Def-Dem-Sing noun|boy aux|be-Fin-Ind-Pres-S3 adv|in adp|for det|a-Ind-Art adj|bad-S1 noun|fall .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|COP 7|2|ADVCL 8|11|CASE 9|11|DET 10|11|AMOD 11|7|OBL 12|2|PUNCT
+*INV:	&=laughs .
+*PAR:	goin(g) to be in for a bad fall . [+ gram] 48914_50254
+%mor:	verb|go-Part-Pres-S part|to aux|be-Inf-S adv|in adp|for det|a-Ind-Art adj|bad-S1 noun|fall .
+%gra:	1|0|ROOT 2|4|MARK 3|4|COP 4|1|XCOMP 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|1|PUNCT
+*INV:	mhm okay . 50303_52603
+%mor:	intj|mhm intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

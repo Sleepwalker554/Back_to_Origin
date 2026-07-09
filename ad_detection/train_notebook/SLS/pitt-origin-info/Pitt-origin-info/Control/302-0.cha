@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/t-00002396-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|57;|female|Control||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	302-0, audio
+@Comment:	overlapping audio
+@G:	Cookie
+*INV:	just tell me all of the action . 230_1900
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 det|all-Def-Tot adp|of det|the-Def-Art noun|action .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*PAR:	little girl with her finger to her lips . [+ gram] 1963_7573
+%mor:	adj|little-S1 noun|girl adp|with pron|her-Prs-Gen-S3 noun|finger adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|2|AMOD 2|0|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|2|PUNCT
+*PAR:	the boy on the stool . [+ gram] 8854_11594
+%mor:	det|the-Def-Art noun|boy adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|0|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*PAR:	stool tipping over . [+ gram] 14145_15615
+%mor:	noun|stool verb|tip-Ger-S adp|over .
+%gra:	1|0|ROOT 2|1|ACL 3|2|COMPOUND-PRT 4|1|PUNCT
+*PAR:	getting cookies out_of the cookie jar . [+ gram] 18293_20703
+%mor:	verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|CASE 4|6|DET 5|6|COMPOUND 6|1|OBL 7|1|PUNCT
+*PAR:	&-uh mother washing dishes . [+ gram] 23562_24802
+%mor:	noun|mother noun|washing-Ger noun|dish-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+*PAR:	water running . [+ gram] 27788_28708
+%mor:	noun|water noun|running-Ger .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	sink overflowing . [+ gram] 30301_31811
+%mor:	verb|sink-Fin-Imp-S noun|overflow-Acc-Ger .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	xxx those curtains are blowing or not . 33395_38145
+%mor:	det|that-Def-Dem-Plur noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S cconj|or part|not .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+*PAR:	(..) that's about it . [+ exc] 42848_44128
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay good . 47575_48205
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

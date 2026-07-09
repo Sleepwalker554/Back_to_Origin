@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002395-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|61;|female|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	299-1, audio
+@G:	Cookie
+*INV:	I am gonna show you a picture . 140_1600
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|3|PUNCT
+*INV:	and in the picture there's some things going on . 2056_4296
+%mor:	cconj|and adp|in det|the-Def-Art noun|picture pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|thing-Plur verb|go-Ger-S adp|on .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|9|COMPOUND-PRT 11|6|PUNCT
+*INV:	what I want you to do is just look at the picture and describe to me any action you see taking place or anything you see happening . 4389_10889
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 adv|just verb|look-Inf-S adp|at det|the-Def-Art noun|picture cconj|and verb|describe-Inf-S adp|to pron|I-Prs-Acc-S1 det|any-Def-Ind noun|action-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|take-Ger-S noun|place-Acc cconj|or pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|9|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|9|COP 8|9|ADVMOD 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|9|CONJ 15|16|CASE 16|14|OBL 17|18|DET 18|14|OBJ 19|20|NSUBJ 20|18|ACL-RELCL 21|20|ADVCL 22|21|OBJ 23|24|CC 24|22|CONJ 25|26|NSUBJ 26|24|ACL-RELCL 27|26|XCOMP 28|9|PUNCT
+*PAR:	the kids are swiping some cookies . 11607_14057
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|swipe-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and [/] &-uh and a stool is upsetting . 14111_16521
+%mor:	cconj|and det|a-Ind-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|upsetting-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and <the kid> [//] the girl's tellin(g) him to be quiet so his mother over there washin(g) dishes and the sink's overflowin(g) . [+ gram] 16924_22284
+%mor:	cconj|and det|the-Def-Art noun|girl~part|s verb|tell-Part-Pres-S pron|he-Prs-Acc-S3 part|to aux|be-Inf-S adj|quiet-S1 adv|so pron|his-Prs-Gen-S3 noun|mother adp|over pron|there-Prs-Gen-P3 noun|washing-Ger noun|dish-Plur cconj|and det|the-Def-Art noun|sink~part|s noun|overflow-Ger .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|5|IOBJ 7|9|MARK 8|9|COP 9|5|XCOMP 10|16|ADVMOD 11|12|NMOD-POSS 12|16|NSUBJ 13|16|CASE 14|16|NMOD-POSS 15|16|COMPOUND 16|9|OBL 17|21|CC 18|19|DET 19|21|NMOD-POSS 20|19|CASE 21|16|CONJ 22|5|PUNCT
+*PAR:	and &-uh the window's up . 23139_25299
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adv|up .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh I don't see much more than that . [+ exc] 26465_30255
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S adv|much adj|more-Cmp-S1 adp|than pron|that-Dem .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|ADVMOD 7|5|OBJ 8|9|CASE 9|7|OBL 10|5|PUNCT
+*PAR:	she's dryin(g) dishes . 30310_31180
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	did you say action ? [+ exc] 31200_32210
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S noun|action-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	right . 32800_33080
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I about it . [+ exc] [+ gram] 34271_34801
+%mor:	pron|I-Prs-Nom-S1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*INV:	okay . 35610_35730
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cookie jar lid's fallin(g) . [+ gram] 36081_37261
+%mor:	noun|cookie noun|jar noun|lid~aux|be-Fin-Ind-Pres-S3 verb|falling-Part-Pres-S .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 37534_37644
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

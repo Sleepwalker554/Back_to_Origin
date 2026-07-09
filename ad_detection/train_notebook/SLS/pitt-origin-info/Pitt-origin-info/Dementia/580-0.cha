@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002691-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|female|PossibleAD||Participant|13||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	580-0, audio
+@G:	Cookie
+*INV:	nope . 200_680
+%mor:	intj|nope .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	I want you to look at this picture . 791_2651
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|look-Inf-S adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*INV:	take a look at that picture and tell me everything you see going on there . 3840_8010
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|12|XCOMP 14|15|CASE 15|13|ADVMOD 16|1|PUNCT
+*PAR:	+< &=laughs cookie jar &=laughs . [+ gram] 9458_9848
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	+< tell me everything that's happening in that picture . 9569_11849
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+*PAR:	well ‡ <the little boy's goin(g) up> [//] the [/] &+l &-uh the little boy went up on the little chair [* s:r] . 12638_17558
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|boy verb|go-Fin-Ind-Past-S3-irr adp|up adp|on det|the-Def-Art adj|little-S1 noun|chair .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|0|ROOT 7|6|COMPOUND-PRT 8|11|CASE 9|11|DET 10|11|AMOD 11|6|OBL 12|6|PUNCT
+*PAR:	and he's halfway comin(g) down &=laughs like [//] though he's gonna fall down . 18135_21345
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|halfway verb|come-Part-Pres-S adp|down sconj|though pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|down .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|COMPOUND-PRT 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|12|MARK 12|10|XCOMP 13|12|COMPOUND-PRT 14|5|PUNCT
+*PAR:	and the little girl , they're trying to reach up that cookie jar . 21701_25421
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|reach-Inf-S adp|up det|that-Def-Dem-Sing noun|cookie noun|jar-Acc .
+%gra:	1|8|CC 2|4|DET 3|4|AMOD 4|8|DISLOCATED 5|4|PUNCT 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|14|DET 13|14|COMPOUND 14|10|OBJ 15|8|PUNCT
+*PAR:	you_know he's [/] he's the one that's tryin(g) to get the cookie jar . 25573_28123
+%mor:	intj|youknow pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|one pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|MARK 10|8|XCOMP 11|13|DET 12|13|COMPOUND 13|10|OBJ 14|5|PUNCT
+*PAR:	and the next thing I guess eventually he'll fall down because <he's only on> [//] he's on two legs only out on the darn thing here you_know . 28140_36660
+%mor:	cconj|and det|the-Def-Art adj|next-S1 noun|thing-Ger pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 adv|eventually pron|he-Prs-Nom-S3~aux|will-Fin-S verb|fall-Inf-S adp|down sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on num|two noun|leg-Plur adv|only adv|out adp|on det|the-Def-Art adj|darn-S1 noun|thing-Ger adv|here noun|youknow .
+%gra:	1|10|CC 2|4|DET 3|4|AMOD 4|10|OBL-UNMARKED 5|6|NSUBJ 6|4|ACL-RELCL 7|6|ADVMOD 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|10|COMPOUND-PRT 12|17|MARK 13|17|NSUBJ 14|17|COP 15|17|CASE 16|17|NUMMOD 17|10|ADVCL 18|19|ADVMOD 19|17|ADVMOD 20|23|CASE 21|23|DET 22|23|AMOD 23|19|OBL 24|23|ADVMOD 25|10|PARATAXIS 26|10|PUNCT
+*PAR:	and the mother or whatever she i(s) , she's doin(g) the dishes . 36996_40476
+%mor:	cconj|and det|the-Def-Art noun|mother cconj|or pron|whatever-Rel-S1 pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cm|cm pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|11|CC 2|3|DET 3|11|DISLOCATED 4|5|CC 5|3|CONJ 6|7|NSUBJ 7|5|ACL-RELCL 8|3|PUNCT 9|11|NSUBJ 10|11|AUX 11|0|ROOT 12|13|DET 13|11|OBJ 14|11|PUNCT
+*PAR:	she's already cleaning the dishes . 41048_42748
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|clean-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	see ‡ and she's got everything on her own side . 42772_45452
+%mor:	verb|see-Fin-Imp-S noun|‡-Acc cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr pron|everything-Tot-S1 adp|on pron|her-Prs-Gen-S3 adj|own-S1 noun|side .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|CC 4|6|NSUBJ 5|6|AUX 6|1|CONJ 7|6|OBJ 8|11|CASE 9|11|NMOD-POSS 10|11|AMOD 11|6|OBL 12|1|PUNCT
+*PAR:	so ‡ now what else shall I do ? [+ exc] 45898_47238
+%mor:	adv|so intj|‡ adv|now pron|what-Int-S1 adv|else aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|do-Inf-S ?
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|4|ADVMOD 4|8|OBJ 5|4|ADVMOD 6|8|AUX 7|8|NSUBJ 8|0|ROOT 9|8|PUNCT
+*INV:	that's all . 47258_47878
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	that's good . 47900_48600
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	very good . 49095_49175
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+@End

@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/t-00002562-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	220-0, audio
+@G:	Cookie
+*INV:	okay . 1000_1220
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	in the picture . 1650_2190
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	cookie jar . [+ gram] 3206_3996
+%mor:	noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 4625_5185
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and (.) two children . [+ gram] 6006_10436
+%mor:	cconj|and num|two noun|child-Plur .
+%gra:	1|3|CC 2|3|NUMMOD 3|0|ROOT 4|3|PUNCT
+*PAR:	one [//] the boy's up on a stool . 10655_12705
+%mor:	det|the-Def-Art noun|boy~part|s adv|up adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	and the little girl's standing up holding her hand for a cookie . 12750_16030
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~part|s verb|stand-Ger-S adp|up verb|hold-Ger-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NMOD-POSS 5|4|CASE 6|0|ROOT 7|6|COMPOUND-PRT 8|6|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|6|PUNCT
+*PAR:	then there's a lady that is drying some dishes . 17076_20546
+%mor:	adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lady pron|that-Rel aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|some-Def-Ind noun|dish-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|DET 10|8|OBJ 11|3|PUNCT
+*PAR:	but the only thing she is she gettin(g) water on the floor . [+ gram] 21465_24215
+%mor:	cconj|but det|the-Def-Art adj|only-S1 noun|thing-Ger pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|get-Part-Pres-S noun|water-Acc adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|8|NSUBJ 6|8|AUX 7|8|NSUBJ 8|4|ACL-RELCL 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|4|PUNCT
+*PAR:	that [//] she has a problem there . 25154_26654
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|problem-Acc adv|there .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*PAR:	and she has &-uh two plates and two xxx . [+ jar] 28668_32888
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|two noun|plate-Plur-Acc cconj|and num|two .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|PUNCT
+*PAR:	and the water comes sprinkling over . 34791_36881
+%mor:	cconj|and det|the-Def-Art noun|water verb|come-Fin-Ind-Pres-S3 verb|sprinkle-Ger-S adp|over .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|COMPOUND-PRT 7|4|PUNCT
+*PAR:	and <a kid> [//] the boy's up at the cookie jar . 36900_39030
+%mor:	cconj|and det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adv|up adp|at det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+*PAR:	and his sister didn't get a cookie from him yet &=laughs . 40905_44195
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|do-Fin-Ind-Past-S3-irr~part|not verb|get-Inf-S det|a-Ind-Art noun|cookie-Acc adp|from pron|he-Prs-Acc-S3 adv|yet .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|10|CASE 10|6|OBL 11|6|ADVMOD 12|6|PUNCT
+*INV:	&=laughs .
+*PAR:	but he has one in his hand now . 46025_47895
+%mor:	cconj|but pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 noun|hand adv|now .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|ADVMOD 9|3|PUNCT
+*PAR:	he has one in his hand and one in the top of the cookie jar . 48717_51907
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 noun|hand cconj|and num|one adp|in det|the-Def-Art noun|top adp|of det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|8|CC 8|3|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|NMOD 16|2|PUNCT
+*PAR:	so she finally got a cookie . 53328_54808
+%mor:	adv|so pron|she-Prs-Nom-S3 adv|finally verb|get-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	if he ever puts his arm down &=laughs . [+ gram] 57664_59464
+%mor:	sconj|if pron|he-Prs-Nom-S3 adv|ever verb|put-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|arm-Acc adp|down .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|PUNCT
+*PAR:	&+sh hers is up but she's [: he's] [* s:r] still got his (.) right in his hand &=laughs . 60060_66440
+%mor:	pron|her-Prs-S3 aux|be-Fin-Ind-Pres-S3 adv|up cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|still verb|get-Part-Past-S-irr pron|his-Prs-Gen-S3 adj|right-S1 adp|in pron|his-Prs-Gen-S3 noun|hand .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|8|CC 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|3|CONJ 9|10|NMOD-POSS 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|3|PUNCT
+@End

@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002656-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|male|Vascular||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	468-0, audio
+@G:	Cookie
+*PAR:	(.) oh any [//] anything I see . [+ exc] 3650_5000
+%mor:	intj|oh pron|anything-Ind-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|2|PUNCT
+*INV:	right . 5097_5297
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	well there's &-uh a little girl here . 7947_10507
+%mor:	intj|well pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl adv|here .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|3|ADVMOD 8|3|PUNCT
+*PAR:	(..) she's (..) pointing at something . 17187_22997
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|point-Part-Pres-S adp|at pron|something-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*PAR:	and that looks like &-uh (..) her mother [: brother] [* s:r] (.) is just about ready to [/] to fall down <on that> [/] where she's sitting [* s:uk] there (.) where it says cookie jar . [+ cir] 25743_46603
+%mor:	cconj|and pron|that-Rel verb|look-Fin-Ind-Pres-S3 sconj|like pron|her-Prs-Gen-S3 noun|brother aux|be-Fin-Ind-Pres-S3 adv|just adv|about adj|ready-S1 part|to verb|fall-Inf-S adp|down adv|where pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|sit-Part-Pres-S adv|there adv|where pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 noun|cookie noun|jar-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|10|MARK 5|6|NMOD-POSS 6|10|NSUBJ 7|10|COP 8|10|ADVMOD 9|10|ADVMOD 10|3|ADVCL 11|12|MARK 12|10|XCOMP 13|12|COMPOUND-PRT 14|17|ADVMOD 15|17|NSUBJ 16|17|AUX 17|12|ADVCL 18|17|ADVMOD 19|21|ADVMOD 20|21|NSUBJ 21|17|ADVCL 22|23|COMPOUND 23|21|OBJ 24|3|PUNCT
+*PAR:	and here on her right side there's a young lady there . 49420_54690
+%mor:	cconj|and adv|here adp|on pron|her-Prs-Gen-S3 adj|right-S1 noun|side pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|young-S1 noun|lady adv|there .
+%gra:	1|8|CC 2|8|ADVMOD 3|6|CASE 4|6|NMOD-POSS 5|6|AMOD 6|2|OBL 7|8|EXPL 8|0|ROOT 9|11|DET 10|11|AMOD 11|8|NSUBJ 12|8|ADVMOD 13|8|PUNCT
+*PAR:	she's &-uh washing the [//] (..) what she &-uh +... 54866_64426
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S pron|what-Int-S1 pron|she-Prs-Nom-S3 +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PARATAXIS 6|3|PUNCT
+*PAR:	she's cleaning +/. 68517_69397
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|clean-Part-Pres-S +/.
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 70591_70721
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+, the &-uh +... 70913_75373
+%mor:	det|the-Def-Art +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she's cleaning . 79757_80787
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|clean-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	what is she +//? [+ exc] 90389_90729
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 +//?
+%gra:	1|0|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*PAR:	she +... 91131_91161
+%mor:	pron|she-Prs-Nom-S3 +...
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

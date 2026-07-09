@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/t-00002410-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|male|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	631-0, audio
+@G:	Cookie
+*PAR:	the kids are in the cookies . 30_2980
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adp|in det|the-Def-Art noun|cookie-Plur .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	the stool is falling over . 3026_5206
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the mother's spilling the water and also drying the dishes . 5652_10112
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S det|the-Def-Art noun|water-Acc cconj|and adv|also verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|ADVMOD 9|4|CONJ 10|11|DET 11|9|OBJ 12|4|PUNCT
+*PAR:	and the wind might be blowing the curtains . 11409_13349
+%mor:	cconj|and det|the-Def-Art noun|wind aux|might-Fin-S aux|be-Inf-S verb|blow-Part-Pres-S det|the-Def-Art noun|curtain-Plur-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and the water's running . 16573_17603
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|running-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	&-uh I can't tell is anything going on outside or not . [+ exc] 19905_22155
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|tell-Inf-S aux|be-Fin-Ind-Pres-S3 pron|anything-Ind-S1 verb|go-Ger-S adp|on adv|outside cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|COP 6|4|OBJ 7|6|ACL 8|7|COMPOUND-PRT 9|7|ADVMOD 10|11|CC 11|9|CONJ 12|4|PUNCT
+*PAR:	I guess that's all I see . [+ exc] 23790_25150
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|7|NSUBJ 7|5|ACL-RELCL 8|2|PUNCT
+*PAR:	that's not very many . [+ exc] 26940_27920
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adv|very adj|many-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 29926_30486
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 33582_34202
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

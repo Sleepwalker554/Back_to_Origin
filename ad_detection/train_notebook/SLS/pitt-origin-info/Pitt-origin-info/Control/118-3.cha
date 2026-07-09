@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/t-00002271-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	118-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay I'm gonna leave the tape recorder on . 370_2140
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|leave-Inf-S det|the-Def-Art noun|tape noun|recorder-Acc adp|on .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|ADVMOD 11|4|PUNCT
+*INV:	and I'm gonna show you a picture . 2544_3904
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|show-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|4|PUNCT
+*INV:	has a_lot_of action going on in it . 4293_6083
+%mor:	verb|have-Fin-Ind-Pres-S3 noun|alotof noun|action-Acc verb|go-Part-Pres-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|0|ROOT 2|3|COMPOUND 3|1|OBJ 4|3|ACL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+*INV:	<everything that you> [//] tell me everything that you see going on in the picture . 6202_9822
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	(.) and there's the picture . 10142_13292
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+*PAR:	&-uh &+ha there's a little boy's takin(g) a cookie out o(f) the &+c cookie jar and givin(g) it to his sister . 16554_24084
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|boy~part|s verb|take-Ger-S det|a-Ind-Art noun|cookie-Acc adp|out adp|of det|the-Def-Art noun|cookie noun|jar cconj|and verb|give-Part-Pres-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|sister .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|5|CASE 7|2|CSUBJ 8|9|DET 9|7|OBJ 10|14|CASE 11|14|CASE 12|14|DET 13|14|COMPOUND 14|7|OBL 15|16|CC 16|7|CONJ 17|16|OBJ 18|20|CASE 19|20|NMOD-POSS 20|16|OBL 21|2|PUNCT
+*PAR:	and the [/] the stool that he's standin(g) on is gonna fall . 24100_27970
+%mor:	cconj|and det|the-Def-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S .
+%gra:	1|10|CC 2|3|DET 3|10|NSUBJ 4|7|OBL 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|4|CASE 9|10|AUX 10|0|ROOT 11|12|MARK 12|10|XCOMP 13|10|PUNCT
+*PAR:	and the [/] the mother's back is turned . 28770_31580
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|back aux|be-Fin-Ind-Pres-S3 verb|turn-Part-Past-S .
+%gra:	1|7|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|0|ROOT 8|7|PUNCT
+*PAR:	and she's the water is overflowin(g) in the sink . 31709_35829
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|7|NSUBJ-OUTER 3|7|COP 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+*PAR:	and &-uh she's wipin(g) the dish . 36665_39045
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and &-uh (.) the [/] &+wi the window's open . 40645_47005
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and she's probably lookin(g) out the window and missin(g) the water &+f overflowin(g) . 47909_52639
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window cconj|and verb|miss-Part-Pres-S det|the-Def-Art noun|water verb|overflow-Ger-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|5|CONJ 11|13|DET 12|13|COMPOUND 13|10|OBJ 14|5|PUNCT
+*INV:	okay . 53880_54430
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

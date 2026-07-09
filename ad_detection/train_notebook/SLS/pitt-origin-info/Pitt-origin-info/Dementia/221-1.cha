@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00002565-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|72;|male|MCI||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	221-1, audio
+@G:	Cookie
+*INV:	name me any action . 310_1960
+%mor:	verb|name-Inf-Imp-S pron|I-Prs-Acc-S1 det|any-Def-Ind noun|action-Acc .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*INV:	anything you see in the picture . 2611_3861
+%mor:	pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+*PAR:	alright . [+ exc] 4468_4798
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 7770_8189
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	action . [+ exc] 7775_8445
+%mor:	noun|action .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ well ‡ the little girl is reaching waiting for her brother to give her a cookie . 8546_15386
+%mor:	intj|oh punct|‡ intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S verb|wait-Part-Pres-S sconj|for pron|her-Prs-Gen-S3 noun|brother part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|DISCOURSE 4|9|DISCOURSE 5|7|DET 6|7|AMOD 7|9|NSUBJ 8|9|AUX 9|0|ROOT 10|9|XCOMP 11|15|MARK 12|13|NMOD-POSS 13|15|NSUBJ 14|15|MARK 15|10|ADVCL 16|15|IOBJ 17|18|DET 18|15|OBJ 19|9|PUNCT
+*PAR:	the boy has a cookie from a cookie jar but he's knocked the lid off and he is tumbling off a stool . 15426_24386
+%mor:	det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|from det|a-Ind-Art noun|cookie noun|jar cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|knock-Part-Past-S det|the-Def-Art noun|lid-Acc adp|off cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|tumble-Part-Pres-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|13|CC 11|13|NSUBJ-PASS 12|13|AUX-PASS 13|3|CONJ 14|15|DET 15|13|OBJ 16|13|COMPOUND-PRT 17|20|CC 18|20|NSUBJ 19|20|AUX 20|13|CONJ 21|23|CASE 22|23|DET 23|20|OBL 24|3|PUNCT
+*PAR:	and &-uh m:other is &-uh drying dishes but she has left the (.) spigot on and &-uh water's pouring out_o(f) the s:ink . 25560_39700
+%mor:	cconj|and noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur cconj|but pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|leave-Part-Past-S-irr det|the-Def-Art noun|spigot-Acc adp|on cconj|and noun|water~part|s verb|pour-Part-Pres-S noun|outof det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|9|CC 7|9|NSUBJ 8|9|AUX 9|5|CONJ 10|11|DET 11|9|OBJ 12|17|CASE 13|14|CC 14|17|NMOD-POSS 15|14|CASE 16|17|AMOD 17|9|OBL 18|19|DET 19|17|APPOS 20|5|PUNCT
+*PAR:	(.) and the little girl has her finger up to her mouth . 42956_45446
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|5|CC 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|COMPOUND-PRT 9|11|CASE 10|11|NMOD-POSS 11|5|OBL 12|5|PUNCT
+*PAR:	(.) and a boy has one cookie in his hand for the girl in his left hand . 48536_58786
+%mor:	cconj|and det|a-Ind-Art noun|boy verb|have-Fin-Ind-Pres-S3 num|one noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand adp|for det|the-Def-Art noun|girl adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|6|NUMMOD 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|12|CASE 11|12|DET 12|4|OBL 13|16|CASE 14|16|NMOD-POSS 15|16|AMOD 16|12|NMOD 17|4|PUNCT
+*PAR:	and he is just touching another cookie with his right hand . 58888_64397
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|just verb|touch-Part-Pres-S det|another-Def-Ind noun|cookie-Acc adp|with pron|his-Prs-Gen-S3 adj|right-S1 noun|hand .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|7|DET 7|5|OBJ 8|11|CASE 9|11|NMOD-POSS 10|11|AMOD 11|5|OBL 12|5|PUNCT
+*PAR:	you only want action you say ? [+ exc] 65887_67377
+%mor:	pron|you-Prs-Nom-S2 adv|only verb|want-Fin-Ind-Pres-S2 noun|action-Acc pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*INV:	mhm . 69755_70345
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and that's about it . [+ exc] 69793_72083
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|CASE 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 73445_73535
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

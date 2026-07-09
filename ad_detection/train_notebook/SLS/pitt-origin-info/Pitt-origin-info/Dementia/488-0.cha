@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002662-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|64;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	488-0, audio
+@G:	Cookie
+*INV:	okay . 860_1090
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there she's washing the dishes . 2964_5234
+%mor:	adv|there pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and there the kids are tryin(g) to get cookies outta [: out_of] the cookie jar . 6100_8990
+%mor:	cconj|and adv|there det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|try-Part-Pres-S part|to verb|get-Inf-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|13|CASE 11|13|DET 12|13|COMPOUND 13|8|OBL 14|6|PUNCT
+*INV:	anything else ? 9311_10031
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	that's it . [+ exc] 14700_15110
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	can you see anything else going on over here ? 17420_19310
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|over adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|3|PUNCT
+*PAR:	no ‡ they're gettin(g) the cookie jar out but he's upsettin(g) in his stool . 20847_23587
+%mor:	intj|no punct|‡ pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc adp|out cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|upsetting-Part-Pres-S adp|in pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|COMPOUND-PRT 10|13|CC 11|13|NSUBJ 12|13|AUX 13|5|CONJ 14|16|CASE 15|16|NMOD-POSS 16|13|OBL 17|5|PUNCT
+*PAR:	&*INV:okay he's about ready to fall over in his stool . 24806_26556
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|about adj|ready-S1 part|to verb|fall-Inf-S adp|over adp|in pron|his-Prs-Gen-S3 noun|stool .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|6|OBL 11|4|PUNCT
+*INV:	(o)kay good . 27127_27787
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	what about over in this side ? 32033_33173
+%mor:	pron|what-Int-S1 adp|about adv|over adp|in det|this-Def-Dem-Sing noun|side ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|6|CASE 5|6|DET 6|1|NMOD 7|1|PUNCT
+*INV:	do you see anything else going on over there ? 33213_35343
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adp|over adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|3|PUNCT
+*PAR:	oh ‡ yeah ‡ the water's runnin(g) over on the floor . 36623_38883
+%mor:	intj|oh punct|‡ intj|yeah punct|‡ det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over adp|on det|the-Def-Art noun|floor .
+%gra:	1|8|DISCOURSE 2|8|DISCOURSE 3|8|DISCOURSE 4|8|DISCOURSE 5|6|DET 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|8|PUNCT
+*INV:	okay . 39554_39864
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<she has the> [/] &+wa she has the water on in it . 40722_42742
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|water-Acc adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|COMPOUND-PRT 6|7|CASE 7|2|OBL 8|2|PUNCT
+@End

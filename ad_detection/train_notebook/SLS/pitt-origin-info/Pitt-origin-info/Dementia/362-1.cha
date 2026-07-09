@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/t-00002644-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|75;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	362-1, audio
+@G:	Cookie
+*INV:	just take a look at this picture and tell me everything that you see happening in that picture . 550_5860
+%mor:	adv|just verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|9|CC 9|2|CONJ 10|9|IOBJ 11|9|OBJ 12|15|OBJ 13|14|NSUBJ 14|11|ACL-RELCL 15|14|XCOMP 16|18|CASE 17|18|DET 18|15|OBL 19|2|PUNCT
+*PAR:	alright ‡ a little boy has a cookie jar . 5913_7923
+%mor:	intj|alright punct|‡ det|a-Ind-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|5|DET 4|5|AMOD 5|6|NSUBJ 6|0|ROOT 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|6|PUNCT
+*INV:	xxx .
+*PAR:	okay ‡ <the little girl> [//] <he's trying> [/] he's trying [//] got on the ladder and trying to &-uh get a jar . [+ gram] 8780_15990
+%mor:	intj|okay punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr adp|on det|the-Def-Art noun|ladder cconj|and verb|try-Part-Pres-S part|to verb|get-Inf-S det|a-Ind-Art noun|jar-Acc .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|CC 10|5|CONJ 11|12|MARK 12|10|XCOMP 13|14|DET 14|12|OBJ 15|5|PUNCT
+*PAR:	and this is the mother I guess . 16817_18047
+%mor:	cconj|and pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mother pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|5|PUNCT
+*PAR:	right ? [+ exc] 18100_18300
+%mor:	adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 18876_19096
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	she is so &=laughs +... 19561_20191
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|so +...
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	she [/] &=laughs she really &+g is [//] isn't any good sense of a mother because the water's <running out_of the> [/] &+s &=laughs running out_of the sink to the floor . 22070_32360
+%mor:	pron|she-Prs-Nom-S3 adv|really aux|be-Fin-Ind-Pres-S3~part|not det|any-Def-Ind adj|good-S1 noun|sense adp|of det|a-Ind-Art noun|mother sconj|because det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|outof det|the-Def-Art noun|sink adp|to det|the-Def-Art noun|floor .
+%gra:	1|7|NSUBJ 2|7|ADVMOD 3|7|COP 4|7|ADVMOD 5|7|DET 6|7|AMOD 7|0|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|15|MARK 12|13|DET 13|15|NSUBJ 14|15|AUX 15|7|ADVCL 16|18|CASE 17|18|DET 18|15|OBL 19|21|CASE 20|21|DET 21|15|OBL 22|7|PUNCT
+*PAR:	so ‡ if I was a mother I would spank her . [+ exc] 32563_34783
+%mor:	adv|so punct|‡ sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|mother pron|I-Prs-Nom-S1 aux|would-Fin-S verb|spank-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|10|ADVMOD 2|10|DISCOURSE 3|7|MARK 4|7|NSUBJ 5|7|COP 6|7|DET 7|10|ADVCL 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|PUNCT
+*PAR:	right ? [+ exc] 36044_36264
+%mor:	adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

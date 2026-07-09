@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002595-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	270-2, audio
+@G:	Cookie
+*INV:	I'd like for you to take a look at this picture . 620_2950
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*PAR:	mhm . [+ exc] 4240_4670
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< I'd like for you to tell me everything that you see happening in there . 4350_7600
+%mor:	pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S sconj|for pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in adv|there .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|MARK 7|3|ADVCL 8|7|IOBJ 9|7|OBJ 10|13|OBJ 11|12|NSUBJ 12|9|ACL-RELCL 13|12|XCOMP 14|15|CASE 15|13|OBL 16|3|PUNCT
+*INV:	everything that's going on in that picture . 7950_9940
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+*PAR:	well ‡ let's see . [+ exc] 11844_12424
+%mor:	intj|well intj|‡ verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*PAR:	it looks like a woman . 12478_13558
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|woman .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*PAR:	I assume she's drying a dish . 14900_17740
+%mor:	pron|I-Prs-Nom-S1 verb|assume-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*PAR:	&=sigh there's a window open in the kitchen . 18551_25681
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window adj|open-S1 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|AMOD 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*PAR:	it is a kitchen . 25990_27050
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|kitchen .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	&=sigh there is a child reaching for a cookie from the cookie jar . 27112_35412
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|child verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|4|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|8|NMOD 13|2|PUNCT
+*PAR:	the &-uh ladder [: stool] [* s:r] that he's standing on is beginning to fall &=laughs . 36929_43349
+%mor:	det|the-Def-Art noun|stool pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on aux|be-Fin-Ind-Pres-S3 verb|begin-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|2|DET 2|9|NSUBJ 3|6|OBL 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|3|CASE 8|9|AUX 9|0|ROOT 10|11|MARK 11|9|XCOMP 12|9|PUNCT
+*PAR:	there's a little girl in [/] in the house . 46921_50171
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|girl adp|in det|the-Def-Art noun|house .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|2|PUNCT
+*PAR:	(.) looks like mother has something fixed for dinner <I guess it is> [//] (.) on the &-uh cabinet [: sink] [* s:r] . 55114_63984
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like noun|mother verb|have-Fin-Ind-Pres-S3 pron|something-Ind-S1 verb|fix-Part-Past-S adp|for noun|dinner adp|on det|the-Def-Art noun|sink .
+%gra:	1|0|ROOT 2|3|CASE 3|4|NSUBJ 4|1|ADVCL 5|4|OBJ 6|5|ACL 7|8|CASE 8|6|OBL 9|11|CASE 10|11|DET 11|6|OBL 12|1|PUNCT
+*PAR:	either that or the dishes she's dried . [+ gram] 64000_66420
+%mor:	cconj|either pron|that-Dem cconj|or det|the-Def-Art noun|dish-Plur pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|dry-Part-Past-S .
+%gra:	1|2|CC-PRECONJ 2|0|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|8|NSUBJ 7|8|AUX-PASS 8|5|ACL-RELCL 9|2|PUNCT
+*PAR:	I'm not sure . [+ exc] 66470_67450
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	there's water running over the sink . 69118_71498
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|water verb|run-Ger-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+*PAR:	&-hm (..) I guess that's about it . [+ exc] 75784_85554
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+@End

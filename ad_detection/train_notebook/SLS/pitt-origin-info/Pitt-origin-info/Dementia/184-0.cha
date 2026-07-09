@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002541-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|ProbableAD||Participant|27||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	184-0, audio
+@G:	Cookie
+*INV:	okey_dokey . 390_550
+%mor:	propn|okeydokey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	tell me just what you see going on . 731_2461
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adv|just pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|0|ROOT 2|1|IOBJ 3|4|ADVMOD 4|1|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|1|PUNCT
+*PAR:	well ‡ (.) the little boy's in the cookie jar . 4586_7446
+%mor:	intj|well punct|‡ det|the-Def-Art adj|little-S1 noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|DISCOURSE 2|5|DISCOURSE 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|NMOD 11|5|PUNCT
+*PAR:	and he's about to fall on the floor because the chair's [: stool's] [* s:r] tilted . 9064_12504
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|on det|the-Def-Art noun|floor sconj|because det|the-Def-Art noun|stool~part|s verb|tilt-Part-Past-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|14|MARK 11|12|DET 12|14|NMOD-POSS 13|12|CASE 14|6|ADVCL 15|4|PUNCT
+*PAR:	mom's dryin(g) dishes . 15006_16136
+%mor:	noun|mom~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	she's not paying attention (be)cause the <water's runnin(g) over> [//] sink's runnin(g) over . 16650_20120
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S noun|attention-Acc sconj|because det|the-Def-Art noun|sink~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|4|ADVCL 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	water's all over the floor . 20897_21857
+%mor:	noun|water~aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	the little girl I think is begging her brother to give her a cookie . 21910_26590
+%mor:	det|the-Def-Art adj|little-S1 noun|girl pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 verb|begg-Part-Pres-S pron|her-Prs-Gen-S3 noun|brother-Acc part|to verb|give-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|7|COP 7|0|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|11|MARK 11|7|XCOMP 12|11|IOBJ 13|14|DET 14|11|OBJ 15|7|PUNCT
+*PAR:	I'm not sure about that . [+ exc] 27196_28276
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adj|sure-S1 adp|about pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	&-um must be summer time because the window's open . 29428_33138
+%mor:	aux|must-Fin-S aux|be-Inf-S noun|summer noun|time sconj|because det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|4|AUX 2|4|COP 3|4|COMPOUND 4|0|ROOT 5|9|MARK 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|4|ADVCL 10|4|PUNCT
+*PAR:	you can see the [/] the grass and shrubbery outside . 33775_36375
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|grass-Acc cconj|and noun|shrubbery adv|outside .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|3|ADVMOD 9|3|PUNCT
+*PAR:	and see a few dishes that mom has already dried . [+ gram] 38328_49238
+%mor:	cconj|and verb|see-Fin-Imp-S det|a-Ind-Art adj|few-S1 noun|dish-Plur-Acc pron|that-Rel noun|mom aux|have-Fin-Ind-Pres-S3 adv|already verb|dry-Part-Past-S .
+%gra:	1|2|CC 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|10|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ACL-RELCL 11|2|PUNCT
+@End

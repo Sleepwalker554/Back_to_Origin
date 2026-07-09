@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/t-00002473-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	058-4, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything that's happening there . 0_1470
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|ADVMOD 8|1|PUNCT
+*PAR:	first of all I see I guess she's mother at the sink washin(g) dishes and the water is &-uh overflowing from the sink on to the floor and she's standing in a puddle o(f) water . 4499_16409
+%mor:	adj|first-S1 adp|of det|all-Def-Tot pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|mother adp|at det|the-Def-Art noun|sink noun|washing-Ger noun|dish-Plur cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink adp|on adp|to det|the-Def-Art noun|floor cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|puddle adp|of noun|water .
+%gra:	1|5|ADVMOD 2|3|CASE 3|1|OBL 4|5|NSUBJ 5|0|ROOT 6|7|NSUBJ 7|5|CCOMP 8|10|NSUBJ 9|10|COP 10|7|CCOMP 11|15|CASE 12|15|DET 13|15|COMPOUND 14|15|COMPOUND 15|10|NMOD 16|20|CC 17|18|DET 18|20|NSUBJ 19|20|AUX 20|5|CONJ 21|23|CASE 22|23|DET 23|20|OBL 24|27|CASE 25|27|CASE 26|27|DET 27|20|OBL 28|31|CC 29|31|NSUBJ 30|31|AUX 31|20|CONJ 32|34|CASE 33|34|DET 34|31|OBL 35|36|CASE 36|34|NMOD 37|5|PUNCT
+*PAR:	and at the same time &-uh there's a daughter I guess a &+gir little girl &-uh has her hand up and also one finger to tell <her brother> [//] I guess her brother to do it quietly . 17996_34206
+%mor:	cconj|and adp|at det|the-Def-Art adj|same-S1 noun|time pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|daughter pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 det|a-Ind-Art adj|little-S1 noun|girl verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|hand-Acc adp|up cconj|and adv|also num|one noun|finger part|to verb|tell-Inf-S pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|her-Prs-Gen-S3 noun|brother-Acc part|to verb|do-Inf-S pron|it-Prs-Acc-S3 adv|quietly .
+%gra:	1|7|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|7|OBL 6|7|EXPL 7|0|ROOT 8|9|DET 9|7|NSUBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|14|DET 13|14|AMOD 14|15|NSUBJ 15|11|CCOMP 16|17|NMOD-POSS 17|15|OBJ 18|15|COMPOUND-PRT 19|22|CC 20|22|ADVMOD 21|22|NUMMOD 22|15|CONJ 23|24|MARK 24|22|ACL 25|26|NSUBJ 26|24|CCOMP 27|28|NMOD-POSS 28|26|OBJ 29|30|MARK 30|26|XCOMP 31|30|OBJ 32|30|ADVMOD 33|7|PUNCT
+*PAR:	an(d) she's reachin(g) up for a cookie he's takin(g) out_of a cookie jar . 34737_38517
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S adp|outof det|a-Ind-Art noun|cookie noun|jar-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|11|NSUBJ 10|11|AUX 11|4|PARATAXIS 12|11|COMPOUND-PRT 13|15|DET 14|15|COMPOUND 15|11|OBJ 16|4|PUNCT
+*PAR:	and as he's doing that the stool is &-uh falling over . 39317_43327
+%mor:	cconj|and sconj|as pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S sconj|that det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|10|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|10|ADVCL 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|0|ROOT 11|10|ADVMOD 12|10|PUNCT
+*PAR:	that's it . [+ exc] 48858_49408
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	that's right . 49429_50039
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

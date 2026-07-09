@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002667-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	497-0, audio
+@G:	Cookie
+*INV:	you see going on in the picture ? 840_2690
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|2|PUNCT
+*PAR:	well the little boy went up to get some cookies . 4537_7207
+%mor:	intj|well det|the-Def-Art adj|little-S1 noun|boy verb|go-Fin-Ind-Past-S3-irr adp|up part|to verb|get-Inf-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|4|DET 3|4|AMOD 4|5|NSUBJ 5|0|ROOT 6|5|COMPOUND-PRT 7|8|MARK 8|5|ADVCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+*PAR:	and the little girl reaching up to give the jar <to the> [//] &+cook to her brother . 9169_14419
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl verb|reach-Ger-S adp|up part|to verb|give-Inf-S det|the-Def-Art noun|jar-Acc adp|to pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ACL 6|5|COMPOUND-PRT 7|8|MARK 8|5|ADVCL 9|10|DET 10|8|OBJ 11|13|CASE 12|13|NMOD-POSS 13|8|OBL 14|4|PUNCT
+*PAR:	the mother is washing dishes . 15001_16931
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	<and the> [//] &+wa and the [/] &-uh the sink is <full of dish(es)> [//] &-uh full of water . 18178_22078
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 adj|full-S1 adp|of noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*PAR:	and the mother is still &-uh &-uh &+w &-uh wiping the dishes . 23465_26415
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|still verb|wipe-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	and let's see what else . [+ exc] 28315_29285
+%mor:	cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S pron|what-Int-S1 adj|else-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|5|AMOD 7|2|PUNCT
+*PAR:	and the boy is &-uh almost fallin(g) off this long &+s &-uh thing here . [+ cir] 29480_37020
+%mor:	cconj|and det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 adv|almost verb|fall-Part-Pres-S adp|off det|this-Def-Dem-Sing adj|long-S1 noun|thing-Ger adv|here .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|6|ADVMOD 12|6|PUNCT
+*PAR:	&-uh what do you wanna call this ? [+ exc] 37240_39050
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S~part|to verb|call-Inf-S pron|this-Dem-S1 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*PAR:	<a chair [: stool] [* s:r-rep]> [/] a chair [: stool] [* s:r] . 39406_40376
+%mor:	det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	+< okay . 40590_40690
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	<and &-uh the> [//] <and then> [//] &-uh and the water's &+fa fallin(g) over on the floor by the mother . 41999_46319
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|fall-Part-Pres-S adp|over adp|on det|the-Def-Art noun|floor adp|by det|the-Def-Art noun|mother .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|5|PUNCT
+*PAR:	&+a and the little girl's &-uh handin(g) [/] &-uh handing her [//] &-uh something to her brother . 51811_57301
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|something-Ind-S1 adp|to pron|her-Prs-Gen-S3 noun|brother .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|10|CASE 9|10|NMOD-POSS 10|6|OBL 11|6|PUNCT
+*PAR:	and [//] &+c &-uh cookies it's probably cookies . 57608_59128
+%mor:	noun|cookie-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|probably noun|cookie-Plur .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	or he's handing her a cookies [* m:a] whatever . 59200_60630
+%mor:	cconj|or pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hand-Part-Pres-S pron|her-Prs-Acc-S3 det|a-Ind-Art noun|cookie-Plur-Acc pron|whatever-Int-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|7|APPOS 9|4|PUNCT
+*PAR:	right ? [+ exc] 62950_63140
+%mor:	adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(o)kay ? 63160_63460
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	sure . 63709_63969
+%mor:	adj|sure-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

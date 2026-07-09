@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00002273-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	121-0, audio
+@G:	Cookie
+*PAR:	alright . [+ exc] 1650_2140
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is taking a cookie out_of the cookie jar . 2207_5427
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S det|a-Ind-Art noun|cookie noun|outof-Acc det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|10|DET 9|10|COMPOUND 10|4|OBJ 11|4|PUNCT
+*PAR:	and he has one in his left hand <to reach down> [//] to give to his &+si +//. 5446_10356
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 num|one adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand part|to verb|give-Inf-S adp|to pron|his-Prs-S3 +//.
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|8|AMOD 8|3|OBL 9|10|MARK 10|3|ADVCL 11|12|CASE 12|10|OBL 13|3|PUNCT
+*PAR:	well ‡ he has it in his left hand . 10504_11764
+%mor:	intj|well punct|‡ pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adp|in pron|his-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|4|OBL 10|4|PUNCT
+*PAR:	his sister or a girl is reaching up for a cookie and has her inner index finger of her right hand pointed upward up close to her mouth . 11787_23217
+%mor:	pron|his-Prs-Gen-S3 noun|sister cconj|or det|a-Ind-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie cconj|and verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 adj|inner-S1 noun|index noun|finger-Acc adp|of pron|her-Prs-Gen-S3 adj|right-S1 noun|hand verb|point-Part-Past-S adv|upward adp|up adv|close adp|to pron|her-Prs-Gen-S3 noun|mouth .
+%gra:	1|2|NMOD-POSS 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|AUX 7|0|ROOT 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|13|CC 13|7|CONJ 14|17|NMOD-POSS 15|17|AMOD 16|17|COMPOUND 17|13|OBJ 18|21|CASE 19|21|NMOD-POSS 20|21|AMOD 21|17|NMOD 22|17|ACL 23|22|ADVMOD 24|22|COMPOUND-PRT 25|22|ADVMOD 26|28|CASE 27|28|NMOD-POSS 28|25|OBL 29|7|PUNCT
+*PAR:	and I'm [//] maybe she's saying “shh” because &-um they're gonna hafta be quiet because the stool is &-um going to fall over . 23613_33003
+%mor:	cconj|and adv|maybe pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|say-Part-Pres-S intj|shh sconj|because pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S~part|to adv|hafta aux|be-Inf-S adj|quiet-S1 sconj|because det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adv|over .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|DISCOURSE 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|14|MARK 12|14|ADVMOD 13|14|COP 14|10|XCOMP 15|19|MARK 16|17|DET 17|19|NSUBJ 18|19|AUX 19|10|ADVCL 20|21|MARK 21|19|XCOMP 22|21|ADVMOD 23|5|PUNCT
+*PAR:	the boy has his right heel on the [//] his left toe . 33880_38760
+%mor:	det|the-Def-Art noun|boy verb|have-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 adj|right-S1 noun|heel-Acc adp|on pron|his-Prs-Gen-S3 adj|left-S1 noun|toe .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|NMOD-POSS 5|6|AMOD 6|3|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|3|OBL 11|3|PUNCT
+*PAR:	and he's wearing &-uh running shoes with pompoms on them . 38782_43422
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S verb|run-Ger-S noun|shoe-Plur-Acc adp|with noun|pompom-Plur adp|on pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|CASE 8|4|OBL 9|10|CASE 10|4|OBL 11|4|PUNCT
+*PAR:	&+s &+s look [//] socks look pretty sloppy . [+ gram] 43441_47661
+%mor:	noun|sock-Plur verb|look-Fin-Ind-Pres-P3 adv|pretty adj|sloppy-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|2|XCOMP 5|2|PUNCT
+*PAR:	&-um I observed that the [//] &-uh one of the two &-um slippers that the girl is wearing &-uh looks as if its sole <is thicker than the one> [//] the left one is thicker than the right . 47738_64117
+%mor:	pron|I-Prs-Nom-S1 verb|observe-Fin-Ind-Past-S1 sconj|that num|one adp|of det|the-Def-Art num|two noun|slipper-Plur pron|that-Rel det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S verb|look-Fin-Ind-Pres-S3 sconj|as sconj|if pron|its-Prs-Gen-S3 noun|sole det|the-Def-Art adj|left-S1 noun|one aux|be-Fin-Ind-Pres-S3 adj|thick-Cmp-S1 adp|than det|the-Def-Art noun|right .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|14|MARK 4|14|NSUBJ 5|8|CASE 6|8|DET 7|8|NUMMOD 8|4|NMOD 9|13|OBJ 10|11|DET 11|13|NSUBJ 12|13|AUX 13|8|ACL-RELCL 14|2|CCOMP 15|23|MARK 16|23|MARK 17|18|NMOD-POSS 18|23|NSUBJ 19|21|DET 20|21|AMOD 21|23|NSUBJ 22|23|COP 23|14|ADVCL 24|26|CASE 25|26|DET 26|23|OBL 27|2|PUNCT
+*PAR:	the woman is &-uh letting the sink run over . 64950_69281
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|let-Part-Pres-S det|the-Def-Art noun|sink-Acc verb|run-Inf-S adp|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|7|COMPOUND-PRT 9|4|PUNCT
+*PAR:	the water's running full tilt <out_o(f) the> [//] and overflowing the sink . 69300_72860
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adj|full-S1 noun|tilt-Acc cconj|and verb|overflow-Part-Pres-S det|the-Def-Art noun|sink-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|8|CC 8|4|CONJ 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	she's drying a plate . 73516_74776
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|a-Ind-Art noun|plate-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and she has a towel in her right hand . 74799_78489
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|towel-Acc adp|in pron|her-Prs-Gen-S3 adj|right-S1 noun|hand .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|NMOD-POSS 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*PAR:	and it looks as if she has something else . 78506_81606
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|as sconj|if pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|something-Ind-S1 adj|else-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|MARK 6|7|NSUBJ 7|3|ADVCL 8|7|OBJ 9|8|AMOD 10|3|PUNCT
+*PAR:	no ‡ that's <the curtain> [//] &+hang <the back> [//] the end of the curtain that's behind her [//] the plate in her left hand . 82054_89274
+%mor:	intj|no punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|end adp|of det|the-Def-Art noun|curtain pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adp|behind det|the-Def-Art noun|plate adp|in pron|her-Prs-Gen-S3 adj|left-S1 noun|hand .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|14|NSUBJ 11|14|COP 12|14|CASE 13|14|DET 14|9|ACL-RELCL 15|18|CASE 16|18|NMOD-POSS 17|18|AMOD 18|14|NMOD 19|6|PUNCT
+*PAR:	&-um she (i)s [//] has her side [//] left side to the window . 90011_94511
+%mor:	pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 adj|left-S1 noun|side-Acc adp|to det|the-Def-Art noun|window .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+*PAR:	the [//] &-um she's &+d already dried a plate and two cups . 95678_99398
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already verb|dry-Part-Past-S det|a-Ind-Art noun|plate-Acc cconj|and num|two noun|cup-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|NUMMOD 9|6|CONJ 10|4|PUNCT
+*PAR:	the window is open . 100473_102113
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	and you can see the path outside going around to the left of the back of the house . 103286_109346
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|path-Acc sconj|outside verb|go-Part-Pres-S adv|around adp|to det|the-Def-Art noun|left adp|of det|the-Def-Art noun|back adp|of det|the-Def-Art noun|house .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|8|ADVMOD 10|12|CASE 11|12|DET 12|8|OBL 13|15|CASE 14|15|DET 15|12|NMOD 16|18|CASE 17|18|DET 18|15|NMOD 19|4|PUNCT
+*PAR:	and &-uh another room in the house the window is also open „ I believe . [+ gram] 109395_116305
+%mor:	cconj|and det|another-Def-Ind noun|room adp|in det|the-Def-Art noun|house det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adv|also adj|open-S1 punct|„ pron|I-Prs-Nom-S1 verb|believe-Fin-Ind-Pres-S1 .
+%gra:	1|11|CC 2|3|DET 3|11|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|DET 8|11|NSUBJ 9|11|COP 10|11|ADVMOD 11|0|ROOT 12|14|PUNCT 13|14|NSUBJ 14|11|PARATAXIS 15|11|PUNCT
+*PAR:	&-um (..) <I don't> [//] <she's standing with the her> [//] the woman is standing with her foot in the water but not where <it isn't> [//] the water isn't running out_of her but it's splashing up . 118736_135146
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|with pron|her-Prs-Gen-S3 noun|foot adp|in det|the-Def-Art noun|water cconj|but part|not adv|where det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3~part|not verb|run-Part-Pres-S adp|outof pron|her-Prs-Acc-S3 cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|splash-Part-Pres-S adp|up .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|18|CC 12|13|ADVMOD 13|4|CONJ 14|15|DET 15|18|NSUBJ 16|18|AUX 17|18|ADVMOD 18|13|ADVCL-RELCL 19|20|CASE 20|18|OBL 21|24|CC 22|24|NSUBJ 23|24|AUX 24|4|CONJ 25|24|COMPOUND-PRT 26|4|PUNCT
+*PAR:	and her right shoe is in the water [//] puddle . 135320_138760
+%mor:	cconj|and pron|her-Prs-Gen-S3 adj|right-S1 noun|shoe aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|puddle .
+%gra:	1|8|CC 2|4|NMOD-POSS 3|4|AMOD 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|DET 8|0|ROOT 9|8|PUNCT
+*PAR:	and that's what I see . [+ exc] 140975_141775
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+*INV:	okay thank_you . 142034_143084
+%mor:	intj|okay propn|thankyou .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	and a kitchen &=laughs . [+ gram] 144071_144661
+%mor:	cconj|and det|a-Ind-Art noun|kitchen .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+@End

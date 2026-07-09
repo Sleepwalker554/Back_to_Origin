@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00002343-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	209-2, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 570_980
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh <little boy's about to> [//] he's gettin(g) into the cookie jar . 1881_6071
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	got up on a stool . [+ gram] 6445_7365
+%mor:	verb|get-Fin-Ind-Past-S1-irr adp|up adp|on det|a-Ind-Art noun|stool .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	&-uh handing (th)em off to obviously [//] well probably his little sister but in the meantime the stool is about to fall over before she really gets any . [+ gram] 8225_16805
+%mor:	verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|off adp|to adv|well adv|probably pron|his-Prs-Gen-S3 adj|little-S1 noun|sister cconj|but adp|in det|the-Def-Art noun|meantime det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S adp|over sconj|before pron|she-Prs-Nom-S3 adv|really verb|get-Fin-Ind-Pres-S3 det|any-Def-Ind .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|9|CASE 5|9|ADVMOD 6|9|ADVMOD 7|9|NMOD-POSS 8|9|AMOD 9|1|OBL 10|17|CC 11|13|CASE 12|13|DET 13|17|OBL 14|15|DET 15|17|NSUBJ 16|17|COP 17|1|CONJ 18|19|MARK 19|17|XCOMP 20|19|COMPOUND-PRT 21|24|MARK 22|24|NSUBJ 23|24|ADVMOD 24|19|ADVCL 25|24|OBJ 26|1|PUNCT
+*PAR:	the mother's preoccupied at the sink . 17352_19122
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|preoccupy-Part-Past-S adp|at det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	she's washing dishes and she's permitting the &-uh water to &+over &-uh overflow . 19911_25571
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|permitt-Part-Pres-S det|the-Def-Art noun|water-Acc part|to verb|overflow-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CC 6|8|NSUBJ 7|8|AUX 8|3|CONJ 9|10|DET 10|8|OBJ 11|12|MARK 12|8|XCOMP 13|3|PUNCT
+*PAR:	so she herself is starting to stand in a panel [: puddle] [* s:ur-ret] [//] puddle and she seems to be unaware of what's going on behind her . 27025_32775
+%mor:	adv|so pron|she-Prs-Nom-S3 pron|herself-Prs-Acc-reflx-S3 aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|stand-Inf-S adp|in det|a-Ind-Art noun|puddle cconj|and pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|unaware-S1 adp|of pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|behind pron|her-Prs-Acc-S3 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|2|NMOD-UNMARKED 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|13|CC 12|13|NSUBJ 13|5|CONJ 14|16|MARK 15|16|COP 16|13|XCOMP 17|18|CASE 18|16|OBL 19|20|AUX 20|18|ACL-RELCL 21|20|COMPOUND-PRT 22|23|CASE 23|20|OBL 24|5|PUNCT
+*PAR:	and obviously it's spring or summer because the plants are blooming outside through the &-uh kitchen window . 33415_40135
+%mor:	cconj|and adv|obviously pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|spring-Ger cconj|or noun|summer sconj|because det|the-Def-Art noun|plant-Plur aux|be-Fin-Ind-Pres-P3 verb|bloom-Part-Pres-S adv|outside adp|through det|the-Def-Art noun|kitchen noun|window .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|CC 7|5|CONJ 8|12|MARK 9|10|DET 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|12|ADVMOD 14|17|CASE 15|17|DET 16|17|COMPOUND 17|12|OBL 18|5|PUNCT
+*PAR:	&-uh you didn't say what's wrong . [+ exc] 41626_43316
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|say-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|NSUBJ 6|7|COP 7|4|CCOMP 8|4|PUNCT
+*PAR:	I_mean this is what I'm sposta be picking out . [+ exc] 43832_45442
+%mor:	propn|Imean pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|sposta aux|be-Inf-S verb|pick-Part-Pres-S adp|out .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|9|AUX 9|4|ACL-RELCL 10|9|COMPOUND-PRT 11|4|PUNCT
+*INV:	+< no . 44590_44750
+%mor:	intj|no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	just tell me everything that you see going on in the picture . 45804_48784
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|2|PUNCT
+*INV:	xxx .
+*PAR:	&-uh that's about it . [+ exc] 52709_55309
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 55704_55804
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

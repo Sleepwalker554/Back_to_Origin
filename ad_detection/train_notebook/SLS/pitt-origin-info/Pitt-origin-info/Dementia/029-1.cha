@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/t-00002443-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|male|ProbableAD||Participant|21||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	029-1, audio
+@G:	Cookie
+*PAR:	alright . [+ exc] 100_460
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	tell me what you see going on in that picture . 952_2822
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	I see the little boy stealing cookies from the cookie jar . 3954_7114
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|the-Def-Art adj|little-S1 noun|boy-Acc verb|steal-Ger-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|5|ACL 7|6|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|6|OBL 12|2|PUNCT
+*INV:	yeah . 7260_7450
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and <the little girl's> [//] &-uh he gave some to the little girl . 8219_10919
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|give-Fin-Ind-Past-S3-irr det|some-Def-Ind adp|to det|the-Def-Art adj|little-S1 noun|girl .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+*PAR:	and she's eatin(g) some of the cookies . 10943_12243
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|4|PUNCT
+*INV:	mhm . 12920_13230
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and I guess this is mama . 13647_14837
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|mama .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+*PAR:	and she's washing the dishes . 14861_16140
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and she dropped a dish . 17649_18559
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|drop-Fin-Ind-Past-S3 det|a-Ind-Art noun|dish-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	no [/] no ‡ she didn't drop a dish . 18879_20269
+%mor:	intj|no punct|‡ pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|drop-Inf-S det|a-Ind-Art noun|dish-Acc .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*PAR:	&-uh the [/] the water that she's washing the dishes with she let run . 20403_24333
+%mor:	det|the-Def-Art noun|water pron|that-Rel pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc sconj|with pron|she-Prs-Nom-S3 verb|let-Fin-Ind-S noun|run-Acc .
+%gra:	1|2|DET 2|0|ROOT 3|6|OBJ 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|8|DET 8|6|OBJ 9|11|MARK 10|11|NSUBJ 11|6|ADVCL 12|11|OBJ 13|2|PUNCT
+*PAR:	and it's overflown [/] &+o overflown [/] &=laughs &+o &+o overflown . 25473_30833
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|overflown-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	<that doesn't> [/] that doesn't sound right . [+ exc] 32432_34252
+%mor:	pron|that-Dem aux|do-Fin-Ind-Pres-S3~part|not verb|sound-Inf-S adj|right-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*PAR:	did &*INV:no it &-uh +/? [+ exc] 34342_35392
+%mor:	verb|do-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 +/?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	we forgot to turn off the spigot . 36360_37730
+%mor:	pron|we-Prs-Nom-P1 verb|forget-Fin-Ind-Past-P1-irr part|to verb|turn-Inf-S adp|off det|the-Def-Art noun|spigot-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|2|PUNCT
+*PAR:	and so the water is running off <into the> [//] onto the floor here . 38060_42020
+%mor:	cconj|and adv|so det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|off adp|onto det|the-Def-Art noun|floor adv|here .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|6|ADVMOD 12|6|PUNCT
+*PAR:	and mom apparently is washing the dishes . 43401_46421
+%mor:	cconj|and noun|mom adv|apparently aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	and here's this little boy stealing <the cookie> [//] the cookies . 47790_50440
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing adj|little-S1 noun|boy verb|steal-Ger-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|6|DET 5|6|AMOD 6|2|NSUBJ 7|2|ADVCL 8|9|DET 9|7|OBJ 10|2|PUNCT
+*PAR:	<he's gonna> [/] he's gonna fall because his [//] &-uh the [/] <the cookies jar or> [//] <the [/] the [/] the bench [: stool] [* s:r-ret]> [//] the &+s four legged stool <whatever it is> [//] is [/] is gonna fall over with him (.) and the cookie jar . 50500_63690
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S sconj|because det|the-Def-Art num|four adj|legged-S1 noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|over adp|with pron|he-Prs-Acc-S3 cconj|and det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|12|MARK 7|10|DET 8|10|NUMMOD 9|10|AMOD 10|12|NSUBJ 11|12|AUX 12|5|ADVCL 13|14|MARK 14|12|XCOMP 15|14|COMPOUND-PRT 16|17|CASE 17|14|OBL 18|21|CC 19|21|DET 20|21|COMPOUND 21|17|CONJ 22|3|PUNCT
+*PAR:	and mama's drying the dishes as usual for mamas (.) if they don't have a husband that dries them or washes them or whatever . 67101_76201
+%mor:	cconj|and noun|mama~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|as adj|usual-S1 adp|for noun|mama-Plur sconj|if pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|have-Inf-S det|a-Ind-Art noun|husband-Acc pron|that-Rel verb|dry-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 cconj|or verb|wash-Fin-Ind-Pres-S3 pron|they-Prs-Acc-P3 cconj|or pron|whatever-Int-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|10|CASE 10|4|OBL 11|15|MARK 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|4|ADVCL 16|17|DET 17|15|OBJ 18|19|NSUBJ 19|17|ACL-RELCL 20|19|OBJ 21|22|CC 22|19|CONJ 23|22|OBJ 24|25|CC 25|23|CONJ 26|4|PUNCT
+*PAR:	&-uh let's see now . [+ exc] 78321_81461
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+*PAR:	I guess there's more things I'm sposta see . [+ exc] 84816_86686
+%mor:	pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|more-Cmp-S1 noun|thing-Plur pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|sposta verb|see-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|EXPL 4|2|CCOMP 5|6|AMOD 6|4|NSUBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ACL-RELCL 11|2|PUNCT
+*INV:	no ‡ you tell me when you finished . 88001_89291
+%mor:	intj|no punct|‡ pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 adv|when pron|you-Prs-Nom-S2 verb|finish-Fin-Ind-Past-S2 .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|4|IOBJ 6|8|ADVMOD 7|8|NSUBJ 8|4|ADVCL 9|4|PUNCT
+*PAR:	let's see here now . [+ exc] 89583_90253
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|here adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|3|ADVMOD 6|1|PUNCT
+*PAR:	oh ‡ &-uh (.) and the [/] the water is &-uh flowing out <of the> [/] of the sink they forgot to turn off whoever's doing the [/] &+w &-uh the dishwashing . [+ gram] 90917_100227
+%mor:	intj|oh punct|‡ cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|flow-Part-Pres-S adp|out adp|of det|the-Def-Art noun|sink pron|they-Prs-Nom-P3 verb|forget-Fin-Ind-Past-P3-irr part|to verb|turn-Inf-S adp|off pron|whoever-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dishwashing-Acc-Ger .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|CC 4|5|DET 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|11|CASE 9|11|CASE 10|11|DET 11|7|OBL 12|13|NSUBJ 13|7|PARATAXIS 14|15|MARK 15|13|XCOMP 16|15|COMPOUND-PRT 17|19|NSUBJ 18|19|AUX 19|15|ADVCL 20|21|DET 21|19|OBJ 22|7|PUNCT
+*PAR:	mom apparently here , she forgot to turn off the water . 100590_102920
+%mor:	noun|mom adv|apparently adv|here cm|cm pron|she-Prs-Nom-S3 verb|forget-Fin-Ind-Past-S3-irr part|to verb|turn-Inf-S adp|off det|the-Def-Art noun|water .
+%gra:	1|6|VOCATIVE 2|3|ADVMOD 3|6|ADVMOD 4|3|PUNCT 5|6|NSUBJ 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|6|PUNCT
+*PAR:	and the [/] the water is spilling out <over the> [//] &+f <onto the floor> [//] onto the kitchen floor . 102962_108472
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|spill-Part-Pres-S adp|out adp|onto det|the-Def-Art noun|kitchen noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|5|PUNCT
+*PAR:	and the little girl has pushed over the (.) chair [: stool] [* s:r] (..) with the boy that [//] &-uh he [//] that was reaching up to get the cookies . 109334_122434
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|have-Fin-Ind-Pres-S3 verb|push-Part-Past-S adp|over det|the-Def-Art noun|stool adp|with det|the-Def-Art noun|boy pron|that-Rel aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S adp|up part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|DET 12|6|OBL 13|15|NSUBJ 14|15|AUX 15|12|ACL-RELCL 16|15|COMPOUND-PRT 17|18|MARK 18|15|ADVCL 19|20|DET 20|18|OBJ 21|6|PUNCT
+*PAR:	&-uh I [//] either he [: she] [* s:r-ret] [//] she pushed it over or he fell over with it . 122580_126120
+%mor:	cconj|either pron|she-Prs-Nom-S3 verb|push-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|over cconj|or pron|he-Prs-Nom-S3 verb|fall-Fin-Ind-Past-S3-irr adp|over adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|CC-PRECONJ 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|8|CC 7|8|NSUBJ 8|3|CONJ 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|3|PUNCT
+*INV:	okay .
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	you_know it &-uh I [/] I [//] &-uh excuse me but you_know I [/] I was +... [+ exc] 129561_133881
+%mor:	verb|youknow-Fin-Imp-S pron|it-Prs-Nom-S3 verb|excuse-Fin-S pron|I-Prs-Acc-S1 cconj|but intj|youknow pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|8|CC 6|8|DISCOURSE 7|8|NSUBJ 8|1|CONJ 9|1|PUNCT
+@End

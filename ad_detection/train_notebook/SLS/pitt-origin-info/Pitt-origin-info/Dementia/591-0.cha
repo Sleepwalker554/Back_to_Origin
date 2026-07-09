@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/t-00002695-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	591-0, audio
+@G:	Cookie
+*INV:	is take a look at that picture . 250_1900
+%mor:	aux|be-Fin-Ind-Pres-S3 verb|take-Inf-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*INV:	take a look at that picture and tell me everything that you see happening in that picture . 2483_7573
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|look-Acc adp|at det|that-Def-Dem-Sing noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|CC 8|1|CONJ 9|8|IOBJ 10|8|OBJ 11|14|OBJ 12|13|NSUBJ 13|10|ACL-RELCL 14|13|XCOMP 15|17|CASE 16|17|DET 17|14|OBL 18|1|PUNCT
+*PAR:	(.) what do +/? [+ exc] 11917_12227
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 +/?
+%gra:	1|0|ROOT 2|1|AUX 3|1|PUNCT
+*INV:	+< tell me everything that's going on in that picture +/. 12103_14653
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture +/.
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	mhm [/] mhm . [+ exc] 15020_15840
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< everything that's happening there . 15321_16451
+%mor:	pron|everything-Tot-S1 pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|there .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|ADVMOD 6|1|PUNCT
+*PAR:	do you want them crossed out or just say it out loud ? [+ exc] 16600_18850
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|they-Prs-Acc-P3 verb|cross-Part-Past-S adp|out cconj|or adv|just verb|say-Inf-S pron|it-Prs-Acc-S3 adp|out adv|loud ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|5|COMPOUND-PRT 7|9|CC 8|9|ADVMOD 9|3|CONJ 10|9|OBJ 11|9|COMPOUND-PRT 12|9|ADVMOD 13|3|PUNCT
+*INV:	+< no ‡ just say it out loud what you see happening . 18380_20890
+%mor:	intj|no punct|‡ adv|just verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 adp|out adv|loud pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|ADVMOD 8|4|OBJ 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|4|PUNCT
+*PAR:	+< okay ‡ &-uh the little boy's climbing the &+cri cookie jar . 20190_25300
+%mor:	intj|okay punct|‡ det|the-Def-Art adj|little-S1 noun|boy~part|s verb|climb-Ger-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|5|CASE 7|0|ROOT 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|7|PUNCT
+*PAR:	&-uh <he has> [//] the little boy has [/] has cookies [//] a cookie in his hand that he got by climbing the step ladder which is ready to fall . 26893_41783
+%mor:	det|the-Def-Art adj|little-S1 noun|boy verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|cookie-Acc adp|in pron|his-Prs-Gen-S3 noun|hand sconj|that pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr sconj|by verb|climb-Part-Pres-S det|the-Def-Art noun|step noun|ladder-Acc pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|12|MARK 11|12|NSUBJ 12|4|CCOMP 13|14|MARK 14|12|ADVCL 15|17|DET 16|17|COMPOUND 17|14|OBJ 18|20|NSUBJ 19|20|COP 20|17|ACL-RELCL 21|22|MARK 22|20|XCOMP 23|4|PUNCT
+*PAR:	the sister is asking for &-uh something to eat . 43614_47534
+%mor:	det|the-Def-Art noun|sister aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S adp|for pron|something-Ind-S1 part|to verb|eat-Inf-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|CASE 6|4|OBL 7|8|MARK 8|6|ACL 9|4|PUNCT
+*PAR:	she has started little and wants some more . 47550_49990
+%mor:	pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 verb|start-Part-Past-S adj|little-S1 cconj|and verb|want-Fin-Ind-Pres-S3 det|some-Def-Ind adj|more-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|CC 6|3|CONJ 7|8|DET 8|6|OBJ 9|3|PUNCT
+*PAR:	&-uh let's see now . [+ exc] 52346_53536
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|ADVMOD 5|1|PUNCT
+*PAR:	<the mother> [/] the mother has &+s &+s a small mess in the kitchen &=laughs <lucky it's> [/] lucky it's small . 54894_64324
+%mor:	det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|small-S1 noun|mess-Acc adp|in det|the-Def-Art noun|kitchen adj|lucky-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|small-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|6|AMOD 11|13|NSUBJ 12|13|COP 13|10|CCOMP 14|3|PUNCT
+*PAR:	&-uh the mother is now <washing and &+dr no yeah> [//] she's washing and drying the dishes in the kitchen . 65101_72071
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|now pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S cconj|and verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|2|DET 2|7|NSUBJ-OUTER 3|7|COP 4|7|ADVMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|9|CC 9|7|CONJ 10|11|DET 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|7|PUNCT
+*PAR:	her water has spilled over terribly bad . 73587_77437
+%mor:	pron|her-Prs-Gen-S3 noun|water aux|have-Fin-Ind-Pres-S3 verb|spill-Part-Past-S adp|over adv|terribly adj|bad-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|7|ADVMOD 7|4|XCOMP 8|4|PUNCT
+*PAR:	and looks like sister's back to try for some more cookies . 79619_87809
+%mor:	cconj|and verb|look-Fin-Ind-Pres-S3 adp|like noun|sister~part|s noun|back part|to verb|try-Inf-S adp|for det|some-Def-Ind adj|more-Cmp-S1 noun|cookie-Plur .
+%gra:	1|2|CC 2|0|ROOT 3|6|CASE 4|6|NMOD-POSS 5|4|CASE 6|2|OBL 7|8|MARK 8|2|ADVCL 9|12|CASE 10|12|DET 11|12|AMOD 12|8|OBL 13|2|PUNCT
+*INV:	okay good . 88841_90851
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	okay . [+ exc] 91580_91840
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

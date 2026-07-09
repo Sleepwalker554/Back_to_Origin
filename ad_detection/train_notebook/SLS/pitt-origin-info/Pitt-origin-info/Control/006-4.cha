@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002184-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|74;|male|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	006-4, audio
+@G:	Cookie
+*INV:	tell me everything that you see going on in that picture . 0_2230
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|1|PUNCT
+*INV:	everything that you see happening . 2830_4130
+%mor:	pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|5|OBJ 3|4|NSUBJ 4|1|ACL-RELCL 5|4|XCOMP 6|1|PUNCT
+*PAR:	well ‡ there's a mother standing there &-uh &-uh washing the dishes . 6647_11907
+%mor:	intj|well punct|‡ pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mother verb|stand-Ger-S adv|there verb|wash-Ger-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|6|ACL 8|7|ADVMOD 9|7|ADVCL 10|11|DET 11|9|OBJ 12|4|PUNCT
+*PAR:	and the sink is overspilling [: overflowing] [* s:r] . 11922_13262
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh the window's open . 16000_20480
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and outside the window there's a <walk with a> [//] &+c curved walk with a garden . 20888_26938
+%mor:	cconj|and adp|outside det|the-Def-Art noun|window pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art verb|curved-Part-Past-S noun|walk adp|with det|a-Ind-Art noun|garden .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|9|DET 8|9|AMOD 9|6|NSUBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|6|PUNCT
+*PAR:	and you can see another &-uh &-uh building there . 29074_32714
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|another-Def-Ind noun|building-Acc-Ger adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*PAR:	looks like a garage or something with curtains and the grass in the garden . 32873_37223
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|garage cconj|or pron|something-Ind-S1 adp|with noun|curtain-Plur cconj|and det|the-Def-Art noun|grass adp|in det|the-Def-Art noun|garden .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CC 6|4|CONJ 7|8|CASE 8|6|NMOD 9|11|CC 10|11|DET 11|8|CONJ 12|14|CASE 13|14|DET 14|11|NMOD 15|1|PUNCT
+*PAR:	and there are dishes [//] &-uh &-uh two cups and a saucer on the sink . 38552_42012
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|saucer adp|on det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|NUMMOD 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+*PAR:	and &-uh she's getting her feet wet from the overflow of the water from the sink . 43053_49073
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 noun|foot-Plur-Acc adj|wet-S1 adp|from det|the-Def-Art noun|overflow adp|of det|the-Def-Art noun|water adp|from det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|XCOMP 8|10|CASE 9|10|DET 10|4|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|16|CASE 15|16|DET 16|13|NMOD 17|4|PUNCT
+*PAR:	she seems to be oblivious to the fact that the &+s sink is overflowing . 49238_54748
+%mor:	pron|she-Prs-Nom-S3 verb|seem-Fin-Ind-Pres-S3 part|to aux|be-Inf-S adj|oblivious-S1 adp|to det|the-Def-Art noun|fact sconj|that det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|MARK 4|5|COP 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|COP 13|8|ACL 14|2|PUNCT
+*PAR:	she's also oblivious to the fact that her kids are stealin(g) cookies out_o(f) the cookie jar . 55328_60678
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|also adj|oblivious-S1 adp|to det|the-Def-Art noun|fact sconj|that pron|her-Prs-Gen-S3 noun|kid-Plur aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|12|MARK 9|10|NMOD-POSS 10|12|NSUBJ 11|12|AUX 12|7|ACL 13|12|OBJ 14|17|CASE 15|17|DET 16|17|COMPOUND 17|12|OBL 18|4|PUNCT
+*PAR:	and the kid on the stool is gonna fall off the stool . 62675_66055
+%mor:	cconj|and det|the-Def-Art noun|kid adp|on det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|8|CC 2|3|DET 3|8|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|8|AUX 8|0|ROOT 9|10|MARK 10|8|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|8|PUNCT
+*PAR:	he's standing up there in the cupboard takin(g) cookies out_o(f) the jar , handin(g) them to his [//] &-uh a girl about the same age . 66239_73799
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|up adv|there adp|in det|the-Def-Art noun|cupboard verb|take-Ger-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|jar cm|cm verb|hand-Part-Pres-S pron|they-Prs-Acc-P3 adp|to det|a-Ind-Art noun|girl adp|about det|the-Def-Art adj|same-S1 noun|age .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|3|ADVCL 10|9|OBJ 11|13|CASE 12|13|DET 13|9|OBL 14|15|PUNCT 15|9|ADVCL 16|15|OBJ 17|19|CASE 18|19|DET 19|15|OBL 20|23|CASE 21|23|DET 22|23|AMOD 23|19|NMOD 24|3|PUNCT
+*PAR:	the kids are somewhere around seven or eight years old or nine . 73882_77992
+%mor:	det|the-Def-Art noun|kid-Plur aux|be-Fin-Ind-Pres-P3 adv|somewhere adp|around num|seven cconj|or num|eight noun|year-Plur adj|old-S1 cconj|or num|nine .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|10|CASE 6|10|NUMMOD 7|8|CC 8|6|CONJ 9|10|OBL-UNMARKED 10|4|OBL 11|12|CC 12|10|CONJ 13|4|PUNCT
+*PAR:	and the mother is gonna get shocked <when the> [/] when the [//] he tumbles and the cookie jar comes down . 79688_87378
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|get-Inf-S adj|shocked-S1 adv|when pron|he-Prs-Nom-S3 verb|tumble-Fin-Ind-Pres-S3 cconj|and det|the-Def-Art noun|cookie noun|jar verb|come-Fin-Ind-Pres-S3 adv|down .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|7|XCOMP 9|11|ADVMOD 10|11|NSUBJ 11|7|ADVCL 12|16|CC 13|15|DET 14|15|COMPOUND 15|16|NSUBJ 16|5|CONJ 17|16|ADVMOD 18|5|PUNCT
+*PAR:	and I think that's about all . [+ exc] 87417_88697
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|CASE 7|3|CCOMP 8|3|PUNCT
+@End

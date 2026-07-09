@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002448-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;|male|MCI||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	033-2, audio
+@G:	Cookie
+*INV:	okay all the action . 300_1450
+%mor:	intj|okay det|all-Def-Tot det|the-Def-Art noun|action .
+%gra:	1|4|DISCOURSE 2|4|DET-PREDET 3|4|DET 4|0|ROOT 5|4|PUNCT
+*PAR:	falling +//. 1913_3483
+%mor:	verb|fall-Part-Pres-S +//.
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh in a sentence or +/? [+ exc] 3822_4962
+%mor:	adp|in det|a-Ind-Art noun|sentence cconj|or +/?
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|CC 5|3|PUNCT
+*INV:	however you wanna say it . 5100_6370
+%mor:	adv|however pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|say-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*PAR:	+< okay . [+ exc] 6379_6469
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh falling off the stool . [+ gram] 7340_9500
+%mor:	verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*PAR:	&+st taking cookies out_of the jar . [+ gram] 10700_13670
+%mor:	verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|jar .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	reaching up for a cookie . [+ gram] 14510_17300
+%mor:	verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	&-uh holding her lips to designate that they better not make noise . [+ gram] 18235_25985
+%mor:	verb|hold-Part-Pres-S pron|her-Prs-Gen-S3 noun|lip-Plur-Acc part|to verb|designate-Inf-S sconj|that pron|they-Prs-Nom-P3 adv|well part|not verb|make-Inf-S noun|noise-Acc .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|MARK 5|1|ADVCL 6|10|MARK 7|10|NSUBJ 8|10|ADVMOD 9|10|ADVMOD 10|5|CCOMP 11|10|OBJ 12|1|PUNCT
+*PAR:	the stool is upsetting . 26645_28605
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|upsetting-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	the water is cascading out_o(f) the sink . 29000_31740
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|cascade-Part-Pres-S adp|outof det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	her feet are getting wet . 32706_34176
+%mor:	pron|her-Prs-Gen-S3 noun|foot-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adj|wet-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|XCOMP 6|4|PUNCT
+*PAR:	the curtains: look as if they're blowing . 36554_40584
+%mor:	det|the-Def-Art noun|curtain-Plur verb|look-Fin-Ind-Pres-P3 sconj|as sconj|if pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|8|MARK 5|4|FIXED 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|3|PUNCT
+*PAR:	the tea cloth is drying the dishes . 43112_47362
+%mor:	det|the-Def-Art noun|tea noun|cloth aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	of_course the woman is drying the dishes . 48302_50032
+%mor:	noun|ofcourse det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	that's about all the action I see . [+ exc] 52905_54285
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET-PREDET 5|6|DET 6|0|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|6|PUNCT
+*INV:	okay . 54779_55019
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	good . 58828_58998
+%mor:	adj|good-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

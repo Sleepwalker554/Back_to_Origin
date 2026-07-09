@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/t-00002577-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|MCI||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	237-1, audio
+@G:	Cookie
+*INV:	what I'd like you to do is just to tell me everything that you see going on in the picture . 110_4120
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1~aux|would-Fin-S verb|like-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 adv|just part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|11|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|11|COP 9|11|ADVMOD 10|11|MARK 11|0|ROOT 12|11|IOBJ 13|11|OBJ 14|17|OBJ 15|16|NSUBJ 16|13|ACL-RELCL 17|16|XCOMP 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|11|PUNCT
+*INV:	okay ? 5865_5955
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	everything you see going on in the picture . 6623_8433
+%mor:	pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+*PAR:	well ‡ Johnny's in the cookie jar handin(g) &-um cookies to his sister who has her fingers up to her lips . 11395_18065
+%mor:	intj|well punct|‡ propn|Johnny~part|s adp|in det|the-Def-Art noun|cookie noun|jar verb|hand-Ger-S noun|cookie-Plur-Acc adp|to pron|his-Prs-Gen-S3 noun|sister pron|who-Rel verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|finger-Plur-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|lip-Plur .
+%gra:	1|8|DISCOURSE 2|0|ROOT 3|8|NMOD-POSS 4|3|CASE 5|8|CASE 6|8|DET 7|8|COMPOUND 8|2|NMOD 9|8|ACL 10|9|OBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|15|NSUBJ 15|13|ACL-RELCL 16|17|NMOD-POSS 17|15|OBJ 18|21|CASE 19|21|CASE 20|21|NMOD-POSS 21|15|OBL 22|2|PUNCT
+*PAR:	<they're at the> [//] &-uh <on the> [//] <at the> [//] he's at the &-uh cupboard above the countertop . 18944_24404
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|cupboard adp|above det|the-Def-Art noun|countertop .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|0|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*PAR:	the mother has her back to them washing [//] &-uh drying dishes . 24562_30322
+%mor:	det|the-Def-Art noun|mother verb|have-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 noun|back-Acc adp|to pron|they-Prs-Acc-P3 verb|drying-Ger-S noun|dish-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|9|AMOD 9|3|OBL 10|3|PUNCT
+*PAR:	the water's overflowing from the sink . 30445_32715
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|from det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	the window's up . 33834_34774
+%mor:	det|the-Def-Art noun|window~part|s adv|up .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	and she has on a dress with an apron . 36450_39570
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|dress adp|with det|a-Ind-Art noun|apron .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*PAR:	and &-um cups are on the countertop . 41525_44475
+%mor:	cconj|and noun|cup-Plur aux|be-Fin-Ind-Pres-P3 adp|on det|the-Def-Art noun|countertop .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	and the water is on the floor . 44642_45852
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	oh ‡ and [/] and he's about to fall because the &-uh stepstool is tilting because he's up there <getting the cookie jar> [//] getting into the cookie jar . 46996_57226
+%mor:	intj|oh intj|‡ cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S sconj|because det|the-Def-Art noun|stepstool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|up adv|there verb|get-Part-Pres-S adp|into det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|CC 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|AUX 13|8|ADVCL 14|18|MARK 15|18|NSUBJ 16|18|COP 17|18|ADVMOD 18|13|ADVMOD 19|18|ADVCL 20|23|CASE 21|23|DET 22|23|COMPOUND 23|19|OBL 24|6|PUNCT
+*PAR:	(..) that's all <I can> [//] that's there that I can see . [+ exc] 63296_65416
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|there pron|that-Rel pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ADVCL-RELCL 11|3|PUNCT
+@End

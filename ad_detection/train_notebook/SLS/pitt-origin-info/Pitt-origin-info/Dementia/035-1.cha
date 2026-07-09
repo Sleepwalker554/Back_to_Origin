@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/t-00002452-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	035-1, audio
+@G:	Cookie
+*INV:	now there it is . 350_1180
+%mor:	adv|now pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|EXPL 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	(.) alright . [+ exc] 3653_3783
+%mor:	intj|alright .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&-uh the little girl &+s wants cookie . [+ gram] 4190_8300
+%mor:	det|the-Def-Art adj|little-S1 noun|girl verb|want-Fin-Ind-Pres-S3 noun|cookie-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the boy is getting her one but <the &+s stool is going to> [//] he's going to fall off the stool . 9612_15562
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S pron|her-Prs-Gen-S3 num|one cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|10|CC 8|10|NSUBJ 9|10|AUX 10|4|CONJ 11|12|MARK 12|10|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|4|PUNCT
+*PAR:	it's tilty [: tilting] [* p:n] . 16710_17230
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	&-uh the mother is doing the dishes . 21994_23814
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and unfortunately the sink is overflowing on the floor &=laughs . 24240_28980
+%mor:	cconj|and adv|unfortunately det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|6|CC 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*PAR:	it's wet . 30445_31095
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|wet-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx . [+ exc]
+*PAR:	xxx . [+ exc]
+*PAR:	(..) the little &+b +... 44171_44341
+%mor:	det|the-Def-Art adj|little-S1 +...
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	oh that's his feet . 46115_47665
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|foot-Plur .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|0|ROOT 6|5|PUNCT
+*PAR:	I thought there was something around the little boy's foot or <at least> [/] at least just <one part of> [//] one foot [/] foot (.) on top of the other . 62636_62796
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr pron|something-Ind-S1 adp|around det|the-Def-Art adj|little-S1 noun|boy~part|s noun|foot cconj|or adp|at adj|least-Sup-S1 adv|just num|one noun|foot adp|on noun|top adp|of det|the-Def-Art adj|other-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|EXPL 4|2|CCOMP 5|4|NSUBJ 6|11|CASE 7|9|DET 8|9|AMOD 9|11|NMOD-POSS 10|9|CASE 11|5|NMOD 12|17|CC 13|14|CASE 14|16|NMOD 15|16|ADVMOD 16|17|NUMMOD 17|11|CONJ 18|19|CASE 19|17|NMOD 20|22|CASE 21|22|DET 22|19|NMOD 23|2|PUNCT
+*PAR:	the little girl I [/] I don't whether she's laughing or asking for the cookie or saying “shh” so mother doesn't hear them &=laughs . 63256_73406
+%mor:	det|the-Def-Art adj|little-S1 noun|girl pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not sconj|whether pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S cconj|or verb|ask-Part-Pres-S adp|for det|the-Def-Art noun|cookie cconj|or verb|say-Part-Pres-S intj|shh adv|so noun|mother aux|do-Fin-Ind-Pres-S3~part|not verb|hear-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|DET 2|3|AMOD 3|23|NSUBJ-OUTER 4|5|NSUBJ 5|3|ACL-RELCL 6|5|ADVMOD 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|12|CC 12|10|CONJ 13|15|CASE 14|15|DET 15|12|OBL 16|17|CC 17|12|CONJ 18|17|OBJ 19|23|ADVMOD 20|23|NSUBJ 21|23|AUX 22|23|ADVMOD 23|0|ROOT 24|23|OBJ 25|23|PUNCT
+*INV:	okay . 76462_76712
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

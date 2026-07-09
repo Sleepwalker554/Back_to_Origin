@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002702-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	609-0, audio
+@G:	Cookie
+*INV:	now I'm going to give you a picture that has a_lot_of things going on in it . 660_3760
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|give-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|picture-Acc pron|that-Rel verb|have-Fin-Ind-Pres-S3 noun|alotof noun|thing-Plur-Acc verb|go-Ger-S adp|on adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|13|COMPOUND 13|11|OBJ 14|13|ACL 15|14|COMPOUND-PRT 16|17|CASE 17|14|OBL 18|4|PUNCT
+*INV:	I want you to tell me everything you see going on in the picture . 4105_7195
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|5|IOBJ 7|5|OBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|2|PUNCT
+*INV:	tell me what you see going on in the picture . 8318_10368
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|5|XCOMP 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|1|PUNCT
+*PAR:	well ‡ (.) they're grabbing the cookie jar . 12188_16838
+%mor:	intj|well punct|‡ pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|grab-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+*PAR:	right ? [+ exc] 17490_17710
+%mor:	adj|right-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) and mother is working . 21787_24197
+%mor:	cconj|and noun|mother aux|be-Fin-Ind-Pres-S3 verb|work-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	(..) tell me if you see anything else going on here . 35253_37603
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 sconj|if pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on adv|here .
+%gra:	1|0|ROOT 2|1|IOBJ 3|5|MARK 4|5|NSUBJ 5|1|ADVCL 6|5|OBJ 7|6|AMOD 8|6|ACL 9|8|COMPOUND-PRT 10|8|ADVMOD 11|1|PUNCT
+*INV:	what else is going on in that picture ? 38639_40289
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adp|in det|that-Def-Dem-Sing noun|picture ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*PAR:	well ‡ the mother is [/] is &+t taking care of this . 41761_47481
+%mor:	intj|well punct|‡ det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|care-Acc adp|of pron|this-Dem-S1 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|9|CASE 9|6|OBL 10|6|PUNCT
+*PAR:	and like I said they're grabbing the &+coo cookie jar . 51003_54783
+%mor:	cconj|and sconj|like pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|grab-Part-Pres-S det|the-Def-Art noun|cookie noun|jar-Acc .
+%gra:	1|4|CC 2|4|MARK 3|4|NSUBJ 4|0|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|4|PUNCT
+*PAR:	(..) wonder what my husband is doin(g) . [+ exc] 63081_65771
+%mor:	verb|wonder-Fin-Imp-S pron|what-Int-S1 pron|my-Prs-Gen-S1 noun|husband aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|NMOD-POSS 4|6|NSUBJ 5|6|AUX 6|2|ACL-RELCL 7|1|PUNCT
+*INV:	can you tell me what else you see going on right here ? 67535_69905
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adv|right adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|3|OBJ 6|5|ADVMOD 7|8|NSUBJ 8|5|ACL-RELCL 9|8|XCOMP 10|9|COMPOUND-PRT 11|12|ADVMOD 12|9|ADVMOD 13|3|PUNCT
+*INV:	what else is going on here ? 69954_71314
+%mor:	pron|what-Int-S1 adv|else aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|here ?
+%gra:	1|4|NSUBJ 2|1|ADVMOD 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|4|PUNCT
+*PAR:	well ‡ this is going to fall . 72344_74704
+%mor:	intj|well punct|‡ pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|fall-Inf-S .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*INV:	okay . 76310_76560
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and I think that he'll lose his cookies . 79227_82797
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|he-Prs-Nom-S3~aux|will-Fin-S verb|lose-Inf-S pron|his-Prs-Gen-S3 noun|cookie-Plur-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|9|NMOD-POSS 9|7|OBJ 10|3|PUNCT
+*PAR:	(..) boy ‡ she's having problems here . 94553_96373
+%mor:	intj|boy punct|‡ pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|have-Part-Pres-S noun|problem-Plur-Acc adv|here .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*INV:	+< can you tell me what's going on there ? 96232_97922
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|on adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|COMPOUND-PRT 9|7|ADVMOD 10|3|PUNCT
+*PAR:	yeah ‡ it's overflowing the [//] &-uh (.) onto the floor . 98508_103708
+%mor:	intj|yeah punct|‡ pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*INV:	(..) okay let me take that away . 114953_116393
+%mor:	intj|okay verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|take-Inf-S pron|that-Dem adv|away .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+@End

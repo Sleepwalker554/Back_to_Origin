@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00002732-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|PossibleAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	711-0, audio
+@G:	Cookie
+*INV:	I want you to take a look at this picture here and tell me everything that you see happening in that picture . 300_6180
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|take-Inf-S det|a-Ind-Art noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture adv|here cconj|and verb|tell-Inf-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|5|ADVMOD 12|13|CC 13|2|CONJ 14|13|IOBJ 15|13|OBJ 16|19|OBJ 17|18|NSUBJ 18|15|ACL-RELCL 19|18|XCOMP 20|22|CASE 21|22|DET 22|19|OBL 23|2|PUNCT
+*PAR:	oh ‡ you want me to tell you . [+ exc] 6440_7440
+%mor:	intj|oh punct|‡ pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|4|PUNCT
+*INV:	+< yeah ‡ just tell me everything that you see going on in that picture . 7031_10341
+%mor:	intj|yeah intj|‡ adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|4|OBJ 7|10|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|9|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	the mother and her two children . [+ gram] 10776_12656
+%mor:	det|the-Def-Art noun|mother cconj|and pron|her-Prs-Gen-S3 num|two noun|child-Plur .
+%gra:	1|2|DET 2|0|ROOT 3|6|CC 4|6|NMOD-POSS 5|6|NUMMOD 6|2|CONJ 7|2|PUNCT
+*PAR:	and the children are getting in the cookie jar . 12738_15758
+%mor:	cconj|and det|the-Def-Art noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|get-Part-Pres-S adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+*PAR:	and she's doing the dishes and spilling the water . 15777_18357
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|spill-Part-Pres-S det|the-Def-Art noun|water-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|10|DET 10|8|OBJ 11|4|PUNCT
+*PAR:	and she had the spigot on . 18380_19540
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|the-Def-Art noun|spigot-Acc adp|on .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*PAR:	and she didn't know it perhaps . 19555_21015
+%mor:	cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|know-Inf-S pron|it-Prs-Acc-S3 adv|perhaps .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*PAR:	&=coughs pardon me . [+ exc] 23468_23948
+%mor:	verb|pardon-Inf-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	and they're looking out into the garden from the kitchen window . 25452_28682
+%mor:	cconj|and pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|look-Part-Pres-S adp|out adp|into det|the-Def-Art noun|garden adp|from det|the-Def-Art noun|kitchen noun|window .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|12|CASE 10|12|DET 11|12|COMPOUND 12|4|OBL 13|4|PUNCT
+*PAR:	it's open . 28700_29390
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*PAR:	and the &-uh cookies must be pretty good they're eating . 29407_34157
+%mor:	cconj|and det|the-Def-Art noun|cookie-Plur aux|must-Fin-S aux|be-Inf-S adv|pretty adj|good-S1 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|eat-Part-Pres-S .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|AUX 5|7|COP 6|7|ADVMOD 7|0|ROOT 8|10|NSUBJ 9|10|AUX 10|7|CCOMP 11|7|PUNCT
+*PAR:	<the tair [: chair] [* p:w-ret]> [//] &-uh the chair [: stool] [* s:r] is &+t &-uh tilting and he's gonna fall off . 34979_38629
+%mor:	det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CC 6|8|NSUBJ 7|8|AUX 8|4|CONJ 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	and &-uh <the lady> [//] the mother's splashing her shoes and stockings all up overflowing the water . 39992_46582
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s verb|splash-Ger-S pron|her-Prs-Gen-S3 noun|shoe-Plur-Acc cconj|and noun|stocking-Plur det|all-Def-Tot adp|up verb|overflow-Part-Pres-S det|the-Def-Art noun|water-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|CASE 5|0|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|9|CC 9|7|CONJ 10|11|DET 11|5|COMPOUND-PRT 12|5|ADVCL 13|14|DET 14|12|OBJ 15|5|PUNCT
+*PAR:	and there's &-um &-uh a window and curtains on the window . 47868_53838
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|window cconj|and noun|curtain-Plur adp|on det|the-Def-Art noun|window .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|CC 7|5|CONJ 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+*PAR:	and I can see some trees outside there . 53855_56105
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S det|some-Def-Ind noun|tree-Plur-Acc adp|outside adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+*PAR:	and [/] and there's dishes that &+h had been washed . 57755_58335
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|dish-Plur pron|that-Rel aux|have-Fin-Ind-Past-P3-irr aux|be-Part-Past-S-irr verb|wash-Part-Past-S .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|8|NSUBJ-PASS 6|8|AUX 7|8|AUX-PASS 8|4|ACL-RELCL 9|3|PUNCT
+*PAR:	and she's dryin(g) them . 58335_61585
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S pron|they-Prs-Acc-P3 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and there's some shrub out there and +... 62110_63300
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|shrub adv|out adv|there cconj|and +...
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|7|ADVMOD 7|3|ADVMOD 8|3|CC 9|3|PUNCT
+*INV:	okay very good . 65087_67258
+%mor:	intj|okay adv|very adj|good-S1 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+@End

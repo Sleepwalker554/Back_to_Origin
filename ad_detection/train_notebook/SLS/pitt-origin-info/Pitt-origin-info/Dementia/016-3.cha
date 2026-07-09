@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/t-00002435-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;00.|male|MCI||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	016-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	I'm gonna [: going to] ask you to do this . 380_1260
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|do-Inf-S pron|this-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|MARK 8|5|XCOMP 9|8|OBJ 10|3|PUNCT
+*INV:	just look at the picture and tell me anything you see going on . 1530_4430
+%mor:	adv|just verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|2|CONJ 8|7|IOBJ 9|7|OBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|11|XCOMP 13|12|COMPOUND-PRT 14|2|PUNCT
+*PAR:	a boy is reaching for the cookie jar and tripping [: tipping] [* p:w] over on the stool . 7420_13090
+%mor:	det|a-Ind-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|the-Def-Art noun|cookie noun|jar cconj|and verb|tip-Part-Pres-S adp|over adp|on det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|10|CC 10|4|CONJ 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	and the girl is starting to laugh . 13128_15338
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|start-Part-Pres-S part|to verb|laugh-Inf-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR:	oh a mother's drying dishes . 16555_18875
+%mor:	intj|oh det|a-Ind-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	the water's spilling out_o(f) the sink . 18914_22404
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|spilling-Part-Pres-S noun|outof-Acc det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|APPOS 8|4|PUNCT
+*PAR:	&-uh I don't see anything going on outside but +... 23594_28354
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 verb|go-Ger-S adp|on adv|outside cconj|but +...
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|ACL 7|6|COMPOUND-PRT 8|6|ADVMOD 9|4|PUNCT 10|4|PUNCT
+*INV:	okay . 33746_33976
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

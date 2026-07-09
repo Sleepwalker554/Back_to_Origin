@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00002556-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|65;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	213-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*PAR:	well ‡ I see this woman here . 850_2660
+%mor:	intj|well punct|‡ pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|woman-Acc adv|here .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*INV:	okay . 2675_3015
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and she [//] &-uh she's carryin(g) something . 4905_7965
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|carry-Part-Pres-S pron|something-Ind-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	okay . 8317_8637
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(..) can you see anything else going on ? 15923_17733
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|anything-Ind-S1 adj|else-S1 verb|go-Ger-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|4|AMOD 6|4|ACL 7|6|COMPOUND-PRT 8|3|PUNCT
+*PAR:	well ‡ I'm tryin(g) to +... [+ exc] 18534_19354
+%mor:	intj|well punct|‡ pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|try-Part-Pres-S part|to +...
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|5|PUNCT
+*INV:	okay ‡ how_about over in this area ? 20145_21685
+%mor:	intj|okay x|‡ noun|howabout adv|over adp|in det|this-Def-Dem-Sing noun|area ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|FLAT 4|2|ADVMOD 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+*PAR:	oh this ? [+ exc] 21771_22131
+%mor:	intj|oh pron|this-Dem-S1 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	okay . [+ exc] 22255_22435
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	oh ‡ <she is> [/] &-uh &+eel she is throwing something it looks like to me . 24141_29491
+%mor:	intj|oh punct|‡ pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|throw-Part-Pres-S pron|something-Ind-S1 pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBL 10|11|CASE 11|8|OBL 12|5|PUNCT
+*INV:	okay . 31740_31950
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and here she's standing . 32917_34627
+%mor:	cconj|and adv|here pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S .
+%gra:	1|2|CC 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|ADVCL-RELCL 6|2|PUNCT
+*PAR:	and she's got some kind of a stick I would say here . 36465_39295
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|some-Def-Ind noun|kind-Acc adp|of det|a-Ind-Art noun|stick pron|I-Prs-Nom-S1 aux|would-Fin-S verb|say-Inf-S adv|here .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|12|NSUBJ 11|12|AUX 12|9|ACL-RELCL 13|12|ADVMOD 14|4|PUNCT
+*PAR:	let's see . [+ exc] 39715_40155
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	(..) okay ‡ she's catching the [//] a ball perhaps . 44354_47034
+%mor:	intj|okay punct|‡ pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|catching-Part-Pres-S det|a-Ind-Art noun|ball-Acc adv|perhaps .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+*PAR:	should I still stay on this side here or go over here ? [+ exc] 49318_52028
+%mor:	aux|should-Fin-S pron|I-Prs-Nom-S1 adv|still verb|stay-Inf-S adp|on det|this-Def-Dem-Sing noun|side adv|here cconj|or verb|go-Inf-S adp|over adv|here ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|ADVMOD 9|10|CC 10|4|CONJ 11|12|CASE 12|10|OBL 13|4|PUNCT
+*INV:	okay is there anything else you see ? 52685_54095
+%mor:	intj|okay verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|EXPL 4|2|NSUBJ 5|4|AMOD 6|7|NSUBJ 7|4|ACL-RELCL 8|2|PUNCT
+*PAR:	anything ? [+ exc] 54141_54791
+%mor:	pron|anything-Ind-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	+< on this table here ? [+ exc] 54982_55432
+%mor:	adp|on det|this-Def-Dem-Sing noun|table adv|here ?
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	okay . [+ exc] 55625_55985
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did [/] did we mention this other person here ? [+ exc] 58055_60235
+%mor:	aux|do-Fin-Ind-Past-P1-irr pron|we-Prs-Nom-P1 verb|mention-Inf-S det|this-Def-Dem-Sing adj|other-S1 noun|person-Acc adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*INV:	okay . 60362_60662
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	it looks like he's catchin(g) the ball or something like that or +... 62530_66240
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|catching-Part-Pres-S det|the-Def-Art noun|ball-Acc cconj|or pron|something-Ind-S1 adp|like pron|that-Dem cconj|or +...
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|2|ADVCL 7|8|DET 8|6|OBJ 9|10|CC 10|8|CONJ 11|12|CASE 12|10|NMOD 13|2|CONJ 14|2|PUNCT
+*PAR:	and then here's a girl . 67566_68776
+%mor:	cconj|and adv|then adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|COP 5|6|DET 6|3|NSUBJ 7|3|PUNCT
+*PAR:	(.) an(d) she's got some sticks here . 70450_72440
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|some-Def-Ind noun|stick-Plur-Acc adv|here .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+*PAR:	and here's a boy evidently . 76798_78398
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy adv|evidently .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|ADVMOD 7|2|PUNCT
+*INV:	(..) okay ‡ that's good . 84889_85739
+%mor:	intj|okay punct|‡ pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|5|PUNCT
+@End

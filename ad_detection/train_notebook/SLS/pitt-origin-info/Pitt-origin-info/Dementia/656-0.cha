@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/t-00002715-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|59;|female|MCI||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	656-0, audio
+@G:	Cookie
+*PAR:	well the water ran over . 40_4610
+%mor:	intj|well det|the-Def-Art noun|water verb|run-Fin-Ind-Past-S3-irr adv|over .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	the mother's wiping dishes . 5711_7831
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|wiping-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	the boy's up in the cookie jar ready to fall over . 8617_12437
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adp|up adp|in det|the-Def-Art noun|cookie noun|jar adj|ready-S1 part|to verb|fall-Inf-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|CONJ 10|11|MARK 11|9|XCOMP 12|11|ADVMOD 13|4|PUNCT
+*PAR:	the little girl is reaching out to get the cookies . 12716_16656
+%mor:	det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|out part|to verb|get-Inf-S det|the-Def-Art noun|cookie-Plur-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|8|MARK 8|5|ADVCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+*PAR:	and the mother's mad . 19090_21080
+%mor:	cconj|and det|the-Def-Art noun|mother~part|s noun|mad .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and the window's open . 22103_24023
+%mor:	cconj|and det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and (.) is there more than that ? [+ exc] 27833_32773
+%mor:	cconj|and aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 adp|than pron|that-Dem ?
+%gra:	1|4|CC 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*INV:	that's fine . 32998_33428
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

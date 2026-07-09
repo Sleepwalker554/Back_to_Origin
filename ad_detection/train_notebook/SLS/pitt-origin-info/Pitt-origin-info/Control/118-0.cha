@@ -1,0 +1,40 @@
+@UTF8
+@PID:	11312/t-00002268-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|66;|female|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	118-0, audio
+@G:	Cookie
+*INV:	okay . 110_190
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	there's the picture . 450_1180
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*PAR:	the boy is givin(g) his sister a cookie . 3646_7526
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|give-Part-Pres-S pron|his-Prs-Gen-S3 noun|sister det|a-Ind-Art noun|cookie-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|NMOD-POSS 6|4|IOBJ 7|8|DET 8|4|OBJ 9|4|PUNCT
+*PAR:	and the &+s stool is about to fall . 9059_12889
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 adj|about-S1 part|to verb|fall-Inf-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*PAR:	and the mother's dryin(g) dishes . 14102_15732
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	and the water's comin(g) out_of the faucet . 16158_19068
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|come-Ger-S noun|outof det|the-Def-Art noun|faucet .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|AMOD 6|0|ROOT 7|8|DET 8|6|APPOS 9|6|PUNCT
+*PAR:	and the water's overflowin(g) out_of the sink onto the floor . 19883_23823
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S noun|outof-Acc det|the-Def-Art noun|sink adp|onto det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|8|DET 8|6|APPOS 9|11|CASE 10|11|DET 11|8|NMOD 12|5|PUNCT
+*PAR:	and the little girl is puttin(g) her hand up to her mouth to &+s signal not to say anything so the mother won't know about it . 25121_36841
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up adp|to pron|her-Prs-Gen-S3 noun|mouth part|to verb|signal-Inf-S part|not part|to verb|say-Inf-S pron|anything-Ind-S1 sconj|so det|the-Def-Art noun|mother aux|will-Fin-S~part|not verb|know-Inf-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|6|COMPOUND-PRT 10|12|CASE 11|12|NMOD-POSS 12|6|OBL 13|14|MARK 14|6|ADVCL 15|17|ADVMOD 16|17|MARK 17|14|XCOMP 18|17|OBJ 19|24|MARK 20|21|DET 21|24|NSUBJ 22|24|AUX 23|24|ADVMOD 24|17|ADVCL 25|26|CASE 26|24|OBL 27|6|PUNCT
+*PAR:	that's all . [+ exc] 36993_39433
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 41119_41279
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

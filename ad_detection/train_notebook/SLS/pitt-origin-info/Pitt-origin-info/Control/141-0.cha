@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00002300-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|54;|female|Control||Participant|29||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	141-0, audio
+@G:	Cookie
+*INV:	and here's the picture +/. 200_720
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|picture +/.
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*PAR:	the action only ? [+ exc] 800_1690
+%mor:	det|the-Def-Art noun|action adv|only ?
+%gra:	1|2|DET 2|0|ROOT 3|2|ADVMOD 4|2|PUNCT
+*INV:	right . 2051_2301
+%mor:	adj|right-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 4266_4396
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	let's see . [+ exc] 5287_5647
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	there's &-uh a boy and a girl . 5700_6870
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|boy cconj|and det|a-Ind-Art noun|girl .
+%gra:	1|2|EXPL 2|0|ROOT 3|4|DET 4|2|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|2|PUNCT
+*PAR:	the boy is getting cookies from the jar and he is on a stool . 6888_10658
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adp|from det|the-Def-Art noun|jar cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|14|CC 10|14|NSUBJ 11|14|COP 12|14|CASE 13|14|DET 14|4|CONJ 15|4|PUNCT
+*PAR:	and the stall [: stool] [* p:w] is tilted over . 11171_13241
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Past-S adp|over .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|5|COMPOUND-PRT 7|5|PUNCT
+*PAR:	a catastrophe there I can see . 13953_15333
+%mor:	det|a-Ind-Art noun|catastrophe adv|there pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|2|DET 2|6|DISLOCATED 3|2|ADVMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	the mother is drying dishes and has the water turned on . 16325_19995
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur-Acc cconj|and verb|have-Fin-Ind-Pres-S3 det|the-Def-Art noun|water-Acc verb|turn-Part-Past-S adp|on .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CC 7|4|CONJ 8|9|DET 9|7|OBJ 10|7|XCOMP 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	and her mind must be elsewhere &=laughs because the water has overflowed . 20290_24470
+%mor:	cconj|and pron|her-Prs-Gen-S3 noun|mind aux|must-Fin-S aux|be-Inf-S adv|elsewhere sconj|because det|the-Def-Art noun|water aux|have-Fin-Ind-Pres-S3 verb|overflow-Part-Past-S .
+%gra:	1|6|CC 2|3|NMOD-POSS 3|6|NSUBJ 4|6|AUX 5|6|COP 6|0|ROOT 7|11|MARK 8|9|DET 9|11|NSUBJ 10|11|AUX 11|6|ADVCL 12|6|PUNCT
+*PAR:	and (.) I don't see anything happening outside . 25760_32360
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 verb|happen-Ger-S adv|outside .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|6|ACL 8|7|ADVMOD 9|5|PUNCT
+*PAR:	(th)at's [/] that's just about it I think . [+ exc] 33347_35227
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just adv|about pron|it-Prs-Acc-S3 pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|0|ROOT 6|7|NSUBJ 7|5|PARATAXIS 8|5|PUNCT
+*INV:	okay . 36469_36909
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

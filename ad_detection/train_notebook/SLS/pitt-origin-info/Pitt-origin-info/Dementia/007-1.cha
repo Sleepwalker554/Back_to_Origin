@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002425-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	007-1, audio
+@G:	Cookie
+*INV:	www .
+%exp:	recording prep
+*INV:	there it is . 2019_2699
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	xxx . [+ exc]
+*INV:	yeah . 6730_6970
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	can I look at it and tell you ? [+ exc] 12334_13074
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|look-Inf-S adp|at pron|it-Prs-Acc-S3 cconj|and verb|tell-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|CC 7|3|CONJ 8|7|IOBJ 9|3|PUNCT
+*INV:	just tell me as you see it there mhm . 13935_15685
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 sconj|as pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adv|there intj|mhm .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|OBJ 8|6|ADVMOD 9|2|DISCOURSE 10|2|PUNCT
+*PAR:	+< oh okay . [+ exc] 15555_15685
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*PAR:	well there's a girl and a boy and the boy's in the cookie jar . 15704_18954
+%mor:	intj|well pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|girl cconj|and det|a-Ind-Art noun|boy cconj|and det|the-Def-Art noun|boy~part|s adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CC 10|11|DET 11|5|CONJ 12|11|CASE 13|16|CASE 14|16|DET 15|16|COMPOUND 16|5|NMOD 17|3|PUNCT
+*PAR:	and he's standing on a stool that's tipping over . 19000_22360
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool pron|that-Rel~aux|be-Fin-Ind-Pres-S3 verb|tip-Part-Pres-S adp|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|10|COMPOUND-PRT 12|4|PUNCT
+*PAR:	and he's in the kitchen . 22603_23523
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	and the mother's in the kitchen running the water at the sink . 23869_26449
+%mor:	cconj|and det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|kitchen verb|run-Ger-S det|the-Def-Art noun|water-Acc adp|at det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|ACL 9|10|DET 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|7|PUNCT
+*PAR:	and the water's running over and it's all over the floor . 30575_30675
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|over cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all adp|over det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|13|CC 8|13|NSUBJ 9|13|COP 10|13|ADVMOD 11|13|CASE 12|13|DET 13|5|CONJ 14|5|PUNCT
+*PAR:	and there are curtains at the windows . 30875_32085
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adp|at det|the-Def-Art noun|window-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+*PAR:	and there are cups and a plate on the &-uh pantry . 32598_36239
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|cup-Plur cconj|and det|a-Ind-Art noun|plate adp|on det|the-Def-Art noun|pantry .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|7|CC 6|7|DET 7|4|CONJ 8|10|CASE 9|10|DET 10|7|NMOD 11|3|PUNCT
+*PAR:	and &-uh &-uh the [/] the [//] outside the window there's a path leading to a garage it looks like . 42421_46741
+%mor:	cconj|and adp|outside det|the-Def-Art noun|window pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|path verb|lead-Ger-S adp|to det|a-Ind-Art noun|garage pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|EXPL 6|0|ROOT 7|8|DET 8|6|NSUBJ 9|8|ACL 10|12|CASE 11|12|DET 12|9|OBL 13|14|NSUBJ 14|12|ACL-RELCL 15|14|OBL 16|6|PUNCT
+*PAR:	and there are curtains there . 46982_47732
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|curtain-Plur adv|there .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|3|NSUBJ 5|3|ADVMOD 6|3|PUNCT
+*PAR:	and &-uh that's about all there . [+ exc] 50372_51122
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|about det|all-Def-Tot adv|there .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|5|ADVMOD 7|5|PUNCT
+*INV:	okay . 53016_53306
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

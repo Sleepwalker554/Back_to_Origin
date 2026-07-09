@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/t-00002363-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|male|Control||Participant|30||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	245-1, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 1650_2080
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is standing on a stool . 2129_4219
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|on det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	it is tilting over . 4240_5680
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S adv|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR:	he's &+r reaching for &+k cookies in the cookie jar . 5730_10740
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for noun|cookie-Plur adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|CASE 5|3|OBL 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|3|PUNCT
+*PAR:	and his sister is standing <beside him> [//] side him reaching up for some of the cookies . [+ gram] 11413_16533
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|sister aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S noun|side-Acc pron|he-Prs-Acc-S3 verb|reach-Part-Pres-S adp|up adp|for det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|5|ADVCL 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|5|PUNCT
+*PAR:	and &-uh the mother is standing &-uh right near them &-uh washing dishes in the sink . 18612_31002
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adv|right adp|near pron|they-Prs-Acc-P3 noun|washing-Ger noun|dish-Plur adp|in det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|10|ADVMOD 7|10|CASE 8|5|OBL 9|10|COMPOUND 10|5|OBL 11|13|CASE 12|13|DET 13|10|NMOD 14|5|PUNCT
+*PAR:	and the water is running into the sink and the sink is flooding over &-uh with water . 31470_39010
+%mor:	cconj|and det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|into det|the-Def-Art noun|sink cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|flood-Part-Pres-S adp|over adp|with noun|water .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|13|CC 10|11|DET 11|13|NSUBJ 12|13|AUX 13|5|CONJ 14|13|COMPOUND-PRT 15|16|CASE 16|13|OBL 17|5|PUNCT
+*PAR:	and &-uh +... 40859_41319
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	you want scenery description or anything like that ? [+ exc] 43774_45754
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 noun|scenery noun|description-Acc cconj|or pron|anything-Ind-S1 adp|like pron|that-Dem ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|COMPOUND 4|2|OBJ 5|6|CC 6|4|CONJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+*INV:	+< whatever you see going on , mhm . 45843_46893
+%mor:	pron|whatever-Int-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on cm|cm intj|mhm .
+%gra:	1|0|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|XCOMP 5|4|COMPOUND-PRT 6|7|PUNCT 7|1|DISCOURSE 8|1|PUNCT
+*PAR:	okay yeah . [+ exc] 47599_48279
+%mor:	intj|okay intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	outside the window where the mother is there's [/] &-uh there's a walkway &+li it looks like it's going out to a garage . 48333_57383
+%mor:	adp|outside det|the-Def-Art noun|window adv|where det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|walkway pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|out adp|to det|a-Ind-Art noun|garage .
+%gra:	1|3|CASE 2|3|DET 3|13|OBL 4|7|ADVMOD 5|6|DET 6|7|NSUBJ 7|3|ACL-RELCL 8|11|EXPL 9|11|COP 10|11|DET 11|3|ACL-RELCL 12|13|EXPL 13|0|ROOT 14|17|MARK 15|17|NSUBJ 16|17|AUX 17|13|ADVCL 18|17|COMPOUND-PRT 19|21|CASE 20|21|DET 21|17|OBL 22|13|PUNCT
+*PAR:	and also one is &-uh on his kitchen sink area there's a [//] like a coffee cup &-uh two cups <and a> [/] and a plate . 58460_68500
+%mor:	cconj|and adv|also pron|one-Prs-S3 aux|be-Fin-Ind-Pres-S3 adp|on pron|his-Prs-Gen-S3 noun|kitchen noun|sink noun|area pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 intj|like det|a-Ind-Art noun|coffee noun|cup num|two noun|cup-Plur cconj|and det|a-Ind-Art noun|plate .
+%gra:	1|9|CC 2|9|ADVMOD 3|9|NSUBJ 4|9|COP 5|9|CASE 6|9|NMOD-POSS 7|9|COMPOUND 8|9|COMPOUND 9|11|OBL 10|11|EXPL 11|0|ROOT 12|15|DISCOURSE 13|15|DET 14|15|COMPOUND 15|11|NSUBJ 16|17|NUMMOD 17|15|CONJ 18|20|CC 19|20|DET 20|17|CONJ 21|11|PUNCT
+*PAR:	and +... 70072_70452
+%mor:	cconj|and +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay xxx . 77033_77163
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	hey okay . [+ exc] 77500_77610
+%mor:	intj|hey intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	and I did say the &+sk stool is &-uh tilting &-uh +//. 78056_81406
+%com:	tape cuts off
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S det|the-Def-Art noun|stool aux|be-Fin-Ind-Pres-S3 verb|tilt-Part-Pres-S +//.
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|4|PUNCT
+@End

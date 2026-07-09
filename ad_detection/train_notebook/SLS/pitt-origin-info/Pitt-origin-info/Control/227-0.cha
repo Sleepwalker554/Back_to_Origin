@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00002351-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|63;|male|Control||Participant|26||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	227-0, audio
+@G:	Cookie
+*PAR:	he's falling off the stool . 340_1490
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*INV:	action . 1505_1955
+%mor:	noun|action .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 2342_2722
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the water's over flowing . 3381_4391
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 adp|over verb|flow-Part-Pres-S .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|AUX 4|5|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	not xxx do you xxx more ? [+ exc] 6332_7612
+%mor:	part|not aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|more-Cmp-S1 ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|2|PUNCT
+*PAR:	is there more ? [+ exc] 9349_9919
+%mor:	aux|be-Fin-Ind-Pres-S3 adv|there adj|more-Cmp-S1 ?
+%gra:	1|3|COP 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*INV:	do you see any more ? 10910_11850
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	+< right there . [+ exc] 11570_11750
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*PAR:	what if . [+ exc] 13050_13850
+%mor:	pron|what-Int-S1 adp|if .
+%gra:	1|0|ROOT 2|1|CASE 3|1|PUNCT
+*PAR:	the action . [+ exc] 13866_17206
+%mor:	det|the-Def-Art noun|action .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAR:	I don't know what you strictly mean by action . [+ exc] 17316_19116
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 adv|strictly verb|mean-Fin-Ind-Pres-S2 adp|by noun|action .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|ADVMOD 8|5|ACL-RELCL 9|10|CASE 10|8|OBL 11|4|PUNCT
+*PAR:	the guy's eatin(g) some cookies . 19169_20259
+%mor:	det|the-Def-Art noun|guy~aux|be-Fin-Ind-Pres-S3 verb|eat-Part-Pres-S det|some-Def-Ind noun|cookie-Plur-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	is that action ? [+ exc] 20282_20922
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|action ?
+%gra:	1|3|COP 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	things that are going on . 24740_26070
+%mor:	noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|on .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|1|PUNCT
+*PAR:	(.) washing dishes ? [+ exc] 32938_33728
+%mor:	noun|washing-Ger noun|dish-Plur ?
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*PAR:	is that action ? [+ exc] 33777_34527
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|action ?
+%gra:	1|3|COP 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	mhm . 34735_35235
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the water coming out_of the faucet is action . 36114_38244
+%mor:	cconj|and det|the-Def-Art noun|water verb|come-Ger-S noun|outof-Acc det|the-Def-Art noun|faucet-Acc aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|9|CC 2|5|DET 3|9|NSUBJ 4|3|ACL 5|4|OBJ 6|7|DET 7|4|OBJ 8|9|COP 9|0|ROOT 10|9|PUNCT
+*PAR:	and drying the dishes is action . 39330_40860
+%mor:	cconj|and verb|drying-Part-S det|the-Def-Art noun|dish-Plur-Acc aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|6|CC 2|6|CSUBJ 3|4|DET 4|2|OBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	and takin(g) the cookie is action . 40884_42524
+%mor:	cconj|and verb|take-Part-Pres-S det|the-Def-Art noun|cookie-Acc aux|be-Fin-Ind-Pres-S3 noun|action .
+%gra:	1|6|CC 2|6|CSUBJ 3|4|DET 4|2|OBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	and I don't see anybody eating one . 42845_44635
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anybody-Ind-S1 verb|eat-Ger-S num|one .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|6|ACL 8|7|OBJ 9|5|PUNCT
+*PAR:	okay ? [+ exc] 47566_47686
+%mor:	intj|okay ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 48284_48694
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) that's about all the action I see . [+ exc] 53438_55788
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|about det|all-Def-Tot det|the-Def-Art noun|action pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|DET-PREDET 5|6|DET 6|0|ROOT 7|8|NSUBJ 8|6|ACL-RELCL 9|6|PUNCT
+*INV:	okay . 56080_56390
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	any more ? [+ exc] 57626_57766
+%mor:	det|any-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+@End

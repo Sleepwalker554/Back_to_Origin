@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00002708-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|77;|male|ProbableAD||Participant|14||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	636-0, audio
+@G:	Cookie
+*INV:	what I want you to do is take a good look at this picture . 790_4430
+%mor:	pron|what-Int-S1 pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S aux|be-Fin-Ind-Pres-S3 verb|take-Inf-S det|a-Ind-Art adj|good-S1 noun|look-Acc adp|at det|this-Def-Dem-Sing noun|picture .
+%gra:	1|8|NSUBJ-OUTER 2|3|NSUBJ 3|1|ACL-RELCL 4|3|OBJ 5|6|MARK 6|3|XCOMP 7|8|COP 8|0|ROOT 9|11|DET 10|11|AMOD 11|8|OBJ 12|14|CASE 13|14|DET 14|11|NMOD 15|8|PUNCT
+*INV:	and tell me everything that you see going on in that picture . 5300_7950
+%mor:	cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|that-Def-Dem-Sing noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|8|OBJ 6|7|NSUBJ 7|4|ACL-RELCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|CASE 11|12|DET 12|8|OBL 13|2|PUNCT
+*INV:	tell me everything that you see happening . 8400_10140
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|6|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|1|PUNCT
+*INV:	tell me everything +/. 11308_19388
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 +/.
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+*PAR:	+< he must be pickin(g) apples here . 19170_20740
+%mor:	pron|he-Prs-Nom-S3 aux|must-Fin-S aux|be-Inf-S verb|pick-Part-Pres-S noun|apple-Plur-Acc adv|here .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+*INV:	okay . 21075_21755
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(be)cause he's on the ladder [: stool] [* s:r] . 21990_23120
+%mor:	sconj|because pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|stool .
+%gra:	1|6|MARK 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|0|ROOT 7|6|PUNCT
+*PAR:	and he's got both hands open . 23138_25348
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|both-Def-Tot noun|hand-Plur-Acc adj|open-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|4|PUNCT
+*PAR:	and he can be . 25370_25980
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|can-Fin-S aux|be-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	anything else that you see happening here ? 31132_33512
+%mor:	pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here ?
+%gra:	1|0|ROOT 2|1|AMOD 3|6|OBJ 4|5|NSUBJ 5|1|ACL-RELCL 6|5|XCOMP 7|6|ADVMOD 8|1|PUNCT
+*PAR:	and the chair [: stool] [* s:r] was fallin(g) . 35794_37144
+%mor:	cconj|and det|the-Def-Art noun|stool aux|be-Fin-Ind-Past-S3-irr verb|fall-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 37988_38288
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	anything else ? 40199_41109
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	the baby's cryin(g) . 41875_47975
+%mor:	det|the-Def-Art noun|baby~aux|be-Fin-Ind-Pres-S3 verb|cry-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	okay anything else that you see happening ? 49020_51060
+%mor:	intj|okay pron|anything-Ind-S1 adj|else-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|AMOD 4|6|OBJ 5|6|NSUBJ 6|2|ACL-RELCL 7|6|XCOMP 8|2|PUNCT
+*PAR:	that's all . [+ exc] 52517_52947
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 53980_54240
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,74 @@
+@UTF8
+@PID:	11312/t-00002315-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|61;00.|female|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	155-2, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	okay now +//. 400_920
+%mor:	intj|okay adv|now +//.
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*INV:	going on in the picture . 1490_2320
+%mor:	verb|go-Part-Pres-S adp|on adp|in det|the-Def-Art noun|picture .
+%gra:	1|0|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*PAR:	okay . [+ exc] 4846_5156
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the boy is falling off the stool . 7706_10136
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	he's taking cookies out_of the cookie jar . 12160_14500
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+*PAR:	and the girl is reaching up for a cookie . 15940_19710
+%mor:	cconj|and det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|up adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|COMPOUND-PRT 7|9|CASE 8|9|DET 9|5|OBL 10|5|PUNCT
+*PAR:	the mother is drying dishes . 21326_23296
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*PAR:	the [//] &+s water is running out_of <the sink> [//] the overflowing sink . 24511_28661
+%mor:	noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adp|outof det|the-Def-Art verb|overflow-Ger-S noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|3|PUNCT
+*PAR:	the mother's standing in the water . 29714_31334
+%mor:	det|the-Def-Art noun|mother~aux|be-Fin-Ind-Pres-S3 verb|standing-Part-Pres-S adp|in det|the-Def-Art noun|water .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	(...) &-um (..) the window is open . 45238_47088
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*PAR:	looks like the window's open . [+ gram] 47105_48575
+%mor:	verb|look-Fin-Ind-Pres-S3 adp|like det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|0|ROOT 2|6|CASE 3|4|DET 4|6|NMOD-POSS 5|4|CASE 6|1|OBL 7|1|PUNCT
+*PAR:	(..) the water is running . 52267_53557
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	(...) I don't know whether you'd consider her looking the other way or whether that would be an activity or not . [+ exc] 53758_68288
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|whether pron|you-Prs-Nom-S2~aux|would-Fin-S verb|consider-Inf-S pron|her-Prs-Acc-S3 verb|look-Ger-S det|the-Def-Art adj|other-S1 noun|way cconj|or sconj|whether pron|that-Dem aux|would-Fin-S aux|be-Inf-S det|a-Ind-Art noun|activity cconj|or part|not .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|8|OBJ 10|8|XCOMP 11|13|DET 12|13|AMOD 13|10|OBL-UNMARKED 14|20|CC 15|20|MARK 16|20|NSUBJ 17|20|AUX 18|20|COP 19|20|DET 20|8|CONJ 21|22|CC 22|20|CONJ 23|4|PUNCT
+*PAR:	<she's> [/] she's not looking at the children . 69978_71458
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|look-Part-Pres-S adp|at det|the-Def-Art noun|child-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	she's looking the other way . 71547_72967
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S det|the-Def-Art adj|other-S1 noun|way-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*PAR:	the girl is shushing him so he won't make a noise . 76862_80982
+%mor:	det|the-Def-Art noun|girl aux|be-Fin-Ind-Pres-S3 verb|shush-Part-Pres-S pron|he-Prs-Acc-S3 sconj|so pron|he-Prs-Nom-S3 aux|will-Fin-S~part|not verb|make-Inf-S det|a-Ind-Art noun|noise-Acc .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|ADVCL 11|12|DET 12|10|OBJ 13|4|PUNCT
+*PAR:	the door is open on the cupboards . 83294_84894
+%mor:	det|the-Def-Art noun|door aux|be-Fin-Ind-Pres-S3 adj|open-S1 adp|on det|the-Def-Art noun|cupboard-Plur .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	that's all I can see . [+ exc] 85381_86671
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+*INV:	okay . 87054_87204
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx yeah . [+ exc] 90411_90511
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 91395_91485
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

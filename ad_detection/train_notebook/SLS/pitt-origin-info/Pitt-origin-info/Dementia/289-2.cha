@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/t-00002605-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|67;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	289-2, audio
+@G:	Cookie
+*INV:	in the picture . 70_850
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	wahoo ho ho . [+ exc] 1715_3275
+%mor:	propn|wahoo intj|ho intj|ho .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+*PAR:	well ‡ it's kind_of a calamity isn't it &=laughs ? [+ exc] 3560_8300
+%mor:	intj|well punct|‡ pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|kindof-S1 det|a-Ind-Art noun|calamity aux|be-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|EXPL 4|5|COP 5|0|ROOT 6|7|DET 7|8|NSUBJ 8|5|COP 9|10|ADVMOD 10|5|PARATAXIS 11|5|PUNCT
+*PAR:	the &-uh mother just is +... 9735_12945
+%mor:	det|the-Def-Art noun|mother adv|just aux|be-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DET 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*PAR:	I assume this is the mother . 13205_14415
+%mor:	pron|I-Prs-Nom-S1 verb|assume-Fin-Ind-Pres-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|mother .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|2|PUNCT
+*PAR:	and she's [//] washing [//] trying to wash the dishes . 15141_17421
+%mor:	cconj|and verb|try-Part-Pres-S part|to verb|wash-Inf-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*PAR:	and the water's overflowing . 17470_18770
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	and &-uh the little boy's trying to get cookies out_of the cookie jar on top of the &+c cupboard . 19999_27179
+%mor:	cconj|and det|the-Def-Art adj|little-S1 noun|boy~aux|be-Fin-Ind-Pres-S3 verb|try-Ger-S part|to verb|get-Inf-S noun|cookie-Plur-Acc verb|outaof-Inf-S det|the-Def-Art noun|cookie noun|jar-Acc adp|on noun|top adp|of det|the-Def-Art noun|cupboard .
+%gra:	1|6|CC 2|4|DET 3|4|AMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|8|XCOMP 11|13|DET 12|13|COMPOUND 13|10|OBJ 14|15|CASE 15|10|OBL 16|18|CASE 17|18|DET 18|15|NMOD 19|6|PUNCT
+*PAR:	and his stool is getting away &+f under him . 27910_30520
+%mor:	cconj|and pron|his-Prs-Gen-S3 noun|stool aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adv|away adp|under pron|he-Prs-Acc-S3 .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|ADVMOD 7|8|CASE 8|5|OBL 9|5|PUNCT
+*PAR:	and she help [//] keeps holding her hand up waiting for another cookie . 31079_33739
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|keep-Fin-Ind-Pres-S3 verb|hold-Ger-S pron|her-Prs-Gen-S3 noun|hand-Acc adp|up verb|wait-Ger-S adp|for det|another-Def-Ind noun|cookie .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|3|PUNCT
+*INV:	mhm . 33978_34658
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	(...) okay that's good . 44800_45760
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+@End

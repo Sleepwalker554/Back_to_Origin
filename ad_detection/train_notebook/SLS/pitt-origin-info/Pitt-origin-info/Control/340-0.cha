@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/t-00002407-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant
+@ID:	eng|Pitt-orig|PAR|46;|female|Control||Participant|30||
+@Media:	340-0, audio
+@G:	Cookie
+*PAR:	okay . [+ exc] 200_420
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	the sink is running over . 466_1776
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|run-Part-Pres-S adv|over .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	she's standing in the sink . 1939_3159
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stand-Part-Pres-S adp|in det|the-Def-Art noun|sink .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the mother is . 3579_4059
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	the mother is also drying dishes . 4829_6119
+%mor:	det|the-Def-Art noun|mother aux|be-Fin-Ind-Pres-S3 adv|also verb|drying-Part-Pres-S noun|dish-Plur .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*PAR:	the little boy is getting cookies out_of the cookie jar handing it to his sister and falling off the stepstool at the same time little girl is touching her nose . 6202_12922
+%mor:	det|the-Def-Art adj|little-S1 noun|boy aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|cookie noun|jar-Acc verb|hand-Ger-S pron|it-Prs-Acc-S3 adp|to pron|his-Prs-Gen-S3 noun|sister cconj|and verb|fall-Part-Pres-S adp|off det|the-Def-Art noun|stepstool adp|at det|the-Def-Art adj|same-S1 noun|time adj|little-S1 noun|girl aux|be-Fin-Ind-Pres-S3 verb|touch-Part-Pres-S pron|her-Prs-Gen-S3 noun|nose-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|ADVMOD 8|10|DET 9|10|COMPOUND 10|5|OBJ 11|10|ACL 12|11|OBJ 13|15|CASE 14|15|NMOD-POSS 15|11|OBL 16|17|CC 17|28|CSUBJ 18|20|CASE 19|20|DET 20|17|OBL 21|24|CASE 22|24|DET 23|24|AMOD 24|28|OBL 25|26|AMOD 26|28|NSUBJ 27|28|AUX 28|5|CONJ 29|30|NMOD-POSS 30|28|OBJ 31|5|PUNCT
+*PAR:	outside &-um you can see the outside window . 14295_17495
+%mor:	adv|outside pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art adj|outside-S1 noun|window-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*PAR:	I don't know if that's a little bit of action I guess . [+ exc]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S sconj|if pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|bit adp|of noun|action pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|10|MARK 6|10|NSUBJ 7|10|COP 8|10|DET 9|10|AMOD 10|4|CCOMP 11|12|CASE 12|10|NMOD 13|14|NSUBJ 14|10|PARATAXIS 15|4|PUNCT
+*PAR:	&-uh the cookie jar lid is [//] has fallen over to the side . 20073_23793
+%mor:	det|the-Def-Art noun|cookie noun|jar noun|lid aux|have-Fin-Ind-Pres-S3 verb|fall-Part-Past-S-irr adp|over adp|to det|the-Def-Art noun|side .
+%gra:	1|4|DET 2|3|COMPOUND 3|4|COMPOUND 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|6|COMPOUND-PRT 8|10|CASE 9|10|DET 10|6|OBL 11|6|PUNCT
+*PAR:	&-um okay . [+ exc] 25430_28120
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	it looks like the curtains are blowing . 28835_30095
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|blow-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|MARK 4|5|DET 5|7|NSUBJ 6|7|AUX 7|2|ADVCL 8|2|PUNCT
+*PAR:	and it looks like &-um the mother has completed washing at least two cups and one dish . 31196_37816
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art noun|mother aux|have-Fin-Ind-Pres-S3 verb|complete-Part-Past-S verb|wash-Ger-S adp|at adj|least-Sup-S1 num|two noun|cup-Plur-Acc cconj|and num|one noun|dish .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|8|MARK 5|6|DET 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|8|XCOMP 10|11|CASE 11|12|NMOD 12|13|NUMMOD 13|9|OBJ 14|16|CC 15|16|NUMMOD 16|13|CONJ 17|3|PUNCT
+*PAR:	process of doing the other ones . [+ gram] 38903_39953
+%mor:	noun|process sconj|of verb|do-Ger-S det|the-Def-Art adj|other-S1 noun|one-Plur-Acc .
+%gra:	1|0|ROOT 2|3|MARK 3|1|ACL 4|6|DET 5|6|AMOD 6|3|OBJ 7|1|PUNCT
+*PAR:	okay . [+ exc] 42969_43039
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and (.) action would be the door hanging open where the cookie jar is in that cupboard . 45549_51019
+%mor:	cconj|and noun|action aux|would-Fin-S aux|be-Inf-S det|the-Def-Art noun|door verb|hang-Ger-S adj|open-S1 adv|where det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adp|in det|that-Def-Dem-Sing noun|cupboard .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|COP 5|6|DET 6|0|ROOT 7|6|ACL 8|7|XCOMP 9|16|ADVMOD 10|12|DET 11|12|COMPOUND 12|16|NSUBJ 13|9|COP 14|16|CASE 15|16|DET 16|7|ADVCL 17|6|PUNCT
+@End

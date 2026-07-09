@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/t-00002430-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|69;|male|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	010-3, audio
+@G:	Cookie
+*PAR:	well ‡ <the kid> [//] the girl's laughin(g) at her brother because he went into the cookie jar and he's fallin(g) over the cookie jar . 390_6150
+%mor:	intj|well punct|‡ det|the-Def-Art noun|girl~aux|be-Fin-Ind-Pres-S3 verb|laugh-Part-Pres-S adp|at pron|her-Prs-Gen-S3 noun|brother sconj|because pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adp|into det|the-Def-Art noun|cookie noun|jar cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adp|over det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|4|DET 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|12|MARK 11|12|NSUBJ 12|6|ADVCL 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|20|CC 18|20|NSUBJ 19|20|AUX 20|6|CONJ 21|24|CASE 22|24|DET 23|24|COMPOUND 24|20|OBL 25|6|PUNCT
+*PAR:	and mother's [//] &+d the mother was at the sink . 6166_8676
+%mor:	cconj|and det|the-Def-Art noun|mother aux|be-Fin-Ind-Past-S3-irr adp|at det|the-Def-Art noun|sink .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*PAR:	and the sink's [: water's] [* s:r] splashin(g) [/] &+s splashin(g) over the sink . 8700_11340
+%mor:	cconj|and det|the-Def-Art noun|water~part|s verb|splash-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*PAR:	and she sort_o(f) a little bit bitchy . 11360_13870
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|sortof-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|bit adj|bitchy-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|7|OBL-UNMARKED 7|3|XCOMP 8|3|PUNCT
+*PAR:	and the water's goin(g) floodin(g) over the sink . 14650_16460
+%mor:	cconj|and det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S verb|flood-Ger-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|5|PUNCT
+*PAR:	and there's a saucer , there's a plate , there's a couple of dishes . 16480_19390
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|saucer cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|couple adp|of noun|dish-Plur .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|PUNCT 7|8|EXPL 8|3|PARATAXIS 9|10|DET 10|8|NSUBJ 11|13|PUNCT 12|13|EXPL 13|3|PARATAXIS 14|15|DET 15|13|NSUBJ 16|17|CASE 17|15|NMOD 18|3|PUNCT
+*PAR:	well she's [//] and the mother's lookin(g) out the window . 20670_22250
+%mor:	intj|well cconj|and det|the-Def-Art noun|mother~part|s verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|6|DISCOURSE 2|6|CC 3|4|DET 4|6|NSUBJ 5|4|CASE 6|0|ROOT 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|6|PUNCT
+*PAR:	she don't know what the hell to think of it . 22336_23666
+%mor:	pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S pron|what-Int-S1 det|the-Def-Art noun|hell part|to verb|think-Inf-S adp|of pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|7|DET 7|5|NSUBJ 8|9|MARK 9|5|ACL-RELCL 10|11|CASE 11|9|OBL 12|4|PUNCT
+*PAR:	a girl laughin(g) at her brother who is taking cookies out_of the cookie jar and he's ready to fall <off the damn> [//] &+plat <off the> [/] &-uh off the &-uh &+sh &+pl chair [: stool] [* s:r] he's on . 23730_36620
+%mor:	det|a-Ind-Art noun|girl verb|laugh-Ger-S adp|at pron|her-Prs-Gen-S3 noun|brother pron|who-Rel aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S noun|cookie-Plur-Acc adv|outof det|the-Def-Art noun|cookie noun|jar-Acc cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|on .
+%gra:	1|2|DET 2|26|NSUBJ 3|2|ACL 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|9|NSUBJ 8|9|AUX 9|6|ACL-RELCL 10|9|OBJ 11|9|ADVMOD 12|14|DET 13|14|COMPOUND 14|9|OBJ 15|18|CC 16|18|NSUBJ 17|18|COP 18|9|CONJ 19|20|MARK 20|18|XCOMP 21|23|CASE 22|23|DET 23|20|OBL 24|26|NSUBJ 25|26|COP 26|0|ROOT 27|26|PUNCT
+*PAR:	the chair's [: stool's] [* s:r] crooked . 36666_37616
+%mor:	det|the-Def-Art noun|stool~part|s adj|crooked-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	what the hell else ? [+ exc] 38337_39647
+%mor:	pron|what-Int-S1 det|the-Def-Art noun|hell adj|else-S1 ?
+%gra:	1|0|ROOT 2|3|DET 3|1|NSUBJ 4|3|AMOD 5|1|PUNCT
+*PAR:	and then there's a plate , saucer and two cups . 39730_42210
+%mor:	cconj|and adv|then pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|plate cm|cm noun|saucer cconj|and num|two noun|cup-Plur .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|0|ROOT 5|6|DET 6|4|NSUBJ 7|8|PUNCT 8|6|CONJ 9|11|CC 10|11|NUMMOD 11|6|CONJ 12|4|PUNCT
+*PAR:	she's looking out the window . 45110_46080
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|out det|the-Def-Art noun|window-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*PAR:	the window's open . 46100_46850
+%mor:	det|the-Def-Art noun|window~part|s adj|open-S1 .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|0|ROOT 5|4|PUNCT
+*PAR:	she's not paying any attention to the kids . 47230_49120
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|pay-Part-Pres-S det|any-Def-Ind noun|attention-Acc adp|to det|the-Def-Art noun|kid-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*PAR:	the water's flooding over the sink . 49322_51732
+%mor:	det|the-Def-Art noun|water~aux|be-Fin-Ind-Pres-S3 verb|flooding-Part-Pres-S adp|over det|the-Def-Art noun|sink .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	what else you want ? [+ exc] 51953_53893
+%mor:	pron|what-Int-S1 adv|else pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|1|PUNCT
+*INV:	that's fine . 54687_55077
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

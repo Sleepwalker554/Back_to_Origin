@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/t-00002208-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|73;00.|male|Control||Participant|||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	034-3, audio
+@Comment:	age is educated estimate , extrapolated from incomplete demographic data
+@G:	Cookie
+*INV:	tell me everything that you see happening here . 810_2970
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|that-Rel pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|happen-Ger-S adv|here .
+%gra:	1|0|ROOT 2|1|IOBJ 3|1|OBJ 4|7|OBJ 5|6|NSUBJ 6|3|ACL-RELCL 7|6|XCOMP 8|7|ADVMOD 9|1|PUNCT
+*PAR:	things that are happening . [+ exc] 4109_4849
+%mor:	noun|thing-Plur pron|that-Rel aux|be-Fin-Ind-Pres-P3 verb|happen-Part-Pres-S .
+%gra:	1|0|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|1|PUNCT
+*INV:	mhm . 5143_5573
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	girl's reaching for a cookie . [+ gram] 7202_8612
+%mor:	noun|girl~aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S adp|for det|a-Ind-Art noun|cookie .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*PAR:	the boy is &-uh reachin(g) a cookie to the girl and also reachin(g) at the cookie jar and he's gonna fall off a stool . 10366_19736
+%mor:	det|the-Def-Art noun|boy aux|be-Fin-Ind-Pres-S3 verb|reach-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to det|the-Def-Art noun|girl cconj|and adv|also verb|reach-Part-Pres-S adp|at det|the-Def-Art noun|cookie noun|jar cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|a-Ind-Art noun|stool .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|12|CC 11|12|ADVMOD 12|4|CONJ 13|16|CASE 14|16|DET 15|16|COMPOUND 16|12|OBL 17|20|CC 18|20|NSUBJ 19|20|AUX 20|4|CONJ 21|22|MARK 22|20|XCOMP 23|25|CASE 24|25|DET 25|22|OBL 26|4|PUNCT
+*PAR:	the woman is &+w drying dishes and washing dishes . 22378_26398
+%mor:	det|the-Def-Art noun|woman aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S noun|dish-Plur cconj|and noun|washing-Ger noun|dish-Plur .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|0|ROOT 6|8|CC 7|8|COMPOUND 8|5|CONJ 9|5|PUNCT
+*PAR:	and she's let the water from the sink pour out on the floor . 27581_34371
+%mor:	cconj|and pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|let-Part-Past-S-irr det|the-Def-Art noun|water-Acc adp|from det|the-Def-Art noun|sink verb|pour-Inf-S adp|out adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|4|PUNCT
+*PAR:	(...) I don't see any other thing . [+ exc] 48063_70333
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|any-Def-Ind adj|other-S1 noun|thing-Acc-Ger .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*INV:	okay what's happening here ? 72443_73703
+%mor:	intj|okay pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|happen-Part-Pres-S adv|here ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	well I just told you that he was fallin(g) from a stool . [+ exc] 74452_76652
+%mor:	intj|well pron|I-Prs-Nom-S1 adv|just verb|tell-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|fall-Part-Pres-S adp|from det|a-Ind-Art noun|stool .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|IOBJ 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|CCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+*INV:	okay yep you did sorry . 76700_78140
+%mor:	intj|okay intj|yep pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr adj|sorry-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*PAR:	okey_dokey . [+ exc] 79034_79454
+%mor:	propn|okeydokey .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	I said he was reachin(g) a cookie to the girl reaching for a cookie for himself +/. [+ exc] 79872_84902
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|reach-Part-Pres-S det|a-Ind-Art noun|cookie-Acc adp|to det|the-Def-Art noun|girl verb|reach-Ger-S adp|for det|a-Ind-Art noun|cookie adp|for pron|himself-Prs-Acc-reflx-S3 +/.
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|5|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|16|CASE 16|11|OBL 17|2|PUNCT
+*INV:	and he's gonna fall off the stool . 84040_86096
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S~part|to verb|fall-Inf-S adp|off det|the-Def-Art noun|stool .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*PAR:	+, falling off a stool yeah . [+ exc] 84960_86560
+%mor:	verb|fall-Part-Pres-S adp|off det|a-Ind-Art noun|stool intj|yeah .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|DISCOURSE 6|1|PUNCT
+*INV:	that's right . 86096_86566
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+@End

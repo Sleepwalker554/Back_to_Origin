@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/t-00002633-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|60;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	354-0, audio
+@G:	Cookie
+*INV:	in the picture . 110_790
+%mor:	adp|in det|the-Def-Art noun|picture .
+%gra:	1|3|CASE 2|3|DET 3|0|ROOT 4|3|PUNCT
+*INV:	xxx .
+*PAR:	&=laughs ready ? [+ exc] 7170_7490
+%mor:	adj|ready-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 7637_8037
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	children are &+c <stealin(g) the cookie jar> [//] stealing cookies out_of the [/] the cookie jar . 8713_14253
+%mor:	noun|child-Plur aux|be-Fin-Ind-Pres-P3 verb|steal-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+*PAR:	and they stepped on a stepping [: step] [* f:p] stool . 15075_17765
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|step-Fin-Ind-Past-P3 adp|on det|a-Ind-Art noun|step noun|stool .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*PAR:	and it's [/] &+i it's falling over . 17781_19901
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	&-uh mother [: sister] [* s:r-ret] &-uh sister is askin(g) brother for some of the cookies that he's gettin(g) from the cookie jar . 21318_28328
+%mor:	noun|sister noun|sister aux|be-Fin-Ind-Pres-S3 verb|ask-Part-Pres-S noun|brother-Acc adp|for det|some-Def-Ind adp|of det|the-Def-Art noun|cookie-Plur pron|that-Rel pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adp|from det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|10|CASE 9|10|DET 10|7|NMOD 11|14|OBJ 12|14|NSUBJ 13|14|AUX 14|10|ACL-RELCL 15|18|CASE 16|18|DET 17|18|COMPOUND 18|14|OBL 19|4|PUNCT
+*PAR:	mother's doing dishes . 29120_30360
+%mor:	noun|mother~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	the sink is clogged up . 31002_32252
+%mor:	det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|clogge-Part-Past-S adp|up .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*PAR:	the water is draining on the floor . 32529_35259
+%mor:	det|the-Def-Art noun|water aux|be-Fin-Ind-Pres-S3 verb|drain-Part-Pres-S adp|on det|the-Def-Art noun|floor .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*PAR:	she's a_little angry , looks a_little angry . 37093_39293
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|alittle adj|angry-S1 cm|cm verb|look-Fin-Ind-Pres-S3 adv|alittle adj|angry-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|6|PUNCT 6|4|PARATAXIS 7|8|ADVMOD 8|6|XCOMP 9|4|PUNCT
+*PAR:	I don't see no husband or nobody . 40433_41973
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S det|no-Def-Neg noun|husband-Acc cconj|or pron|nobody-Neg-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|6|CONJ 9|4|PUNCT
+*PAR:	&-uh cookie jar , cabinets . [+ gram] 43262_44742
+%mor:	noun|cookie noun|jar cm|cm noun|cabinet-Plur .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|4|PUNCT 4|2|CONJ 5|2|PUNCT
+*PAR:	(..) mother can't be dressed any different . 48767_50177
+%mor:	noun|mother aux|can-Fin-S~part|not aux|be-Inf-S verb|dress-Part-Past-S det|any-Def-Ind adj|different-S1 .
+%gra:	1|5|NSUBJ-PASS 2|5|AUX 3|5|ADVMOD 4|5|AUX-PASS 5|0|ROOT 6|7|DET 7|5|XCOMP 8|5|PUNCT
+*PAR:	kids . [+ gram] 50958_51408
+%mor:	noun|kid-Plur .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	that's what I can see . [+ exc] 52410_53480
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+*INV:	okay that's fine . 53791_54761
+%mor:	intj|okay pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 55903_56053
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

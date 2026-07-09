@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/t-00002572-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|68;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	226-0, audio
+@Comment:	PAR uses African American Vernacular English
+@G:	Cookie
+*PAR:	lad(y) here she's washin(g) dishes . 870_2220
+%mor:	noun|lady adv|here pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|5|NSUBJ 4|5|AUX 5|1|PARATAXIS 6|5|OBJ 7|1|PUNCT
+*PAR:	the lady right here she's washin(g) dishes . 2460_4700
+%mor:	det|the-Def-Art noun|lady adv|right adv|here pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S noun|dish-Plur-Acc .
+%gra:	1|2|DET 2|7|NSUBJ 3|4|ADVMOD 4|2|ADVMOD 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ 9|7|PUNCT
+*PAR:	this man here he's [/] he's tryin(g) to put [/] put [/] put food <in that> [/] &+cr in that crocker jar . 5620_12530
+%mor:	det|this-Def-Dem-Sing noun|man adv|here pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|put-Inf-S noun|food-Acc adp|in det|that-Def-Dem-Sing noun|crocker noun|jar .
+%gra:	1|2|DET 2|6|NSUBJ 3|2|ADVMOD 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|13|CASE 11|13|DET 12|13|COMPOUND 13|8|OBL 14|6|PUNCT
+*PAR:	and this young lady here she +//. 13295_15185
+%mor:	cconj|and det|this-Def-Dem-Sing adj|young-S1 noun|lady adv|here pron|she-Prs-Nom-S3 +//.
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|ADVMOD 6|4|APPOS 7|4|PUNCT
+*PAR:	no ‡ he [//] he's takin(g) it out_o(f) crocker [: cookie] [* n:k] jar . 15507_17117
+%mor:	intj|no punct|‡ pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|take-Part-Pres-S pron|it-Prs-Acc-S3 noun|outof noun|cookie noun|jar-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|COMPOUND 8|9|COMPOUND 9|5|OBJ 10|5|PUNCT
+*PAR:	he was takin(g) it out . 17602_18272
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|take-Part-Pres-S pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*INV:	I see . [+ exc] 18699_19039
+%mor:	pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	and he is fallin(g) over &=laughs xxx . 19140_20200
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|over .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|ADVMOD 6|4|PUNCT
+*PAR:	he takin(g) it out_o(f) this &+crock crocker [: cookie] [* n:k] jar . 21499_23099
+%mor:	pron|he-Prs-Nom-S3 verb|take-Part-Pres-S pron|it-Prs-Acc-S3 adp|outof det|this-Def-Dem-Sing noun|cookie noun|jar .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|7|CASE 5|7|DET 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+*PAR:	and he's reach [//] tryin(g) to reach it to her but he is falling . 23965_27055
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|reach-Inf-S pron|it-Prs-Acc-S3 adp|to pron|her-Prs-Acc-S3 cconj|but pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|9|CASE 9|6|OBL 10|13|CC 11|13|NSUBJ 12|13|AUX 13|4|CONJ 14|4|PUNCT
+*PAR:	he's falling now „ yeah . 28930_30310
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fall-Part-Pres-S adv|now punct|„ intj|yeah .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|3|ADVMOD 5|6|PUNCT 6|3|DISCOURSE 7|3|PUNCT
+*INV:	(.) anything else ? 35890_36590
+%mor:	pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|0|ROOT 2|1|AMOD 3|1|PUNCT
+*PAR:	let me see . [+ exc] 36850_37300
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	let me see . [+ exc] 38308_38738
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*PAR:	<there's a> [/] there's a water spigot there runnin(g) . 39349_41039
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|water noun|spigot adv|there verb|run-Part-Pres-S .
+%gra:	1|2|EXPL 2|0|ROOT 3|5|DET 4|5|COMPOUND 5|2|NSUBJ 6|7|ADVMOD 7|2|ADVCL 8|2|PUNCT
+*INV:	pardon ? 41721_42011
+%mor:	noun|pardon ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	there's a hidden water spigot there runnin(g) . [+ exc] 42160_43850
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|hidden-S1 noun|water noun|spigot adv|there verb|run-Ger-S .
+%gra:	1|2|EXPL 2|0|ROOT 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|2|NSUBJ 7|8|ADVMOD 8|6|ACL 9|2|PUNCT
+*INV:	mhm . 44197_44357
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and the curtains [//] curtain . [+ gram] 44513_48503
+%mor:	cconj|and det|the-Def-Art noun|curtain .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAR:	and the shades cups plates door . [+ gram] 48970_53440
+%mor:	cconj|and det|the-Def-Art noun|shade-Plur noun|cup-Plur noun|plate-Plur noun|door .
+%gra:	1|6|CC 2|6|DET 3|4|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|0|ROOT 7|6|PUNCT
+*PAR:	the &+clo closet doors , everything . [+ gram] 55571_57301
+%mor:	det|the-Def-Art noun|closet noun|door-Plur cm|cm pron|everything-Tot-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|5|PUNCT 5|3|APPOS 6|3|PUNCT
+*INV:	okay . 58842_59572
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

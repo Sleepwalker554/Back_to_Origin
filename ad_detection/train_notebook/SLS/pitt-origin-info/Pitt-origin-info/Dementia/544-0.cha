@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/t-00002682-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|70;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	544-0, audio
+@G:	Cookie
+*INV:	and here's your picture . 70_1240
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|picture .
+%gra:	1|2|CC 2|0|ROOT 3|2|COP 4|5|NMOD-POSS 5|2|NSUBJ 6|2|PUNCT
+*PAR:	oh ‡ Johnny is sneaking cookies out_o(f) the cookie jar for his sister Sue . 2840_7120
+%mor:	intj|oh punct|‡ propn|Johnny aux|be-Fin-Ind-Pres-S3 verb|sneak-Part-Pres-S noun|cookie-Plur-Acc adp|outof det|the-Def-Art noun|cookie noun|jar adp|for pron|his-Prs-Gen-S3 noun|sister propn|Sue .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|10|CASE 8|10|DET 9|10|COMPOUND 10|5|OBL 11|13|CASE 12|13|NMOD-POSS 13|10|NMOD 14|13|APPOS 15|5|PUNCT
+*PAR:	mother is washing the dishes . 7570_8940
+%mor:	noun|mother aux|be-Fin-Ind-Pres-S3 verb|wash-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and the sink is overflowing with the water on the floor . 9011_11681
+%mor:	cconj|and det|the-Def-Art noun|sink aux|be-Fin-Ind-Pres-S3 verb|overflow-Part-Pres-S adp|with det|the-Def-Art noun|water adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|0|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|DET 11|5|OBL 12|5|PUNCT
+*PAR:	the curtains are spread aside to let the light in . 12500_14690
+%mor:	det|the-Def-Art noun|curtain-Plur aux|be-Fin-Ind-Pres-P3 verb|spread-Part-Past-S-irr adv|aside part|to verb|let-Inf-S det|the-Def-Art noun|light-Acc adp|in .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|0|ROOT 5|4|ADVMOD 6|7|MARK 7|4|ADVCL 8|9|DET 9|7|OBJ 10|7|COMPOUND-PRT 11|4|PUNCT
+*PAR:	there's plates and saucers on the table here . 15219_18139
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|plate-Plur cconj|and noun|saucer-Plur adp|on det|the-Def-Art noun|table adv|here .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|5|CC 5|3|CONJ 6|8|CASE 7|8|DET 8|2|OBL 9|2|ADVMOD 10|2|PUNCT
+*PAR:	and the +... 18943_19243
+%mor:	cconj|and det|the-Def-Art +...
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*PAR:	shall I tell you some more ? [+ exc] 20107_20837
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind adj|more-Cmp-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*INV:	just tell me everything you see going on in the picture and tell me when you think you're through . 21760_24770
+%mor:	adv|just verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 pron|everything-Tot-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|go-Ger-S adp|on adp|in det|the-Def-Art noun|picture cconj|and verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adv|when pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|through .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|13|CC 13|2|CONJ 14|13|IOBJ 15|17|ADVMOD 16|17|NSUBJ 17|13|ADVCL 18|20|NSUBJ 19|20|COP 20|17|CCOMP 21|2|PUNCT
+*PAR:	no I'm through . [+ exc] 28218_28728
+%mor:	intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|through .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|PUNCT
+*INV:	okay good . 29067_29687
+%mor:	intj|okay adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End

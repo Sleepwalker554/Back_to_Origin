@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/t-00002493-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt-orig|PAR|87;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt-orig|INV|||||Investigator|||
+@Media:	089-0, audio
+@G:	Cookie
+*PAR:	and the boy <in the> [/] in the cookie jar . [+ gram] 180_3460
+%mor:	cconj|and det|the-Def-Art noun|boy adp|in det|the-Def-Art noun|cookie noun|jar .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|3|NMOD 8|3|PUNCT
+*PAR:	and the girl reaching up to him . [+ gram] 3476_5886
+%mor:	cconj|and det|the-Def-Art noun|girl verb|reach-Ger-S adp|up adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|DET 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|3|PUNCT
+*PAR:	the chair [: stool] [* s:r] slanting ready to topple . [+ gram] 6635_10595
+%mor:	det|the-Def-Art noun|stool verb|slant-Ger-S adj|ready-S1 part|to verb|topple-Inf-S .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|6|MARK 6|4|XCOMP 7|3|PUNCT
+*PAR:	and the cookie jar is open . 14564_16224
+%mor:	cconj|and det|the-Def-Art noun|cookie noun|jar aux|be-Fin-Ind-Pres-S3 adj|open-S1 .
+%gra:	1|6|CC 2|4|DET 3|4|COMPOUND 4|6|NSUBJ 5|6|COP 6|0|ROOT 7|6|PUNCT
+*PAR:	and his [//] the lid's in there . 17086_18926
+%mor:	cconj|and det|the-Def-Art noun|lid~part|s adp|in adv|there .
+%gra:	1|6|CC 2|3|DET 3|6|NMOD-POSS 4|3|CASE 5|6|CASE 6|0|ROOT 7|6|PUNCT
+*PAR:	and the door's open . 19683_20733
+%mor:	cconj|and det|the-Def-Art noun|door~part|s adj|open-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NMOD-POSS 4|3|CASE 5|0|ROOT 6|5|PUNCT
+*PAR:	and mother's drying the dishes and standing in a pool of water it looks +... 23036_26796
+%mor:	cconj|and noun|mother~aux|be-Fin-Ind-Pres-S3 verb|drying-Part-Pres-S det|the-Def-Art noun|dish-Plur-Acc cconj|and verb|stand-Part-Pres-S adp|in det|a-Ind-Art noun|pool adp|of noun|water pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 +...
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|CC 8|4|CONJ 9|11|CASE 10|11|DET 11|8|OBL 12|13|CASE 13|11|NMOD 14|15|NSUBJ 15|4|PARATAXIS 16|4|PUNCT
+*PAR:	water running down from the sink . [+ gram] 27678_29368
+%mor:	noun|water verb|run-Ger-S adp|down adp|from det|the-Def-Art noun|sink .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+*PAR:	and there are some dishes on the sink . 29384_35974
+%mor:	cconj|and pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|some-Def-Ind noun|dish-Plur adp|on det|the-Def-Art noun|sink .
+%gra:	1|3|CC 2|3|EXPL 3|0|ROOT 4|5|DET 5|3|NSUBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|3|PUNCT
+*PAR:	the window is open an(d) you can see outdoors . 36343_40433
+%mor:	det|the-Def-Art noun|window aux|be-Fin-Ind-Pres-S3 adj|open-S1 cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S adv|outdoors .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|8|CC 6|8|NSUBJ 7|8|AUX 8|4|CONJ 9|8|ADVMOD 10|4|PUNCT
+*PAR:	(.) she's [//] I did say she was drying dishes „ didn't I ? [+ exc] 47670_50300
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|say-Inf-S pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|drying-Part-Pres-S noun|dish-Plur punct|„ aux|do-Fin-Ind-Past-S3-irr~part|not pron|I-Prs-Nom-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|7|NSUBJ 5|7|COP 6|7|AMOD 7|3|CCOMP 8|3|PUNCT 9|3|CCOMP 10|9|ADVMOD 11|9|NSUBJ 12|3|PUNCT
+*INV:	mhm . 50867_51327
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	an(d) I did mention the water running out_of the sink ? [+ exc] 54992_58162
+%mor:	cconj|and pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr verb|mention-Inf-S det|the-Def-Art noun|water-Acc verb|run-Ger-S adp|outof det|the-Def-Art noun|sink ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|ACL 8|10|CASE 9|10|DET 10|7|OBL 11|4|PUNCT
+*INV:	yes okay . 58749_59239
+%mor:	intj|yes intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR:	and the few dishes on the sink . [+ gram] 61675_64894
+%mor:	cconj|and det|the-Def-Art adj|few-S1 noun|dish-Plur adp|on det|the-Def-Art noun|sink .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|0|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*PAR:	and you can see the trees (..) and the window outside . 64985_71805
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|tree-Plur-Acc cconj|and det|the-Def-Art noun|window adv|outside .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|4|ADVMOD 11|4|PUNCT
+*PAR:	looks like the little girl's eating a cookie and reaching up for another . 77895_82465
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|the-Def-Art adj|little-S1 noun|girl~part|s verb|eat-Ger-S det|a-Ind-Art noun|cookie-Acc cconj|and verb|reach-Part-Pres-S adp|up adp|for det|another-Def-Ind .
+%gra:	1|0|ROOT 2|7|MARK 3|5|DET 4|5|AMOD 5|7|NSUBJ 6|5|CASE 7|1|ADVCL 8|9|DET 9|7|OBJ 10|11|CC 11|7|CONJ 12|11|COMPOUND-PRT 13|14|CASE 14|11|OBL 15|1|PUNCT
+*PAR:	the boy's really in a precarious position . 83957_86717
+%mor:	det|the-Def-Art noun|boy~aux|be-Fin-Ind-Pres-S3 adv|really adp|in det|a-Ind-Art adj|precarious-S1 noun|position .
+%gra:	1|2|DET 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|CASE 6|8|DET 7|8|AMOD 8|0|ROOT 9|8|PUNCT
+*INV:	&=laughs .
+*PAR:	he's got one hand in the cookie jar and another cookie in the other hand . 90641_94571
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr num|one noun|hand-Acc adp|in det|the-Def-Art noun|cookie noun|jar cconj|and det|another-Def-Ind noun|cookie adp|in det|the-Def-Art adj|other-S1 noun|hand .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|NUMMOD 5|3|OBJ 6|9|CASE 7|9|DET 8|9|COMPOUND 9|3|OBL 10|12|CC 11|12|DET 12|9|CONJ 13|16|CASE 14|16|DET 15|16|AMOD 16|12|NMOD 17|3|PUNCT
+*INV:	okay . 98257_98717
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	he looks just about ready to tumble . 98964_100994
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adv|just adv|about adj|ready-S1 part|to verb|tumble-Inf-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|ADVMOD 5|2|XCOMP 6|7|MARK 7|5|XCOMP 8|2|PUNCT
+*INV:	okay thank_you . 102033_104243
+%mor:	intj|okay propn|thankyou .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+@End
