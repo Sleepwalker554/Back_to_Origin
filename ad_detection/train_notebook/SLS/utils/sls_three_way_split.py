@@ -117,7 +117,7 @@ def create_sls_train_val_test_split(
     _write_sls_csv(val_csv, val_rows, feature_dir)
     _write_sls_csv(test_csv, test_rows, feature_dir)
 
-    print("============= Pitt-origin SLS Train(70%) / Val(10%) / Test(20%) Split Complete! =============")
+    print(f"============= {dataset_name} SLS Train(70%) / Val(10%) / Test(20%) Split Complete! =============")
     print(f"Training set: {len(train_rows)} samples (Control: {len(control_train)}, Dementia: {len(dementia_train)})")
     print(f"Validation set: {len(val_rows)} samples (Control: {len(control_val)}, Dementia: {len(dementia_val)})")
     print(f"Test set: {len(test_rows)} samples (Control: {len(control_test)}, Dementia: {len(dementia_test)})")
