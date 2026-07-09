@@ -192,6 +192,11 @@ def create_profile_repeat_split(
             "val_csv": str(val_csv),
             "train_size": len(train_rows),
             "val_size": len(val_rows),
+            "sampled_rows": [
+                {**row, "split": "train"} for row in train_rows
+            ] + [
+                {**row, "split": "val"} for row in val_rows
+            ],
         }
     )
     return train_csv, val_csv, summary
@@ -334,16 +339,40 @@ def bootstrap_binary_metrics(
     sample_size: int | None = None,
     seed: int = 0,
 ) -> dict[str, dict[str, float]]:
+    summary, _ = bootstrap_binary_metrics_with_samples(
+        y_true=y_true,
+        y_pred=y_pred,
+        n_bootstrap=n_bootstrap,
+        sample_size=sample_size,
+        seed=seed,
+    )
+    return summary
+
+
+def bootstrap_binary_metrics_with_samples(
+    y_true,
+    y_pred,
+    n_bootstrap: int = 1000,
+    sample_size: int | None = None,
+    seed: int = 0,
+) -> tuple[dict[str, dict[str, float]], list[dict[str, float]]]:
     y_true = np.asarray(y_true)
     y_pred = np.asarray(y_pred)
     if sample_size is None:
         sample_size = len(y_true)
     rng = np.random.default_rng(seed)
     values = defaultdict(list)
+    sample_rows = []
 
-    for _ in range(n_bootstrap):
+    for bootstrap_idx in range(n_bootstrap):
         indices = rng.integers(0, len(y_true), size=sample_size)
         metrics = compute_binary_metrics(y_true[indices], y_pred[indices])
+        sample_row = {
+            "bootstrap_idx": bootstrap_idx,
+            "sample_size": sample_size,
+            **metrics,
+        }
+        sample_rows.append(sample_row)
         for key, value in metrics.items():
             values[key].append(value)
 
@@ -357,7 +386,7 @@ def bootstrap_binary_metrics(
             "ci95_low": float(np.percentile(arr, 2.5)),
             "ci95_high": float(np.percentile(arr, 97.5)),
         }
-    return summary
+    return summary, sample_rows
 
 
 def flatten_bootstrap_summary(summary: dict[str, dict[str, float]], prefix: str = "bootstrap") -> dict[str, float]:
