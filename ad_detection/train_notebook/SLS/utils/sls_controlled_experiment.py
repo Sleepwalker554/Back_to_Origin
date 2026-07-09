@@ -266,7 +266,11 @@ def evaluate_lu_with_predictions(model, device, ssl_model, batch_size: int = 16)
     from tqdm.auto import tqdm
 
     from SLS_Model.extract_feature import extract_features_from_csv
+    from XLSR_model.model import SSLModel
     from utils.dataset import FeatureDataset, sls_pad_mask
+
+    if ssl_model is None:
+        ssl_model = SSLModel(device, freeze_xlsr=True)
 
     csv_path = create_lu_sls_test_csv()
     features_dir = PROCESSED_DIR / "Lu_sls_features"
@@ -323,6 +327,8 @@ def compute_binary_metrics(y_true, y_pred) -> dict[str, float]:
     return {
         "accuracy": float(accuracy_score(y_true, y_pred)),
         "f1": float(f1_score(y_true, y_pred, pos_label=1, zero_division=0)),
+        "control_f1": float(f1_score(y_true, y_pred, pos_label=0, zero_division=0)),
+        "dementia_f1": float(f1_score(y_true, y_pred, pos_label=1, zero_division=0)),
         "control_acc": float(accuracy_score(y_true[control_mask], y_pred[control_mask]))
         if control_mask.any()
         else math.nan,
@@ -404,6 +410,11 @@ def save_dict_rows(path: Path, rows: list[dict[str, object]]) -> None:
         writer = csv.DictWriter(file, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
+
+
+def load_dict_rows(path: Path) -> list[dict[str, str]]:
+    with path.open("r", encoding="utf-8-sig", newline="") as file:
+        return list(csv.DictReader(file))
 
 
 def summarize_metric_rows(rows: list[dict[str, object]], metric_keys: list[str]) -> dict[str, float]:
