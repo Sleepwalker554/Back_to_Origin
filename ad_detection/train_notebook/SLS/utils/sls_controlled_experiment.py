@@ -6,7 +6,7 @@ import random
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
-from typing import Iterable
+from typing import Iterable, Optional
 
 import numpy as np
 
@@ -244,14 +244,20 @@ def ensure_sls_features_for_split(train_csv: Path, val_csv: Path, device, ssl_mo
     return ssl_model
 
 
-def create_lu_sls_test_csv() -> Path:
-    csv_path = PROCESSED_DIR / "Lu-sls-test.csv"
+def create_lu_sls_test_csv(
+    dataset_name: str = "Lu",
+    audio_dir: Optional[Path] = None,
+    feature_dir_name: Optional[str] = None,
+) -> Path:
+    audio_dir = Path(audio_dir) if audio_dir is not None else LU_RAW_AUDIO_DIR
+    feature_dir_name = feature_dir_name or f"{dataset_name}_sls_features"
+    csv_path = PROCESSED_DIR / f"{dataset_name}-sls-test.csv"
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     rows = []
     for folder, ad in (("Control", 0), ("Dementia", 1)):
-        audio_dir = LU_RAW_AUDIO_DIR / folder
-        for audio_file in sorted(list(audio_dir.glob("*.wav")) + list(audio_dir.glob("*.mp3"))):
-            rows.append((audio_file.stem, f"Lu_sls_features/{audio_file.stem}.sls.pt", ad))
+        label_audio_dir = audio_dir / folder
+        for audio_file in sorted(list(label_audio_dir.glob("*.wav")) + list(label_audio_dir.glob("*.mp3"))):
+            rows.append((audio_file.stem, f"{feature_dir_name}/{audio_file.stem}.sls.pt", ad))
 
     with csv_path.open("w", encoding="utf-8", newline="") as file:
         writer = csv.writer(file)
@@ -260,7 +266,15 @@ def create_lu_sls_test_csv() -> Path:
     return csv_path
 
 
-def evaluate_lu_with_predictions(model, device, ssl_model, batch_size: int = 16) -> dict[str, object]:
+def evaluate_lu_with_predictions(
+    model,
+    device,
+    ssl_model,
+    batch_size: int = 16,
+    dataset_name: str = "Lu",
+    audio_dir: Optional[Path] = None,
+    feature_dir_name: Optional[str] = None,
+) -> dict[str, object]:
     import torch
     from torch.utils.data import DataLoader
     from tqdm.auto import tqdm
@@ -272,12 +286,18 @@ def evaluate_lu_with_predictions(model, device, ssl_model, batch_size: int = 16)
     if ssl_model is None:
         ssl_model = SSLModel(device, freeze_xlsr=True)
 
-    csv_path = create_lu_sls_test_csv()
-    features_dir = PROCESSED_DIR / "Lu_sls_features"
+    audio_dir = Path(audio_dir) if audio_dir is not None else LU_RAW_AUDIO_DIR
+    feature_dir_name = feature_dir_name or f"{dataset_name}_sls_features"
+    csv_path = create_lu_sls_test_csv(
+        dataset_name=dataset_name,
+        audio_dir=audio_dir,
+        feature_dir_name=feature_dir_name,
+    )
+    features_dir = PROCESSED_DIR / feature_dir_name
     extract_features_from_csv(
         csv_path=csv_path,
-        split_name="Lu Test Set",
-        raw_audio_dir=LU_RAW_AUDIO_DIR,
+        split_name=f"{dataset_name} Test Set",
+        raw_audio_dir=audio_dir,
         sls_features_dir=features_dir,
         device=device,
         ssl_model=ssl_model,
@@ -297,7 +317,7 @@ def evaluate_lu_with_predictions(model, device, ssl_model, batch_size: int = 16)
     all_preds = []
     all_labels = []
     with torch.no_grad():
-        for features, labels, masks in tqdm(loader, desc="Testing on Lu"):
+        for features, labels, masks in tqdm(loader, desc=f"Testing on {dataset_name}"):
             features = features.to(device)
             labels = labels.to(device)
             masks = masks.to(device)
