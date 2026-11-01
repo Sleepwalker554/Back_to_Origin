@@ -1,6 +1,6 @@
-# Back to the Original Pitt Corpus: The Hidden Cost of Speech-Enhanced Datasets for Alzheimer's Detection
+# Cleaner Speech, Weaker Generalization: Revisiting Pitt-Derived Benchmarks for Alzheimer’s Disease Detection
 
-Systematic study of how speech enhancement and dataset filtering affect Alzheimer's disease (AD) detection from spontaneous speech. We compare the raw Pitt-origin corpus against four processed variants (Pitt, ADReSS, ADReSSo, ADReSS-M) using three deep learning models and five audio-LLMs, with Lu as the cross-domain test set.
+Speech-based Alzheimer’s disease (AD) detection increasingly relies on speech-enhanced and curated versions of the Pitt Corpus, where speech enhancement, sample selection, and demographic balancing are often treated as beneficial preprocessing steps. However, whether these transformations improve real-world AD detection or instead affect model generalization and prediction behavior remains unclear. In this work, we revisit the role of speech preprocessing and dataset curation across widely used benchmarks for speech-based AD detection. We evaluate the speech quality of different datasets, the cross-dataset generalization of multiple deep learning models under matched and mismatched enhancement settings, and the behavior of several recent large audio-language models (LALMs). Experimental results show that across multiple supervised speech models, speech-enhanced datasets often improve in-domain performance while reducing robustness in cross-domain evaluation. Matched enhancement between training and test data alleviates, but does not eliminate, this degradation. LALMs show a similar sensitivity: enhanced datasets induce stronger class imbalance and prediction shifts than unprocessed data. These results suggest that speech preprocessing and dataset curation can substantially influence downstream AD detection behavior, indicating that “cleaner” speech datasets are not necessarily more reliable for real-world AD detection.
 
 **Key finding:** Speech enhancement and sample filtering help in-domain metrics but hurt cross-domain generalization and shift LLM decision boundaries. Unprocessed Pitt-origin is the better training set for real-world AD speech detection.
 
@@ -90,6 +90,28 @@ The audio input is first fed into a pre-trained `XLS-R` model with frozen parame
 The model takes 25-dimensional `eGeMAPS` acoustic features extracted using the `OpenSMILE toolkit` as input. The features are first processed by two linear layers with batch normalization, ReLU activation, and dropout to remap the feature dimensions from 25 to 64 and then to 32. An attention pooling layer is then applied along the temporal dimension to aggregate frame-level representations into a fixed-dimensional vector. Finally, a linear classification layer outputs the AD prediction.
 
 ![eGeMAPS-based Model Results](images/eGeMAPS_results.png)
+
+## Large Audio-Language Models
+
+We evaluate five recent large audio-language models (LALMs): [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio), [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni), [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio), [Audio Flamingo 3](https://github.com/NVIDIA/audio-flamingo), and [ultravox-v0_5-llama-3_2-1b](https://huggingface.co/fixie-ai/ultravox-v0_5-llama-3_2-1b). No model is fine-tuned. Each model is prompted to answer with exactly one word, `Dementia` or `Control`. We report Macro-F1 together with the F1 score using AD (Dementia⁺) or Control (Control⁺) as the positive class, so that class imbalance in the predictions is visible. Asterisks (\*) mark performance significantly different from the binomial majority-class baseline (p < 0.05).
+
+### **Audio-only Zero-Shot Setting**
+
+All five LALMs are first evaluated zero-shot with audio-only input. Most models cannot reliably separate AD from Control: Qwen2-Audio predicts nearly every sample as Control, while Audio Flamingo 3 predicts nearly every sample as AD. Kimi-Audio achieves the strongest overall performance and is statistically significant on every dataset except Lu, so we use it for the remaining experiments.
+
+![LALMs Audio-only Zero-Shot Results](images/LALMs_audio_only_zero_shot.png)
+
+### **Kimi-Audio: Audio-only Setting**
+
+Kimi-Audio is evaluated in a zero-shot and a two-shot setting. In the two-shot setting, one labeled AD example and one labeled Control example are given at inference time, with no parameter updates. On the unprocessed Pitt-origin and ADReSS-M datasets, predictions are relatively balanced between the two classes. On the speech-enhanced datasets (Pitt, ADReSS, ADReSSo), the model shows clear class imbalance, with Dementia⁺ F1 substantially higher than Control⁺ F1. Two labeled examples do not remove this bias.
+
+![Kimi-Audio Audio-only Results](images/Kimi_audio_only.png)
+
+### **Kimi-Audio: Audio + Transcript Setting**
+
+To test whether text mitigates this preprocessing sensitivity, Kimi-Audio is also evaluated on Pitt-origin and Pitt with audio + transcript input. Predictions on Pitt-origin remain balanced. On the denoised Pitt dataset, the bias toward AD persists and becomes even stronger in the zero-shot setting. Adding transcripts or two-shot examples does not eliminate the prediction shift caused by enhancement.
+
+![Kimi-Audio Audio + Transcript Results](images/Kimi_audio_transcript.png)
 
 ## Frozen pretrained backbone
 
