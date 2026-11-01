@@ -1,10 +1,12 @@
 # Cleaner Speech, Weaker Generalization: Revisiting Pitt-Derived Benchmarks for Alzheimer’s Disease Detection
 
+[![arXiv](https://img.shields.io/badge/arXiv-2609.00276-b31b1b.svg)](https://arxiv.org/abs/2609.00276)
+
 Speech-based Alzheimer’s disease (AD) detection increasingly relies on speech-enhanced and curated versions of the Pitt Corpus, where speech enhancement, sample selection, and demographic balancing are often treated as beneficial preprocessing steps. However, whether these transformations improve real-world AD detection or instead affect model generalization and prediction behavior remains unclear. In this work, we revisit the role of speech preprocessing and dataset curation across widely used benchmarks for speech-based AD detection. We evaluate the speech quality of different datasets, the cross-dataset generalization of multiple deep learning models under matched and mismatched enhancement settings, and the behavior of several recent large audio-language models (LALMs). Experimental results show that across multiple supervised speech models, speech-enhanced datasets often improve in-domain performance while reducing robustness in cross-domain evaluation. Matched enhancement between training and test data alleviates, but does not eliminate, this degradation. LALMs show a similar sensitivity: enhanced datasets induce stronger class imbalance and prediction shifts than unprocessed data. These results suggest that speech preprocessing and dataset curation can substantially influence downstream AD detection behavior, indicating that “cleaner” speech datasets are not necessarily more reliable for real-world AD detection.
 
 **Key finding:** Speech enhancement and sample filtering help in-domain metrics but hurt cross-domain generalization and shift LLM decision boundaries. Unprocessed Pitt-origin is the better training set for real-world AD speech detection.
 
-## Layout
+## 1 Layout
 
 - `ad_detection/`
   - `train/` — three deep-learning models (`SLS_Model/`, `XLSR_model/`, `eGeMAPS_model/`), each with `config.py` / `extract_feature.py` / `model.py` / `train.py` / `test.py`; shared helpers in `utils/`.
@@ -17,7 +19,7 @@ Speech-based Alzheimer’s disease (AD) detection increasingly relies on speech-
   - `models/` — checkpoints. See `ad_detection/models/Readme.md`.
 - `requirements/` — `model_env/deep-requirements.txt` for the three deep models; `LLMs_env/` has a separate env per LLM.
 
-## Datasets
+## 2 Datasets
 
 | Name        | Processing                                        | Source                          |
 |-------------|---------------------------------------------------|---------------------------------|
@@ -50,7 +52,7 @@ All datasets from [DementiaBank](https://dementia.talkbank.org/). All the datase
 
 *Audio duration statistics per dataset.*
 
-## Alzheimer's Dementia Recognition through Spontaneous Speech Challenges
+## 3 Alzheimer's Dementia Recognition through Spontaneous Speech Challenges
 
 The ADReSS / ADReSSo / ADReSS-M datasets were each released as part of a corresponding challenge:
 
@@ -58,7 +60,7 @@ The ADReSS / ADReSSo / ADReSS-M datasets were each released as part of a corresp
 - [ADReSSo Challenge](https://luzs.gitlab.io/adresso-2021/) — Interspeech 2021.
 - [ADReSS-M Challenge](https://luzs.gitlab.io/madress-2023/) — ICASSP 2023.
 
-## Speech Enhancement Methods
+## 4 Speech Enhancement Methods
 
 We applied the following five speech enhancement methods to Pitt-origin and Lu, respectively. For each dataset, we constructed five denoised versions.
 
@@ -69,51 +71,51 @@ We applied the following five speech enhancement methods to Pitt-origin and Lu, 
 - [Demucs](https://github.com/facebookresearch/demucs) — Facebook Research.
 
 
-## Model Architectures and Results
+## 5 Model Architectures and Results
 
 ![Model Architectures](images/EMNLP_Model_Arc.png)
 
-### **SLS-based Model**
+### **5.1 SLS-based Model**
 
 The model uses `Sensitive Layer Selection (SLS)` on cached multi-layer `XLS-R` representations. Given frame-level representations from all transformer layers, the model first applies mask-aware mean pooling over time for each layer and predicts layer-wise weights through a linear layer followed by a sigmoid function. The original frame-level features are then aggregated across layers using the learned weights to obtain a weighted speech representation. This representation is passed through an classification head, including batch normalization, temporal average pooling, a one-dimensional convolutional layer, and attention pooling. Finally, a linear classification layer outputs the binary prediction.
 
 ![SLS-based Model Results](images/SLS_results.png)
 
-### **XLSR-based Model**
+### **5.2 XLSR-based Model**
 
 The audio input is first fed into a pre-trained `XLS-R` model with frozen parameters to extract frame-level speech embeddings. The extracted features are then passed through a classification head similar to that of the SLS-based model, including batch normalization, a one-dimensional convolutional layer, and attention pooling, but without temporal average pooling. During attention pooling, a padding mask is applied to prevent padded frames from interfering with the results. Finally, a linear classification layer outputs the binary prediction.
 
 ![XLSR-based Model Results](images/XLSR_results.png)
 
-### **eGeMAPS-based Model**
+### **5.3 eGeMAPS-based Model**
 
 The model takes 25-dimensional `eGeMAPS` acoustic features extracted using the `OpenSMILE toolkit` as input. The features are first processed by two linear layers with batch normalization, ReLU activation, and dropout to remap the feature dimensions from 25 to 64 and then to 32. An attention pooling layer is then applied along the temporal dimension to aggregate frame-level representations into a fixed-dimensional vector. Finally, a linear classification layer outputs the AD prediction.
 
 ![eGeMAPS-based Model Results](images/eGeMAPS_results.png)
 
-## Large Audio-Language Models
+## 6 Large Audio-Language Models
 
 We evaluate five recent large audio-language models (LALMs): [Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio), [Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni), [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio), [Audio Flamingo 3](https://github.com/NVIDIA/audio-flamingo), and [ultravox-v0_5-llama-3_2-1b](https://huggingface.co/fixie-ai/ultravox-v0_5-llama-3_2-1b). No model is fine-tuned. Each model is prompted to answer with exactly one word, `Dementia` or `Control`. We report Macro-F1 together with the F1 score using AD (Dementia⁺) or Control (Control⁺) as the positive class, so that class imbalance in the predictions is visible. Asterisks (\*) mark performance significantly different from the binomial majority-class baseline (p < 0.05).
 
-### **Audio-only Zero-Shot Setting**
+### **6.1 Audio-only Zero-Shot Setting**
 
 All five LALMs are first evaluated zero-shot with audio-only input. Most models cannot reliably separate AD from Control: Qwen2-Audio predicts nearly every sample as Control, while Audio Flamingo 3 predicts nearly every sample as AD. Kimi-Audio achieves the strongest overall performance and is statistically significant on every dataset except Lu, so we use it for the remaining experiments.
 
 ![LALMs Audio-only Zero-Shot Results](images/LALMs_audio_only_zero_shot.png)
 
-### **Kimi-Audio: Audio-only Setting**
+### **6.2 Kimi-Audio: Audio-only Setting**
 
 Kimi-Audio is evaluated in a zero-shot and a two-shot setting. In the two-shot setting, one labeled AD example and one labeled Control example are given at inference time, with no parameter updates. On the unprocessed Pitt-origin and ADReSS-M datasets, predictions are relatively balanced between the two classes. On the speech-enhanced datasets (Pitt, ADReSS, ADReSSo), the model shows clear class imbalance, with Dementia⁺ F1 substantially higher than Control⁺ F1. Two labeled examples do not remove this bias.
 
 ![Kimi-Audio Audio-only Results](images/Kimi_audio_only.png)
 
-### **Kimi-Audio: Audio + Transcript Setting**
+### **6.3 Kimi-Audio: Audio + Transcript Setting**
 
 To test whether text mitigates this preprocessing sensitivity, Kimi-Audio is also evaluated on Pitt-origin and Pitt with audio + transcript input. Predictions on Pitt-origin remain balanced. On the denoised Pitt dataset, the bias toward AD persists and becomes even stronger in the zero-shot setting. Adding transcripts or two-shot examples does not eliminate the prediction shift caused by enhancement.
 
 ![Kimi-Audio Audio + Transcript Results](images/Kimi_audio_transcript.png)
 
-## Frozen pretrained backbone
+## 7 Frozen pretrained backbone
 
 XLS-R-53 (300M), used as a frozen feature extractor in the SLS-based and XLSR-based models. 
 
@@ -125,7 +127,7 @@ XLS-R requires `fairseq` (only in the `deep` env). After installing `deep-requir
 pip install -e ad_detection/train/fairseq-a54021305d6b3c4c5959ac9395135f63202db8f1
 ```
 
-## Requirements
+## 8 Requirements
 
 Create one conda env per requirements file. All three deep learning-base models use the same `deep` environment. Each LLM uses its own env to avoid dependency conflicts.
 
@@ -135,7 +137,7 @@ Create one conda env per requirements file. All three deep learning-base models 
 - `requirements/LLMs_env/audio-flamingo3-requirements.txt` — env for Audio Flamingo 3.
 - `requirements/LLMs_env/ultravox-requirements.txt` — env for Ultravox.
 
-## Acknowledgements
+## 9 Acknowledgements
 
 This project builds on the following open-source repositories. We thank the authors for releasing their code and models.
 
