@@ -35,3 +35,5 @@ Noise_Remove/
 dataset_analysis/
 Evaluate_Audio/
 requirements/denoise_env/
+ad_detection/train_notebook/SLS/pitt-origin-info/Pitt-origin-info/
+ad_detection/train_notebook/SLS/pitt-origin-info/pitt_origin_info.csv
