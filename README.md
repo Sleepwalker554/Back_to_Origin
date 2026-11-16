@@ -155,3 +155,28 @@ This project builds on the following open-source repositories. We thank the auth
    3. Qwen3-Omni: https://github.com/QwenLM/Qwen3-Omni
    4. Audio Flamingo 3: https://github.com/NVIDIA/audio-flamingo
    5.  Ultravox: https://github.com/fixie-ai/ultravox
+
+## 10 Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{sun-etal-2026-cleaner,
+    title = "Cleaner Speech, Weaker Generalization: Revisiting Pitt-Derived Benchmarks for {A}lzheimer{'}s Disease Detection",
+    author = "Sun, Luqi  and
+      Chandra, Shreeram Suresh  and
+      Zhang, Lin  and
+      Li, You-Jin  and
+      MacWhinney, Brian  and
+      Tsao, Yu  and
+      Mower Provost, Emily  and
+      Sisman, Berrak",
+    booktitle = "Proceedings of the 15th International Joint Conference on Natural Language Processing and the 5th Conference of the {A}sia-Pacific Chapter of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = nov,
+    year = "2026",
+    address = "Hengqin, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.aacl-long.62/",
+    pages = "1319--1339"
+}
+```
