@@ -8,6 +8,8 @@ Speech-based Alzheimer’s disease (AD) detection increasingly relies on speech-
 
 ## 1 Datasets
 
+![Datasets Overview](images/Datasets_overview.png)
+
 | Name        | Processing                                        | Source                          |
 |-------------|---------------------------------------------------|---------------------------------|
 | Pitt-origin | Raw data                                          | [DementiaBank — Pitt-origin](https://talkbank.org/dementia/access/English/Pitt-orig.html) |
